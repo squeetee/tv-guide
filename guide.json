@@ -1,25 +1,18 @@
 {
-  "generated_at": "2026-11-26T08:01:28.076710-06:00",
+  "generated_at": "2026-11-26T08:16:27.342045-06:00",
   "timezone": "America/Chicago",
   "source": "tunarr-xmltv",
   "window_hours": 6,
-  "window_start": "2026-11-26T08:01:28.076710-06:00",
-  "window_end": "2026-11-26T14:01:28.076710-06:00",
+  "window_start": "2026-11-26T08:16:27.342045-06:00",
+  "window_end": "2026-11-26T14:16:27.342045-06:00",
   "channel_count": 15,
-  "programme_count": 144,
+  "programme_count": 142,
   "channels": [
     {
       "id": "C2.50.tunarr.com",
       "number": 2,
       "name": "Syndication",
       "programmes": [
-        {
-          "title": "Star Trek: The Next Generation",
-          "start": "2026-11-26T07:24:02-06:00",
-          "stop": "2026-11-26T08:07:59-06:00",
-          "episode_title": "Rascals",
-          "description": "Stardate: 46235.7. A transporter accident transforms Picard, Ro Laren, Guinan and Keiko O'Brien into small children who appear to be about 12 years old. Matters are complicated when the Ferengi seize the Enterprise."
-        },
         {
           "title": "Star Trek: The Next Generation",
           "start": "2026-11-26T08:07:59-06:00",
@@ -145,6 +138,12 @@
           "start": "2026-11-26T12:54:50-06:00",
           "stop": "2026-11-26T14:13:37-06:00",
           "description": "The circle of life continues for Simba, now fully grown and in his rightful place as the king of Pride Rock. Simba and Nala have given birth to a daughter, Kiara who's as rebellious as her father was. But Kiara drives her parents to distraction when she catches the eye of Kovu, the son of the evil lioness, Zira. Will Kovu steal Kiara's heart?"
+        },
+        {
+          "title": "The Adventures of Ichabod and Mr. Toad",
+          "start": "2026-11-26T14:13:37-06:00",
+          "stop": "2026-11-26T15:22:35-06:00",
+          "description": "A concise adaptation of Kenneth Grahame's \"The Wind in the Willows\" about Mr. Toad's motor mania, followed by a short retelling of Washington Irving's \"The Legend of Sleepy Hollow\" concerning schoolmaster Ichabod Crane."
         }
       ],
       "logo": "logos/3.png"
@@ -216,6 +215,13 @@
           "stop": "2026-11-26T14:11:24-06:00",
           "episode_title": "Hearts and Minds (2)",
           "description": "Despero's followers attack and John is forced to use a gun when his ring becomes useless due to Despero's mental tampering. While John, Katma, and Hawkgirl are captured, J'onn, Kilowog, and Flash must try to deactivate the mystic flames and deprive Despero of his power."
+        },
+        {
+          "title": "Justice League",
+          "start": "2026-11-26T14:11:24-06:00",
+          "stop": "2026-11-26T14:33:59-06:00",
+          "episode_title": "A Better World (1)",
+          "description": "The Justice Lords, an alternate version of the League from a different dimension, capture their counterparts and plan to bring their own brand of justice to the new Earth."
         }
       ],
       "logo": "logos/11.png"
@@ -409,13 +415,6 @@
       "number": 45,
       "name": "Mobile Suit Network",
       "programmes": [
-        {
-          "title": "Mobile Suit Gundam SEED",
-          "start": "2026-11-26T07:51:16-06:00",
-          "stop": "2026-11-26T08:16:03-06:00",
-          "episode_title": "Spiral of Encounters",
-          "description": "The Dominion retreats so their pilots can get their medicine. Mu and Dearka enter the Mendel colony to confront Rau and Yzak. Kira comes to their aid and he and Mu are shocked to discover Rau has a few secrets to reveal."
-        },
         {
           "title": "Mobile Suit Victory Gundam",
           "start": "2026-11-26T08:16:03-06:00",
@@ -661,13 +660,6 @@
       "number": 48,
       "name": "Cosmic Era",
       "programmes": [
-        {
-          "title": "Mobile Suit Gundam Seed Destiny",
-          "start": "2026-11-26T07:39:04-06:00",
-          "stop": "2026-11-26T08:03:53-06:00",
-          "episode_title": "A Fleeting Dream",
-          "description": "Stella's condition worsens, and Athrun overhears Talia talking about how the PLANT Supreme Council need a living Extended."
-        },
         {
           "title": "Mobile Suit Gundam Seed Destiny",
           "start": "2026-11-26T08:03:53-06:00",
@@ -947,13 +939,6 @@
       "number": 66,
       "name": "Starfleet",
       "programmes": [
-        {
-          "title": "Star Trek: Enterprise",
-          "start": "2026-11-26T07:26:08-06:00",
-          "stop": "2026-11-26T08:08:49-06:00",
-          "episode_title": "Affliction (1)",
-          "description": "While Enterprise is visiting Earth, Phlox is abducted by the Klingons and forced to research a cure for a virus destined to wipe out the race. Reed is tapped by a secret agency and ordered to betray Archer. Trip transfers to the Columbia."
-        },
         {
           "title": "Star Trek: Voyager",
           "start": "2026-11-26T08:08:49-06:00",
