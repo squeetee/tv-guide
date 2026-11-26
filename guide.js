@@ -1,12 +1,12 @@
 window.GUIDE_DATA = {
-  "generated_at": "2026-11-26T14:46:25.324471-06:00",
+  "generated_at": "2026-11-26T15:01:24.977046-06:00",
   "timezone": "America/Chicago",
   "source": "tunarr-xmltv",
   "window_hours": 6,
-  "window_start": "2026-11-26T14:46:25.324471-06:00",
-  "window_end": "2026-11-26T20:46:25.324471-06:00",
+  "window_start": "2026-11-26T15:01:24.977046-06:00",
+  "window_end": "2026-11-26T21:01:24.977046-06:00",
   "channel_count": 15,
-  "programme_count": 127,
+  "programme_count": 133,
   "channels": [
     {
       "id": "C2.50.tunarr.com",
@@ -121,6 +121,12 @@ window.GUIDE_DATA = {
           "start": "2026-11-26T19:13:31-06:00",
           "stop": "2026-11-26T20:57:39-06:00",
           "description": "Down-on-his-luck race car driver Jim Douglas teams up with a little VW Bug that has a mind of it's own, not realizing Herbie's worth until a sneaky rival plots to steal him."
+        },
+        {
+          "title": "Space Jam",
+          "start": "2026-11-26T20:57:39-06:00",
+          "stop": "2026-11-26T22:25:53-06:00",
+          "description": "In a desperate attempt to win a basketball match and earn their freedom, the Looney Tunes seek the aid of retired NBA star Michael Jordan."
         }
       ],
       "logo": "logos/3.png"
@@ -201,6 +207,18 @@ window.GUIDE_DATA = {
           "stop": "2026-11-26T20:51:20-06:00",
           "episode_title": "Katastrophe",
           "description": "Dr. Viper forms a fiendish alliance with Dark Kat and the Metallikats! The SWAT Kats scramble to expose this slithering, sinister plot. Can they save Megakat City?"
+        },
+        {
+          "title": "Looney Tunes",
+          "start": "2026-11-26T20:51:20-06:00",
+          "stop": "2026-11-26T21:00:00-06:00",
+          "episode_title": "Episode 7"
+        },
+        {
+          "title": "Looney Tunes",
+          "start": "2026-11-26T21:00:00-06:00",
+          "stop": "2026-11-26T21:08:37-06:00",
+          "episode_title": "Episode 8"
         }
       ],
       "logo": "logos/11.png"
@@ -331,6 +349,13 @@ window.GUIDE_DATA = {
           "stop": "2026-11-26T20:54:27-06:00",
           "episode_title": "I Want to Protect You",
           "description": "Sousuke is set on his mission to protect Kaname, and attacks anything vaguely resembling a threat to Kaname. This leads to funny situations and Sousuke has to explain Kaname why he is following her, blaming coincidence."
+        },
+        {
+          "title": "Soul Eater",
+          "start": "2026-11-26T20:54:27-06:00",
+          "stop": "2026-11-26T21:18:58-06:00",
+          "episode_title": "Medusa's Revival! A Spider and Snake's Fateful Reunion?",
+          "description": "Dr. Stein’s trying to whip the Meisters and Weapons into shape for their eventual fight against Arachne. They’ll definitely need to toughen up - Arachne isn’t the only witch who’s back on the scene."
         }
       ],
       "logo": "logos/32.png"
@@ -495,13 +520,6 @@ window.GUIDE_DATA = {
       "name": "Universal Century",
       "programmes": [
         {
-          "title": "Mobile Suit Gundam",
-          "start": "2026-11-26T14:28:07-06:00",
-          "stop": "2026-11-26T14:53:47-06:00",
-          "episode_title": "A Decoy in Space",
-          "description": "White Base and the Gundam confront the cruiser Zanzibar, led by Char, and a mobile armor called Bigro in low earth orbit."
-        },
-        {
           "title": "Mobile Suit Gundam 0080: War in the Pocket",
           "start": "2026-11-26T14:53:47-06:00",
           "stop": "2026-11-26T15:21:58-06:00",
@@ -583,6 +601,13 @@ window.GUIDE_DATA = {
           "stop": "2026-11-26T20:59:23-06:00",
           "episode_title": "The Duel in Texas",
           "description": "Amuro Ray's Gundam duels Colonel M'Quve's Gyan on the abandoned and dilapitated colony of Texas while Char and Lalah watch from afar."
+        },
+        {
+          "title": "Mobile Suit Gundam",
+          "start": "2026-11-26T20:59:23-06:00",
+          "stop": "2026-11-26T21:25:03-06:00",
+          "episode_title": "Char and Sayla",
+          "description": "Char Aznable's Gelgoog takes over M'Quve on engaging the Gundam while the White Base enters the Texas colony and sends Sayla Mass and Job John to search for Amuro."
         }
       ],
       "logo": "logos/47.png"
@@ -658,6 +683,13 @@ window.GUIDE_DATA = {
           "stop": "2026-11-26T20:53:32-06:00",
           "episode_title": "Its Name is Gundam",
           "description": "ZAFT is able to steal four of the five G-Project prototype mobile suits, leaving only the GAT-X105 Strike. With Murrue Ramius unable to pilot it effectively, Kira pilots the Strike and defends Heliopolis against the invading ZAFT forces to protect his friends. Ensign Natarle Badgiruel takes command of the new mobile assault ship Archangel with the surviving crew members."
+        },
+        {
+          "title": "Mobile Suit Gundam SEED",
+          "start": "2026-11-26T20:53:32-06:00",
+          "stop": "2026-11-26T21:18:18-06:00",
+          "episode_title": "Collapsing Land",
+          "description": "Lt. Murrue Ramius takes over as captain of the Archangel and Kira and his friends are detained for seeing top secret military weapons. Rau Le Creuset is determined to capture the Strike after seeing how well it moved and sends out mobile suits to retrieve it. Disobeying orders, Athrun also dispatches so he could confirm if Kira is the one piloting the Strike, but when he finds his answer, Heliopolis crumbles as it sustains too much damage."
         }
       ],
       "logo": "logos/48.png"
@@ -977,6 +1009,12 @@ window.GUIDE_DATA = {
           "stop": "2026-11-26T20:47:55-06:00",
           "episode_title": "The Fire",
           "description": "The Office is forced into the parking lot for the day when a fire starts in the kitchen. To ease everyone's boredom, Jim suggests a game of \"Desert Island\" and \"Who Would You Do?\", where certain staff members reveal a little too much information about themselves. Throughout the day, Michael talks business with Ryan, leaving Dwight feeling left out."
+        },
+        {
+          "title": "Mickey's Twice Upon a Christmas",
+          "start": "2026-11-26T20:47:55-06:00",
+          "stop": "2026-11-26T21:46:27-06:00",
+          "description": "Mickey and all his Disney pals star in an original movie about the importance of opening your heart to the true spirit of Christmas. Stubborn old Donald tries in vain to resist the joys of the season, and Mickey and Pluto learn a great lesson about the power of friendship."
         }
       ],
       "logo": "logos/72.png"
