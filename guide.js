@@ -1,25 +1,18 @@
 window.GUIDE_DATA = {
-  "generated_at": "2026-11-26T13:31:25.004537-06:00",
+  "generated_at": "2026-11-26T13:46:24.914656-06:00",
   "timezone": "America/Chicago",
   "source": "tunarr-xmltv",
   "window_hours": 6,
-  "window_start": "2026-11-26T13:31:25.004537-06:00",
-  "window_end": "2026-11-26T19:31:25.004537-06:00",
+  "window_start": "2026-11-26T13:46:24.914656-06:00",
+  "window_end": "2026-11-26T19:46:24.914656-06:00",
   "channel_count": 15,
-  "programme_count": 135,
+  "programme_count": 134,
   "channels": [
     {
       "id": "C2.50.tunarr.com",
       "number": 2,
       "name": "Syndication",
       "programmes": [
-        {
-          "title": "Star Wars: The Clone Wars",
-          "start": "2026-11-26T13:10:47-06:00",
-          "stop": "2026-11-26T13:33:51-06:00",
-          "episode_title": "Prisoners",
-          "description": "The Republic and Gungan forces have been captured by Riff Tamson and his Karkarodon enforcers. Now, it is up to Ahsoka and the young Prince Lee-Char to unite the fractured people of Mon Cala and drive out the Separatist invaders."
-        },
         {
           "title": "Looney Tunes",
           "start": "2026-11-26T13:33:51-06:00",
@@ -148,12 +141,6 @@ window.GUIDE_DATA = {
       "number": 11,
       "name": "Kidz!",
       "programmes": [
-        {
-          "title": "Looney Tunes",
-          "start": "2026-11-26T13:29:02-06:00",
-          "stop": "2026-11-26T13:37:41-06:00",
-          "episode_title": "Episode 3"
-        },
         {
           "title": "Looney Tunes",
           "start": "2026-11-26T13:37:41-06:00",
@@ -538,6 +525,12 @@ window.GUIDE_DATA = {
           "start": "2026-11-26T18:09:38-06:00",
           "stop": "2026-11-26T19:40:24-06:00",
           "description": "Eight months after the One Year War, the Earth Federation attempts to secure and destroy the Psycho Zaku from the hands of a cult called South Seas Alliance."
+        },
+        {
+          "title": "Mobile Suit Gundam GQuuuuuuX -Beginning-",
+          "start": "2026-11-26T19:40:24-06:00",
+          "stop": "2026-11-26T21:02:20-06:00",
+          "description": "In a war between Zeon and Earth Federation, a stolen prototype Gundam vanishes. Years later, a girl with mysterious abilities finds herself piloting a new Gundam in underground mech battles while searching for answers about her powers."
         }
       ],
       "logo": "logos/46.png"
@@ -547,13 +540,6 @@ window.GUIDE_DATA = {
       "number": 47,
       "name": "Universal Century",
       "programmes": [
-        {
-          "title": "Mobile Suit Gundam: The 08th MS Team",
-          "start": "2026-11-26T13:09:16-06:00",
-          "stop": "2026-11-26T13:34:59-06:00",
-          "episode_title": "The Shuddering Mountain (1)",
-          "description": "The Federation Forces begin their assault on the Apsalus development base. The 08th MS Team is assigned to escort a Guntank team into firing position, but Norris's Gouf Custom swiftly dispatches two of the Guntanks. Can the team save the last one?"
-        },
         {
           "title": "Mobile Suit Gundam: The 08th MS Team",
           "start": "2026-11-26T13:34:59-06:00",
@@ -636,6 +622,13 @@ window.GUIDE_DATA = {
           "stop": "2026-11-26T19:39:56-06:00",
           "episode_title": "The Glory of Solomon",
           "description": "A massive Federation combined space fleet attacks the Principality of Zeon's Fortress of Solomon, commanded by Dozle Zabi."
+        },
+        {
+          "title": "Mobile Suit Gundam",
+          "start": "2026-11-26T19:39:56-06:00",
+          "stop": "2026-11-26T20:05:36-06:00",
+          "episode_title": "Big Zam's Last Stand",
+          "description": "As the battle continues, a hulking mobile armor piloted by Dozle Zabi inflicts heavy losses on the Federation; Amuro and Sleggar come up with a plan to stop its onslaught."
         }
       ],
       "logo": "logos/47.png"
@@ -898,6 +891,13 @@ window.GUIDE_DATA = {
           "stop": "2026-11-26T19:38:30-06:00",
           "episode_title": "Alliances",
           "description": "Camille and Sgt. Greer are trapped when Homeworld Command comes under attack."
+        },
+        {
+          "title": "Stargate Universe",
+          "start": "2026-11-26T19:38:30-06:00",
+          "stop": "2026-11-26T20:21:44-06:00",
+          "episode_title": "Hope",
+          "description": "Chloe's body is taken over by another consciousness. Meanwhile, Dr. Volker is stricken with a mysterious illness."
         }
       ],
       "logo": "logos/65.png"
@@ -907,13 +907,6 @@ window.GUIDE_DATA = {
       "number": 66,
       "name": "Starfleet",
       "programmes": [
-        {
-          "title": "Star Trek: The Next Generation",
-          "start": "2026-11-26T12:48:29-06:00",
-          "stop": "2026-11-26T13:31:55-06:00",
-          "episode_title": "Preemptive Strike",
-          "description": "Stardate: 47941.7. Fresh from Starfleet's Advanced Tactical Training course, Ro Laren is assigned to infiltrate the Maquis. However, over time she begins to sympathize with them, which forces her to choose between her loyalty to the Federation, and her new friends in the Maquis."
-        },
         {
           "title": "Star Trek: The Next Generation",
           "start": "2026-11-26T13:31:55-06:00",
