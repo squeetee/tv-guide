@@ -1,25 +1,18 @@
 {
-  "generated_at": "2026-11-26T08:46:25.864835-06:00",
+  "generated_at": "2026-11-26T09:01:29.270568-06:00",
   "timezone": "America/Chicago",
   "source": "tunarr-xmltv",
   "window_hours": 6,
-  "window_start": "2026-11-26T08:46:25.864835-06:00",
-  "window_end": "2026-11-26T14:46:25.864835-06:00",
+  "window_start": "2026-11-26T09:01:29.270568-06:00",
+  "window_end": "2026-11-26T15:01:29.270568-06:00",
   "channel_count": 15,
-  "programme_count": 146,
+  "programme_count": 144,
   "channels": [
     {
       "id": "C2.50.tunarr.com",
       "number": 2,
       "name": "Syndication",
       "programmes": [
-        {
-          "title": "Star Trek: The Next Generation",
-          "start": "2026-11-26T08:07:59-06:00",
-          "stop": "2026-11-26T08:51:40-06:00",
-          "episode_title": "A Fistful of Datas",
-          "description": "Stardate: 46271.5. Worf and his son, Alexander, become trapped in the holodeck when their Wild West program malfunctions. However, they must find a way to defeat the holographic bandits who have Data's appearance and abilities."
-        },
         {
           "title": "Stargate Infinity",
           "start": "2026-11-26T08:51:40-06:00",
@@ -678,6 +671,13 @@
           "stop": "2026-11-26T14:53:47-06:00",
           "episode_title": "A Decoy in Space",
           "description": "White Base and the Gundam confront the cruiser Zanzibar, led by Char, and a mobile armor called Bigro in low earth orbit."
+        },
+        {
+          "title": "Mobile Suit Gundam 0080: War in the Pocket",
+          "start": "2026-11-26T14:53:47-06:00",
+          "stop": "2026-11-26T15:21:58-06:00",
+          "episode_title": "Reflections in a Brown Eye",
+          "description": "Al takes pictures of the damaged Zaku and sees the pilot pointing a gun at him."
         }
       ],
       "logo": "logos/47.png"
@@ -800,12 +800,6 @@
       "number": 56,
       "name": "Fright Night",
       "programmes": [
-        {
-          "title": "The Box",
-          "start": "2026-11-26T07:32:13-06:00",
-          "stop": "2026-11-26T08:52:43-06:00",
-          "description": "Lazer is locked in a windowless room. A mysterious, modulated voice talks to him through a hidden speaker and threatens to kill him if Lazer doesn't complete a series of horrific, torturous tasks. Through this nightmarish crucible, Lazer must face his many demons, past and present, as he tries to stay alive and figure out who in the hell wants to watch him suffer."
-        },
         {
           "title": "Rust",
           "start": "2026-11-26T08:52:43-06:00",
@@ -973,13 +967,6 @@
       "number": 66,
       "name": "Starfleet",
       "programmes": [
-        {
-          "title": "Star Trek: Voyager",
-          "start": "2026-11-26T08:08:49-06:00",
-          "stop": "2026-11-26T08:55:36-06:00",
-          "episode_title": "Lifesigns",
-          "description": "Stardate: 46504.3. After receiving a Vidiian patient who is about to die from the Phage, the doctor transfers her consciousness into the ship's computer and creates a holographic body. He soon finds himself becoming deeply attracted to her."
-        },
         {
           "title": "Star Trek: Voyager",
           "start": "2026-11-26T08:55:36-06:00",
