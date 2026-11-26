@@ -1,12 +1,12 @@
 window.GUIDE_DATA = {
-  "generated_at": "2026-11-26T02:01:26.131686-06:00",
+  "generated_at": "2026-11-26T02:16:24.859425-06:00",
   "timezone": "America/Chicago",
   "source": "tunarr-xmltv",
   "window_hours": 6,
-  "window_start": "2026-11-26T02:01:26.131686-06:00",
-  "window_end": "2026-11-26T08:01:26.131686-06:00",
+  "window_start": "2026-11-26T02:16:24.859425-06:00",
+  "window_end": "2026-11-26T08:16:24.859425-06:00",
   "channel_count": 15,
-  "programme_count": 147,
+  "programme_count": 144,
   "channels": [
     {
       "id": "C2.50.tunarr.com",
@@ -80,6 +80,13 @@ window.GUIDE_DATA = {
           "stop": "2026-11-26T08:07:59-06:00",
           "episode_title": "Rascals",
           "description": "Stardate: 46235.7. A transporter accident transforms Picard, Ro Laren, Guinan and Keiko O'Brien into small children who appear to be about 12 years old. Matters are complicated when the Ferengi seize the Enterprise."
+        },
+        {
+          "title": "Star Trek: The Next Generation",
+          "start": "2026-11-26T08:07:59-06:00",
+          "stop": "2026-11-26T08:51:40-06:00",
+          "episode_title": "A Fistful of Datas",
+          "description": "Stardate: 46271.5. Worf and his son, Alexander, become trapped in the holodeck when their Wild West program malfunctions. However, they must find a way to defeat the holographic bandits who have Data's appearance and abilities."
         }
       ],
       "logo": "logos/2.png"
@@ -257,13 +264,6 @@ window.GUIDE_DATA = {
       "programmes": [
         {
           "title": "Last Exile",
-          "start": "2026-11-26T01:38:52-06:00",
-          "stop": "2026-11-26T02:03:57-06:00",
-          "episode_title": "Grand Master",
-          "description": "Fam and Giselle reach the furthest depths of the Grand Exile. There, they find Luscinia, holding a sleeping Sārā."
-        },
-        {
-          "title": "Last Exile",
           "start": "2026-11-26T02:03:57-06:00",
           "stop": "2026-11-26T02:28:53-06:00",
           "episode_title": "Before the First Takeoff Special",
@@ -434,13 +434,6 @@ window.GUIDE_DATA = {
       "name": "Mobile Suit Network",
       "programmes": [
         {
-          "title": "Mobile Suit Gundam 0080: War in the Pocket",
-          "start": "2026-11-26T01:47:42-06:00",
-          "stop": "2026-11-26T02:14:51-06:00",
-          "episode_title": "How Many Miles to the Battlefield?",
-          "description": "On the colony of Side 6, 11-year-old Alfred Izuruha messes around in school with his friends during lunch. As Al walks home, he bumps into his old friend Christina MacKenzie, who had moved to Earth years before."
-        },
-        {
           "title": "Mobile Suit Gundam Wing",
           "start": "2026-11-26T02:14:51-06:00",
           "stop": "2026-11-26T02:39:14-06:00",
@@ -535,6 +528,13 @@ window.GUIDE_DATA = {
           "stop": "2026-11-26T08:16:03-06:00",
           "episode_title": "Spiral of Encounters",
           "description": "The Dominion retreats so their pilots can get their medicine. Mu and Dearka enter the Mendel colony to confront Rau and Yzak. Kira comes to their aid and he and Mu are shocked to discover Rau has a few secrets to reveal."
+        },
+        {
+          "title": "Mobile Suit Victory Gundam",
+          "start": "2026-11-26T08:16:03-06:00",
+          "stop": "2026-11-26T08:40:59-06:00",
+          "episode_title": "Motorad, Take-Off!",
+          "description": "Marbet and Oliver help train Odelo and Tomache to become mobile suit pilots, while the League Militaire finds out that BESPA forces are hiding on the moon near Saint Josef. To prevent a battle from breaking out, Shakti goes out on her own to find the Motorad fleet and try to persuade Cronicle to not attack the Earth."
         }
       ],
       "logo": "logos/45.png"
@@ -600,13 +600,6 @@ window.GUIDE_DATA = {
       "number": 47,
       "name": "Universal Century",
       "programmes": [
-        {
-          "title": "Mobile Suit Gundam: The 08th MS Team",
-          "start": "2026-11-26T01:49:14-06:00",
-          "stop": "2026-11-26T02:15:04-06:00",
-          "episode_title": "Battle Line in the Burning Sand",
-          "description": "Having discovered the Apsalus's testing ground, the 08th MS Team lie in wait for an ambush, preparing for the encounter with combat simulations. The team members' frustrations mount as the Apsalus fails to appear, until they finally come to blows."
-        },
         {
           "title": "Mobile Suit Gundam",
           "start": "2026-11-26T02:15:04-06:00",
@@ -809,6 +802,13 @@ window.GUIDE_DATA = {
           "stop": "2026-11-26T08:03:53-06:00",
           "episode_title": "A Fleeting Dream",
           "description": "Stella's condition worsens, and Athrun overhears Talia talking about how the PLANT Supreme Council need a living Extended."
+        },
+        {
+          "title": "Mobile Suit Gundam Seed Destiny",
+          "start": "2026-11-26T08:03:53-06:00",
+          "stop": "2026-11-26T08:28:42-06:00",
+          "episode_title": "The Endless Night",
+          "description": "Rey and Shinn are arrested, but are given pardon by Chairman Durandal. Stella is given a new Mobile Suit, the Destroy."
         }
       ],
       "logo": "logos/48.png"
@@ -856,13 +856,6 @@ window.GUIDE_DATA = {
       "number": 64,
       "name": "Sci-Fi",
       "programmes": [
-        {
-          "title": "Star Trek",
-          "start": "2026-11-26T01:12:35-06:00",
-          "stop": "2026-11-26T02:03:59-06:00",
-          "episode_title": "The Devil in the Dark",
-          "description": "Kirk investigates a series of grisly murders on a mining planet that are the work of a seemingly hostile alien creature."
-        },
         {
           "title": "The X-Files",
           "start": "2026-11-26T02:03:59-06:00",
@@ -929,13 +922,6 @@ window.GUIDE_DATA = {
       "programmes": [
         {
           "title": "Stargate Atlantis",
-          "start": "2026-11-26T01:19:44-06:00",
-          "stop": "2026-11-26T02:02:26-06:00",
-          "episode_title": "Infection",
-          "description": "After a Wraith Hive Ship shows up over Atlantis transmitting a distress call, Lt. Colonel John Sheppard's team discovers that its crew has been stricken with a disease they helped create."
-        },
-        {
-          "title": "Stargate Atlantis",
           "start": "2026-11-26T02:02:26-06:00",
           "stop": "2026-11-26T02:45:07-06:00",
           "episode_title": "Identity",
@@ -999,13 +985,6 @@ window.GUIDE_DATA = {
       "name": "Starfleet",
       "programmes": [
         {
-          "title": "Star Trek: Voyager",
-          "start": "2026-11-26T01:24:07-06:00",
-          "stop": "2026-11-26T02:10:54-06:00",
-          "episode_title": "Meld",
-          "description": "Stardate: Unknown. In order to help out Lon Suder, a psychopath who killed a crewmember, Tuvok performs a mind meld. Soon after, he begins showing violent tendencies, which develop until he loses control."
-        },
-        {
           "title": "Star Trek: Deep Space Nine",
           "start": "2026-11-26T02:10:54-06:00",
           "stop": "2026-11-26T02:57:07-06:00",
@@ -1060,6 +1039,13 @@ window.GUIDE_DATA = {
           "stop": "2026-11-26T08:08:49-06:00",
           "episode_title": "Affliction (1)",
           "description": "While Enterprise is visiting Earth, Phlox is abducted by the Klingons and forced to research a cure for a virus destined to wipe out the race. Reed is tapped by a secret agency and ordered to betray Archer. Trip transfers to the Columbia."
+        },
+        {
+          "title": "Star Trek: Voyager",
+          "start": "2026-11-26T08:08:49-06:00",
+          "stop": "2026-11-26T08:55:36-06:00",
+          "episode_title": "Lifesigns",
+          "description": "Stardate: 46504.3. After receiving a Vidiian patient who is about to die from the Phage, the doctor transfers her consciousness into the ship's computer and creates a holographic body. He soon finds himself becoming deeply attracted to her."
         }
       ],
       "logo": "logos/66.png"
@@ -1069,13 +1055,6 @@ window.GUIDE_DATA = {
       "number": 72,
       "name": "Comedy",
       "programmes": [
-        {
-          "title": "MXC",
-          "start": "2026-11-26T01:46:08-06:00",
-          "stop": "2026-11-26T02:07:03-06:00",
-          "episode_title": "Donors vs. Addicts",
-          "description": "Those who take part in twelve step programs challenge those who gave a little bit of themselves in this edition of MXC, and the good captain talks about \"tough love\". Games include: Mud Buttlers; Dash to Death; Rotating Surfboard of Death; Brass Balls; Pole Riders"
-        },
         {
           "title": "Screamboat",
           "start": "2026-11-26T02:07:03-06:00",
