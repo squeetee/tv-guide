@@ -1,12 +1,12 @@
 window.GUIDE_DATA = {
-  "generated_at": "2026-11-25T20:31:24.110732-06:00",
+  "generated_at": "2026-11-25T20:46:24.909828-06:00",
   "timezone": "America/Chicago",
   "source": "tunarr-xmltv",
   "window_hours": 12,
-  "window_start": "2026-11-25T20:31:24.110732-06:00",
-  "window_end": "2026-11-26T08:31:24.110732-06:00",
+  "window_start": "2026-11-25T20:46:24.909828-06:00",
+  "window_end": "2026-11-26T08:46:24.909828-06:00",
   "channel_count": 15,
-  "programme_count": 271,
+  "programme_count": 267,
   "channels": [
     {
       "id": "C2.50.tunarr.com",
@@ -394,12 +394,6 @@ window.GUIDE_DATA = {
       "name": "Japanimation",
       "programmes": [
         {
-          "title": "Last Exile",
-          "start": "2026-11-25T20:12:01-06:00",
-          "stop": "2026-11-25T20:37:27-06:00",
-          "episode_title": "Triple Rook"
-        },
-        {
           "title": "Dragon Ball Z",
           "start": "2026-11-25T20:37:27-06:00",
           "stop": "2026-11-25T21:02:33-06:00",
@@ -649,12 +643,6 @@ window.GUIDE_DATA = {
       "number": 45,
       "name": "Mobile Suit Network",
       "programmes": [
-        {
-          "title": "Mobile Suit Gundam 0080: War in the Pocket",
-          "start": "2026-11-25T20:04:39-06:00",
-          "stop": "2026-11-25T20:32:54-06:00",
-          "episode_title": "Say It Ain't So, Bernie!"
-        },
         {
           "title": "SD Gundam Force",
           "start": "2026-11-25T20:32:54-06:00",
@@ -1282,12 +1270,6 @@ window.GUIDE_DATA = {
       "programmes": [
         {
           "title": "The X-Files",
-          "start": "2026-11-25T19:49:16-06:00",
-          "stop": "2026-11-25T20:35:24-06:00",
-          "episode_title": "F. Emasculata"
-        },
-        {
-          "title": "The X-Files",
           "start": "2026-11-25T20:35:24-06:00",
           "stop": "2026-11-25T21:20:49-06:00",
           "episode_title": "Soft Light"
@@ -1486,12 +1468,6 @@ window.GUIDE_DATA = {
       "number": 66,
       "name": "Starfleet",
       "programmes": [
-        {
-          "title": "Star Trek: The Next Generation",
-          "start": "2026-11-25T19:54:20-06:00",
-          "stop": "2026-11-25T20:37:32-06:00",
-          "episode_title": "Journey's End"
-        },
         {
           "title": "Star Trek: The Next Generation",
           "start": "2026-11-25T20:37:32-06:00",
