@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-11-26T05:01:41.490704-06:00",
+  "generated_at": "2026-11-26T05:16:35.224535-06:00",
   "timezone": "America/Chicago",
   "source": "tunarr-xmltv",
   "window_hours": 6,
-  "window_start": "2026-11-26T05:01:41.490704-06:00",
-  "window_end": "2026-11-26T11:01:41.490704-06:00",
+  "window_start": "2026-11-26T05:16:35.224535-06:00",
+  "window_end": "2026-11-26T11:16:35.224535-06:00",
   "channel_count": 15,
   "programme_count": 144,
   "channels": [
@@ -87,6 +87,12 @@
           "stop": "2026-11-26T11:02:12-06:00",
           "episode_title": "If You Could See Her Through My Eyes",
           "description": "Datak is framed for a bizarre murder and turns to an unlikely ally for help; Irisa discovers more about her destiny after encountering a mysterious stranger."
+        },
+        {
+          "title": "Looney Tunes",
+          "start": "2026-11-26T11:02:12-06:00",
+          "stop": "2026-11-26T11:50:47-06:00",
+          "episode_title": "Episode 6"
         }
       ],
       "logo": "logos/2.png"
@@ -125,6 +131,12 @@
           "start": "2026-11-26T09:12:59-06:00",
           "stop": "2026-11-26T11:06:16-06:00",
           "description": "As bass guitarist for a garage-rock band, Scott Pilgrim has never had trouble getting a girlfriend; usually, the problem is getting rid of them. But when Ramona Flowers skates into his heart, he finds she has the most troublesome baggage of all: an army of ex-boyfriends who will stop at nothing to eliminate him from her list of suitors."
+        },
+        {
+          "title": "Meet the Parents",
+          "start": "2026-11-26T11:06:16-06:00",
+          "stop": "2026-11-26T12:54:50-06:00",
+          "description": "Greg Focker is ready to marry his girlfriend, Pam, but before he pops the question, he must win over her formidable father, humorless former CIA agent Jack Byrnes, at the wedding of Pam's sister. As Greg bends over backward to make a good impression, his visit to the Byrnes home turns into a hilarious series of disasters, and everything that can go wrong does, all under Jack's critical, hawklike gaze."
         }
       ],
       "logo": "logos/3.png"
@@ -241,6 +253,12 @@
           "start": "2026-11-26T09:28:08-06:00",
           "stop": "2026-11-26T11:08:45-06:00",
           "description": "Truck driver Jack Burton gets embroiled in a supernatural battle when his best friend Wang Chi's green-eyed fiancée is kidnapped by henchmen of the sorcerer Lo Pan, who must marry a girl with green eyes in order to return to the human realm."
+        },
+        {
+          "title": "Star Trek Into Darkness",
+          "start": "2026-11-26T11:08:45-06:00",
+          "stop": "2026-11-26T13:21:45-06:00",
+          "description": "After the crew of the Enterprise find an unstoppable force of terror from within their own organization, Captain Kirk leads a manhunt to a war-zone world to capture a one-man weapon of mass destruction."
         }
       ],
       "logo": "logos/28.png"
@@ -251,121 +269,121 @@
       "name": "Japanimation",
       "programmes": [
         {
-          "title": "Dragon Ball Z",
-          "start": "2026-11-26T04:49:01-06:00",
-          "stop": "2026-11-26T05:14:06-06:00",
-          "episode_title": "Heart of a Villain",
-          "description": "The intense battle between Gohan and Dabura rages on, but just as the Stage 3 clash reaches a heated peak, Dabura stops the fight! Why has the evil giant conceded, and what is the great discovery he claims to have made?"
-        },
-        {
           "title": "Ingoku Danchi: Deviant's Apartment Complex",
-          "start": "2026-11-26T05:14:06-06:00",
-          "stop": "2026-11-26T05:18:35-06:00",
+          "start": "2026-11-26T05:14:11-06:00",
+          "stop": "2026-11-26T05:18:40-06:00",
           "episode_title": "Watanabe the Kidnapper",
           "description": "Young Yoshida becomes the apartment complex manager in place of his father. What seems like peaceful daily life turns out to be a den of depravity roaming with \"perverted women.\" Watanabe, a kind resident, rejected for her loneliness-driven excessive physical contact, transforms into a kidnapper. Can Yoshida resist her throbbing desire as she pins him down, clad in the lewd \"Libido Cloth\" outfit? The turbulent management duties begin, swirling with the madness and desires of the housewives."
         },
         {
           "title": "Ingoku Danchi: Deviant's Apartment Complex",
-          "start": "2026-11-26T05:18:35-06:00",
-          "stop": "2026-11-26T05:23:04-06:00",
+          "start": "2026-11-26T05:18:40-06:00",
+          "stop": "2026-11-26T05:23:09-06:00",
           "episode_title": "Ichinose the Circulator",
           "description": "There's been a massive scattering of lewd photos throughout the apartment complex. The culprit is Ichinose, a housewife who believes her own body is art. But when the photos are burned by the residents who value discipline, and her bond with the young man is denied, she awakens as the \"Circulator\" through the power of Libido Cloth. Hiding in a night's cloak, she restrains Yoshida and begins to take pictures of him. What is her true objective? This art, tainted by madness, foreshadows the emergence of an even more dangerous housewife."
         },
         {
           "title": "Code Geass: Lelouch of the Rebellion",
-          "start": "2026-11-26T05:23:04-06:00",
-          "stop": "2026-11-26T05:48:07-06:00",
+          "start": "2026-11-26T05:23:09-06:00",
+          "stop": "2026-11-26T05:48:11-06:00",
           "episode_title": "One Million Miracles",
           "description": "The Black Knights question Lelouch's decision, and the Britannian Army remains wary of his intentions. In a private conversation with Suzaku, Gino Weinberg, Anya Alstreim, Lloyd Apslund, Cécile Croomy, and Miss Romeyer, Zero requests he be exiled from Area 11 in exchange for delivering one million participants. The Britannians think he is abandoning them to ensure his own safety, and accept. At the opening ceremony, Zero asks Suzaku what it means to be Japanese, to which the Knight of Seven replies it is a shared heart. When every participating Eleven dresses as Zero on cue, Suzaku has no choice but to exile all one million \"Zeroes\", unwilling to start another massacre in the face of their peaceful resistance."
         },
         {
           "title": "Code Geass: Lelouch of the Rebellion",
-          "start": "2026-11-26T05:48:07-06:00",
-          "stop": "2026-11-26T06:13:09-06:00",
+          "start": "2026-11-26T05:48:11-06:00",
+          "stop": "2026-11-26T06:13:13-06:00",
           "episode_title": "A Bride in the Vermilion Forbidden City",
           "description": "Lelouch learns the Chinese Empress, Tianzi, is being forced into a political marriage to First Prince Odysseus eu Britannia. The wedding is orchestrated by the High Eunuchs, who will become nobles of Britannia in exchange for turning over half their land to Second Prince Schneizel el Britannia."
         },
         {
           "title": "His and Her Circumstances",
-          "start": "2026-11-26T06:13:09-06:00",
-          "stop": "2026-11-26T06:38:08-06:00",
+          "start": "2026-11-26T06:13:13-06:00",
+          "stop": "2026-11-26T06:38:12-06:00",
           "episode_title": "Yuki's Trouble",
           "description": "On the first day of high school, Yuki is not perfectly happy as she failed to get the highest score at the entrance examination. Although she does not show her desire, she wants to be the center of attention always. The honor belongs to her classmate, Arima. Yuki feels strong rivalry to Arima. She beats him at the mid-term exam. To her surprise, Arima congratulates her achievement heartily. One day, Arima tells her that he wants to “go steady” with her. Yuki bluntly refuses his proposal. Then, she accidentally reveals her true desire and is terrified by her mistake."
         },
         {
           "title": "His and Her Circumstances",
-          "start": "2026-11-26T06:38:08-06:00",
-          "stop": "2026-11-26T07:03:06-06:00",
+          "start": "2026-11-26T06:38:12-06:00",
+          "stop": "2026-11-26T07:03:10-06:00",
           "episode_title": "Their Secret",
           "description": "Yukino's inadvertently made a fool of herself in front of Arima and now he's blackmailing her! Getting her to do his work, act as his slave... she's just about at her wit's end!"
         },
         {
           "title": "Outlaw Star",
-          "start": "2026-11-26T07:03:06-06:00",
-          "stop": "2026-11-26T07:29:03-06:00",
+          "start": "2026-11-26T07:03:10-06:00",
+          "stop": "2026-11-26T07:29:07-06:00",
           "episode_title": "The Beast Girl Ready to Pounce!",
           "description": "Hilda’s sacrifice allows the crew a chance to get away. They head back to Blue Heaven for ship upgrades and information. But while they wait on the ship, they’re confronted by Aisha Clanclan from the Ctarl-Ctarl Empire!"
         },
         {
           "title": "Outlaw Star",
-          "start": "2026-11-26T07:29:03-06:00",
-          "stop": "2026-11-26T07:55:09-06:00",
+          "start": "2026-11-26T07:29:07-06:00",
+          "stop": "2026-11-26T07:55:13-06:00",
           "episode_title": "The Beautiful Assassin",
           "description": "Gene and the crew meet up with Fred Luo to secure some much-needed work only to find he’s the target of the deadly assassin, Suzuka. To protect Fred and the promise of new work, Gene faces her!"
         },
         {
           "title": "Dragon Ball Super",
-          "start": "2026-11-26T07:55:09-06:00",
-          "stop": "2026-11-26T08:19:25-06:00",
+          "start": "2026-11-26T07:55:13-06:00",
+          "stop": "2026-11-26T08:19:29-06:00",
           "episode_title": "Episode 14"
         },
         {
           "title": "Dragon Ball Super",
-          "start": "2026-11-26T08:19:25-06:00",
-          "stop": "2026-11-26T08:43:41-06:00",
+          "start": "2026-11-26T08:19:29-06:00",
+          "stop": "2026-11-26T08:43:46-06:00",
           "episode_title": "Episode 15"
         },
         {
           "title": "KOWLOON GENERIC ROMANCE",
-          "start": "2026-11-26T08:43:41-06:00",
-          "stop": "2026-11-26T09:08:17-06:00",
+          "start": "2026-11-26T08:43:46-06:00",
+          "stop": "2026-11-26T09:08:22-06:00",
           "episode_title": "Episode 12",
           "description": "Miyuki gives up on his revenge, and Reiko learns the true cause of death of Kujirai B from talking to Yulong."
         },
         {
           "title": "KOWLOON GENERIC ROMANCE",
-          "start": "2026-11-26T09:08:17-06:00",
-          "stop": "2026-11-26T09:34:23-06:00",
+          "start": "2026-11-26T09:08:22-06:00",
+          "stop": "2026-11-26T09:34:28-06:00",
           "episode_title": "Episode 13",
           "description": "As reality and fiction, past and present intwetwine, Reiko witnesses Kudo's memory of Kujirai B's death."
         },
         {
           "title": "Air Gear",
-          "start": "2026-11-26T09:34:23-06:00",
-          "stop": "2026-11-26T09:59:13-06:00",
+          "start": "2026-11-26T09:34:28-06:00",
+          "stop": "2026-11-26T09:59:17-06:00",
           "episode_title": "Genesis Strikes!",
           "description": "Kogarasumaru's rep is on the rise after defeating Behemoth. It hasn't been easy, but future victories might come easier if Ikki accepts Simca's offer to join forces."
         },
         {
           "title": "Air Gear",
-          "start": "2026-11-26T09:59:13-06:00",
-          "stop": "2026-11-26T10:24:02-06:00",
+          "start": "2026-11-26T09:59:17-06:00",
+          "stop": "2026-11-26T10:24:06-06:00",
           "episode_title": "The Battle for Agito's Documents!",
           "description": "It's time for the school trip to Kyoto, but there's a problem - Akito can't afford it. Ikki's team will leave no man behind, so they set out to get some money from Kaito."
         },
         {
           "title": ".hack//SIGN",
-          "start": "2026-11-26T10:24:02-06:00",
-          "stop": "2026-11-26T10:48:39-06:00",
+          "start": "2026-11-26T10:24:06-06:00",
+          "stop": "2026-11-26T10:48:44-06:00",
           "episode_title": "Despair",
           "description": "Subaru still can't find Tsukasa, though not for want of trying. Her only hope now is that someone knows his secret place. Meanwhile, Bear has uncovered the identity of the man they saw in the mystrious castle: he is Harold Huick, the creator of The World."
         },
         {
           "title": ".hack//SIGN",
-          "start": "2026-11-26T10:48:39-06:00",
-          "stop": "2026-11-26T11:14:51-06:00",
+          "start": "2026-11-26T10:48:44-06:00",
+          "stop": "2026-11-26T11:14:56-06:00",
           "episode_title": "Phantom",
           "description": "Despite the traps laid out for them, Bear, Mimiru and Subaru manage to find Harold Huick's incarnation, who tells them his secret. But the mysterious entity which was using Tsukasa seems determined to stop the secret getting out."
+        },
+        {
+          "title": "Dragon Ball Z",
+          "start": "2026-11-26T11:14:56-06:00",
+          "stop": "2026-11-26T11:40:01-06:00",
+          "episode_title": "The Dark Prince Returns",
+          "description": "In an all-out assault against Vegeta, Babidi uses his power to undo the unsuspecting Prince from within! Vegeta is stripped of his good qualities by the wicked wizard, and becomes the heartless warrior that he once was!"
         }
       ],
       "logo": "logos/32.png"
@@ -413,13 +431,6 @@
       "number": 45,
       "name": "Mobile Suit Network",
       "programmes": [
-        {
-          "title": "Mobile Suit Zeta Gundam",
-          "start": "2026-11-26T04:42:42-06:00",
-          "stop": "2026-11-26T05:07:49-06:00",
-          "episode_title": "Forever Four",
-          "description": "Kamille infiltrates the base and finds Four. Jerid finds them and follows but ends up being overpowered by Kamille. Amuro and Char continue to attack the base while Jerid steals a Mobile Suit. Four is being controlled to protect Jamitov's shuttle, and Kamille tries to defeat Four in the Psyco Gundam as Jerid continues his pursuit. Four got killed by Jerid while attempting to save Kamille."
-        },
         {
           "title": "Mobile Suit Zeta Gundam",
           "start": "2026-11-26T05:07:49-06:00",
@@ -607,13 +618,6 @@
       "name": "Universal Century",
       "programmes": [
         {
-          "title": "Gundam: Requiem for Vengeance",
-          "start": "2026-11-26T04:47:57-06:00",
-          "stop": "2026-11-26T05:12:20-06:00",
-          "episode_title": "Convoy to Oblivion",
-          "description": "While Captain Solari struggles with survivor's guilt, the convoy is attacked. She decides to stay behind to secure an escape route to the spaceport."
-        },
-        {
           "title": "Mobile Suit Gundam MS IGLOO",
           "start": "2026-11-26T05:12:20-06:00",
           "stop": "2026-11-26T05:41:32-06:00",
@@ -696,13 +700,6 @@
       "number": 48,
       "name": "Cosmic Era",
       "programmes": [
-        {
-          "title": "Mobile Suit Gundam Seed Destiny",
-          "start": "2026-11-26T04:45:27-06:00",
-          "stop": "2026-11-26T05:10:14-06:00",
-          "episode_title": "The Shadows of War",
-          "description": "Cagalli's attempts to stop the Orb fleet fails, and a battle breaks out between the Minerva, the Archangel, and the joint Orb-Earth Alliance fleet."
-        },
         {
           "title": "Mobile Suit Gundam Seed Destiny",
           "start": "2026-11-26T05:10:14-06:00",
@@ -847,13 +844,6 @@
       "number": 64,
       "name": "Sci-Fi",
       "programmes": [
-        {
-          "title": "Star Trek: Deep Space Nine",
-          "start": "2026-11-26T04:21:44-06:00",
-          "stop": "2026-11-26T05:08:02-06:00",
-          "episode_title": "Rules of Engagement",
-          "description": "Stardate: 49665.3. When Worf destroys a civilian shuttle during an engagement with the Klingons, an extradition hearing is held to see if he must face charges."
-        },
         {
           "title": "Star Trek",
           "start": "2026-11-26T05:08:02-06:00",
@@ -1037,6 +1027,13 @@
           "stop": "2026-11-26T11:14:47-06:00",
           "episode_title": "The Sound of Her Voice",
           "description": "Stardate: 51948.3. As the Defiant races to a shipwrecked officer who is days away, the crew keeps in contact with her. Meanwhile, Jake follows Quark's latest scheme for story research."
+        },
+        {
+          "title": "Star Trek: Voyager",
+          "start": "2026-11-26T11:14:47-06:00",
+          "stop": "2026-11-26T12:01:40-06:00",
+          "episode_title": "Deadlock",
+          "description": "Stardate: 49548.7. An accident in a plasma cloud duplicates Voyager after they are attacked by the Vidiians. During the aftermath, the ship is severely damaged, Ensign Wildman's baby dies and Harry Kim is sucked into space through a hull breach."
         }
       ],
       "logo": "logos/66.png"
