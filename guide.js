@@ -1,12 +1,12 @@
 window.GUIDE_DATA = {
-  "generated_at": "2026-11-25T22:01:24.710427-06:00",
+  "generated_at": "2026-11-25T22:16:24.721236-06:00",
   "timezone": "America/Chicago",
   "source": "tunarr-xmltv",
   "window_hours": 6,
-  "window_start": "2026-11-25T22:01:24.710427-06:00",
-  "window_end": "2026-11-26T04:01:24.710427-06:00",
+  "window_start": "2026-11-25T22:16:24.721236-06:00",
+  "window_end": "2026-11-26T04:16:24.721236-06:00",
   "channel_count": 15,
-  "programme_count": 142,
+  "programme_count": 139,
   "channels": [
     {
       "id": "C2.50.tunarr.com",
@@ -68,6 +68,13 @@ window.GUIDE_DATA = {
           "stop": "2026-11-26T04:05:12-06:00",
           "episode_title": "Victory of the Daleks",
           "description": "The Doctor has been summoned by old friend Winston Churchill, but in the Cabinet War Rooms far below the streets of blitz-torn London, it's his oldest enemy he finds waiting for him, as the time-travelling adventures continue. The Daleks are back – but can Winston Churchill be in league with them?"
+        },
+        {
+          "title": "Farscape",
+          "start": "2026-11-26T04:05:12-06:00",
+          "stop": "2026-11-26T04:52:07-06:00",
+          "episode_title": "A Prefect Murder",
+          "description": "The crew lands on a planet divided by generations of clan war. After experiencing strange hallucinations, Aeryn is subliminally coerced into assassinating a clan leader. When Crichton also starts having hallucinations, they must uncover the planet's political machinations in order to prevent more killings."
         }
       ],
       "logo": "logos/2.png"
@@ -115,18 +122,6 @@ window.GUIDE_DATA = {
       "number": 11,
       "name": "Kidz!",
       "programmes": [
-        {
-          "title": "Looney Tunes",
-          "start": "2026-11-25T21:56:54-06:00",
-          "stop": "2026-11-25T22:04:29-06:00",
-          "episode_title": "Episode 3"
-        },
-        {
-          "title": "Looney Tunes",
-          "start": "2026-11-25T22:04:29-06:00",
-          "stop": "2026-11-25T22:13:37-06:00",
-          "episode_title": "Episode 4"
-        },
         {
           "title": "Batman: The Animated Series",
           "start": "2026-11-25T22:13:37-06:00",
@@ -204,6 +199,12 @@ window.GUIDE_DATA = {
           "start": "2026-11-26T02:44:51-06:00",
           "stop": "2026-11-26T04:09:59-06:00",
           "description": "On her 13th birthday, Marnie learns she's a witch, discovers a secret portal, and is transported to Halloweentown — a magical place where ghosts and ghouls, witches and werewolves live apart from the human world. But she soon finds herself battling wicked warlocks, evil curses, and endless surprises."
+        },
+        {
+          "title": "Cinderella",
+          "start": "2026-11-26T04:09:59-06:00",
+          "stop": "2026-11-26T05:25:58-06:00",
+          "description": "Cinderella has faith her dreams of a better life will come true. With help from her loyal mice friends and a wave of her Fairy Godmother's wand, Cinderella's rags are magically turned into a glorious gown and off she goes to the Royal Ball. But when the clock strikes midnight, the spell is broken, leaving a single glass slipper... the only key to the ultimate fairy-tale ending!"
         }
       ],
       "logo": "logos/11.png"
@@ -652,13 +653,6 @@ window.GUIDE_DATA = {
       "programmes": [
         {
           "title": "Mobile Suit Gundam Seed Destiny",
-          "start": "2026-11-25T21:44:23-06:00",
-          "stop": "2026-11-25T22:09:09-06:00",
-          "episode_title": "The End of the World",
-          "description": "The battle on Junius-7 instifies, as the Gaia, Chaos \u0026 Abyss make the Joule team's attempt at the destroying the falling colony much more difficult."
-        },
-        {
-          "title": "Mobile Suit Gundam Seed Destiny",
           "start": "2026-11-25T22:09:09-06:00",
           "stop": "2026-11-25T22:33:55-06:00",
           "episode_title": "Land of Confusion",
@@ -804,13 +798,6 @@ window.GUIDE_DATA = {
       "programmes": [
         {
           "title": "Severance",
-          "start": "2026-11-25T21:20:49-06:00",
-          "stop": "2026-11-25T22:08:19-06:00",
-          "episode_title": "The You You Are",
-          "description": "Irving finds an intriguing book at work. Helly aggressively pursues a meeting with her Outie. Mark attends a funeral with Ms. Selvig."
-        },
-        {
-          "title": "Severance",
           "start": "2026-11-25T22:08:19-06:00",
           "stop": "2026-11-25T22:52:52-06:00",
           "episode_title": "The Grim Barbarity of Optics and Design",
@@ -935,6 +922,13 @@ window.GUIDE_DATA = {
           "stop": "2026-11-26T04:15:20-06:00",
           "episode_title": "Brief Candle",
           "description": "SG-1 discovers a race of attractive people who age extremely rapidly. The situation becomes personal when O'Neill begins to suffer from the same accelerated aging, and must live out the rest of his life on the planet."
+        },
+        {
+          "title": "Stargate Atlantis",
+          "start": "2026-11-26T04:15:20-06:00",
+          "stop": "2026-11-26T05:00:43-06:00",
+          "episode_title": "Vegas",
+          "description": "In the city of Las Vegas in an alternate reality, police Detective John Sheppard investigates a series of bizarre murders where each body appears to have desiccated. He is soon called to Area 51, where Dr. Rodney McKay explains the situation."
         }
       ],
       "logo": "logos/65.png"
@@ -944,13 +938,6 @@ window.GUIDE_DATA = {
       "number": 66,
       "name": "Starfleet",
       "programmes": [
-        {
-          "title": "Star Trek: Voyager",
-          "start": "2026-11-25T21:21:00-06:00",
-          "stop": "2026-11-25T22:07:49-06:00",
-          "episode_title": "Prototype",
-          "description": "Voyager finds an automated life-form adrift in space. When B'Elanna Torres reactivates it, the unit realizes she may be able to help build more of its kind. The robot kidnaps Torres and gives her an ultimatum: build a working prototype or Voyager will be destroyed."
-        },
         {
           "title": "Star Trek: Voyager",
           "start": "2026-11-25T22:07:49-06:00",
@@ -1015,13 +1002,6 @@ window.GUIDE_DATA = {
       "number": 72,
       "name": "Comedy",
       "programmes": [
-        {
-          "title": "Coupling",
-          "start": "2026-11-25T21:41:05-06:00",
-          "stop": "2026-11-25T22:11:02-06:00",
-          "episode_title": "Size Matters",
-          "description": "Susan invites Steve for a date at home, and offers to cook. Jeff warns him about 'The Sock Gap', and Patrick alerts him to her collection of remote controls. Somehow everyone's conversation seems to revolve around Patrick's size, and Jeff is asked by several people to accompany him to the toilet to check."
-        },
         {
           "title": "Barry",
           "start": "2026-11-25T22:11:02-06:00",
