@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-26T13:16:24.931294-06:00",
+  "generated_at": "2026-11-26T13:31:25.004537-06:00",
   "timezone": "America/Chicago",
   "source": "tunarr-xmltv",
   "window_hours": 6,
-  "window_start": "2026-11-26T13:16:24.931294-06:00",
-  "window_end": "2026-11-26T19:16:24.931294-06:00",
+  "window_start": "2026-11-26T13:31:25.004537-06:00",
+  "window_end": "2026-11-26T19:31:25.004537-06:00",
   "channel_count": 15,
-  "programme_count": 138,
+  "programme_count": 135,
   "channels": [
     {
       "id": "C2.50.tunarr.com",
@@ -149,13 +149,6 @@
       "name": "Kidz!",
       "programmes": [
         {
-          "title": "Batman: The Animated Series",
-          "start": "2026-11-26T13:05:41-06:00",
-          "stop": "2026-11-26T13:29:02-06:00",
-          "episode_title": "The Forgotten",
-          "description": "When men begin disappearing at a bowery, Bruce Wayne decides to go undercover as a worker. He loses his memory after he is attacked, kidnapped and forced to work in a mining camp."
-        },
-        {
           "title": "Looney Tunes",
           "start": "2026-11-26T13:29:02-06:00",
           "stop": "2026-11-26T13:37:41-06:00",
@@ -248,12 +241,6 @@
       "name": "Adrenaline",
       "programmes": [
         {
-          "title": "Star Trek Into Darkness",
-          "start": "2026-11-26T11:08:45-06:00",
-          "stop": "2026-11-26T13:21:45-06:00",
-          "description": "After the crew of the Enterprise find an unstoppable force of terror from within their own organization, Captain Kirk leads a manhunt to a war-zone world to capture a one-man weapon of mass destruction."
-        },
-        {
           "title": "U.S. Marshals",
           "start": "2026-11-26T13:21:45-06:00",
           "stop": "2026-11-26T15:33:46-06:00",
@@ -279,12 +266,6 @@
       "number": 32,
       "name": "Japanimation",
       "programmes": [
-        {
-          "title": "Eureka Seven: AO",
-          "start": "2026-11-26T12:57:04-06:00",
-          "stop": "2026-11-26T13:22:27-06:00",
-          "episode_title": "Walk This Way - Plant Coral"
-        },
         {
           "title": "Eureka Seven: AO",
           "start": "2026-11-26T13:22:27-06:00",
@@ -389,6 +370,13 @@
           "stop": "2026-11-26T19:20:12-06:00",
           "episode_title": "Nobody Knows Your Face",
           "description": "The CID’s hunt for Kimihiko Hayama’s killer leads them to another murder with the same modus operandi. Now it’s up to the CID to figure out how to track down the killer’s real identity and get justice for the victims."
+        },
+        {
+          "title": "Psycho-Pass",
+          "start": "2026-11-26T19:20:12-06:00",
+          "stop": "2026-11-26T20:06:59-06:00",
+          "episode_title": "Return of the Psychotic Prince",
+          "description": "After reading Kogami’s personnel file, Akane attempts to learn more about Kogami’s past and why he ended up as an Enforcer. Meanwhile, the CID detectives attempt to figure out who was helping Kanehara commit murders in the Hachioji Drone incident."
         }
       ],
       "logo": "logos/32.png"
@@ -430,13 +418,6 @@
       "number": 45,
       "name": "Mobile Suit Network",
       "programmes": [
-        {
-          "title": "After War Gundam X",
-          "start": "2026-11-26T13:04:18-06:00",
-          "stop": "2026-11-26T13:29:10-06:00",
-          "episode_title": "Don't Say a Word",
-          "description": "After surviving the trap laid out for them and destroying the airbase, the crew of the Freeden head back toe Estard where they are hailed as heroes to their cause. Unsure of his committment to what is going on Roybea leaves the Freeden, leaving his Gundam Leopard behind, heading off unescorted into Estard as Witz takes up an offer from General Lee Jackson to upgrade his Gundam Airmaster to more better compete with the newer mobile suits and mobile armors being made by the New UNE military."
-        },
         {
           "title": "Gundam Build Fighters",
           "start": "2026-11-26T13:29:10-06:00",
@@ -518,6 +499,13 @@
           "stop": "2026-11-26T19:31:01-06:00",
           "episode_title": "Judau, Launch!",
           "description": "The attack on Earth by Haman Karn's Neo Zeon fleet is now in full swing. To rescue Leina, Judau attaches bombs to the Double Zeta and then launches into battle on his own. Alone, Judau pursues the battleship Sadalahn. Haman, sensing his Newtype potential, invites him aboard."
+        },
+        {
+          "title": "Gundam Build Fighters",
+          "start": "2026-11-26T19:31:01-06:00",
+          "stop": "2026-11-26T19:56:07-06:00",
+          "episode_title": "Team Up, Try Fighters!",
+          "description": "Having transferred to the Seiho Academy, Sekai discovers that he and Yuuma are in the same class. He challenges Yuuma to a battle but is bluntly rejected. Meanwhile, the school's student council has decided to merge the Gunpla Battle Club with the Plastic Model Club. To survive on its own, the Battle Club must defeat the Plamo Club in battle, and Yuuma is among the latter's players. With the Battle Club facing three-to-two odds, the battle seems like a mere formality, but Fumina's tactics let them put up a good fight. Miyaga loses his temper and deploys the huge mobile armor Agrissa, finally backing Fumina into a corner. But Yuuma, unable to accept that his club president is trying to win by ignoring the previously agreed rules, teams up with Sekai to destroy Miyaga's Agrissa. Thus, with the addition of Yuuma, team Try Fighters is finally formed!"
         }
       ],
       "logo": "logos/45.png"
@@ -657,13 +645,6 @@
       "number": 48,
       "name": "Cosmic Era",
       "programmes": [
-        {
-          "title": "Mobile Suit Gundam Seed Destiny",
-          "start": "2026-11-26T13:03:12-06:00",
-          "stop": "2026-11-26T13:28:03-06:00",
-          "episode_title": "Freedom and Justice",
-          "description": "The attack on Orb continues, but Cagalli is saved from Shinn by Kira."
-        },
         {
           "title": "Mobile Suit Gundam Seed Destiny",
           "start": "2026-11-26T13:28:03-06:00",
