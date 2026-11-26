@@ -1,25 +1,18 @@
 window.GUIDE_DATA = {
-  "generated_at": "2026-11-26T03:46:38.776393-06:00",
+  "generated_at": "2026-11-26T04:16:36.590891-06:00",
   "timezone": "America/Chicago",
   "source": "tunarr-xmltv",
   "window_hours": 6,
-  "window_start": "2026-11-26T03:46:38.776393-06:00",
-  "window_end": "2026-11-26T09:46:38.776393-06:00",
+  "window_start": "2026-11-26T04:16:36.590891-06:00",
+  "window_end": "2026-11-26T10:16:36.590891-06:00",
   "channel_count": 15,
-  "programme_count": 147,
+  "programme_count": 150,
   "channels": [
     {
       "id": "C2.50.tunarr.com",
       "number": 2,
       "name": "Syndication",
       "programmes": [
-        {
-          "title": "Doctor Who (2005)",
-          "start": "2026-11-26T03:22:33-06:00",
-          "stop": "2026-11-26T04:05:12-06:00",
-          "episode_title": "Victory of the Daleks",
-          "description": "The Doctor has been summoned by old friend Winston Churchill, but in the Cabinet War Rooms far below the streets of blitz-torn London, it's his oldest enemy he finds waiting for him, as the time-travelling adventures continue. The Daleks are back – but can Winston Churchill be in league with them?"
-        },
         {
           "title": "Farscape",
           "start": "2026-11-26T04:05:12-06:00",
@@ -142,12 +135,6 @@ window.GUIDE_DATA = {
       "name": "Kidz!",
       "programmes": [
         {
-          "title": "Halloweentown",
-          "start": "2026-11-26T02:44:51-06:00",
-          "stop": "2026-11-26T04:09:59-06:00",
-          "description": "On her 13th birthday, Marnie learns she's a witch, discovers a secret portal, and is transported to Halloweentown — a magical place where ghosts and ghouls, witches and werewolves live apart from the human world. But she soon finds herself battling wicked warlocks, evil curses, and endless surprises."
-        },
-        {
           "title": "Cinderella",
           "start": "2026-11-26T04:09:59-06:00",
           "stop": "2026-11-26T05:25:58-06:00",
@@ -208,6 +195,18 @@ window.GUIDE_DATA = {
           "start": "2026-11-26T09:39:00-06:00",
           "stop": "2026-11-26T09:47:10-06:00",
           "episode_title": "Episode 1"
+        },
+        {
+          "title": "Looney Tunes",
+          "start": "2026-11-26T09:47:10-06:00",
+          "stop": "2026-11-26T09:55:20-06:00",
+          "episode_title": "Episode 2"
+        },
+        {
+          "title": "Christmas in Wonderland",
+          "start": "2026-11-26T09:55:20-06:00",
+          "stop": "2026-11-26T11:30:58-06:00",
+          "description": "Three children and their father move from Los Angeles, California to Edmonton, Alberta. When they go shopping at West Edmonton Mall, they find counterfeit cash, inadvertently help catch crooks, and make a discovery about Santa."
         }
       ],
       "logo": "logos/11.png"
@@ -257,13 +256,6 @@ window.GUIDE_DATA = {
       "number": 32,
       "name": "Japanimation",
       "programmes": [
-        {
-          "title": "Legend of the Galactic Heroes",
-          "start": "2026-11-26T03:28:03-06:00",
-          "stop": "2026-11-26T03:55:58-06:00",
-          "episode_title": "The Winter Rose Garden Edict",
-          "description": "The news of Fleet Admiral Bucock's death reaches Iserlohn. The Yang declares a mourning period for Bucock. Lebello is assassinated by his subordinates. The Alliance government surrenders unconditionally. On February 9th, Reinhard lands on Heinessen. The Imperial soldiers discover low level bureaucrats unwilling to surrender public documents, records, or property to the Empire. Reinhard commends on how the Alliance perished precisely because such remarkable government servants were kept below positions of governance. Reinhard disgusted over treachery, then declares death upon Lebello's killers. February 20th, 800 S.C. / 2 N.I.C.: The 273 history of the Free Planets Alliance ended."
-        },
         {
           "title": "Legend of the Galactic Heroes",
           "start": "2026-11-26T03:55:58-06:00",
@@ -373,6 +365,13 @@ window.GUIDE_DATA = {
           "stop": "2026-11-26T09:59:13-06:00",
           "episode_title": "Genesis Strikes!",
           "description": "Kogarasumaru's rep is on the rise after defeating Behemoth. It hasn't been easy, but future victories might come easier if Ikki accepts Simca's offer to join forces."
+        },
+        {
+          "title": "Air Gear",
+          "start": "2026-11-26T09:59:13-06:00",
+          "stop": "2026-11-26T10:24:02-06:00",
+          "episode_title": "The Battle for Agito's Documents!",
+          "description": "It's time for the school trip to Kyoto, but there's a problem - Akito can't afford it. Ikki's team will leave no man behind, so they set out to get some money from Kaito."
         }
       ],
       "logo": "logos/32.png"
@@ -420,13 +419,6 @@ window.GUIDE_DATA = {
       "number": 45,
       "name": "Mobile Suit Network",
       "programmes": [
-        {
-          "title": "Mobile Suit Gundam Wing",
-          "start": "2026-11-26T02:39:14-06:00",
-          "stop": "2026-11-26T03:51:22-06:00",
-          "episode_title": "Operation Meteor I: Odd Numbers",
-          "description": "Feature-length episode recapping events from the Gundam Wing TV series from the point of view of Heero, Trowa and Wufei. The episode also features brief amounts of new footage of the characters after the events of the TV series."
-        },
         {
           "title": "Mobile Suit Gundam",
           "start": "2026-11-26T03:51:22-06:00",
@@ -536,6 +528,25 @@ window.GUIDE_DATA = {
           "stop": "2026-11-26T09:56:11-06:00",
           "episode_title": "By the Lake",
           "description": "Bask Om and Jamitov discuss strategy on Gryps while Kamille and the others attempt to relax at Colony 13. Rosamia runs into Kamille there and tells him she's his little sister. As Kamille, Fa, Rosamia, Shinta and Qum relax on the lake, they see Haman and Mineva nearby. Meanwhile, Char has his hands full with Mobile Suits that he spots."
+        },
+        {
+          "title": "Mobile Suit Gundam-san",
+          "start": "2026-11-26T09:56:11-06:00",
+          "stop": "2026-11-26T09:59:41-06:00",
+          "episode_title": "Kycilia-tan, Age 14"
+        },
+        {
+          "title": "Mobile Suit Gundam-san",
+          "start": "2026-11-26T09:59:41-06:00",
+          "stop": "2026-11-26T10:03:12-06:00",
+          "episode_title": "He Likes People with Moles"
+        },
+        {
+          "title": "Gundam Build Fighters",
+          "start": "2026-11-26T10:03:12-06:00",
+          "stop": "2026-11-26T10:28:13-06:00",
+          "episode_title": "Gunpla Eve",
+          "description": "A festival is held in Shizuoka one week before the final round of the tournament, where guests can participate in Free Battle rounds against the championship's competitors. Meanwhile, Nils and Caroline follow a truck that leads them to the source of Plavsky particles."
         }
       ],
       "logo": "logos/45.png"
@@ -601,13 +612,6 @@ window.GUIDE_DATA = {
       "number": 47,
       "name": "Universal Century",
       "programmes": [
-        {
-          "title": "Gundam: Requiem for Vengeance",
-          "start": "2026-11-26T03:32:24-06:00",
-          "stop": "2026-11-26T03:58:09-06:00",
-          "episode_title": "Junkyard",
-          "description": "Awakening from a nightmare, Captain Solari finds the base in ruins. She later rallies weary mechanics to assemble Zaku II units from spare parts."
-        },
         {
           "title": "Gundam: Requiem for Vengeance",
           "start": "2026-11-26T03:58:09-06:00",
@@ -697,6 +701,12 @@ window.GUIDE_DATA = {
           "stop": "2026-11-26T09:59:16-06:00",
           "episode_title": "A Wish of War Orphans",
           "description": "Char infiltrates Jaburo with a squadron of Acguy mobile suits and plant time bombs on the Federation's new mass-produced GMs, but not before being discovered by Katz, Kikka, and Letz."
+        },
+        {
+          "title": "Mobile Suit Gundam II: Soldiers of Sorrow",
+          "start": "2026-11-26T09:59:16-06:00",
+          "stop": "2026-11-26T12:14:07-06:00",
+          "description": "After attacks by Char and Garma, White Base crew battle Zeon forces through Asia, Europe, Atlantic on way to Federation HQ. Crewmembers like Amuro, Bright, Kai, Sayla, Mirai, Fraw, Hayato overcome fears, losses to survive."
         }
       ],
       "logo": "logos/47.png"
@@ -706,13 +716,6 @@ window.GUIDE_DATA = {
       "number": 48,
       "name": "Cosmic Era",
       "programmes": [
-        {
-          "title": "Mobile Suit Gundam Seed Destiny",
-          "start": "2026-11-26T03:31:09-06:00",
-          "stop": "2026-11-26T03:55:55-06:00",
-          "episode_title": "Past",
-          "description": "After a misunderstanding between Athrun, Lunamaria and Meer, Shinn takes advantage of his shore leave by exploring the countryside."
-        },
         {
           "title": "Mobile Suit Gundam Seed Destiny",
           "start": "2026-11-26T03:55:55-06:00",
@@ -810,6 +813,13 @@ window.GUIDE_DATA = {
           "stop": "2026-11-26T10:09:31-06:00",
           "episode_title": "The World Revealed",
           "description": "Shinn swears vengeance against the Freedom, as the Earth Sphere is thrown into chaos with Durandal's announcement."
+        },
+        {
+          "title": "Mobile Suit Gundam Seed Destiny",
+          "start": "2026-11-26T10:09:31-06:00",
+          "stop": "2026-11-26T10:34:20-06:00",
+          "episode_title": "Nightmare",
+          "description": "The Archangel returns to Orb, and Shinn sees a chance to enact revenge upon the Freedom"
         }
       ],
       "logo": "logos/48.png"
@@ -918,6 +928,13 @@ window.GUIDE_DATA = {
           "stop": "2026-11-26T09:52:38-06:00",
           "episode_title": "Shattered Mirror",
           "description": "Stardate: Unknown. When the Mirror Universe counterpart of Sisko's deceased wife lures Jake to the other side, Sisko must follow and help the human resistance against the Alliance's forces."
+        },
+        {
+          "title": "Farscape",
+          "start": "2026-11-26T09:52:38-06:00",
+          "stop": "2026-11-26T10:39:32-06:00",
+          "episode_title": "Meltdown",
+          "description": "Talyn gets the urge to fly into a sun. While in its vicinity Stark is contacted by an alien woman who is being held against her will."
         }
       ],
       "logo": "logos/64.png"
@@ -927,13 +944,6 @@ window.GUIDE_DATA = {
       "number": 65,
       "name": "Stargate Command",
       "programmes": [
-        {
-          "title": "Stargate SG-1",
-          "start": "2026-11-26T03:30:13-06:00",
-          "stop": "2026-11-26T04:15:20-06:00",
-          "episode_title": "Brief Candle",
-          "description": "SG-1 discovers a race of attractive people who age extremely rapidly. The situation becomes personal when O'Neill begins to suffer from the same accelerated aging, and must live out the rest of his life on the planet."
-        },
         {
           "title": "Stargate Atlantis",
           "start": "2026-11-26T04:15:20-06:00",
@@ -975,6 +985,13 @@ window.GUIDE_DATA = {
           "stop": "2026-11-26T10:06:33-06:00",
           "episode_title": "Rising (2)",
           "description": "Sheppard tries to convince Weir to mount a rescue mission to free Colonel Sumner, Teyla, and the others captured by the Wraith."
+        },
+        {
+          "title": "Stargate SG-1",
+          "start": "2026-11-26T10:06:33-06:00",
+          "stop": "2026-11-26T10:51:39-06:00",
+          "episode_title": "Bloodlines",
+          "description": "Teal'c returns to Chulak to stop his people from implanting his son with a larval Goa'uld."
         }
       ],
       "logo": "logos/65.png"
@@ -1056,12 +1073,6 @@ window.GUIDE_DATA = {
       "name": "Comedy",
       "programmes": [
         {
-          "title": "Screamboat",
-          "start": "2026-11-26T02:07:03-06:00",
-          "stop": "2026-11-26T03:49:30-06:00",
-          "description": "A seemingly routine late-night ferry ride in New York City descends into chaos when an ordinary mouse undergoes a terrifying transformation. This mutated creature unleashes a reign of terror upon the unsuspecting passengers, forcing them to fight for their survival. As the body count rises, the remaining survivors must band together to find a way to escape the deadly vessel and confront the monstrous threat."
-        },
-        {
           "title": "Barry",
           "start": "2026-11-26T03:49:30-06:00",
           "stop": "2026-11-26T04:20:43-06:00",
@@ -1108,6 +1119,12 @@ window.GUIDE_DATA = {
           "stop": "2026-11-26T10:03:10-06:00",
           "episode_title": "Cops vs. Cons",
           "description": "The good guys challenge the bad guys in this battle. Also, Kenny dresses up as a cop with an attitude and Vic gets into the mind of a criminal. Games include: Dope on a Rope; Prison Break; Hand Job; Bunk Buddies; Legal Maze; Yankin' It"
+        },
+        {
+          "title": "Christmas Do-Over",
+          "start": "2026-11-26T10:03:10-06:00",
+          "stop": "2026-11-26T11:33:47-06:00",
+          "description": "Kevin tries to be involved with his son and ex-wife's family for Christmas. During dinner, he thought his Christmas *day* couldn't be more screwed; his son suddenly wishes it was Christmas every day. After that, it was a regular Groundhog's Day. Kevin learns new dance moves and can actually sing. Don't let the caroling fool you."
         }
       ],
       "logo": "logos/72.png"
