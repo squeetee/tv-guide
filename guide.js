@@ -1,12 +1,12 @@
 window.GUIDE_DATA = {
-  "generated_at": "2026-11-26T06:46:27.308940-06:00",
+  "generated_at": "2026-11-26T07:01:27.311094-06:00",
   "timezone": "America/Chicago",
   "source": "tunarr-xmltv",
   "window_hours": 6,
-  "window_start": "2026-11-26T06:46:27.308940-06:00",
-  "window_end": "2026-11-26T12:46:27.308940-06:00",
+  "window_start": "2026-11-26T07:01:27.311094-06:00",
+  "window_end": "2026-11-26T13:01:27.311094-06:00",
   "channel_count": 15,
-  "programme_count": 139,
+  "programme_count": 141,
   "channels": [
     {
       "id": "C2.50.tunarr.com",
@@ -99,6 +99,13 @@ window.GUIDE_DATA = {
           "stop": "2026-11-26T12:47:16-06:00",
           "episode_title": "Job Fair",
           "description": "Jim is wearing his best golfing uniform because he is hitting the links with a potential client, Phil Maguire. This is a very important account for Jim because he needs to look good to Ryan, who recently put him on probation for his job performance. Andy and Kevin are also joining in the game to show their support."
+        },
+        {
+          "title": "Star Wars: The Clone Wars",
+          "start": "2026-11-26T12:47:16-06:00",
+          "stop": "2026-11-26T13:10:47-06:00",
+          "episode_title": "Gungan Attack",
+          "description": "Anakin Skywalker and the rest of his Jedi team have been overrun by the Separatist surprise attacks led by Riff Tamson while Prince Lee-Char and Ahsoka must evade capture on their own. Unable to summon more Republic aid, Yoda calls upon the help of the powerful and amphibious Gungan Grand Army, but whether they will be enough to stop the Separatist siege is uncertain. An incensed Tamson doubles his efforts in tracking down Prince Lee-Char, unleashing the reinforcements given to him by Count Dooku in an assault that churns the oceans."
         }
       ],
       "logo": "logos/2.png"
@@ -131,6 +138,12 @@ window.GUIDE_DATA = {
           "start": "2026-11-26T11:06:16-06:00",
           "stop": "2026-11-26T12:54:50-06:00",
           "description": "Greg Focker is ready to marry his girlfriend, Pam, but before he pops the question, he must win over her formidable father, humorless former CIA agent Jack Byrnes, at the wedding of Pam's sister. As Greg bends over backward to make a good impression, his visit to the Byrnes home turns into a hilarious series of disasters, and everything that can go wrong does, all under Jack's critical, hawklike gaze."
+        },
+        {
+          "title": "The Lion King II: Simba's Pride",
+          "start": "2026-11-26T12:54:50-06:00",
+          "stop": "2026-11-26T14:13:37-06:00",
+          "description": "The circle of life continues for Simba, now fully grown and in his rightful place as the king of Pride Rock. Simba and Nala have given birth to a daughter, Kiara who's as rebellious as her father was. But Kiara drives her parents to distraction when she catches the eye of Kovu, the son of the evil lioness, Zira. Will Kovu steal Kiara's heart?"
         }
       ],
       "logo": "logos/3.png"
@@ -338,6 +351,12 @@ window.GUIDE_DATA = {
           "stop": "2026-11-26T12:57:04-06:00",
           "episode_title": "Vs. Son Hee and Bacho",
           "description": "While out on an errand, Sakamoto and Shin encounter Lu Shaotang, the daughter of a mafia boss, who's on the run and targeted by twin assassins."
+        },
+        {
+          "title": "Eureka Seven: AO",
+          "start": "2026-11-26T12:57:04-06:00",
+          "stop": "2026-11-26T13:22:27-06:00",
+          "episode_title": "Walk This Way - Plant Coral"
         }
       ],
       "logo": "logos/32.png"
@@ -385,13 +404,6 @@ window.GUIDE_DATA = {
       "number": 45,
       "name": "Mobile Suit Network",
       "programmes": [
-        {
-          "title": "Gundam Build Divers",
-          "start": "2026-11-26T06:35:18-06:00",
-          "stop": "2026-11-26T07:00:54-06:00",
-          "episode_title": "Your Feelings",
-          "description": "The GBN administration has officially announced that Sarah is an electronic lifeform, or \"EL-Diver,\" whose existence is the cause of the bug outbreaks. As the administration begins its pursuit, Riku and the other Build Divers are also searching for Sarah, who has run away from them."
-        },
         {
           "title": "Gundam Build Divers",
           "start": "2026-11-26T07:00:54-06:00",
@@ -557,6 +569,12 @@ window.GUIDE_DATA = {
           "start": "2026-11-26T10:57:38-06:00",
           "stop": "2026-11-26T12:58:47-06:00",
           "description": "After a generation of peace, the Earth Federation's new space colonies becomes a battlefield. To save his friends and family, the reluctant warrior Seabook Arno becomes the pilot of a new Gundam which bears the code name F91."
+        },
+        {
+          "title": "Mobile Suit Zeta Gundam - A New Translation III: Love is the Pulse of the Stars",
+          "start": "2026-11-26T12:58:47-06:00",
+          "stop": "2026-11-26T14:38:34-06:00",
+          "description": "In the trilogy's final saga, alliances are made and broken as the AEUG, Titans and Axis initiate an all-out war for control of the Earth Sphere."
         }
       ],
       "logo": "logos/46.png"
@@ -566,13 +584,6 @@ window.GUIDE_DATA = {
       "number": 47,
       "name": "Universal Century",
       "programmes": [
-        {
-          "title": "Mobile Suit Gundam",
-          "start": "2026-11-26T06:32:54-06:00",
-          "stop": "2026-11-26T06:58:34-06:00",
-          "episode_title": "Char Returns",
-          "description": "Under the command of Char Aznable, new Zeon amphibious mobile suits attack White Base, docked in a Federation base at Belfast."
-        },
         {
           "title": "Mobile Suit Gundam: The 08th MS Team",
           "start": "2026-11-26T06:58:34-06:00",
@@ -642,13 +653,6 @@ window.GUIDE_DATA = {
       "number": 48,
       "name": "Cosmic Era",
       "programmes": [
-        {
-          "title": "Mobile Suit Gundam Seed Destiny",
-          "start": "2026-11-26T06:24:37-06:00",
-          "stop": "2026-11-26T06:49:26-06:00",
-          "episode_title": "Unfulfilled Feelings",
-          "description": "Lacus \u0026 Andrew Waltfeld reunite with the Eternal and its crew, while Lunamaria reports her findings from Athrun's rendezvous with Kira to Talia."
-        },
         {
           "title": "Mobile Suit Gundam Seed Destiny",
           "start": "2026-11-26T06:49:26-06:00",
@@ -794,13 +798,6 @@ window.GUIDE_DATA = {
       "name": "Sci-Fi",
       "programmes": [
         {
-          "title": "Star Trek",
-          "start": "2026-11-26T05:59:27-06:00",
-          "stop": "2026-11-26T06:50:55-06:00",
-          "episode_title": "The Alternative Factor",
-          "description": "Kirk and Spock encounter an alien named Lazarus who claims to be from an anti-matter universe."
-        },
-        {
           "title": "Stargate SG-1",
           "start": "2026-11-26T06:50:55-06:00",
           "stop": "2026-11-26T07:35:23-06:00",
@@ -855,6 +852,13 @@ window.GUIDE_DATA = {
           "stop": "2026-11-26T13:00:32-06:00",
           "episode_title": "Azure Dragon",
           "description": "With an unexpected passenger aboard the Rocinante, Holden and crew undertake a dangerous mission that could shift the balance of power in the war. Drummer decides to make an uneasy alliance. Filip wrestles with his guilt."
+        },
+        {
+          "title": "Star Trek: Voyager",
+          "start": "2026-11-26T13:00:32-06:00",
+          "stop": "2026-11-26T13:47:28-06:00",
+          "episode_title": "Extreme Risk",
+          "description": "Stardate: Unknown. In order to retrieve a probe stuck in a hazardous atmosphere, Tom Paris designs a new type of shuttlecraft named the 'Delta Flyer'. Torres begins to exhibit reckless behavior by engaging in dangerous holodeck programs."
         }
       ],
       "logo": "logos/64.png"
@@ -976,6 +980,13 @@ window.GUIDE_DATA = {
           "stop": "2026-11-26T12:48:29-06:00",
           "episode_title": "Innocence",
           "description": "Stardate: Unknown. When Tuvok crashes on a moon, he discovers three small children who believe they are about to die."
+        },
+        {
+          "title": "Star Trek: The Next Generation",
+          "start": "2026-11-26T12:48:29-06:00",
+          "stop": "2026-11-26T13:31:55-06:00",
+          "episode_title": "Preemptive Strike",
+          "description": "Stardate: 47941.7. Fresh from Starfleet's Advanced Tactical Training course, Ro Laren is assigned to infiltrate the Maquis. However, over time she begins to sympathize with them, which forces her to choose between her loyalty to the Federation, and her new friends in the Maquis."
         }
       ],
       "logo": "logos/66.png"
