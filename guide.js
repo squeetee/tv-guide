@@ -1,12 +1,12 @@
 window.GUIDE_DATA = {
-  "generated_at": "2026-11-25T23:16:24.759230-06:00",
+  "generated_at": "2026-11-25T23:31:24.771593-06:00",
   "timezone": "America/Chicago",
   "source": "tunarr-xmltv",
   "window_hours": 6,
-  "window_start": "2026-11-25T23:16:24.759230-06:00",
-  "window_end": "2026-11-26T05:16:24.759230-06:00",
+  "window_start": "2026-11-25T23:31:24.771593-06:00",
+  "window_end": "2026-11-26T05:31:24.771593-06:00",
   "channel_count": 15,
-  "programme_count": 137,
+  "programme_count": 141,
   "channels": [
     {
       "id": "C2.50.tunarr.com",
@@ -100,6 +100,12 @@ window.GUIDE_DATA = {
           "start": "2026-11-26T03:45:25-06:00",
           "stop": "2026-11-26T05:23:12-06:00",
           "description": "Lindsay Lohan stars as Cady Heron, a 16 year old homeschooled girl who not only makes the mistake of falling for Aaron Samuels (Jonathan Bennett), the ex-boyfriend of queenbee Regina George (Rachel McAdams), but also unintentionally joins The Plastics, led by Regina herself. Join Cady as she learns that high school life can and will be really tough."
+        },
+        {
+          "title": "101 Dalmatians 2: Patch's London Adventure",
+          "start": "2026-11-26T05:23:12-06:00",
+          "stop": "2026-11-26T06:34:53-06:00",
+          "description": "Being one of 101 takes its toll on Patch, who doesn't feel unique. When he's accidentally left behind on moving day, he meets his idol, Thunderbolt, who enlists him on a publicity campaign."
         }
       ],
       "logo": "logos/3.png"
@@ -109,13 +115,6 @@ window.GUIDE_DATA = {
       "number": 11,
       "name": "Kidz!",
       "programmes": [
-        {
-          "title": "Star Wars Rebels",
-          "start": "2026-11-25T23:00:15-06:00",
-          "stop": "2026-11-25T23:23:16-06:00",
-          "episode_title": "Double Agent Droid",
-          "description": "Chopper and AP-5 team up to infiltrate an Imperial station to steal needed codes, but an Imperial specialist turns the droids against the crew to cause chaos."
-        },
         {
           "title": "Star Wars Rebels",
           "start": "2026-11-25T23:23:16-06:00",
@@ -178,6 +177,12 @@ window.GUIDE_DATA = {
           "start": "2026-11-26T04:09:59-06:00",
           "stop": "2026-11-26T05:25:58-06:00",
           "description": "Cinderella has faith her dreams of a better life will come true. With help from her loyal mice friends and a wave of her Fairy Godmother's wand, Cinderella's rags are magically turned into a glorious gown and off she goes to the Royal Ball. But when the clock strikes midnight, the spell is broken, leaving a single glass slipper... the only key to the ultimate fairy-tale ending!"
+        },
+        {
+          "title": "Looney Tunes",
+          "start": "2026-11-26T05:25:58-06:00",
+          "stop": "2026-11-26T05:34:57-06:00",
+          "episode_title": "Episode 5"
         }
       ],
       "logo": "logos/11.png"
@@ -336,6 +341,20 @@ window.GUIDE_DATA = {
           "stop": "2026-11-26T05:18:35-06:00",
           "episode_title": "Watanabe the Kidnapper",
           "description": "Young Yoshida becomes the apartment complex manager in place of his father. What seems like peaceful daily life turns out to be a den of depravity roaming with \"perverted women.\" Watanabe, a kind resident, rejected for her loneliness-driven excessive physical contact, transforms into a kidnapper. Can Yoshida resist her throbbing desire as she pins him down, clad in the lewd \"Libido Cloth\" outfit? The turbulent management duties begin, swirling with the madness and desires of the housewives."
+        },
+        {
+          "title": "Ingoku Danchi: Deviant's Apartment Complex",
+          "start": "2026-11-26T05:18:35-06:00",
+          "stop": "2026-11-26T05:23:04-06:00",
+          "episode_title": "Ichinose the Circulator",
+          "description": "There's been a massive scattering of lewd photos throughout the apartment complex. The culprit is Ichinose, a housewife who believes her own body is art. But when the photos are burned by the residents who value discipline, and her bond with the young man is denied, she awakens as the \"Circulator\" through the power of Libido Cloth. Hiding in a night's cloak, she restrains Yoshida and begins to take pictures of him. What is her true objective? This art, tainted by madness, foreshadows the emergence of an even more dangerous housewife."
+        },
+        {
+          "title": "Code Geass: Lelouch of the Rebellion",
+          "start": "2026-11-26T05:23:04-06:00",
+          "stop": "2026-11-26T05:48:07-06:00",
+          "episode_title": "One Million Miracles",
+          "description": "The Black Knights question Lelouch's decision, and the Britannian Army remains wary of his intentions. In a private conversation with Suzaku, Gino Weinberg, Anya Alstreim, Lloyd Apslund, Cécile Croomy, and Miss Romeyer, Zero requests he be exiled from Area 11 in exchange for delivering one million participants. The Britannians think he is abandoning them to ensure his own safety, and accept. At the opening ceremony, Zero asks Suzaku what it means to be Japanese, to which the Knight of Seven replies it is a shared heart. When every participating Eleven dresses as Zero on cue, Suzaku has no choice but to exile all one million \"Zeroes\", unwilling to start another massacre in the face of their peaceful resistance."
         }
       ],
       "logo": "logos/32.png"
@@ -509,6 +528,12 @@ window.GUIDE_DATA = {
           "start": "2026-11-26T04:37:37-06:00",
           "stop": "2026-11-26T05:29:55-06:00",
           "description": "In a future war, a young battle robot pilot suspected of being a spy must face court martial. Meanwhile, the home village of a friend of his is threatened by enemy forces."
+        },
+        {
+          "title": "30th Gundam Perfect Mission",
+          "start": "2026-11-26T05:29:55-06:00",
+          "stop": "2026-11-26T05:33:02-06:00",
+          "description": "30th Gundam Perfect Mission is a short original video animation (OVA) officially released by Sunrise in celebration of the 30th anniversary of the Gundam metaseries. It features all the titular and mascot gundams of the main series in a non-cannon conjoint mission."
         }
       ],
       "logo": "logos/46.png"
@@ -631,13 +656,6 @@ window.GUIDE_DATA = {
       "number": 48,
       "name": "Cosmic Era",
       "programmes": [
-        {
-          "title": "Mobile Suit Gundam Seed Destiny",
-          "start": "2026-11-25T22:58:42-06:00",
-          "stop": "2026-11-25T23:23:28-06:00",
-          "episode_title": "Bared Fangs",
-          "description": "Eager for retaliation, the Atlantic Federation declares war on ZAFT (who they blame for the Junius-7 drop). In defense of the oncoming nuclear onslaught, ZAFT unleashes its newest weapon, the Neutron Stampeder, against the Atlantic Federation forces."
-        },
         {
           "title": "Mobile Suit Gundam Seed Destiny",
           "start": "2026-11-25T23:23:28-06:00",
@@ -980,6 +998,13 @@ window.GUIDE_DATA = {
           "stop": "2026-11-26T05:16:50-06:00",
           "episode_title": "Death Wish",
           "description": "Stardate: 49301.2. A suicidal Q threatens the future of the Q-Continuum after he requests asylum aboard Voyager."
+        },
+        {
+          "title": "Star Trek: The Next Generation",
+          "start": "2026-11-26T05:16:50-06:00",
+          "stop": "2026-11-26T06:00:18-06:00",
+          "episode_title": "Bloodlines",
+          "description": "Stardate: 47829.1. Picard tries to save his newly-discovered son from the retaliation of a vengeful Ferengi whose only son was killed by Picard during the Battle of Maxia many years before."
         }
       ],
       "logo": "logos/66.png"
