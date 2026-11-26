@@ -1,10 +1,10 @@
 window.GUIDE_DATA = {
-  "generated_at": "2026-11-26T00:01:25.113669-06:00",
+  "generated_at": "2026-11-26T00:16:24.856264-06:00",
   "timezone": "America/Chicago",
   "source": "tunarr-xmltv",
   "window_hours": 6,
-  "window_start": "2026-11-26T00:01:25.113669-06:00",
-  "window_end": "2026-11-26T06:01:25.113669-06:00",
+  "window_start": "2026-11-26T00:16:24.856264-06:00",
+  "window_end": "2026-11-26T06:16:24.856264-06:00",
   "channel_count": 15,
   "programme_count": 142,
   "channels": [
@@ -116,12 +116,6 @@ window.GUIDE_DATA = {
       "name": "Kidz!",
       "programmes": [
         {
-          "title": "Looney Tunes",
-          "start": "2026-11-25T23:54:05-06:00",
-          "stop": "2026-11-26T00:02:42-06:00",
-          "episode_title": "Episode 2"
-        },
-        {
           "title": "Justice League",
           "start": "2026-11-26T00:02:42-06:00",
           "stop": "2026-11-26T00:26:22-06:00",
@@ -183,6 +177,13 @@ window.GUIDE_DATA = {
           "stop": "2026-11-26T06:07:15-06:00",
           "episode_title": "Metal Urgency",
           "description": "It's an all out kat-fight to the finish when the Metallikats come storming back in the drivers' seats of two giant hi-tech turbo attack-robots."
+        },
+        {
+          "title": "Swat Kats: The Radical Squadron",
+          "start": "2026-11-26T06:07:15-06:00",
+          "stop": "2026-11-26T06:30:10-06:00",
+          "episode_title": "The Ci-Kat-A",
+          "description": "An exploration probe returns from its mission in space and is taken to MASA where Dr. Harley Street discovers a yellow viscous substance oozing from inside the probe."
         }
       ],
       "logo": "logos/11.png"
@@ -357,6 +358,13 @@ window.GUIDE_DATA = {
           "stop": "2026-11-26T06:13:09-06:00",
           "episode_title": "A Bride in the Vermilion Forbidden City",
           "description": "Lelouch learns the Chinese Empress, Tianzi, is being forced into a political marriage to First Prince Odysseus eu Britannia. The wedding is orchestrated by the High Eunuchs, who will become nobles of Britannia in exchange for turning over half their land to Second Prince Schneizel el Britannia."
+        },
+        {
+          "title": "His and Her Circumstances",
+          "start": "2026-11-26T06:13:09-06:00",
+          "stop": "2026-11-26T06:38:08-06:00",
+          "episode_title": "Yuki's Trouble",
+          "description": "On the first day of high school, Yuki is not perfectly happy as she failed to get the highest score at the entrance examination. Although she does not show her desire, she wants to be the center of attention always. The honor belongs to her classmate, Arima. Yuki feels strong rivalry to Arima. She beats him at the mid-term exam. To her surprise, Arima congratulates her achievement heartily. One day, Arima tells her that he wants to “go steady” with her. Yuki bluntly refuses his proposal. Then, she accidentally reveals her true desire and is terrified by her mistake."
         }
       ],
       "logo": "logos/32.png"
@@ -395,6 +403,12 @@ window.GUIDE_DATA = {
           "start": "2026-11-26T04:20:39-06:00",
           "stop": "2026-11-26T06:08:09-06:00",
           "description": "High schoolers Mitsuha and Taki are complete strangers living separate lives. But one night, they suddenly switch places. Mitsuha wakes up in Taki’s body, and he in hers. This bizarre occurrence continues to happen randomly, and the two must adjust their lives around each other."
+        },
+        {
+          "title": "Tenchi Muyo! In Love",
+          "start": "2026-11-26T06:08:09-06:00",
+          "stop": "2026-11-26T07:43:25-06:00",
+          "description": "Tenchi and co. find their existence unsettled by a time-travelling entity called Kain. Desiring revenge upon the Juraian emperor, Tenchi, Kain travels back in time to kill Tenchi's mother. Trying to preserve the timestream, Tenchi and friends follow him back. Unfortunately, Tenchi must also deal with the pain that seeing his mother causes him. Since she died in the future, seeing her alive in the past reopens his old wounds."
         }
       ],
       "logo": "logos/33.png"
@@ -404,12 +418,6 @@ window.GUIDE_DATA = {
       "number": 45,
       "name": "Mobile Suit Network",
       "programmes": [
-        {
-          "title": "SD Gundam Force",
-          "start": "2026-11-25T23:39:38-06:00",
-          "stop": "2026-11-26T00:03:56-06:00",
-          "episode_title": "Episode 45"
-        },
         {
           "title": "SD Gundam Force",
           "start": "2026-11-26T00:03:56-06:00",
@@ -553,13 +561,6 @@ window.GUIDE_DATA = {
       "name": "Universal Century",
       "programmes": [
         {
-          "title": "Mobile Suit Gundam",
-          "start": "2026-11-25T23:37:24-06:00",
-          "stop": "2026-11-26T00:03:03-06:00",
-          "episode_title": "The Trap of M'Quve",
-          "description": "As Operation Odessa nears, Colonel M'Quve lures the White Base into a trap while Bright Noa is unable to captain the ship."
-        },
-        {
           "title": "Mobile Suit Gundam MS IGLOO",
           "start": "2026-11-26T00:03:03-06:00",
           "stop": "2026-11-26T00:31:55-06:00",
@@ -656,6 +657,13 @@ window.GUIDE_DATA = {
           "stop": "2026-11-26T06:07:12-06:00",
           "episode_title": "The Battle of Odessa",
           "description": "Amuro discovers the Zeon mole, stops a nuclear bomb, and faces off the remaining two members of the Black Tri-Stars as the battle at Odessa continues."
+        },
+        {
+          "title": "Mobile Suit Gundam: The 08th MS Team",
+          "start": "2026-11-26T06:07:12-06:00",
+          "stop": "2026-11-26T06:32:54-06:00",
+          "episode_title": "Reunion",
+          "description": "The Apsalus makes its escape, with Shiro's Gundam clinging to its hull. When the malfunctioning mobile armor crashes in the snowy mountains, Shiro and Aina are reunited. They cooperate to survive in the frozen wasteland, but then rescuers arrive."
         }
       ],
       "logo": "logos/47.png"
@@ -665,13 +673,6 @@ window.GUIDE_DATA = {
       "number": 48,
       "name": "Cosmic Era",
       "programmes": [
-        {
-          "title": "Mobile Suit Gundam Seed Destiny",
-          "start": "2026-11-25T23:48:14-06:00",
-          "stop": "2026-11-26T00:13:00-06:00",
-          "episode_title": "The Chosen Path",
-          "description": "Orb decides to ally itself with the Atlantic Federation, much to Cagalli's dismay. While about the PLANTs, Athrun receives some help making his decision from some old comrades."
-        },
         {
           "title": "Mobile Suit Gundam Seed Destiny",
           "start": "2026-11-26T00:13:00-06:00",
