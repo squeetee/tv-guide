@@ -1,12 +1,12 @@
 window.GUIDE_DATA = {
-  "generated_at": "2026-11-25T23:01:24.770533-06:00",
+  "generated_at": "2026-11-25T23:16:24.759230-06:00",
   "timezone": "America/Chicago",
   "source": "tunarr-xmltv",
   "window_hours": 6,
-  "window_start": "2026-11-25T23:01:24.770533-06:00",
-  "window_end": "2026-11-26T05:01:24.770533-06:00",
+  "window_start": "2026-11-25T23:16:24.759230-06:00",
+  "window_end": "2026-11-26T05:16:24.759230-06:00",
   "channel_count": 15,
-  "programme_count": 139,
+  "programme_count": 137,
   "channels": [
     {
       "id": "C2.50.tunarr.com",
@@ -188,12 +188,6 @@ window.GUIDE_DATA = {
       "name": "Adrenaline",
       "programmes": [
         {
-          "title": "Hot Shots!",
-          "start": "2026-11-25T21:43:43-06:00",
-          "stop": "2026-11-25T23:05:54-06:00",
-          "description": "Topper Harley, a top gun fighter pilot, is recalled to serve on the SS Essess. Topper's mission is to destroy Saddam Hussein's nuclear plants. Unfortunately, Topper is psychologically imbalanced and is sure to crack under pressure."
-        },
-        {
           "title": "Rambo: Last Blood",
           "start": "2026-11-25T23:05:54-06:00",
           "stop": "2026-11-26T00:47:33-06:00",
@@ -226,13 +220,6 @@ window.GUIDE_DATA = {
       "number": 32,
       "name": "Japanimation",
       "programmes": [
-        {
-          "title": "Super Dimension Fortress Macross",
-          "start": "2026-11-25T22:43:57-06:00",
-          "stop": "2026-11-25T23:10:11-06:00",
-          "episode_title": "Micro Cosmos",
-          "description": "Milia is now aboard the Macross as a spy and marvels at human culture. The premiere of Minmay's film Shao Pi Long (Little White Dragon) takes place. A Zentradi attack prompts another transformation to combat mode, and Hikaru and Misa end up being trapped within the walls of the ship, where they end up learning more about each other. Milia continues to search for the miclone pilot who defeated her."
-        },
         {
           "title": "Dragon Ball Super",
           "start": "2026-11-25T23:10:11-06:00",
@@ -342,6 +329,13 @@ window.GUIDE_DATA = {
           "stop": "2026-11-26T05:14:06-06:00",
           "episode_title": "Heart of a Villain",
           "description": "The intense battle between Gohan and Dabura rages on, but just as the Stage 3 clash reaches a heated peak, Dabura stops the fight! Why has the evil giant conceded, and what is the great discovery he claims to have made?"
+        },
+        {
+          "title": "Ingoku Danchi: Deviant's Apartment Complex",
+          "start": "2026-11-26T05:14:06-06:00",
+          "stop": "2026-11-26T05:18:35-06:00",
+          "episode_title": "Watanabe the Kidnapper",
+          "description": "Young Yoshida becomes the apartment complex manager in place of his father. What seems like peaceful daily life turns out to be a den of depravity roaming with \"perverted women.\" Watanabe, a kind resident, rejected for her loneliness-driven excessive physical contact, transforms into a kidnapper. Can Yoshida resist her throbbing desire as she pins him down, clad in the lewd \"Libido Cloth\" outfit? The turbulent management duties begin, swirling with the madness and desires of the housewives."
         }
       ],
       "logo": "logos/32.png"
@@ -389,13 +383,6 @@ window.GUIDE_DATA = {
       "number": 45,
       "name": "Mobile Suit Network",
       "programmes": [
-        {
-          "title": "Gundam Build Real",
-          "start": "2026-11-25T22:48:08-06:00",
-          "stop": "2026-11-25T23:13:53-06:00",
-          "episode_title": "Episode 6: Gunpla is Freedom",
-          "description": "Team BRIGHT continues to win in the regional tournament. However, a reporter's thoughtless words shake Takumi's confidence. MONSTRE, the rival team their former teammate Sota joined, makes it to the final championship round. BRIGHT's next victory will make a showdown with Sota inevitable, and Takumi begins to have a breakdown from the pressure. In the middle of the semi-final round, something strange happens to Takumi..."
-        },
         {
           "title": "Gundam Build Real",
           "start": "2026-11-25T23:13:53-06:00",
@@ -477,6 +464,13 @@ window.GUIDE_DATA = {
           "stop": "2026-11-26T05:07:49-06:00",
           "episode_title": "Forever Four",
           "description": "Kamille infiltrates the base and finds Four. Jerid finds them and follows but ends up being overpowered by Kamille. Amuro and Char continue to attack the base while Jerid steals a Mobile Suit. Four is being controlled to protect Jamitov's shuttle, and Kamille tries to defeat Four in the Psyco Gundam as Jerid continues his pursuit. Four got killed by Jerid while attempting to save Kamille."
+        },
+        {
+          "title": "Mobile Suit Zeta Gundam",
+          "start": "2026-11-26T05:07:49-06:00",
+          "stop": "2026-11-26T05:32:57-06:00",
+          "episode_title": "The Day of Dakar",
+          "description": "Jerid pursues Karaba's Audhumla as the AEUG plans to infiltrate Dakar so that Char can break into the Federation Council and state his case. While the battle rages outside, Char makes an appearance on television and proclaims that the Federation has become just like the Zabis and they need to change and that people should move off of the Earth to help it recover."
         }
       ],
       "logo": "logos/45.png"
@@ -524,13 +518,6 @@ window.GUIDE_DATA = {
       "number": 47,
       "name": "Universal Century",
       "programmes": [
-        {
-          "title": "Mobile Suit Gundam",
-          "start": "2026-11-25T22:46:05-06:00",
-          "stop": "2026-11-25T23:11:44-06:00",
-          "episode_title": "Hand to Hand Combat",
-          "description": "An all-out battle breaks out inside White Base as Ramba Ral and his soldiers infiltrate the ship in the hopes of capturing or destroying it."
-        },
         {
           "title": "Mobile Suit Gundam",
           "start": "2026-11-25T23:11:44-06:00",
@@ -628,6 +615,13 @@ window.GUIDE_DATA = {
           "stop": "2026-11-26T05:12:20-06:00",
           "episode_title": "Convoy to Oblivion",
           "description": "While Captain Solari struggles with survivor's guilt, the convoy is attacked. She decides to stay behind to secure an escape route to the spaceport."
+        },
+        {
+          "title": "Mobile Suit Gundam MS IGLOO",
+          "start": "2026-11-26T05:12:20-06:00",
+          "stop": "2026-11-26T05:41:32-06:00",
+          "episode_title": "Odessa, Iron Storm!",
+          "description": "(U.C. 0079.11.08 - 0079.11.09) Though Operation Odessa is proceeding, the 44th Hybrid Brigade suffers setback after its advance is bombarded by artillery from Zeon's Dobday-class land battleships. They are reinforced by three Guntanks piloted by a trio of convicts led by Lt. Arleen Nazon, a technical officer blamed and condemned to rot in jail after her lover defected to Zeon with information of the RTX-440 project. Bearing deep hatred to the man who betrayed her, Clyde Bettany, Arleen vows revenge for destroying her future. The offensive resumes on the second day and the Federation forces again suffering casualty from the well dug Zeon defence. Arleen's team penetrates enemy lines to provide artillery reconnaissance, before storming and breaking into the Zeon forward base. In the mist of battle, Arleen's two teammates self-detonate their Guntanks, taking out one Dobday."
         }
       ],
       "logo": "logos/47.png"
@@ -741,6 +735,13 @@ window.GUIDE_DATA = {
           "stop": "2026-11-26T05:10:14-06:00",
           "episode_title": "The Shadows of War",
           "description": "Cagalli's attempts to stop the Orb fleet fails, and a battle breaks out between the Minerva, the Archangel, and the joint Orb-Earth Alliance fleet."
+        },
+        {
+          "title": "Mobile Suit Gundam Seed Destiny",
+          "start": "2026-11-26T05:10:14-06:00",
+          "stop": "2026-11-26T05:35:00-06:00",
+          "episode_title": "Differing Views",
+          "description": "With Miriallia's help, Athrun meets with Kira and Cagalli."
         }
       ],
       "logo": "logos/48.png"
@@ -750,12 +751,6 @@ window.GUIDE_DATA = {
       "number": 56,
       "name": "Fright Night",
       "programmes": [
-        {
-          "title": "The Fear of Darkness",
-          "start": "2026-11-25T21:38:51-06:00",
-          "stop": "2026-11-25T23:11:35-06:00",
-          "description": "A brilliant young psychiatrist is forced to confront the dark creature that dwells deep within her own unconscious when she investigates the supernatural disappearance of a university student."
-        },
         {
           "title": "Horrors of Malformed Men",
           "start": "2026-11-25T23:11:35-06:00",
@@ -843,6 +838,13 @@ window.GUIDE_DATA = {
           "stop": "2026-11-26T05:08:02-06:00",
           "episode_title": "Rules of Engagement",
           "description": "Stardate: 49665.3. When Worf destroys a civilian shuttle during an engagement with the Klingons, an extradition hearing is held to see if he must face charges."
+        },
+        {
+          "title": "Star Trek",
+          "start": "2026-11-26T05:08:02-06:00",
+          "stop": "2026-11-26T05:59:27-06:00",
+          "episode_title": "Errand of Mercy",
+          "description": "The Federation and the Klingon Empire teeter on the brink of war as Kirk investigates Organia, a humble planet, inhabited by pacifists, that is unwittingly caught in the middle."
         }
       ],
       "logo": "logos/64.png"
@@ -852,13 +854,6 @@ window.GUIDE_DATA = {
       "number": 65,
       "name": "Stargate Command",
       "programmes": [
-        {
-          "title": "Stargate Atlantis",
-          "start": "2026-11-25T22:24:08-06:00",
-          "stop": "2026-11-25T23:06:50-06:00",
-          "episode_title": "Remnants",
-          "description": "While being evaluated by the International Oversight Advisory, Richard Woolsey meets a beautiful scientist new to Atlantis, who is not what she appears. Meanwhile, Lt. Colonel John Sheppard is captured and tortured by an enemy he thought he'd killed several years ago: his sworn enemy, Genii Commander Acastus Kolya."
-        },
         {
           "title": "Stargate Atlantis",
           "start": "2026-11-25T23:06:50-06:00",
@@ -994,13 +989,6 @@ window.GUIDE_DATA = {
       "number": 72,
       "name": "Comedy",
       "programmes": [
-        {
-          "title": "Barry",
-          "start": "2026-11-25T22:42:18-06:00",
-          "stop": "2026-11-25T23:09:06-06:00",
-          "episode_title": "Chapter Two: Use It",
-          "description": "In the wake of some shocking news, Gene encourages his class to channel their feelings into their work. Resolved to quit his job and put the past behind him, Barry tries not to get pulled back in by Fuches and the Chechens. Sally tries to crack the nut that is Barry."
-        },
         {
           "title": "The Office (US)",
           "start": "2026-11-25T23:09:06-06:00",
