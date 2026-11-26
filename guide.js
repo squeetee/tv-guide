@@ -1,12 +1,12 @@
 window.GUIDE_DATA = {
-  "generated_at": "2026-11-26T06:31:27.663338-06:00",
+  "generated_at": "2026-11-26T06:46:27.308940-06:00",
   "timezone": "America/Chicago",
   "source": "tunarr-xmltv",
   "window_hours": 6,
-  "window_start": "2026-11-26T06:31:27.663338-06:00",
-  "window_end": "2026-11-26T12:31:27.663338-06:00",
+  "window_start": "2026-11-26T06:46:27.308940-06:00",
+  "window_end": "2026-11-26T12:46:27.308940-06:00",
   "channel_count": 15,
-  "programme_count": 138,
+  "programme_count": 139,
   "channels": [
     {
       "id": "C2.50.tunarr.com",
@@ -109,12 +109,6 @@ window.GUIDE_DATA = {
       "name": "The Movie Channel",
       "programmes": [
         {
-          "title": "101 Dalmatians 2: Patch's London Adventure",
-          "start": "2026-11-26T05:23:12-06:00",
-          "stop": "2026-11-26T06:34:53-06:00",
-          "description": "Being one of 101 takes its toll on Patch, who doesn't feel unique. When he's accidentally left behind on moving day, he meets his idol, Thunderbolt, who enlists him on a publicity campaign."
-        },
-        {
           "title": "Lady and the Tramp II: Scamp's Adventure",
           "start": "2026-11-26T06:34:53-06:00",
           "stop": "2026-11-26T07:42:00-06:00",
@@ -193,6 +187,13 @@ window.GUIDE_DATA = {
           "start": "2026-11-26T11:30:58-06:00",
           "stop": "2026-11-26T12:42:19-06:00",
           "description": "Jaq and Gus create a storybook based on three events that happened after the first film. The stories include Cinderella's opposition to the court's strict etiquette, Jaq's becoming human for a day, and Anastasia's redemption through love."
+        },
+        {
+          "title": "Batman: The Animated Series",
+          "start": "2026-11-26T12:42:19-06:00",
+          "stop": "2026-11-26T13:05:41-06:00",
+          "episode_title": "Prophecy of Doom",
+          "description": "Bruce begins to worry when all of his wealthy friends join the same brotherhood group run by Nostromos, a so-called psychic."
         }
       ],
       "logo": "logos/11.png"
@@ -235,13 +236,6 @@ window.GUIDE_DATA = {
       "number": 32,
       "name": "Japanimation",
       "programmes": [
-        {
-          "title": "His and Her Circumstances",
-          "start": "2026-11-26T06:13:13-06:00",
-          "stop": "2026-11-26T06:38:12-06:00",
-          "episode_title": "Yuki's Trouble",
-          "description": "On the first day of high school, Yuki is not perfectly happy as she failed to get the highest score at the entrance examination. Although she does not show her desire, she wants to be the center of attention always. The honor belongs to her classmate, Arima. Yuki feels strong rivalry to Arima. She beats him at the mid-term exam. To her surprise, Arima congratulates her achievement heartily. One day, Arima tells her that he wants to “go steady” with her. Yuki bluntly refuses his proposal. Then, she accidentally reveals her true desire and is terrified by her mistake."
-        },
         {
           "title": "His and Her Circumstances",
           "start": "2026-11-26T06:38:12-06:00",
@@ -376,6 +370,12 @@ window.GUIDE_DATA = {
           "start": "2026-11-26T10:58:00-06:00",
           "stop": "2026-11-26T12:35:59-06:00",
           "description": "Hiyori is a sweet shy wallflower who is infatuated with Tomoki. She joins the New World Discovery Club in order to get closer to her crush, but Tomoki's love of peace and quiet leads him to try and scare Hiyori away with his usual perverted antics. Hiyori remains committed to her cause until a tragic accident changes everything. It seems Hiyori has a mysterious connection to the Angeloids."
+        },
+        {
+          "title": "Akira",
+          "start": "2026-11-26T12:35:59-06:00",
+          "stop": "2026-11-26T14:41:22-06:00",
+          "description": "A secret military project endangers Neo-Tokyo when it turns a teenage biker gang member into a rampaging psychic psychopath who can only be stopped by his best friend."
         }
       ],
       "logo": "logos/33.png"
@@ -385,12 +385,6 @@ window.GUIDE_DATA = {
       "number": 45,
       "name": "Mobile Suit Network",
       "programmes": [
-        {
-          "title": "Gundam Seed MSV Astray",
-          "start": "2026-11-26T06:29:11-06:00",
-          "stop": "2026-11-26T06:35:18-06:00",
-          "episode_title": "Episode 2"
-        },
         {
           "title": "Gundam Build Divers",
           "start": "2026-11-26T06:35:18-06:00",
@@ -512,6 +506,13 @@ window.GUIDE_DATA = {
           "stop": "2026-11-26T12:39:26-06:00",
           "episode_title": "Thunder in the Dark",
           "description": "With Athrun's Gouf destroyed, Ledonir Kisaka rescues them, bringing them to the Archangel."
+        },
+        {
+          "title": "After War Gundam X",
+          "start": "2026-11-26T12:39:26-06:00",
+          "stop": "2026-11-26T13:04:18-06:00",
+          "episode_title": "You Men Are Our Star of Hope!",
+          "description": "After escaping from Zonda Epta and evading the New UNE Navy, the Freeden lands in a country in southern Asia called the People's Republic of Estard and are approached by its leader and generals to join with them in their fight against the New UNE military. At first declining the offer, the crew changes their mind after they survive and witness the aftermath of a large carpet bombing raid carried out by the New UNE on civilian areas."
         }
       ],
       "logo": "logos/45.png"
@@ -565,13 +566,6 @@ window.GUIDE_DATA = {
       "number": 47,
       "name": "Universal Century",
       "programmes": [
-        {
-          "title": "Mobile Suit Gundam: The 08th MS Team",
-          "start": "2026-11-26T06:07:12-06:00",
-          "stop": "2026-11-26T06:32:54-06:00",
-          "episode_title": "Reunion",
-          "description": "The Apsalus makes its escape, with Shiro's Gundam clinging to its hull. When the malfunctioning mobile armor crashes in the snowy mountains, Shiro and Aina are reunited. They cooperate to survive in the frozen wasteland, but then rescuers arrive."
-        },
         {
           "title": "Mobile Suit Gundam",
           "start": "2026-11-26T06:32:54-06:00",
@@ -632,6 +626,13 @@ window.GUIDE_DATA = {
           "stop": "2026-11-26T12:43:32-06:00",
           "episode_title": "I Saw The Ocean In Jaburo's Skies",
           "description": "(U.C. 0079.12.03 - 0079.12.07) With Zeon losing their foothold on Earth, the 603rd is given a new project — to infiltrate a prototype weapon into the Federation airspace and attack Federation warships launching from Jaburo. Ensign Werner Holbein, an arrogant naval officer who boasts a proud maritime family tradition, is assigned to the Jotunheim to pilot the mobile diver unit Ze'Gok. However, the testing goes well below expectation, as both Holbein's test drop ends in failure after unable to score any hit with the Ze'Gok. On the third and final drop, Holbein manages to destroy a handful of Federation ships with a direct reentry/free descent before letting loose the attached \"Kuhblume\" beam scatter cannon. Before he could celebrate, two Core Booster II fighters arrived and shot down both the Ze'Gok and the retrieving Gaw carrier, killing Holbein in the process."
+        },
+        {
+          "title": "Mobile Suit Gundam: The 08th MS Team",
+          "start": "2026-11-26T12:43:32-06:00",
+          "stop": "2026-11-26T13:09:16-06:00",
+          "episode_title": "Front Line",
+          "description": "The Federation Forces, having learned that the Apsalus was created to destroy Jaburo, begin searching for the development base. Shiro and the 08th MS Team descend into enemy territory to aid the search, only to encounter retreating Zeons."
         }
       ],
       "logo": "logos/47.png"
@@ -738,6 +739,13 @@ window.GUIDE_DATA = {
           "stop": "2026-11-26T12:38:24-06:00",
           "episode_title": "Kira of the Skies",
           "description": "After a trip to the Mendel Colony, Lacus and the Eternal's location is discovered by ZAFT. Just when it looks bleak for the Eternal, Kira comes to the rescue."
+        },
+        {
+          "title": "Mobile Suit Gundam Seed Destiny",
+          "start": "2026-11-26T12:38:24-06:00",
+          "stop": "2026-11-26T13:03:12-06:00",
+          "episode_title": "Legacy of Gold",
+          "description": "Cagallia, regaining control of Orb, is given the golden mobile suit, the ORB-01 Akatsuki."
         }
       ],
       "logo": "logos/48.png"
@@ -914,13 +922,6 @@ window.GUIDE_DATA = {
       "name": "Starfleet",
       "programmes": [
         {
-          "title": "Star Trek: The Next Generation",
-          "start": "2026-11-26T06:00:18-06:00",
-          "stop": "2026-11-26T06:43:26-06:00",
-          "episode_title": "Emergence",
-          "description": "Strange images begin appearing throughout the ship's decks and holodecks. Data and the rest of the crew begin to investigate only to discover that the ship's computer itself is exhibiting the strange behavior as it begins to become self-aware."
-        },
-        {
           "title": "Star Trek: Enterprise",
           "start": "2026-11-26T06:43:26-06:00",
           "stop": "2026-11-26T07:26:08-06:00",
@@ -1044,6 +1045,13 @@ window.GUIDE_DATA = {
           "stop": "2026-11-26T12:45:30-06:00",
           "episode_title": "The Dundies",
           "description": "It's time for the \"Dundies\", Dunder Mifflin's annual awards banquet (held at the neighborhood Chili's), and the staff must endure the excruciating performance of their inept emcee, boss Michael Scott."
+        },
+        {
+          "title": "The Office (US)",
+          "start": "2026-11-26T12:45:30-06:00",
+          "stop": "2026-11-26T13:08:02-06:00",
+          "episode_title": "Sexual Harassment",
+          "description": "Just as corporate tells Toby, one of the workers at the Scranton branch, to give a seminar on sexual harassment issues, Michael receives a visit from his obnoxious sales-rep friend Todd Packer. The two chauvinistic friends try to prove that the office is not in need of harassment counseling, but only wind up making the situation worse, causing yet another zany day at the office."
         }
       ],
       "logo": "logos/72.png"
