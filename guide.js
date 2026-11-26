@@ -1,10 +1,10 @@
 window.GUIDE_DATA = {
-  "generated_at": "2026-11-26T01:46:24.850466-06:00",
+  "generated_at": "2026-11-26T02:01:26.131686-06:00",
   "timezone": "America/Chicago",
   "source": "tunarr-xmltv",
   "window_hours": 6,
-  "window_start": "2026-11-26T01:46:24.850466-06:00",
-  "window_end": "2026-11-26T07:46:24.850466-06:00",
+  "window_start": "2026-11-26T02:01:26.131686-06:00",
+  "window_end": "2026-11-26T08:01:26.131686-06:00",
   "channel_count": 15,
   "programme_count": 147,
   "channels": [
@@ -89,12 +89,6 @@ window.GUIDE_DATA = {
       "number": 3,
       "name": "The Movie Channel",
       "programmes": [
-        {
-          "title": "The Rescuers Down Under",
-          "start": "2026-11-26T00:37:42-06:00",
-          "stop": "2026-11-26T01:55:44-06:00",
-          "description": "A lawless poacher wants to capture a majestic and rare golden eagle, so he kidnaps the boy who knows where to find the bird. Not to worry -- the Rescue Aid Society's top agents, heroic mice Miss Bianca and Bernard, fly to Australia to save the day. Accompanying the fearless duo are bumbling albatross Wilbur and local field operative Jake the Kangaroo Rat."
-        },
         {
           "title": "National Lampoon's Animal House",
           "start": "2026-11-26T01:55:44-06:00",
@@ -200,6 +194,18 @@ window.GUIDE_DATA = {
           "start": "2026-11-26T07:42:05-06:00",
           "stop": "2026-11-26T07:49:42-06:00",
           "episode_title": "Episode 7"
+        },
+        {
+          "title": "Looney Tunes",
+          "start": "2026-11-26T07:49:42-06:00",
+          "stop": "2026-11-26T07:57:57-06:00",
+          "episode_title": "Episode 8"
+        },
+        {
+          "title": "Casper",
+          "start": "2026-11-26T07:57:57-06:00",
+          "stop": "2026-11-26T09:39:00-06:00",
+          "description": "Casper is a kind young ghost who peacefully haunts a mansion in Maine. When specialist James Harvey arrives to communicate with Casper and his fellow spirits, he brings along his teenage daughter, Kat. Casper quickly falls in love with Kat, but their budding relationship is complicated not only by his transparent state, but also by his troublemaking apparition uncles and their mischievous antics."
         }
       ],
       "logo": "logos/11.png"
@@ -374,6 +380,12 @@ window.GUIDE_DATA = {
           "stop": "2026-11-26T07:55:09-06:00",
           "episode_title": "The Beautiful Assassin",
           "description": "Gene and the crew meet up with Fred Luo to secure some much-needed work only to find he’s the target of the deadly assassin, Suzuka. To protect Fred and the promise of new work, Gene faces her!"
+        },
+        {
+          "title": "Dragon Ball Super",
+          "start": "2026-11-26T07:55:09-06:00",
+          "stop": "2026-11-26T08:19:25-06:00",
+          "episode_title": "Episode 14"
         }
       ],
       "logo": "logos/32.png"
@@ -421,13 +433,6 @@ window.GUIDE_DATA = {
       "number": 45,
       "name": "Mobile Suit Network",
       "programmes": [
-        {
-          "title": "Mobile Suit Gundam 0080: War in the Pocket",
-          "start": "2026-11-26T01:19:34-06:00",
-          "stop": "2026-11-26T01:47:42-06:00",
-          "episode_title": "War In the Pocket",
-          "description": "Al and Bernie repair the damaged Zaku to fight the Alex Gundam."
-        },
         {
           "title": "Mobile Suit Gundam 0080: War in the Pocket",
           "start": "2026-11-26T01:47:42-06:00",
@@ -523,6 +528,13 @@ window.GUIDE_DATA = {
           "stop": "2026-11-26T07:51:16-06:00",
           "episode_title": "What Stands in the Way",
           "description": "The newly-formed Three Ships Alliance take shelter at the abandoned Mendel colony. Unfortunately, they are tracked down by both ZAFT and Earth Alliance forces. Rau Le Creuset commands the ZAFT fleet and Captain Natarle Badgiruel, commands the Earth Alliance assault ship Dominion. Dominion takes the initiative and attacks with the mission of capturing either the Freedom or Justice."
+        },
+        {
+          "title": "Mobile Suit Gundam SEED",
+          "start": "2026-11-26T07:51:16-06:00",
+          "stop": "2026-11-26T08:16:03-06:00",
+          "episode_title": "Spiral of Encounters",
+          "description": "The Dominion retreats so their pilots can get their medicine. Mu and Dearka enter the Mendel colony to confront Rau and Yzak. Kira comes to their aid and he and Mu are shocked to discover Rau has a few secrets to reveal."
         }
       ],
       "logo": "logos/45.png"
@@ -588,13 +600,6 @@ window.GUIDE_DATA = {
       "number": 47,
       "name": "Universal Century",
       "programmes": [
-        {
-          "title": "Mobile Suit Gundam",
-          "start": "2026-11-26T01:23:35-06:00",
-          "stop": "2026-11-26T01:49:14-06:00",
-          "episode_title": "Matilda's Rescue",
-          "description": "Lieutenant Matilda's supply corps is attacked by Zeon Goufs when they attempt to send upgrade modules for the Gundam and supply and repair parts for White Base."
-        },
         {
           "title": "Mobile Suit Gundam: The 08th MS Team",
           "start": "2026-11-26T01:49:14-06:00",
@@ -700,13 +705,6 @@ window.GUIDE_DATA = {
       "number": 48,
       "name": "Cosmic Era",
       "programmes": [
-        {
-          "title": "Mobile Suit Gundam Seed Destiny",
-          "start": "2026-11-26T01:27:18-06:00",
-          "stop": "2026-11-26T01:52:04-06:00",
-          "episode_title": "Return to the Battlefield",
-          "description": "Athrun, now a member of the independent ZAFT task force, FAITH, returns to the Minerva, delivering its new mission to her captain, Talia."
-        },
         {
           "title": "Mobile Suit Gundam Seed Destiny",
           "start": "2026-11-26T01:52:04-06:00",
