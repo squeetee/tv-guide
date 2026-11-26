@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-26T17:16:25.056099-06:00",
+  "generated_at": "2026-11-26T17:31:24.937052-06:00",
   "timezone": "America/Chicago",
   "source": "tunarr-xmltv",
   "window_hours": 6,
-  "window_start": "2026-11-26T17:16:25.056099-06:00",
-  "window_end": "2026-11-26T23:16:25.056099-06:00",
+  "window_start": "2026-11-26T17:31:24.937052-06:00",
+  "window_end": "2026-11-26T23:31:24.937052-06:00",
   "channel_count": 15,
-  "programme_count": 128,
+  "programme_count": 129,
   "channels": [
     {
       "id": "C2.50.tunarr.com",
@@ -316,6 +316,13 @@
           "stop": "2026-11-26T23:30:46-06:00",
           "episode_title": "To A New Tomorrow",
           "description": "Rin has packed up all his things and has already found a cheap apartment to move into. On the day of the move, several of his friends come over and help him out."
+        },
+        {
+          "title": "Shuffle!",
+          "start": "2026-11-26T23:30:46-06:00",
+          "stop": "2026-11-26T23:56:10-06:00",
+          "episode_title": "Revealed Truth",
+          "description": "After Asa collapses once more, she's rushed to the hospital, though the doctors cannot do much to improve her condition. Asa's mother Ama reveals to Rin a deep dark secret about her past."
         }
       ],
       "logo": "logos/32.png"
@@ -357,13 +364,6 @@
       "number": 45,
       "name": "Mobile Suit Network",
       "programmes": [
-        {
-          "title": "Mobile Suit Gundam Wing",
-          "start": "2026-11-26T16:24:52-06:00",
-          "stop": "2026-11-26T17:24:48-06:00",
-          "episode_title": "Operation Meteor II: Odd Numbers II",
-          "description": "Feature-length episode recapping events from the Gundam Wing TV series from the point of view of Heero, Trowa and Wufei. The episode also features brief amounts of new footage of the characters after the events of the TV series."
-        },
         {
           "title": "SD Gundam Sangokuden Brave Battle Warriors",
           "start": "2026-11-26T17:24:48-06:00",
@@ -459,6 +459,13 @@
           "stop": "2026-11-26T23:26:40-06:00",
           "episode_title": "Five Gundams Confirmed",
           "description": "Heero is injured and is kept for treatment at the Alliance hospital. At the Corsican base of the Mediterranean, the Gundam Heavyarms, piloted by L3's Trowa Barton, annihilates everything in its path. Then things get even worse for the Alliance when the Gundam Sandrock shows up."
+        },
+        {
+          "title": "Mobile Suit Victory Gundam",
+          "start": "2026-11-26T23:26:40-06:00",
+          "stop": "2026-11-26T23:51:36-06:00",
+          "episode_title": "Sea Dwellers",
+          "description": "BESPA launches Operation: Earth Cleansing in preparation of Queen Maria's arrival to Earth. Cronicle's fleet destroys a Federation-controlled city on the coast and the Shrike Team tries to stop the advancing forces."
         }
       ],
       "logo": "logos/45.png"
@@ -506,13 +513,6 @@
       "number": 47,
       "name": "Universal Century",
       "programmes": [
-        {
-          "title": "Mobile Suit Gundam 0080: War in the Pocket",
-          "start": "2026-11-26T16:58:09-06:00",
-          "stop": "2026-11-26T17:26:25-06:00",
-          "episode_title": "And At the End of the Rainbow?",
-          "description": "Al holds on to Garcia's truck as it drives through the city."
-        },
         {
           "title": "Mobile Suit Gundam",
           "start": "2026-11-26T17:26:25-06:00",
@@ -610,6 +610,13 @@
           "stop": "2026-11-26T23:28:45-06:00",
           "episode_title": "A Cosmic Glow",
           "description": "Amuro and Lalah fight each other for the second time and communicate telepathically, while Gihren Zabi inspects the construction of the Solar Ray."
+        },
+        {
+          "title": "Gundam Evolve",
+          "start": "2026-11-26T23:28:45-06:00",
+          "stop": "2026-11-26T23:35:45-06:00",
+          "episode_title": "RX-78-2 Gundam",
+          "description": "Universal Century: Amuro Ray, waiting to start in the final battle of A Baoa Qu, sits in his RX-78-2 Gundam while the other forces are already fighting. He recalls many of the battles he has fought until now before launching."
         }
       ],
       "logo": "logos/47.png"
@@ -686,6 +693,13 @@
           "stop": "2026-11-26T23:22:06-06:00",
           "episode_title": "Songstress of the Enemy Forces",
           "description": "Lacus Clyne, the daughter of PLANT Supreme Council Chairman Siegel Clyne, is found within the lifepod. Her presence causes tension within the crew, but when the crew receives a message from the 8th Fleet that they are being searched and rescued, they are overjoyed."
+        },
+        {
+          "title": "Mobile Suit Gundam SEED",
+          "start": "2026-11-26T23:22:06-06:00",
+          "stop": "2026-11-26T23:46:52-06:00",
+          "episode_title": "The Fading Light",
+          "description": "The Archangel is to meet with the 8th fleet but is attacked by the Le Creuset Team. Flay witnesses the death of her father when Kira fails to protect the escort ships. In desperation, the Archangel reveals Lacus is on board the ship, causing the attackers to withdraw."
         }
       ],
       "logo": "logos/48.png"
@@ -799,13 +813,6 @@
       "name": "Stargate Command",
       "programmes": [
         {
-          "title": "Stargate SG-1",
-          "start": "2026-11-26T16:44:32-06:00",
-          "stop": "2026-11-26T17:29:38-06:00",
-          "episode_title": "Enigma",
-          "description": "The SG-1 team rescues a group of advanced humans from a planet near destruction, and must find a new home for the refugees before the Pentagon gets their hands on them."
-        },
-        {
           "title": "Stargate Atlantis",
           "start": "2026-11-26T17:29:38-06:00",
           "stop": "2026-11-26T18:12:27-06:00",
@@ -860,6 +867,13 @@
           "stop": "2026-11-26T23:17:23-06:00",
           "episode_title": "Tin Man",
           "description": "The members of SG-1 arrive on P3X-989 and are knocked unconscious. They wake up and return to Earth only to find that they are not quite themselves."
+        },
+        {
+          "title": "Stargate Infinity",
+          "start": "2026-11-26T23:17:23-06:00",
+          "stop": "2026-11-26T23:39:34-06:00",
+          "episode_title": "The Answer",
+          "description": "The team arrive on Octasar where a Dr. Carrie Mason of the SGC is working with a local scientist, Dr. Bri'sal, who is working on a project of universal telepathy as part of a scientific conference and believes the Tlak'khan can help him - they're playing him, naturally, since Bri'sal's fellow scientists don't support his project. Stacey overhears them while the rest of the team convinces Mason they're not traitors. Mason doesn't believe them and when the project succeeds the Tlak'khan take control. The team launches an attack but the mind-controlled scientists are forced to attack them, but Mason grabs Da'kyll's device, freeing everyone and forcing the Tlak'khan to retreat."
         }
       ],
       "logo": "logos/65.png"
@@ -869,13 +883,6 @@
       "number": 66,
       "name": "Starfleet",
       "programmes": [
-        {
-          "title": "Star Trek",
-          "start": "2026-11-26T16:36:53-06:00",
-          "stop": "2026-11-26T17:28:11-06:00",
-          "episode_title": "Where No Man Has Gone Before",
-          "description": "When the Enterprise attempts to penetrate a space barrier, it is damaged and creates a potentially worse problem. Two crew members, including Kirk's best friend, gain psionic powers that are growing exponentially. This leaves Captain Kirk with the difficult choice; either marooning them or killing before they get so powerful they lose their humanity and become truly dangerous."
-        },
         {
           "title": "Star Trek",
           "start": "2026-11-26T17:28:11-06:00",
