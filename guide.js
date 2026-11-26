@@ -1,10 +1,10 @@
 window.GUIDE_DATA = {
-  "generated_at": "2026-11-26T11:16:25.785717-06:00",
+  "generated_at": "2026-11-26T11:31:24.747623-06:00",
   "timezone": "America/Chicago",
   "source": "tunarr-xmltv",
   "window_hours": 6,
-  "window_start": "2026-11-26T11:16:25.785717-06:00",
-  "window_end": "2026-11-26T17:16:25.785717-06:00",
+  "window_start": "2026-11-26T11:31:24.747623-06:00",
+  "window_end": "2026-11-26T17:31:24.747623-06:00",
   "channel_count": 15,
   "programme_count": 143,
   "channels": [
@@ -153,12 +153,6 @@ window.GUIDE_DATA = {
       "number": 11,
       "name": "Kidz!",
       "programmes": [
-        {
-          "title": "Christmas in Wonderland",
-          "start": "2026-11-26T09:55:20-06:00",
-          "stop": "2026-11-26T11:30:58-06:00",
-          "description": "Three children and their father move from Los Angeles, California to Edmonton, Alberta. When they go shopping at West Edmonton Mall, they find counterfeit cash, inadvertently help catch crooks, and make a discovery about Santa."
-        },
         {
           "title": "Cinderella II: Dreams Come True",
           "start": "2026-11-26T11:30:58-06:00",
@@ -432,13 +426,6 @@ window.GUIDE_DATA = {
       "programmes": [
         {
           "title": "Mobile Suit Gundam SEED",
-          "start": "2026-11-26T10:53:14-06:00",
-          "stop": "2026-11-26T11:18:00-06:00",
-          "episode_title": "The Opening Door",
-          "description": "Kira and Mu face terrifying revelations in an encounter with Rau. Dearka and Yzak have their own meeting where they question what they are truly fighting against. Meanwhile, the Dominion and the Earth Alliance once again attacks. Rau returns to his ship and sends Flay back to the Earth Forces."
-        },
-        {
-          "title": "Mobile Suit Gundam SEED",
           "start": "2026-11-26T11:18:00-06:00",
           "stop": "2026-11-26T11:42:46-06:00",
           "episode_title": "A Place for the Soul",
@@ -525,6 +512,12 @@ window.GUIDE_DATA = {
           "stop": "2026-11-26T17:24:48-06:00",
           "episode_title": "Operation Meteor II: Odd Numbers II",
           "description": "Feature-length episode recapping events from the Gundam Wing TV series from the point of view of Heero, Trowa and Wufei. The episode also features brief amounts of new footage of the characters after the events of the TV series."
+        },
+        {
+          "title": "SD Gundam Sangokuden Brave Battle Warriors",
+          "start": "2026-11-26T17:24:48-06:00",
+          "stop": "2026-11-26T17:37:38-06:00",
+          "episode_title": "Mirage of Terror"
         }
       ],
       "logo": "logos/45.png"
@@ -640,6 +633,13 @@ window.GUIDE_DATA = {
           "stop": "2026-11-26T17:26:25-06:00",
           "episode_title": "And At the End of the Rainbow?",
           "description": "Al holds on to Garcia's truck as it drives through the city."
+        },
+        {
+          "title": "Mobile Suit Gundam",
+          "start": "2026-11-26T17:26:25-06:00",
+          "stop": "2026-11-26T17:52:05-06:00",
+          "episode_title": "Farewell in Side Six",
+          "description": "In need of repairs, the White Base is attacked outside the neutral Side Six by a fleet led by Captain Coskon."
         }
       ],
       "logo": "logos/47.png"
@@ -649,13 +649,6 @@ window.GUIDE_DATA = {
       "number": 48,
       "name": "Cosmic Era",
       "programmes": [
-        {
-          "title": "Mobile Suit Gundam Seed Destiny",
-          "start": "2026-11-26T10:59:09-06:00",
-          "stop": "2026-11-26T11:23:58-06:00",
-          "episode_title": "Athrun on the Run",
-          "description": "Athrun, after being framed a traitor, escapes with Meyrin Hawke."
-        },
         {
           "title": "Mobile Suit Gundam Seed Destiny",
           "start": "2026-11-26T11:23:58-06:00",
@@ -806,13 +799,6 @@ window.GUIDE_DATA = {
       "name": "Sci-Fi",
       "programmes": [
         {
-          "title": "Farscape",
-          "start": "2026-11-26T10:39:32-06:00",
-          "stop": "2026-11-26T11:26:27-06:00",
-          "episode_title": "Scratch 'n Sniff",
-          "description": "Crichton, D'Argo, Jool and Chiana are forced to take a holiday by Pilot as he is fed up with their constant bickering."
-        },
-        {
           "title": "The Expanse",
           "start": "2026-11-26T11:26:27-06:00",
           "stop": "2026-11-26T12:14:27-06:00",
@@ -938,6 +924,13 @@ window.GUIDE_DATA = {
           "stop": "2026-11-26T17:29:38-06:00",
           "episode_title": "Enigma",
           "description": "The SG-1 team rescues a group of advanced humans from a planet near destruction, and must find a new home for the refugees before the Pentagon gets their hands on them."
+        },
+        {
+          "title": "Stargate Atlantis",
+          "start": "2026-11-26T17:29:38-06:00",
+          "stop": "2026-11-26T18:12:27-06:00",
+          "episode_title": "Suspicion",
+          "description": "After a series of run-ins with the Wraith, the team begins to suspect their Athosian allies of having a spy in their midst."
         }
       ],
       "logo": "logos/65.png"
@@ -995,6 +988,13 @@ window.GUIDE_DATA = {
           "stop": "2026-11-26T17:28:11-06:00",
           "episode_title": "Where No Man Has Gone Before",
           "description": "When the Enterprise attempts to penetrate a space barrier, it is damaged and creates a potentially worse problem. Two crew members, including Kirk's best friend, gain psionic powers that are growing exponentially. This leaves Captain Kirk with the difficult choice; either marooning them or killing before they get so powerful they lose their humanity and become truly dangerous."
+        },
+        {
+          "title": "Star Trek",
+          "start": "2026-11-26T17:28:11-06:00",
+          "stop": "2026-11-26T18:19:31-06:00",
+          "episode_title": "The Naked Time",
+          "description": "An alien virus strips the enterprise crew of their inhibitions, causing chaos as each crew member is overcome by hidden emotions. Meanwhile, the Enterprise is being pulled inexorably into a nearby planet's gravity well."
         }
       ],
       "logo": "logos/66.png"
