@@ -1,24 +1,18 @@
 window.GUIDE_DATA = {
-  "generated_at": "2026-11-26T11:46:24.808668-06:00",
+  "generated_at": "2026-11-26T12:01:27.325771-06:00",
   "timezone": "America/Chicago",
   "source": "tunarr-xmltv",
   "window_hours": 6,
-  "window_start": "2026-11-26T11:46:24.808668-06:00",
-  "window_end": "2026-11-26T17:46:24.808668-06:00",
+  "window_start": "2026-11-26T12:01:27.325771-06:00",
+  "window_end": "2026-11-26T18:01:27.325771-06:00",
   "channel_count": 15,
-  "programme_count": 143,
+  "programme_count": 145,
   "channels": [
     {
       "id": "C2.50.tunarr.com",
       "number": 2,
       "name": "Syndication",
       "programmes": [
-        {
-          "title": "Looney Tunes",
-          "start": "2026-11-26T11:02:12-06:00",
-          "stop": "2026-11-26T11:50:47-06:00",
-          "episode_title": "Episode 6"
-        },
         {
           "title": "Looney Tunes",
           "start": "2026-11-26T11:50:47-06:00",
@@ -113,6 +107,13 @@ window.GUIDE_DATA = {
           "stop": "2026-11-26T17:55:21-06:00",
           "episode_title": "Baby-Doll",
           "description": "Baby-Doll, a former child star, pours out her frustrations on her TV family by kidnapping them and holding them hostage."
+        },
+        {
+          "title": "Batman: The Animated Series",
+          "start": "2026-11-26T17:55:21-06:00",
+          "stop": "2026-11-26T18:17:36-06:00",
+          "episode_title": "Time Out of Joint",
+          "description": "The Clock King plots against Mayor Hill after he steals an invention that allows him to travel at super speed."
         }
       ],
       "logo": "logos/2.png"
@@ -251,6 +252,12 @@ window.GUIDE_DATA = {
           "stop": "2026-11-26T17:58:57-06:00",
           "episode_title": "Cloak of Darkness",
           "description": "Ahsoka and Jedi Master Luminara escort the captured notorious Separatist leader Nute Gunray to Coruscant so he can stand trial for his crimes. However, they are unaware that Count Dooku has sent his assassin, Asajj Ventress, to free their captive. With the help of Senate Commandos, the Jedi have to thwart Ventress's efforts to free their prisoner, despite the traitorous plans of Senate Guard Captain Argyus."
+        },
+        {
+          "title": "Mickey's Once Upon a Christmas",
+          "start": "2026-11-26T17:58:57-06:00",
+          "stop": "2026-11-26T19:03:00-06:00",
+          "description": "Three tales of Christmas past about Donald's nephews reliving the day on repeat, Max Goof's belief in Santa being challenged, and Mickey and Minnie making ends meet."
         }
       ],
       "logo": "logos/11.png"
@@ -396,6 +403,13 @@ window.GUIDE_DATA = {
           "start": "2026-11-26T17:32:24-06:00",
           "stop": "2026-11-26T17:53:04-06:00",
           "episode_title": "Episode 15"
+        },
+        {
+          "title": "Dragon Ball GT",
+          "start": "2026-11-26T17:53:04-06:00",
+          "stop": "2026-11-26T18:13:17-06:00",
+          "episode_title": "The Most Wanted List",
+          "description": "After finding themselves as public enemy number one on the merchant planet, Imecka, Goku, Pan, and Trunks attempt a daring rescue mission to salvage their ship. Without it they may be stuck on the planet forever! Casting all fear aside, the Saiyans try a direct approach...and find Don Kee's army locked and loaded!"
         }
       ],
       "logo": "logos/32.png"
@@ -437,12 +451,6 @@ window.GUIDE_DATA = {
       "number": 45,
       "name": "Mobile Suit Network",
       "programmes": [
-        {
-          "title": "Mobile Suit Gundam-san",
-          "start": "2026-11-26T11:46:17-06:00",
-          "stop": "2026-11-26T11:49:48-06:00",
-          "episode_title": "Episode 2"
-        },
         {
           "title": "Mobile Suit Gundam Seed Destiny",
           "start": "2026-11-26T11:49:48-06:00",
@@ -524,6 +532,13 @@ window.GUIDE_DATA = {
           "start": "2026-11-26T17:37:38-06:00",
           "stop": "2026-11-26T17:50:29-06:00",
           "episode_title": "A New World"
+        },
+        {
+          "title": "Mobile Suit Gundam AGE",
+          "start": "2026-11-26T17:50:29-06:00",
+          "stop": "2026-11-26T18:15:38-06:00",
+          "episode_title": "The Dreaded Mucell",
+          "description": "Flit recovers a Vagan intact cockpit from their previous battle and Dique's team finds that its pilot was using a special helmet to artificially stimulate his X-Rounder abilities. Against orders, Asemu steals the helmet believing it would give him the chance to get on par with Zeheart's skills, but the side effects of wearing it in combat puts his life in danger."
         }
       ],
       "logo": "logos/45.png"
@@ -646,6 +661,13 @@ window.GUIDE_DATA = {
           "stop": "2026-11-26T17:52:05-06:00",
           "episode_title": "Farewell in Side Six",
           "description": "In need of repairs, the White Base is attacked outside the neutral Side Six by a fleet led by Captain Coskon."
+        },
+        {
+          "title": "Mobile Suit Gundam 0080: War in the Pocket",
+          "start": "2026-11-26T17:52:05-06:00",
+          "stop": "2026-11-26T18:20:20-06:00",
+          "episode_title": "Over the River and Through the Woods",
+          "description": "Al sneaks through the conduit back to Bernie and tells him he got pictures of a Federation mobile suit."
         }
       ],
       "logo": "logos/47.png"
@@ -655,13 +677,6 @@ window.GUIDE_DATA = {
       "number": 48,
       "name": "Cosmic Era",
       "programmes": [
-        {
-          "title": "Mobile Suit Gundam Seed Destiny",
-          "start": "2026-11-26T11:23:58-06:00",
-          "stop": "2026-11-26T11:48:47-06:00",
-          "episode_title": "Thunder in the Dark",
-          "description": "With Athrun's Gouf destroyed, Ledonir Kisaka rescues them, bringing them to the Archangel."
-        },
         {
           "title": "Mobile Suit Gundam Seed Destiny",
           "start": "2026-11-26T11:48:47-06:00",
@@ -757,6 +772,12 @@ window.GUIDE_DATA = {
           "start": "2026-11-26T17:10:40-06:00",
           "stop": "2026-11-26T17:57:37-06:00",
           "episode_title": "Episode 1"
+        },
+        {
+          "title": "Mobile Suit Gundam SEED FREEDOM",
+          "start": "2026-11-26T17:57:37-06:00",
+          "stop": "2026-11-26T20:04:00-06:00",
+          "description": "In C.E.75, the fighting still continues. There are independence movements, and aggression by Blue Cosmos... In order to calm the situation, a global peace monitoring agency called COMPASS is established, with Lacus as its first president. As members of COMPASS, Kira and his comrades intervene into various regional battles. Then a newly established nation called Foundation proposes a joint operation against a Blue Cosmos stronghold."
         }
       ],
       "logo": "logos/48.png"
@@ -1004,13 +1025,6 @@ window.GUIDE_DATA = {
       "number": 72,
       "name": "Comedy",
       "programmes": [
-        {
-          "title": "The IT Crowd",
-          "start": "2026-11-26T11:33:47-06:00",
-          "stop": "2026-11-26T11:59:10-06:00",
-          "episode_title": "Fifty-Fifty",
-          "description": "When Roy gets dumped after a date, he starts believing that girls go for \"bad boys\" and creates a fake profile on a dating site and, surprisingly, gets a response. Meanwhile, Jen starts flirting with a security guard."
-        },
         {
           "title": "The IT Crowd",
           "start": "2026-11-26T11:59:10-06:00",
