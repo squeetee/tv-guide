@@ -1,25 +1,18 @@
 window.GUIDE_DATA = {
-  "generated_at": "2026-11-26T17:01:25.141372-06:00",
+  "generated_at": "2026-11-26T17:16:25.056099-06:00",
   "timezone": "America/Chicago",
   "source": "tunarr-xmltv",
   "window_hours": 6,
-  "window_start": "2026-11-26T17:01:25.141372-06:00",
-  "window_end": "2026-11-26T23:01:25.141372-06:00",
+  "window_start": "2026-11-26T17:16:25.056099-06:00",
+  "window_end": "2026-11-26T23:16:25.056099-06:00",
   "channel_count": 15,
-  "programme_count": 129,
+  "programme_count": 128,
   "channels": [
     {
       "id": "C2.50.tunarr.com",
       "number": 2,
       "name": "Syndication",
       "programmes": [
-        {
-          "title": "Justice League",
-          "start": "2026-11-26T16:45:12-06:00",
-          "stop": "2026-11-26T17:08:58-06:00",
-          "episode_title": "Hearts and Minds (1)",
-          "description": "John Stewart leaves on a mission to help his fellow Green Lanterns overthrow a intergalactic dictator with strange powers."
-        },
         {
           "title": "Justice League",
           "start": "2026-11-26T17:08:58-06:00",
@@ -106,12 +99,6 @@ window.GUIDE_DATA = {
       "name": "The Movie Channel",
       "programmes": [
         {
-          "title": "Star Wars: The Clone Wars",
-          "start": "2026-11-26T15:22:35-06:00",
-          "stop": "2026-11-26T17:01:56-06:00",
-          "description": "As the Clone Wars sweep the galaxy, Anakin Skywalker and his new Padawan, Ahsoka Tano, embark on a mission to rescue the kidnapped son of Jabba the Hutt. However, the renegade Count Dooku is determined to ensure that they fail."
-        },
-        {
           "title": "There's Something About Mary",
           "start": "2026-11-26T17:01:56-06:00",
           "stop": "2026-11-26T19:13:31-06:00",
@@ -143,18 +130,6 @@ window.GUIDE_DATA = {
       "number": 11,
       "name": "Kidz!",
       "programmes": [
-        {
-          "title": "Looney Tunes",
-          "start": "2026-11-26T16:55:32-06:00",
-          "stop": "2026-11-26T17:03:41-06:00",
-          "episode_title": "Episode 5"
-        },
-        {
-          "title": "Looney Tunes",
-          "start": "2026-11-26T17:03:41-06:00",
-          "stop": "2026-11-26T17:11:57-06:00",
-          "episode_title": "Episode 6"
-        },
         {
           "title": "Star Wars: The Clone Wars",
           "start": "2026-11-26T17:11:57-06:00",
@@ -254,13 +229,6 @@ window.GUIDE_DATA = {
       "name": "Japanimation",
       "programmes": [
         {
-          "title": "Hunter x Hunter",
-          "start": "2026-11-26T16:47:25-06:00",
-          "stop": "2026-11-26T17:11:55-06:00",
-          "episode_title": "Hope x And x Ambition",
-          "description": "During the first test, a number of participants fall out from fatigue after running for at least forty kilometers. Leorio almost gives up until he is encouraged by Gon, who waits for him. Killua, a participant, is introduced and he is curious of Gon's personality when he discovers that the boy is the same age as him. Kurapika and Leorio talk about the reason for being a hunter, with Kurapika wanting to take down the Phantom Troupe as his clan was massacred by them for their precious scarlet eyes, which manifest when the Kurta uses their heightened sense. Leorio aims to be a hunter for money, for purely altruistic reasons, as his childhood friend died of an illness without the funds to save him. He wishes to be a doctor so he can give his patients free treatment. Finally, the participants reach the end of the tunnel they are in and up to the surface to the Numere Wetlands, also known as Swindlers' Swamp."
-        },
-        {
           "title": "Dragon Ball",
           "start": "2026-11-26T17:11:55-06:00",
           "stop": "2026-11-26T17:32:24-06:00",
@@ -341,6 +309,13 @@ window.GUIDE_DATA = {
           "stop": "2026-11-26T23:05:23-06:00",
           "episode_title": "Invasion",
           "description": "Jinto recalls that day when the alien race, the Abh, invaded his home planet. Now a teen, he must go to Military School where he will finally meet an Abh."
+        },
+        {
+          "title": "Shuffle!",
+          "start": "2026-11-26T23:05:23-06:00",
+          "stop": "2026-11-26T23:30:46-06:00",
+          "episode_title": "To A New Tomorrow",
+          "description": "Rin has packed up all his things and has already found a cheap apartment to move into. On the day of the move, several of his friends come over and help him out."
         }
       ],
       "logo": "logos/32.png"
@@ -477,6 +452,13 @@ window.GUIDE_DATA = {
           "stop": "2026-11-26T23:01:46-06:00",
           "episode_title": "The Gundam Deathscythe",
           "description": "Heero plans to destroy the Wing Gundam before it is discovered by the Alliance forces. Heero gets his hands on two torpedoes and attempts to destroy his Gundam. Relena, refusing to believe Heero's threat, tries to confront him but is interrupted by the arrival of Duo Maxwell..."
+        },
+        {
+          "title": "Mobile Suit Gundam Wing",
+          "start": "2026-11-26T23:01:46-06:00",
+          "stop": "2026-11-26T23:26:40-06:00",
+          "episode_title": "Five Gundams Confirmed",
+          "description": "Heero is injured and is kept for treatment at the Alliance hospital. At the Corsican base of the Mediterranean, the Gundam Heavyarms, piloted by L3's Trowa Barton, annihilates everything in its path. Then things get even worse for the Alliance when the Gundam Sandrock shows up."
         }
       ],
       "logo": "logos/45.png"
@@ -509,6 +491,12 @@ window.GUIDE_DATA = {
           "start": "2026-11-26T21:02:20-06:00",
           "stop": "2026-11-26T23:08:43-06:00",
           "description": "In C.E.75, the fighting still continues. There are independence movements, and aggression by Blue Cosmos... In order to calm the situation, a global peace monitoring agency called COMPASS is established, with Lacus as its first president. As members of COMPASS, Kira and his comrades intervene into various regional battles. Then a newly established nation called Foundation proposes a joint operation against a Blue Cosmos stronghold."
+        },
+        {
+          "title": "Mobile Suit Gundam III: Encounters in Space",
+          "start": "2026-11-26T23:08:43-06:00",
+          "stop": "2026-11-27T01:30:10-06:00",
+          "description": "Amuro Ray and the rest of the White Base crew, now denominated the 13th Autonomous Corps, return to outer space to support the rest of the Earth Federation forces for the decisive battle against the Duchy of Zeon's forces."
         }
       ],
       "logo": "logos/46.png"
@@ -615,6 +603,13 @@ window.GUIDE_DATA = {
           "stop": "2026-11-26T23:03:05-06:00",
           "episode_title": "Lalah's Dilemma",
           "description": "The Gundam is upgraded and Lalah's Elmeth enters combat for the first time; Amuro and Lalah cross paths again but this time as enemies."
+        },
+        {
+          "title": "Mobile Suit Gundam",
+          "start": "2026-11-26T23:03:05-06:00",
+          "stop": "2026-11-26T23:28:45-06:00",
+          "episode_title": "A Cosmic Glow",
+          "description": "Amuro and Lalah fight each other for the second time and communicate telepathically, while Gihren Zabi inspects the construction of the Solar Ray."
         }
       ],
       "logo": "logos/47.png"
@@ -624,12 +619,6 @@ window.GUIDE_DATA = {
       "number": 48,
       "name": "Cosmic Era",
       "programmes": [
-        {
-          "title": "Mobile Suit Gundam Seed Destiny",
-          "start": "2026-11-26T16:46:22-06:00",
-          "stop": "2026-11-26T17:10:40-06:00",
-          "episode_title": "Episode 51"
-        },
         {
           "title": "Mobile Suit Gundam Seed Destiny",
           "start": "2026-11-26T17:10:40-06:00",
@@ -706,12 +695,6 @@ window.GUIDE_DATA = {
       "number": 56,
       "name": "Fright Night",
       "programmes": [
-        {
-          "title": "The Thing",
-          "start": "2026-11-26T15:24:00-06:00",
-          "stop": "2026-11-26T17:13:28-06:00",
-          "description": "A research team in Antarctica is hunted by a shape-shifting alien that assumes the appearance of its victims."
-        },
         {
           "title": "Young Frankenstein",
           "start": "2026-11-26T17:13:28-06:00",
@@ -799,6 +782,13 @@ window.GUIDE_DATA = {
           "stop": "2026-11-26T23:02:21-06:00",
           "episode_title": "The City on the Edge of Forever",
           "description": "Kirk and Spock must travel into the past in order to correct a change that will alter history."
+        },
+        {
+          "title": "Star Trek",
+          "start": "2026-11-26T23:02:21-06:00",
+          "stop": "2026-11-26T23:53:45-06:00",
+          "episode_title": "Operation: Annihilate!",
+          "description": "Kirk and the Enterprise must combat parasitic aliens threatening the lives of millions."
         }
       ],
       "logo": "logos/64.png"
@@ -988,6 +978,13 @@ window.GUIDE_DATA = {
           "stop": "2026-11-26T23:11:49-06:00",
           "episode_title": "Watkin",
           "description": "Dirk and Todd find themselves in a complicated and dangerous situation left behind by Patrick Spring. As the police begin putting together the pieces of their imponderable case, an FBI agent's unlikely return complicates matters for Amanda and Farah."
+        },
+        {
+          "title": "The Office (US)",
+          "start": "2026-11-26T23:11:49-06:00",
+          "stop": "2026-11-26T23:34:43-06:00",
+          "episode_title": "Halloween",
+          "description": "Corporate demands a Halloween layoff, leaving Michael in a two-headed costume dodging decisions while Dwight and Jim's résumé battle, and Creed's survival instincts, turn the spooky day into real dread."
         }
       ],
       "logo": "logos/72.png"
