@@ -1,25 +1,18 @@
 {
-  "generated_at": "2026-11-26T11:01:26.082167-06:00",
+  "generated_at": "2026-11-26T11:16:25.785717-06:00",
   "timezone": "America/Chicago",
   "source": "tunarr-xmltv",
   "window_hours": 6,
-  "window_start": "2026-11-26T11:01:26.082167-06:00",
-  "window_end": "2026-11-26T17:01:26.082167-06:00",
+  "window_start": "2026-11-26T11:16:25.785717-06:00",
+  "window_end": "2026-11-26T17:16:25.785717-06:00",
   "channel_count": 15,
-  "programme_count": 141,
+  "programme_count": 143,
   "channels": [
     {
       "id": "C2.50.tunarr.com",
       "number": 2,
       "name": "Syndication",
       "programmes": [
-        {
-          "title": "Defiance",
-          "start": "2026-11-26T10:18:47-06:00",
-          "stop": "2026-11-26T11:02:12-06:00",
-          "episode_title": "If You Could See Her Through My Eyes",
-          "description": "Datak is framed for a bizarre murder and turns to an unlikely ally for help; Irisa discovers more about her destiny after encountering a mysterious stranger."
-        },
         {
           "title": "Looney Tunes",
           "start": "2026-11-26T11:02:12-06:00",
@@ -106,6 +99,13 @@
           "stop": "2026-11-26T17:08:58-06:00",
           "episode_title": "Hearts and Minds (1)",
           "description": "John Stewart leaves on a mission to help his fellow Green Lanterns overthrow a intergalactic dictator with strange powers."
+        },
+        {
+          "title": "Justice League",
+          "start": "2026-11-26T17:08:58-06:00",
+          "stop": "2026-11-26T17:33:12-06:00",
+          "episode_title": "Hearts and Minds (2)",
+          "description": "Despero's followers attack and John is forced to use a gun when his ring becomes useless due to Despero's mental tampering. While John, Katma, and Hawkgirl are captured, J'onn, Kilowog, and Flash must try to deactivate the mystic flames and deprive Despero of his power."
         }
       ],
       "logo": "logos/2.png"
@@ -115,12 +115,6 @@
       "number": 3,
       "name": "The Movie Channel",
       "programmes": [
-        {
-          "title": "Scott Pilgrim vs. the World",
-          "start": "2026-11-26T09:12:59-06:00",
-          "stop": "2026-11-26T11:06:16-06:00",
-          "description": "As bass guitarist for a garage-rock band, Scott Pilgrim has never had trouble getting a girlfriend; usually, the problem is getting rid of them. But when Ramona Flowers skates into his heart, he finds she has the most troublesome baggage of all: an army of ex-boyfriends who will stop at nothing to eliminate him from her list of suitors."
-        },
         {
           "title": "Meet the Parents",
           "start": "2026-11-26T11:06:16-06:00",
@@ -144,6 +138,12 @@
           "start": "2026-11-26T15:22:35-06:00",
           "stop": "2026-11-26T17:01:56-06:00",
           "description": "As the Clone Wars sweep the galaxy, Anakin Skywalker and his new Padawan, Ahsoka Tano, embark on a mission to rescue the kidnapped son of Jabba the Hutt. However, the renegade Count Dooku is determined to ensure that they fail."
+        },
+        {
+          "title": "There's Something About Mary",
+          "start": "2026-11-26T17:01:56-06:00",
+          "stop": "2026-11-26T19:13:31-06:00",
+          "description": "For Ted, prom night went about as bad as it’s possible for any night to go. Thirteen years later, he finally gets another chance with his old prom date, only to run up against other suitors including the sleazy detective he hired to find her."
         }
       ],
       "logo": "logos/3.png"
@@ -230,6 +230,19 @@
           "start": "2026-11-26T16:55:32-06:00",
           "stop": "2026-11-26T17:03:41-06:00",
           "episode_title": "Episode 5"
+        },
+        {
+          "title": "Looney Tunes",
+          "start": "2026-11-26T17:03:41-06:00",
+          "stop": "2026-11-26T17:11:57-06:00",
+          "episode_title": "Episode 6"
+        },
+        {
+          "title": "Star Wars: The Clone Wars",
+          "start": "2026-11-26T17:11:57-06:00",
+          "stop": "2026-11-26T17:35:27-06:00",
+          "episode_title": "Bombad Jedi",
+          "description": "Padmé travels to Rodia to meet with old family friend Onaconda Farr about the lack of food rations. Unfortunately Farr has just made a deal with the Separatists. Padmé is imprisoned, leaving it up to Jar Jar Binks and C-3PO to rescue her."
         }
       ],
       "logo": "logos/11.png"
@@ -239,12 +252,6 @@
       "number": 28,
       "name": "Adrenaline",
       "programmes": [
-        {
-          "title": "Big Trouble in Little China",
-          "start": "2026-11-26T09:28:08-06:00",
-          "stop": "2026-11-26T11:08:45-06:00",
-          "description": "Truck driver Jack Burton gets embroiled in a supernatural battle when his best friend Wang Chi's green-eyed fiancée is kidnapped by henchmen of the sorcerer Lo Pan, who must marry a girl with green eyes in order to return to the human realm."
-        },
         {
           "title": "Star Trek Into Darkness",
           "start": "2026-11-26T11:08:45-06:00",
@@ -271,13 +278,6 @@
       "number": 32,
       "name": "Japanimation",
       "programmes": [
-        {
-          "title": ".hack//SIGN",
-          "start": "2026-11-26T10:48:44-06:00",
-          "stop": "2026-11-26T11:14:56-06:00",
-          "episode_title": "Phantom",
-          "description": "Despite the traps laid out for them, Bear, Mimiru and Subaru manage to find Harold Huick's incarnation, who tells them his secret. But the mysterious entity which was using Tsukasa seems determined to stop the secret getting out."
-        },
         {
           "title": "Dragon Ball Z",
           "start": "2026-11-26T11:14:56-06:00",
@@ -383,6 +383,12 @@
           "stop": "2026-11-26T17:11:55-06:00",
           "episode_title": "Hope x And x Ambition",
           "description": "During the first test, a number of participants fall out from fatigue after running for at least forty kilometers. Leorio almost gives up until he is encouraged by Gon, who waits for him. Killua, a participant, is introduced and he is curious of Gon's personality when he discovers that the boy is the same age as him. Kurapika and Leorio talk about the reason for being a hunter, with Kurapika wanting to take down the Phantom Troupe as his clan was massacred by them for their precious scarlet eyes, which manifest when the Kurta uses their heightened sense. Leorio aims to be a hunter for money, for purely altruistic reasons, as his childhood friend died of an illness without the funds to save him. He wishes to be a doctor so he can give his patients free treatment. Finally, the participants reach the end of the tunnel they are in and up to the surface to the Numere Wetlands, also known as Swindlers' Swamp."
+        },
+        {
+          "title": "Dragon Ball",
+          "start": "2026-11-26T17:11:55-06:00",
+          "stop": "2026-11-26T17:32:24-06:00",
+          "episode_title": "Episode 14"
         }
       ],
       "logo": "logos/32.png"
@@ -746,6 +752,12 @@
           "start": "2026-11-26T16:46:22-06:00",
           "stop": "2026-11-26T17:10:40-06:00",
           "episode_title": "Episode 51"
+        },
+        {
+          "title": "Mobile Suit Gundam Seed Destiny",
+          "start": "2026-11-26T17:10:40-06:00",
+          "stop": "2026-11-26T17:57:37-06:00",
+          "episode_title": "Episode 1"
         }
       ],
       "logo": "logos/48.png"
@@ -778,6 +790,12 @@
           "start": "2026-11-26T15:24:00-06:00",
           "stop": "2026-11-26T17:13:28-06:00",
           "description": "A research team in Antarctica is hunted by a shape-shifting alien that assumes the appearance of its victims."
+        },
+        {
+          "title": "Young Frankenstein",
+          "start": "2026-11-26T17:13:28-06:00",
+          "stop": "2026-11-26T19:00:03-06:00",
+          "description": "An American grandson of the infamous scientist, struggling to prove that his grandfather was not as insane as people believe, is invited to Transylvania, where he discovers the process that reanimates a dead body."
         }
       ],
       "logo": "logos/56.png"
@@ -929,13 +947,6 @@
       "number": 66,
       "name": "Starfleet",
       "programmes": [
-        {
-          "title": "Star Trek: Deep Space Nine",
-          "start": "2026-11-26T10:28:37-06:00",
-          "stop": "2026-11-26T11:14:47-06:00",
-          "episode_title": "The Sound of Her Voice",
-          "description": "Stardate: 51948.3. As the Defiant races to a shipwrecked officer who is days away, the crew keeps in contact with her. Meanwhile, Jake follows Quark's latest scheme for story research."
-        },
         {
           "title": "Star Trek: Voyager",
           "start": "2026-11-26T11:14:47-06:00",
