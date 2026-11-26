@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-26T00:46:24.947207-06:00",
+  "generated_at": "2026-11-26T01:01:25.049312-06:00",
   "timezone": "America/Chicago",
   "source": "tunarr-xmltv",
   "window_hours": 6,
-  "window_start": "2026-11-26T00:46:24.947207-06:00",
-  "window_end": "2026-11-26T06:46:24.947207-06:00",
+  "window_start": "2026-11-26T01:01:25.049312-06:00",
+  "window_end": "2026-11-26T07:01:25.049312-06:00",
   "channel_count": 15,
-  "programme_count": 143,
+  "programme_count": 140,
   "channels": [
     {
       "id": "C2.50.tunarr.com",
@@ -116,13 +116,6 @@
       "name": "Kidz!",
       "programmes": [
         {
-          "title": "Justice League",
-          "start": "2026-11-26T00:26:22-06:00",
-          "stop": "2026-11-26T00:50:08-06:00",
-          "episode_title": "Hearts and Minds (1)",
-          "description": "John Stewart leaves on a mission to help his fellow Green Lanterns overthrow a intergalactic dictator with strange powers."
-        },
-        {
           "title": "The Polar Express",
           "start": "2026-11-26T00:50:08-06:00",
           "stop": "2026-11-26T02:26:48-06:00",
@@ -193,12 +186,6 @@
       "name": "Adrenaline",
       "programmes": [
         {
-          "title": "Rambo: Last Blood",
-          "start": "2026-11-25T23:05:54-06:00",
-          "stop": "2026-11-26T00:47:33-06:00",
-          "description": "Almost four decades after they drew first blood, Sylvester Stallone is back as one of the greatest action heroes of all time, John Rambo. Now, Rambo must confront his past and unearth his ruthless combat skills to exact revenge in a final mission. A deadly journey of vengeance, RAMBO: LAST BLOOD marks the last chapter of the legendary series."
-        },
-        {
           "title": "20,000 Leagues Under the Sea",
           "start": "2026-11-26T00:47:33-06:00",
           "stop": "2026-11-26T02:27:09-06:00",
@@ -232,13 +219,6 @@
       "number": 32,
       "name": "Japanimation",
       "programmes": [
-        {
-          "title": "Full Metal Panic!",
-          "start": "2026-11-26T00:23:46-06:00",
-          "stop": "2026-11-26T00:48:47-06:00",
-          "episode_title": "Full Metal Panic! The Second Raid Episode 00",
-          "description": "Sousuke, Kurz, and Melissa are deployed to the Republic of Manistan in Central Asia to eradicate a growing civil war between rebels and the Manistani military."
-        },
         {
           "title": "Code Geass: Lelouch of the Rebellion",
           "start": "2026-11-26T00:48:47-06:00",
@@ -374,12 +354,6 @@
       "name": "Anime Cinema",
       "programmes": [
         {
-          "title": "Attack on Titan: Chronicle",
-          "start": "2026-11-25T22:53:00-06:00",
-          "stop": "2026-11-26T00:54:07-06:00",
-          "description": "A recap of the popular anime series Shingeki no Kyojin from seasons 1-3."
-        },
-        {
           "title": "Dragon Ball: Curse of the Blood Rubies",
           "start": "2026-11-26T00:54:07-06:00",
           "stop": "2026-11-26T01:42:23-06:00",
@@ -417,13 +391,6 @@
       "number": 45,
       "name": "Mobile Suit Network",
       "programmes": [
-        {
-          "title": "Mobile Suit Gundam",
-          "start": "2026-11-26T00:28:15-06:00",
-          "stop": "2026-11-26T00:53:55-06:00",
-          "episode_title": "Destroy Gundam!",
-          "description": "In order to evacuate Side Seven, Amuro Ray and the Gundam duel Char Aznable and his custom Zaku out in space."
-        },
         {
           "title": "Mobile Suit Gundam",
           "start": "2026-11-26T00:53:55-06:00",
@@ -519,6 +486,13 @@
           "stop": "2026-11-26T07:00:54-06:00",
           "episode_title": "Your Feelings",
           "description": "The GBN administration has officially announced that Sarah is an electronic lifeform, or \"EL-Diver,\" whose existence is the cause of the bug outbreaks. As the administration begins its pursuit, Riku and the other Build Divers are also searching for Sarah, who has run away from them."
+        },
+        {
+          "title": "Gundam Build Divers",
+          "start": "2026-11-26T07:00:54-06:00",
+          "stop": "2026-11-26T07:26:30-06:00",
+          "episode_title": "Devoted Heart",
+          "description": "The members of Build Divers are shocked to see Sarah standing beside Kyoya Kujo in a GBN special broadcast to all Divers. With his harsh manner, Kyoya seems like a different person from his previous self. In order to find out the true intentions of Sarah, who has left her teammates, Riku tries to make contact with Kyoya."
         }
       ],
       "logo": "logos/45.png"
@@ -572,13 +546,6 @@
       "number": 47,
       "name": "Universal Century",
       "programmes": [
-        {
-          "title": "Mobile Suit Gundam: The 08th MS Team",
-          "start": "2026-11-26T00:31:55-06:00",
-          "stop": "2026-11-26T00:57:45-06:00",
-          "episode_title": "The Demon Overhead",
-          "description": "Every team that Sanders has ever belonged to has been wiped out on its third mission, and now it's the turn of the 08th MS Team. The worried Sanders asks Shiro to transfer him, but then Zeon's new mobile armor Apsalus appears."
-        },
         {
           "title": "Mobile Suit Gundam: The 08th MS Team",
           "start": "2026-11-26T00:57:45-06:00",
@@ -676,6 +643,13 @@
           "stop": "2026-11-26T06:58:34-06:00",
           "episode_title": "Char Returns",
           "description": "Under the command of Char Aznable, new Zeon amphibious mobile suits attack White Base, docked in a Federation base at Belfast."
+        },
+        {
+          "title": "Mobile Suit Gundam: The 08th MS Team",
+          "start": "2026-11-26T06:58:34-06:00",
+          "stop": "2026-11-26T07:24:17-06:00",
+          "episode_title": "Duty and Ideals",
+          "description": "Shiro has returned safely from the mountains, but is now suspected of being a spy, and is confined to his quarters until a verdict is decided. Then Kiki's village comes under Zeon attack, and Shiro must violate his orders to go to the rescue."
         }
       ],
       "logo": "logos/47.png"
@@ -789,6 +763,13 @@
           "stop": "2026-11-26T06:49:26-06:00",
           "episode_title": "Unfulfilled Feelings",
           "description": "Lacus & Andrew Waltfeld reunite with the Eternal and its crew, while Lunamaria reports her findings from Athrun's rendezvous with Kira to Talia."
+        },
+        {
+          "title": "Mobile Suit Gundam Seed Destiny",
+          "start": "2026-11-26T06:49:26-06:00",
+          "stop": "2026-11-26T07:14:16-06:00",
+          "episode_title": "Survivors and Sacrifices",
+          "description": "All hell breaks loose in a three-way battle between the Minerva, the joint Orb-Earth Alliance fleet, and the Archangel."
         }
       ],
       "logo": "logos/48.png"
@@ -798,12 +779,6 @@
       "number": 56,
       "name": "Fright Night",
       "programmes": [
-        {
-          "title": "Horrors of Malformed Men",
-          "start": "2026-11-25T23:11:35-06:00",
-          "stop": "2026-11-26T00:51:44-06:00",
-          "description": "After escaping from an insane asylum, a medical student assumes the identity of a mysterious dead man, who appeared to be his doppelganger, and gets lured to a sinister island ruled by a mad scientist and his malformed men."
-        },
         {
           "title": "Gremlins 2: The New Batch",
           "start": "2026-11-26T00:51:44-06:00",
@@ -891,6 +866,13 @@
           "stop": "2026-11-26T06:50:55-06:00",
           "episode_title": "The Alternative Factor",
           "description": "Kirk and Spock encounter an alien named Lazarus who claims to be from an anti-matter universe."
+        },
+        {
+          "title": "Stargate SG-1",
+          "start": "2026-11-26T06:50:55-06:00",
+          "stop": "2026-11-26T07:35:23-06:00",
+          "episode_title": "Flesh and Blood",
+          "description": "As the Ori invade the Jaffa planet Chulak, Vala and Daniel must deal with their leader: Vala's young daughter, rapidly aged by the Ori to serve their purposes."
         }
       ],
       "logo": "logos/64.png"
