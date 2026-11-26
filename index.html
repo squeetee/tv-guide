@@ -1,0 +1,325 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <title>Live TV Guide — Squeetee</title>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lato:400,700|Roboto:400,500,700&display=swap">
+  <link rel="stylesheet" href="squeetee-theme.css">
+  <style>
+    body { padding: 20px 20px 28px; }
+    header {
+      display: flex;
+      justify-content: space-between;
+      align-items: flex-end;
+      gap: 16px;
+      margin: 0 0 16px;
+      flex-wrap: wrap;
+    }
+    .header-main { min-width: 0; }
+    h1 {
+      margin: 0 0 4px;
+      font-size: 30px;
+      letter-spacing: 0.01em;
+    }
+    .sub { color: var(--sq-text-muted); font-size: 16px; font-family: var(--sq-font-body); }
+    .header-actions {
+      display: flex;
+      flex-direction: column;
+      align-items: flex-end;
+      gap: 8px;
+    }
+    .stamp {
+      color: var(--sq-text-muted);
+      font-size: 14px;
+      text-align: right;
+    }
+    .note {
+      margin: 0 0 14px;
+      padding: 9px 12px;
+      border: 1px solid var(--sq-line);
+      border-left: 3px solid var(--sq-accent);
+      background: var(--sq-surface);
+      color: var(--sq-text-muted);
+      font-size: 15px;
+      border-radius: 4px;
+    }
+    .err { padding: 24px; color: #f1c0b0; }
+    .guide-wrap {
+      border: 1px solid var(--sq-line);
+      border-radius: 8px;
+      overflow: auto;
+      -webkit-overflow-scrolling: touch;
+      overscroll-behavior: contain;
+      background: rgba(0, 0, 0, 0.22);
+      max-height: calc(100vh - 150px);
+    }
+    .guide { position: relative; min-width: 100%; }
+    .times {
+      position: sticky;
+      top: 0;
+      z-index: 3;
+      display: flex;
+      margin-left: var(--ch-w);
+      height: 36px;
+      background: #0a120d;
+      border-bottom: 1px solid var(--sq-line);
+    }
+    .tmark {
+      flex: none;
+      border-left: 1px solid var(--sq-line);
+      color: var(--sq-text-muted);
+      font-size: 14px;
+      padding: 10px 0 0 8px;
+      white-space: nowrap;
+    }
+    .row {
+      display: flex;
+      min-height: var(--row-h);
+      border-bottom: 1px solid var(--sq-line);
+    }
+    .ch {
+      position: sticky;
+      left: 0;
+      z-index: 2;
+      flex: none;
+      width: var(--ch-w);
+      display: flex;
+      align-items: center;
+      gap: 10px;
+      padding: 8px 10px;
+      background: #141c16;
+      border-right: 1px solid var(--sq-line);
+    }
+    .logo {
+      width: 40px;
+      height: 40px;
+      flex: none;
+      border-radius: 8px;
+      background: rgba(0, 0, 0, 0.35);
+      border: 1px solid var(--sq-line);
+      display: grid;
+      place-items: center;
+      overflow: hidden;
+      color: var(--sq-accent);
+      font-family: var(--sq-font-display);
+      font-weight: 700;
+      font-size: 14px;
+    }
+    .logo img { width: 100%; height: 100%; object-fit: contain; display: none; }
+    .ch-meta { min-width: 0; }
+    .ch-num {
+      color: var(--sq-accent);
+      font-size: 14px;
+      font-weight: 700;
+      letter-spacing: 0.04em;
+    }
+    .ch-name {
+      font-family: var(--sq-font-display);
+      font-weight: 700;
+      font-size: 16px;
+      white-space: nowrap;
+      overflow: hidden;
+      text-overflow: ellipsis;
+    }
+    .track { position: relative; flex: none; height: var(--row-h); }
+    .prog {
+      position: absolute;
+      top: 8px;
+      bottom: 8px;
+      padding: 6px 8px;
+      border-radius: 6px;
+      background: var(--sq-surface);
+      border: 1px solid var(--sq-line);
+      overflow: hidden;
+      min-width: 8px;
+    }
+    .prog.now {
+      background: var(--sq-accent-dim);
+      border-color: var(--sq-accent);
+    }
+    .prog .t {
+      font-family: var(--sq-font-display);
+      font-weight: 700;
+      font-size: 16px;
+      white-space: nowrap;
+      overflow: hidden;
+      text-overflow: ellipsis;
+    }
+    .prog .e {
+      color: var(--sq-text-muted);
+      font-size: 15px;
+      white-space: nowrap;
+      overflow: hidden;
+      text-overflow: ellipsis;
+    }
+    .prog .when {
+      color: var(--sq-text-muted);
+      font-size: 14px;
+      white-space: nowrap;
+      overflow: hidden;
+      text-overflow: ellipsis;
+    }
+    .nowline {
+      position: absolute;
+      top: 36px;
+      bottom: 0;
+      width: 2px;
+      background: var(--sq-accent);
+      z-index: 1;
+      pointer-events: none;
+    }
+    .nowline::before {
+      content: "";
+      position: absolute;
+      top: -5px;
+      left: -4px;
+      width: 10px;
+      height: 10px;
+      border-radius: 50%;
+      background: var(--sq-accent);
+    }
+    :root { --ch-w: 210px; --px-min: 2.4px; --row-h: 92px; }
+    @media (max-width: 480px) {
+      body { padding: 12px; }
+      h1 { font-size: 26px; }
+      :root { --ch-w: 168px; --row-h: 92px; }
+      .guide-wrap { max-height: calc(100vh - 170px); max-height: calc(100dvh - 170px); }
+    }
+  </style>
+</head>
+<body class="guide-full">
+  <header>
+    <div class="header-main">
+      <h1>Live TV Guide</h1>
+      <div class="sub" id="window-label">Loading schedule…</div>
+    </div>
+    <div class="header-actions">
+      <a class="sq-btn" href="mailto:squeetee@gmail.com?subject=Requesting%20Plex%20TV%20guide%20access&amp;body=Hi%20Squeetee%2C%20I%27d%20like%20access%20to%20your%20Plex%20TV%20guide.%20My%20name%3A%20">Request access to the TV guide</a>
+      <div class="stamp" id="stamp"></div>
+    </div>
+  </header>
+  <p class="note">Test page. Channel logos point at the local Plex server, so they stay blank when this file is opened off that PC or without Plex image access.</p>
+  <div id="root"></div>
+  <script>
+    function pad(n) { return String(n).padStart(2, "0"); }
+    function parseTs(value) { return new Date(value); }
+    function formatClock(date) {
+      let h = date.getHours();
+      const m = pad(date.getMinutes());
+      const ampm = h >= 12 ? "PM" : "AM";
+      h = h % 12 || 12;
+      return h + ":" + m + " " + ampm;
+    }
+    function formatShort(date) {
+      const months = ["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"];
+      return months[date.getMonth()] + " " + date.getDate() + ", " + formatClock(date);
+    }
+    function minutesBetween(a, b) { return (b.getTime() - a.getTime()) / 60000; }
+    function esc(text) {
+      return String(text == null ? "" : text)
+        .replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;").replace(/"/g, "&quot;");
+    }
+
+    function render(data) {
+      const root = document.getElementById("root");
+      if (!data || !Array.isArray(data.channels)) {
+        root.innerHTML = '<div class="err">Could not load guide data.</div>';
+        return;
+      }
+      const start = parseTs(data.window_start);
+      const end = parseTs(data.window_end);
+      const now = new Date();
+      const totalMin = Math.max(minutesBetween(start, end), 1);
+      const pxMin = parseFloat(getComputedStyle(document.documentElement).getPropertyValue("--px-min")) || 2.4;
+      const width = totalMin * pxMin;
+
+      document.getElementById("window-label").textContent =
+        formatShort(start) + " – " + formatClock(end) + " CT · " +
+        data.channel_count + " channels · next " + data.window_hours + " hours";
+      document.getElementById("stamp").innerHTML =
+        "Updated " + formatShort(parseTs(data.generated_at)) + " CT<br>Source: Tunarr XMLTV";
+
+      const marks = [];
+      const cursor = new Date(start);
+      cursor.setMinutes(cursor.getMinutes() < 30 ? 0 : 30, 0, 0);
+      if (cursor < start) cursor.setMinutes(cursor.getMinutes() + 30);
+      while (cursor < end) {
+        const left = minutesBetween(start, cursor) * pxMin;
+        marks.push('<div class="tmark" style="width:' + (30 * pxMin) + 'px;margin-left:' +
+          (marks.length ? 0 : left) + 'px">' + formatClock(cursor) + "</div>");
+        cursor.setMinutes(cursor.getMinutes() + 30);
+      }
+
+      const rows = data.channels.map(function (ch) {
+        const blocks = (ch.programmes || []).map(function (p) {
+          const pStart = parseTs(p.start);
+          const pStop = parseTs(p.stop);
+          const leftMin = Math.max(0, minutesBetween(start, pStart));
+          const rightMin = Math.min(totalMin, minutesBetween(start, pStop));
+          const w = Math.max(rightMin - leftMin, 0.5);
+          const isNow = now >= pStart && now < pStop;
+          const episode = p.episode_title ? '<div class="e">' + esc(p.episode_title) + "</div>" : "";
+          return '<div class="prog' + (isNow ? " now" : "") + '" style="left:' +
+            (leftMin * pxMin) + "px;width:" + (w * pxMin - 4) + 'px">' +
+            '<div class="t">' + esc(p.title) + "</div>" + episode +
+            '<div class="when">' + formatClock(pStart) + " – " + formatClock(pStop) + "</div></div>";
+        }).join("");
+        const logo = "";
+        return '<div class="row"><div class="ch">' +
+          '<div class="logo"><span>' + esc(ch.number == null ? "" : ch.number) + "</span>" + logo + "</div>" +
+          '<div class="ch-meta"><div class="ch-num">CH ' + esc(ch.number == null ? "—" : ch.number) + "</div>" +
+          '<div class="ch-name">' + esc(ch.name) + "</div></div></div>" +
+          '<div class="track" style="width:' + width + 'px">' + blocks + "</div></div>";
+      }).join("");
+
+      const nowLeft = minutesBetween(start, now) * pxMin;
+      const nowline = (now >= start && now <= end)
+        ? '<div class="nowline" style="left:calc(var(--ch-w) + ' + nowLeft + 'px)"></div>'
+        : "";
+
+      root.innerHTML = '<div class="guide-wrap"><div class="guide" style="width:calc(var(--ch-w) + ' + width + 'px)">' +
+        '<div class="times">' + marks.join("") + "</div>" + rows + nowline + "</div></div>";
+
+      root.querySelectorAll(".logo img").forEach(function (img) {
+        img.onload = function () {
+          img.style.display = "block";
+          const fallback = img.parentElement.querySelector("span");
+          if (fallback) fallback.style.display = "none";
+        };
+        img.onerror = function () { img.remove(); };
+        img.src = img.getAttribute("data-src");
+      });
+    }
+
+    async function loadData() {
+      try {
+        const response = await fetch("guide.json?t=" + Date.now(), { cache: "no-store" });
+        if (response.ok) return await response.json();
+      } catch (e) {}
+      if (window.GUIDE_DATA) return window.GUIDE_DATA;
+      await new Promise(function (resolve, reject) {
+        const script = document.createElement("script");
+        script.src = "guide.js?t=" + Date.now();
+        script.onload = resolve;
+        script.onerror = reject;
+        document.head.appendChild(script);
+      });
+      return window.GUIDE_DATA;
+    }
+
+    function refresh() {
+      loadData().then(function (data) {
+        if (data) window.GUIDE_DATA = data;
+        render(data);
+      }).catch(function () {
+        if (!document.querySelector(".guide")) {
+          document.getElementById("root").innerHTML = '<div class="err">Could not load guide.json or guide.js.</div>';
+        }
+      });
+    }
+    refresh();
+    setInterval(refresh, 60000);
+  </script>
+</body>
+</html>

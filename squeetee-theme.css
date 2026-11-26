@@ -1,0 +1,75 @@
+/* Squeetee theme — colors and type from www.squeetee.com (Google Sites theme, Nov 2026). */
+:root {
+  --sq-bg: #0F1A12;
+  --sq-surface: rgba(255, 255, 255, 0.12);
+  --sq-surface-strong: rgba(255, 255, 255, 0.2);
+  --sq-outline: rgba(255, 255, 255, 0.32);
+  --sq-line: rgba(255, 255, 255, 0.16);
+  --sq-text: #F9F9F9;
+  --sq-text-muted: rgba(249, 249, 249, 0.75);
+  --sq-ink: #1C1C1C;
+  --sq-accent: #DC7013;
+  --sq-accent-dim: rgba(220, 112, 19, 0.22);
+  --sq-brown: #734332;
+  --sq-warm: #F1E1DD;
+  --sq-font-body: Roboto, "Segoe UI", Helvetica, Arial, sans-serif;
+  --sq-font-display: Lato, "Segoe UI", Helvetica, Arial, sans-serif;
+}
+
+* { box-sizing: border-box; }
+
+html, body {
+  margin: 0;
+  background: var(--sq-bg);
+  color: var(--sq-text);
+  font-family: var(--sq-font-body);
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 1.45;
+}
+
+h1, h2, .display {
+  font-family: var(--sq-font-display);
+  font-weight: 700;
+  color: var(--sq-text);
+}
+
+a { color: var(--sq-accent); }
+
+.sq-btn {
+  display: inline-block;
+  background: var(--sq-accent);
+  color: var(--sq-ink);
+  border: 1px solid var(--sq-accent);
+  border-radius: 4px;
+  padding: 8px 16px;
+  font-family: var(--sq-font-body);
+  font-weight: 700;
+  font-size: 13px;
+  line-height: 1.2;
+  text-decoration: none;
+  text-align: center;
+  white-space: nowrap;
+  cursor: pointer;
+}
+.sq-btn:hover,
+.sq-btn:focus {
+  filter: brightness(1.08);
+  outline: 2px solid var(--sq-warm);
+  outline-offset: 2px;
+}
+.sq-btn-sm {
+  padding: 5px 10px;
+  font-size: 11px;
+  letter-spacing: 0.01em;
+}
+
+/* Full 12-hour guide only (body.guide-full). Compact widget is unaffected. */
+body.guide-full {
+  font-size: 17px;
+  line-height: 1.45;
+}
+body.guide-full .sq-btn {
+  font-size: 16px;
+  padding: 10px 16px;
+}
