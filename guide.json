@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-26T16:01:25.247298-06:00",
+  "generated_at": "2026-11-26T16:16:25.002675-06:00",
   "timezone": "America/Chicago",
   "source": "tunarr-xmltv",
   "window_hours": 6,
-  "window_start": "2026-11-26T16:01:25.247298-06:00",
-  "window_end": "2026-11-26T22:01:25.247298-06:00",
+  "window_start": "2026-11-26T16:16:25.002675-06:00",
+  "window_end": "2026-11-26T22:16:25.002675-06:00",
   "channel_count": 15,
-  "programme_count": 130,
+  "programme_count": 132,
   "channels": [
     {
       "id": "C2.50.tunarr.com",
@@ -89,6 +89,13 @@
           "stop": "2026-11-26T22:03:31-06:00",
           "episode_title": "The Key",
           "description": "The team arrives on a civilized high-tech planet, Rokari, where they determine a comet is heading for the world they're on with only 60 hours to spare. The local government, the Commonality, don't believe their warning and state they have outgrown written and recorded language. The team break out a member of an underground resistance that distributes writing and leads them to a hidden library with info on how to use the planet's defense system. Harrison manages to figure out the language and the team activates the defense system, the Commonality sees the value of writing and everything turns out well."
+        },
+        {
+          "title": "Yellowstone (2018)",
+          "start": "2026-11-26T22:03:31-06:00",
+          "stop": "2026-11-26T22:53:35-06:00",
+          "episode_title": "Blood the Boy",
+          "description": "When a ruthless reporter threatens to dismantle his family's legacy, an unravelling son commits an unpardonable atrocity to bury the truth, while a young cowboy risks his broken body in the rodeo chute for a sliver of redemption."
         }
       ],
       "logo": "logos/2.png"
@@ -130,12 +137,6 @@
       "number": 11,
       "name": "Kidz!",
       "programmes": [
-        {
-          "title": "Ernest Saves Christmas",
-          "start": "2026-11-26T14:33:59-06:00",
-          "stop": "2026-11-26T16:06:24-06:00",
-          "description": "When Santa Claus decides to retire and pass on his magic bag of Christmas surprises to a new Saint Nick, he enlists the aid of a hilarious assortment of characters. A perky teen runaway and hapless taxi driver Ernest P. Worrell must convince a skeptical kiddie-show host to take over the post of Father Christmas."
-        },
         {
           "title": "Voltron: Legendary Defender",
           "start": "2026-11-26T16:06:24-06:00",
@@ -484,6 +485,13 @@
           "stop": "2026-11-26T22:11:12-06:00",
           "episode_title": "Garma Strikes",
           "description": "White Base arrives on Zeon territory due to Char Aznable's strategy; Garma Zabi, eager to impress his sister Kycilia and his friend Char, decides to attack White Base."
+        },
+        {
+          "title": "Mobile Suit Gundam",
+          "start": "2026-11-26T22:11:12-06:00",
+          "stop": "2026-11-26T22:36:52-06:00",
+          "episode_title": "The Core Fighter's Escape",
+          "description": "Amuro attempts to contact Federation forces by flying back into space with the Core Fighter."
         }
       ],
       "logo": "logos/45.png"
@@ -689,6 +697,13 @@
           "stop": "2026-11-26T22:07:47-06:00",
           "episode_title": "Phase Shift Down",
           "description": "Mu La Flaga and Kira launch a counteroffensive against the ZAFT ship Vesalius. The Strike's Phase Shift Armor runs out of power in the middle of the battle and Athrun uses this moment to grab the Strike so he can take Kira with him, but Kira frees himself with Mu's help."
+        },
+        {
+          "title": "Mobile Suit Gundam SEED",
+          "start": "2026-11-26T22:07:47-06:00",
+          "stop": "2026-11-26T22:32:33-06:00",
+          "episode_title": "The Vanishing Gundam",
+          "description": "The Archangel and its crew are held captive by the Artemis forces. Nicol Amalfi in his GAT-X207 Blitz attacks Artemis, using its Mirage Colloid armor to remain effectively invisible and destroys the Umbrella of Artemis, which protects the asteroid fortress. During the attack, the Archangel is able to escape."
         }
       ],
       "logo": "logos/48.png"
@@ -721,6 +736,12 @@
           "start": "2026-11-26T20:29:30-06:00",
           "stop": "2026-11-26T22:12:36-06:00",
           "description": "A young woman with no strong religious beliefs, Frankie Paige begins having strange and violent experiences, showing signs of the wounds that Jesus received when crucified. When the Vatican gets word of Frankie's situation, a high-ranking cardinal requests that the Rev. Andrew Kiernan investigate her case. Soon Kiernan realizes that very sinister forces are at work, and tries to rescue Frankie from the entity that is plaguing her."
+        },
+        {
+          "title": "Kill Giggles",
+          "start": "2026-11-26T22:12:36-06:00",
+          "stop": "2026-11-26T23:46:51-06:00",
+          "description": "Tommy wasn't born a psychopath, but one horrifying thing has led him to pursue a lifelong killing spree. Tommy is triggered by those monsters in makeup… clowns. His hunt is not confined to a single jester and he won't stop until he has killed every clown on earth. When he falls for Eve, life takes a wonderful turn and life seems worth living again – until he discovers his new girlfriend's father is the most terrifying clown of all."
         }
       ],
       "logo": "logos/56.png"
@@ -730,13 +751,6 @@
       "number": 64,
       "name": "Sci-Fi",
       "programmes": [
-        {
-          "title": "Eureka",
-          "start": "2026-11-26T15:18:58-06:00",
-          "stop": "2026-11-26T16:03:32-06:00",
-          "episode_title": "Alienated",
-          "description": "Spencer is apparently abducted by aliens and then returned to earth the next day inside a crop circle. Also, the town is visited by the congressman whose committee is responsible for its government funding."
-        },
         {
           "title": "Farscape",
           "start": "2026-11-26T16:03:32-06:00",
@@ -792,6 +806,13 @@
           "stop": "2026-11-26T22:10:59-06:00",
           "episode_title": "The Choice",
           "description": "Aeryn is devastated. She leaves Talyn, and grieves on a planet. Talyn's crew tries to help but she doesn't want their help. She spots someone who might be her father. But not all family reunions are joyous."
+        },
+        {
+          "title": "Star Trek",
+          "start": "2026-11-26T22:10:59-06:00",
+          "stop": "2026-11-26T23:02:21-06:00",
+          "episode_title": "The City on the Edge of Forever",
+          "description": "Kirk and Spock must travel into the past in order to correct a change that will alter history."
         }
       ],
       "logo": "logos/64.png"
@@ -928,13 +949,6 @@
       "number": 72,
       "name": "Comedy",
       "programmes": [
-        {
-          "title": "Barry",
-          "start": "2026-11-26T15:43:04-06:00",
-          "stop": "2026-11-26T16:13:54-06:00",
-          "episode_title": "Chapter Six: Listen with Your Ears, React with Your Face",
-          "description": "Barry tries to fly solo at a remote airstrip, but Taylor still wants in; Vacha looks to exact revenge on the man who killed his brother, despite Pazar's hands-off orders; Moss tries to end her association with Gene, but finds herself drawn to his classroom at a critical juncture; Sally lobbies for a major acting challenge."
-        },
         {
           "title": "MXC",
           "start": "2026-11-26T16:13:54-06:00",
