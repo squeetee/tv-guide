@@ -1,31 +1,18 @@
 {
-  "generated_at": "2026-11-26T07:01:27.311094-06:00",
+  "generated_at": "2026-11-26T07:16:27.249442-06:00",
   "timezone": "America/Chicago",
   "source": "tunarr-xmltv",
   "window_hours": 6,
-  "window_start": "2026-11-26T07:01:27.311094-06:00",
-  "window_end": "2026-11-26T13:01:27.311094-06:00",
+  "window_start": "2026-11-26T07:16:27.249442-06:00",
+  "window_end": "2026-11-26T13:16:27.249442-06:00",
   "channel_count": 15,
-  "programme_count": 141,
+  "programme_count": 139,
   "channels": [
     {
       "id": "C2.50.tunarr.com",
       "number": 2,
       "name": "Syndication",
       "programmes": [
-        {
-          "title": "Star Trek: Enterprise",
-          "start": "2026-11-26T06:20:29-06:00",
-          "stop": "2026-11-26T07:01:57-06:00",
-          "episode_title": "The Communicator",
-          "description": "Archer and Reed return to a pre-warp society, that is on the verge of war, to recover a lost communicator from an undercover survey mission."
-        },
-        {
-          "title": "Looney Tunes",
-          "start": "2026-11-26T07:01:57-06:00",
-          "stop": "2026-11-26T07:06:13-06:00",
-          "episode_title": "Episode 4"
-        },
         {
           "title": "Looney Tunes",
           "start": "2026-11-26T07:06:13-06:00",
@@ -106,6 +93,13 @@
           "stop": "2026-11-26T13:10:47-06:00",
           "episode_title": "Gungan Attack",
           "description": "Anakin Skywalker and the rest of his Jedi team have been overrun by the Separatist surprise attacks led by Riff Tamson while Prince Lee-Char and Ahsoka must evade capture on their own. Unable to summon more Republic aid, Yoda calls upon the help of the powerful and amphibious Gungan Grand Army, but whether they will be enough to stop the Separatist siege is uncertain. An incensed Tamson doubles his efforts in tracking down Prince Lee-Char, unleashing the reinforcements given to him by Count Dooku in an assault that churns the oceans."
+        },
+        {
+          "title": "Star Wars: The Clone Wars",
+          "start": "2026-11-26T13:10:47-06:00",
+          "stop": "2026-11-26T13:33:51-06:00",
+          "episode_title": "Prisoners",
+          "description": "The Republic and Gungan forces have been captured by Riff Tamson and his Karkarodon enforcers. Now, it is up to Ahsoka and the young Prince Lee-Char to unite the fractured people of Mon Cala and drive out the Separatist invaders."
         }
       ],
       "logo": "logos/2.png"
@@ -207,6 +201,13 @@
           "stop": "2026-11-26T13:05:41-06:00",
           "episode_title": "Prophecy of Doom",
           "description": "Bruce begins to worry when all of his wealthy friends join the same brotherhood group run by Nostromos, a so-called psychic."
+        },
+        {
+          "title": "Batman: The Animated Series",
+          "start": "2026-11-26T13:05:41-06:00",
+          "stop": "2026-11-26T13:29:02-06:00",
+          "episode_title": "The Forgotten",
+          "description": "When men begin disappearing at a bowery, Bruce Wayne decides to go undercover as a worker. He loses his memory after he is attacked, kidnapped and forced to work in a mining camp."
         }
       ],
       "logo": "logos/11.png"
@@ -216,13 +217,6 @@
       "number": 28,
       "name": "Adrenaline",
       "programmes": [
-        {
-          "title": "Band of Brothers",
-          "start": "2026-11-26T05:49:56-06:00",
-          "stop": "2026-11-26T07:04:04-06:00",
-          "episode_title": "Currahee",
-          "description": "Easy Company is introduced to Captain Sobel, who has the group undergo hard and unfair training. As a result, Sobel comes into conflict with his men, including Richard Winters, his executive officer. The company is shipped to England to prepare for D-Day."
-        },
         {
           "title": "Skyfall",
           "start": "2026-11-26T07:04:04-06:00",
@@ -249,13 +243,6 @@
       "number": 32,
       "name": "Japanimation",
       "programmes": [
-        {
-          "title": "His and Her Circumstances",
-          "start": "2026-11-26T06:38:12-06:00",
-          "stop": "2026-11-26T07:03:10-06:00",
-          "episode_title": "Their Secret",
-          "description": "Yukino's inadvertently made a fool of herself in front of Arima and now he's blackmailing her! Getting her to do his work, act as his slave... she's just about at her wit's end!"
-        },
         {
           "title": "Outlaw Star",
           "start": "2026-11-26T07:03:10-06:00",
@@ -525,6 +512,13 @@
           "stop": "2026-11-26T13:04:18-06:00",
           "episode_title": "You Men Are Our Star of Hope!",
           "description": "After escaping from Zonda Epta and evading the New UNE Navy, the Freeden lands in a country in southern Asia called the People's Republic of Estard and are approached by its leader and generals to join with them in their fight against the New UNE military. At first declining the offer, the crew changes their mind after they survive and witness the aftermath of a large carpet bombing raid carried out by the New UNE on civilian areas."
+        },
+        {
+          "title": "After War Gundam X",
+          "start": "2026-11-26T13:04:18-06:00",
+          "stop": "2026-11-26T13:29:10-06:00",
+          "episode_title": "Don't Say a Word",
+          "description": "After surviving the trap laid out for them and destroying the airbase, the crew of the Freeden head back toe Estard where they are hailed as heroes to their cause. Unsure of his committment to what is going on Roybea leaves the Freeden, leaving his Gundam Leopard behind, heading off unescorted into Estard as Witz takes up an offer from General Lee Jackson to upgrade his Gundam Airmaster to more better compete with the newer mobile suits and mobile armors being made by the New UNE military."
         }
       ],
       "logo": "logos/45.png"
@@ -534,18 +528,6 @@
       "number": 46,
       "name": "Gundam Theater",
       "programmes": [
-        {
-          "title": "Gundam Wing: The Endless Waltz",
-          "start": "2026-11-26T05:33:02-06:00",
-          "stop": "2026-11-26T07:04:18-06:00",
-          "description": "After peace is won, rival Gundam pilots face renewed war as a vengeful faction rises, forcing them to fight one last battle to end endless cycles of conflict."
-        },
-        {
-          "title": "All That Gundam",
-          "start": "2026-11-26T07:04:18-06:00",
-          "stop": "2026-11-26T07:06:18-06:00",
-          "description": "An animated short created for Gundam's 10th anniversary event. One minute in length, it shows some of the popular Gundam models of the first 10 years of the franchise in action. The clip also served as a promotional video for the next Gundam series to be released as it ends with the announcement \"War in the Pocket is coming soon\"."
-        },
         {
           "title": "Mobile Suit Gundam: Twilight AXIS Remain of the Red",
           "start": "2026-11-26T07:06:18-06:00",
@@ -644,6 +626,13 @@
           "stop": "2026-11-26T13:09:16-06:00",
           "episode_title": "Front Line",
           "description": "The Federation Forces, having learned that the Apsalus was created to destroy Jaburo, begin searching for the development base. Shiro and the 08th MS Team descend into enemy territory to aid the search, only to encounter retreating Zeons."
+        },
+        {
+          "title": "Mobile Suit Gundam: The 08th MS Team",
+          "start": "2026-11-26T13:09:16-06:00",
+          "stop": "2026-11-26T13:34:59-06:00",
+          "episode_title": "The Shuddering Mountain (1)",
+          "description": "The Federation Forces begin their assault on the Apsalus development base. The 08th MS Team is assigned to escort a Guntank team into firing position, but Norris's Gouf Custom swiftly dispatches two of the Guntanks. Can the team save the last one?"
         }
       ],
       "logo": "logos/47.png"
@@ -653,13 +642,6 @@
       "number": 48,
       "name": "Cosmic Era",
       "programmes": [
-        {
-          "title": "Mobile Suit Gundam Seed Destiny",
-          "start": "2026-11-26T06:49:26-06:00",
-          "stop": "2026-11-26T07:14:16-06:00",
-          "episode_title": "Survivors and Sacrifices",
-          "description": "All hell breaks loose in a three-way battle between the Minerva, the joint Orb-Earth Alliance fleet, and the Archangel."
-        },
         {
           "title": "Mobile Suit Gundam Seed Destiny",
           "start": "2026-11-26T07:14:16-06:00",
@@ -750,6 +732,13 @@
           "stop": "2026-11-26T13:03:12-06:00",
           "episode_title": "Legacy of Gold",
           "description": "Cagallia, regaining control of Orb, is given the golden mobile suit, the ORB-01 Akatsuki."
+        },
+        {
+          "title": "Mobile Suit Gundam Seed Destiny",
+          "start": "2026-11-26T13:03:12-06:00",
+          "stop": "2026-11-26T13:28:03-06:00",
+          "episode_title": "Freedom and Justice",
+          "description": "The attack on Orb continues, but Cagalli is saved from Shinn by Kira."
         }
       ],
       "logo": "logos/48.png"
@@ -869,13 +858,6 @@
       "name": "Stargate Command",
       "programmes": [
         {
-          "title": "Stargate SG-1",
-          "start": "2026-11-26T06:30:38-06:00",
-          "stop": "2026-11-26T07:15:44-06:00",
-          "episode_title": "The Torment of Tantalus",
-          "description": "Daniel Jackson discovers that the Stargate was activated in 1945 and a young professor went through, never to return. Together with his still living fiancée, the SG1 team discover the now aged professor, naked and trapped in a decaying fortress, containing the secrets of an Ancient alliance. Will they be able to rescue him and escape to earth in time?"
-        },
-        {
           "title": "Stargate Atlantis",
           "start": "2026-11-26T07:15:44-06:00",
           "stop": "2026-11-26T08:41:08-06:00",
@@ -916,6 +898,13 @@
           "stop": "2026-11-26T13:02:27-06:00",
           "episode_title": "Thirty Eight Minutes",
           "description": "A Jumper gets stuck in a Stargate when it was carrying Sheppard, Teyla, Ford and Rodney, making it impossible to pass through it. The fact that Major Sheppard is deadly injured and the Stargate will get closed in thirty eight minutes (which would mean their death) makes necessary to find out quickly a way to fit in the Stargate and escape."
+        },
+        {
+          "title": "Stargate SG-1",
+          "start": "2026-11-26T13:02:27-06:00",
+          "stop": "2026-11-26T13:47:33-06:00",
+          "episode_title": "Hathor",
+          "description": "The Goa'uld Hathor (one of the mothers of all Goa'uld), brainwashes the men of the SGC with pheromones, and nearly makes Jack a host to a larva conceived with Daniel. She flees after the unaffected women of Stargate Command retake the facility."
         }
       ],
       "logo": "logos/65.png"
@@ -997,12 +986,6 @@
       "name": "Comedy",
       "programmes": [
         {
-          "title": "Guardians of the Galaxy: Vol. 2",
-          "start": "2026-11-26T04:50:31-06:00",
-          "stop": "2026-11-26T07:07:12-06:00",
-          "description": "After saving Xandar from Ronan's wrath, the Guardians are now recognized as heroes. Now the team must help their leader, Star Lord, uncover the truth behind his true heritage. Along the way, old foes turn to allies and betrayal is blooming. And the Guardians find they are up against a devastating new menace who is out to rule the galaxy."
-        },
-        {
           "title": "Warehouse 13",
           "start": "2026-11-26T07:07:12-06:00",
           "stop": "2026-11-26T08:35:50-06:00",
@@ -1063,6 +1046,12 @@
           "stop": "2026-11-26T13:08:02-06:00",
           "episode_title": "Sexual Harassment",
           "description": "Just as corporate tells Toby, one of the workers at the Scranton branch, to give a seminar on sexual harassment issues, Michael receives a visit from his obnoxious sales-rep friend Todd Packer. The two chauvinistic friends try to prove that the office is not in need of harassment counseling, but only wind up making the situation worse, causing yet another zany day at the office."
+        },
+        {
+          "title": "Ghostbusters: Afterlife",
+          "start": "2026-11-26T13:08:02-06:00",
+          "stop": "2026-11-26T15:12:53-06:00",
+          "description": "When single mom Callie and her two kids Trevor and Phoebe arrive in a small Oklahoma town, they begin to discover their connection to the original Ghostbusters and the secret legacy their grandfather left behind."
         }
       ],
       "logo": "logos/72.png"
