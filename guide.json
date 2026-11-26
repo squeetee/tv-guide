@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-26T01:01:25.049312-06:00",
+  "generated_at": "2026-11-26T01:16:46.981160-06:00",
   "timezone": "America/Chicago",
   "source": "tunarr-xmltv",
   "window_hours": 6,
-  "window_start": "2026-11-26T01:01:25.049312-06:00",
-  "window_end": "2026-11-26T07:01:25.049312-06:00",
+  "window_start": "2026-11-26T01:16:46.981160-06:00",
+  "window_end": "2026-11-26T07:16:46.981160-06:00",
   "channel_count": 15,
-  "programme_count": 140,
+  "programme_count": 145,
   "channels": [
     {
       "id": "C2.50.tunarr.com",
@@ -68,6 +68,18 @@
           "stop": "2026-11-26T07:01:57-06:00",
           "episode_title": "The Communicator",
           "description": "Archer and Reed return to a pre-warp society, that is on the verge of war, to recover a lost communicator from an undercover survey mission."
+        },
+        {
+          "title": "Looney Tunes",
+          "start": "2026-11-26T07:01:57-06:00",
+          "stop": "2026-11-26T07:06:13-06:00",
+          "episode_title": "Episode 4"
+        },
+        {
+          "title": "Looney Tunes",
+          "start": "2026-11-26T07:06:13-06:00",
+          "stop": "2026-11-26T07:24:02-06:00",
+          "episode_title": "Episode 5"
         }
       ],
       "logo": "logos/2.png"
@@ -210,6 +222,12 @@
           "stop": "2026-11-26T07:04:04-06:00",
           "episode_title": "Currahee",
           "description": "Easy Company is introduced to Captain Sobel, who has the group undergo hard and unfair training. As a result, Sobel comes into conflict with his men, including Richard Winters, his executive officer. The company is shipped to England to prepare for D-Day."
+        },
+        {
+          "title": "Skyfall",
+          "start": "2026-11-26T07:04:04-06:00",
+          "stop": "2026-11-26T09:28:08-06:00",
+          "description": "When Bond's latest assignment goes gravely wrong, agents around the world are exposed and MI6 headquarters is attacked. While M faces challenges to her authority and position from Gareth Mallory, the new Chairman of the Intelligence and Security Committee, it's up to Bond, aided only by field agent Eve, to locate the mastermind behind the attack."
         }
       ],
       "logo": "logos/28.png"
@@ -219,13 +237,6 @@
       "number": 32,
       "name": "Japanimation",
       "programmes": [
-        {
-          "title": "Code Geass: Lelouch of the Rebellion",
-          "start": "2026-11-26T00:48:47-06:00",
-          "stop": "2026-11-26T01:13:49-06:00",
-          "episode_title": "Surprise Attack over the Pacific",
-          "description": "Rolo uses his Geass on Suzaku so Lelouch can converse with Nunnally without revealing that his memories have returned. Lelouch and the Black Knights attempt to capture Nunnally as she is transported to Japan."
-        },
         {
           "title": "Code Geass: Lelouch of the Rebellion",
           "start": "2026-11-26T01:13:49-06:00",
@@ -344,6 +355,13 @@
           "stop": "2026-11-26T07:03:06-06:00",
           "episode_title": "Their Secret",
           "description": "Yukino's inadvertently made a fool of herself in front of Arima and now he's blackmailing her! Getting her to do his work, act as his slave... she's just about at her wit's end!"
+        },
+        {
+          "title": "Outlaw Star",
+          "start": "2026-11-26T07:03:06-06:00",
+          "stop": "2026-11-26T07:29:03-06:00",
+          "episode_title": "The Beast Girl Ready to Pounce!",
+          "description": "Hilda’s sacrifice allows the crew a chance to get away. They head back to Blue Heaven for ship upgrades and information. But while they wait on the ship, they’re confronted by Aisha Clanclan from the Ctarl-Ctarl Empire!"
         }
       ],
       "logo": "logos/32.png"
@@ -503,12 +521,6 @@
       "name": "Gundam Theater",
       "programmes": [
         {
-          "title": "Mobile Suit Gundam Narrative",
-          "start": "2026-11-25T23:41:48-06:00",
-          "stop": "2026-11-26T01:11:39-06:00",
-          "description": "The Federation and Neo-Zeon collaborate to capture a rogue suit."
-        },
-        {
           "title": "Mobile Suit Gundam: Cucuruz Doan's Island",
           "start": "2026-11-26T01:11:39-06:00",
           "stop": "2026-11-26T03:01:17-06:00",
@@ -537,6 +549,18 @@
           "start": "2026-11-26T05:33:02-06:00",
           "stop": "2026-11-26T07:04:18-06:00",
           "description": "After peace is won, rival Gundam pilots face renewed war as a vengeful faction rises, forcing them to fight one last battle to end endless cycles of conflict."
+        },
+        {
+          "title": "All That Gundam",
+          "start": "2026-11-26T07:04:18-06:00",
+          "stop": "2026-11-26T07:06:18-06:00",
+          "description": "An animated short created for Gundam's 10th anniversary event. One minute in length, it shows some of the popular Gundam models of the first 10 years of the franchise in action. The clip also served as a promotional video for the next Gundam series to be released as it ends with the announcement \"War in the Pocket is coming soon\"."
+        },
+        {
+          "title": "Mobile Suit Gundam: Twilight AXIS Remain of the Red",
+          "start": "2026-11-26T07:06:18-06:00",
+          "stop": "2026-11-26T07:33:46-06:00",
+          "description": "Set months after the events of Mobile Suit Gundam Unicorn, the story focuses on two former Principality of Zeon Remnants, Former Weapons Developer Arlette Almage and Former Test Pilot Danton Hyleg. Both of them are hired by the Earth Federation Forces research team to investigate the remains of the asteroid base Axis. But upon their arrival, they encounter a Cyber Newtype, Quentin Fermo, who pilots the mysterious mobile suit, the RX-78AN-01 Gundam AN-01. Tristan attacks them for unknown reasons."
         }
       ],
       "logo": "logos/46.png"
@@ -661,13 +685,6 @@
       "programmes": [
         {
           "title": "Mobile Suit Gundam Seed Destiny",
-          "start": "2026-11-26T00:37:46-06:00",
-          "stop": "2026-11-26T01:02:32-06:00",
-          "episode_title": "Resurrected Wings",
-          "description": "As the Minerva's crew congratulates Shinn on a job well done, Kira is forced to take the Freedom out into battle once again."
-        },
-        {
-          "title": "Mobile Suit Gundam Seed Destiny",
           "start": "2026-11-26T01:02:32-06:00",
           "stop": "2026-11-26T01:27:18-06:00",
           "episode_title": "Flight to Tomorrow",
@@ -770,6 +787,13 @@
           "stop": "2026-11-26T07:14:16-06:00",
           "episode_title": "Survivors and Sacrifices",
           "description": "All hell breaks loose in a three-way battle between the Minerva, the joint Orb-Earth Alliance fleet, and the Archangel."
+        },
+        {
+          "title": "Mobile Suit Gundam Seed Destiny",
+          "start": "2026-11-26T07:14:16-06:00",
+          "stop": "2026-11-26T07:39:04-06:00",
+          "episode_title": "Fates",
+          "description": "As Durandal plays a lonely game of chess, he reflects upon the past, and the philosophy of his dear friend, Rau Le Creuset."
         }
       ],
       "logo": "logos/48.png"
@@ -811,13 +835,6 @@
       "number": 64,
       "name": "Sci-Fi",
       "programmes": [
-        {
-          "title": "Star Trek",
-          "start": "2026-11-26T00:21:15-06:00",
-          "stop": "2026-11-26T01:12:35-06:00",
-          "episode_title": "This Side of Paradise",
-          "description": "The Enterprise crew try to rescue colonists from deadly radiation, but instead encounter strange alien spores that seem to offer paradise."
-        },
         {
           "title": "Star Trek",
           "start": "2026-11-26T01:12:35-06:00",
@@ -944,6 +961,13 @@
           "stop": "2026-11-26T07:15:44-06:00",
           "episode_title": "The Torment of Tantalus",
           "description": "Daniel Jackson discovers that the Stargate was activated in 1945 and a young professor went through, never to return. Together with his still living fiancée, the SG1 team discover the now aged professor, naked and trapped in a decaying fortress, containing the secrets of an Ancient alliance. Will they be able to rescue him and escape to earth in time?"
+        },
+        {
+          "title": "Stargate Atlantis",
+          "start": "2026-11-26T07:15:44-06:00",
+          "stop": "2026-11-26T08:41:08-06:00",
+          "episode_title": "Rising (1)",
+          "description": "Dr. Elizabeth Weir leads an expedition to find the Ancients' lost city of Atlantis, a journey that brings her and a carefully selected crew of Earth's best and brightest to the Pegasus galaxy, where they embark on the adventure of a lifetime, and awaken among the stars an enemy none of them could have predicted, endangering themselves and the native people of Pegasus alike."
         }
       ],
       "logo": "logos/65.png"
@@ -1069,6 +1093,13 @@
           "start": "2026-11-26T04:50:31-06:00",
           "stop": "2026-11-26T07:07:12-06:00",
           "description": "After saving Xandar from Ronan's wrath, the Guardians are now recognized as heroes. Now the team must help their leader, Star Lord, uncover the truth behind his true heritage. Along the way, old foes turn to allies and betrayal is blooming. And the Guardians find they are up against a devastating new menace who is out to rule the galaxy."
+        },
+        {
+          "title": "Warehouse 13",
+          "start": "2026-11-26T07:07:12-06:00",
+          "stop": "2026-11-26T08:35:50-06:00",
+          "episode_title": "Pilot",
+          "description": "After preparing a museum in D.C. for presidential visit, 2 Secret Service agents are transferred to an isolated warehouse 13 in South Dakota, where Artie sends them to Iowa to collect a supernatural artifact from a law school student."
         }
       ],
       "logo": "logos/72.png"
