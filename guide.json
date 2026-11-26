@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-26T01:31:24.852557-06:00",
+  "generated_at": "2026-11-26T01:46:24.850466-06:00",
   "timezone": "America/Chicago",
   "source": "tunarr-xmltv",
   "window_hours": 6,
-  "window_start": "2026-11-26T01:31:24.852557-06:00",
-  "window_end": "2026-11-26T07:31:24.852557-06:00",
+  "window_start": "2026-11-26T01:46:24.850466-06:00",
+  "window_end": "2026-11-26T07:46:24.850466-06:00",
   "channel_count": 15,
-  "programme_count": 143,
+  "programme_count": 147,
   "channels": [
     {
       "id": "C2.50.tunarr.com",
@@ -118,6 +118,12 @@
           "start": "2026-11-26T06:34:53-06:00",
           "stop": "2026-11-26T07:42:00-06:00",
           "description": "The son of Lady and the Tramp, Scamp, escapes home to travel on an adventure. Along the way, he meets a group of street dogs who know the past of his parents and do everything that they can to recruit him and make him forget about his family forever."
+        },
+        {
+          "title": "No Code of Conduct",
+          "start": "2026-11-26T07:42:00-06:00",
+          "stop": "2026-11-26T09:12:59-06:00",
+          "description": "A cop, his partner, and his father uncover a plot by city elders to smuggle drugs from Mexico into Phoenix, Arizona."
         }
       ],
       "logo": "logos/3.png"
@@ -188,6 +194,12 @@
           "start": "2026-11-26T06:30:10-06:00",
           "stop": "2026-11-26T07:42:05-06:00",
           "description": "As they are on their next adventure and mission, Kim and Ron reflect on their own lives and everything that they have been through together. They both need to figure out what is next in their own lives and how it all affects their friendship and relationship."
+        },
+        {
+          "title": "Looney Tunes",
+          "start": "2026-11-26T07:42:05-06:00",
+          "stop": "2026-11-26T07:49:42-06:00",
+          "episode_title": "Episode 7"
         }
       ],
       "logo": "logos/11.png"
@@ -237,13 +249,6 @@
       "number": 32,
       "name": "Japanimation",
       "programmes": [
-        {
-          "title": "Code Geass: Lelouch of the Rebellion",
-          "start": "2026-11-26T01:13:49-06:00",
-          "stop": "2026-11-26T01:38:52-06:00",
-          "episode_title": "The Abandoned Mask",
-          "description": "Nunnally is sworn in as the new Viceroy of Area 11, and reveals her intention to restore the Specially Administrated Zone of Japan. Knowing he cannot go against his sister's wishes, Lelouch slips into a state of depression. Before he relinquishes himself to Refrain, Kallen steps in, reminding him his duty as Zero to realize the dream he gave to the Japanese. An evesdropping Rolo emerges, attempting to persuade Lelouch to abandon his identity as Zero and return to being a high school student. Meanwhile, the Black Knights are under attack by a Britannian naval fleet, led by Suzaku. A glimmer of hope is revealed to Lelouch after he sees fireworks setting off at Ashford Academy. Rushing to the battlefield, he successfully leads the Black Knights to defeat the entire naval fleet and surprise Suzaku by appearing as Zero, announcing his intention to accept Nunnally's offer to join the Specially Administrated Zone of Japan."
-        },
         {
           "title": "Last Exile",
           "start": "2026-11-26T01:38:52-06:00",
@@ -379,12 +384,6 @@
       "name": "Anime Cinema",
       "programmes": [
         {
-          "title": "Dragon Ball: Curse of the Blood Rubies",
-          "start": "2026-11-26T00:54:07-06:00",
-          "stop": "2026-11-26T01:42:23-06:00",
-          "description": "The great King Gurumes is searching for the Dragon Balls in order to put a stop to his endless hunger. A young girl named Pansy who lives in the nearby village has had enough of the treachery and decides to seek Muten Rōshi for assistance. Can our heroes save the village and put a stop to the Gurumes Army?"
-        },
-        {
           "title": "Appleseed XIII: Ouranos",
           "start": "2026-11-26T01:42:23-06:00",
           "stop": "2026-11-26T03:07:39-06:00",
@@ -407,6 +406,12 @@
           "start": "2026-11-26T06:08:09-06:00",
           "stop": "2026-11-26T07:43:25-06:00",
           "description": "Tenchi and co. find their existence unsettled by a time-travelling entity called Kain. Desiring revenge upon the Juraian emperor, Tenchi, Kain travels back in time to kill Tenchi's mother. Trying to preserve the timestream, Tenchi and friends follow him back. Unfortunately, Tenchi must also deal with the pain that seeing his mother causes him. Since she died in the future, seeing her alive in the past reopens his old wounds."
+        },
+        {
+          "title": "Martian Successor Nadesico: The Motion Picture - Prince of Darkness",
+          "start": "2026-11-26T07:43:25-06:00",
+          "stop": "2026-11-26T09:03:25-06:00",
+          "description": "In this follow-up to the Martian Successor Nadesico anime series, a 14-year-old, genetically-engineered genius captain of the new Battleship Nadesico must fight an organized Martian Successor attack."
         }
       ],
       "logo": "logos/33.png"
@@ -568,6 +573,12 @@
           "start": "2026-11-26T07:06:18-06:00",
           "stop": "2026-11-26T07:33:46-06:00",
           "description": "Set months after the events of Mobile Suit Gundam Unicorn, the story focuses on two former Principality of Zeon Remnants, Former Weapons Developer Arlette Almage and Former Test Pilot Danton Hyleg. Both of them are hired by the Earth Federation Forces research team to investigate the remains of the asteroid base Axis. But upon their arrival, they encounter a Cyber Newtype, Quentin Fermo, who pilots the mysterious mobile suit, the RX-78AN-01 Gundam AN-01. Tristan attacks them for unknown reasons."
+        },
+        {
+          "title": "Mobile Suit Zeta Gundam - A New Translation I: Heirs to the Stars",
+          "start": "2026-11-26T07:33:46-06:00",
+          "stop": "2026-11-26T09:09:07-06:00",
+          "description": "Ten years after the One Year War, Camille Bidan becomes involved in the conflict against the Titans as the pilot of Zeta Gundam."
         }
       ],
       "logo": "logos/46.png"
@@ -793,6 +804,13 @@
           "stop": "2026-11-26T07:39:04-06:00",
           "episode_title": "Fates",
           "description": "As Durandal plays a lonely game of chess, he reflects upon the past, and the philosophy of his dear friend, Rau Le Creuset."
+        },
+        {
+          "title": "Mobile Suit Gundam Seed Destiny",
+          "start": "2026-11-26T07:39:04-06:00",
+          "stop": "2026-11-26T08:03:53-06:00",
+          "episode_title": "A Fleeting Dream",
+          "description": "Stella's condition worsens, and Athrun overhears Talia talking about how the PLANT Supreme Council need a living Extended."
         }
       ],
       "logo": "logos/48.png"
@@ -825,6 +843,12 @@
           "start": "2026-11-26T05:40:50-06:00",
           "stop": "2026-11-26T07:32:13-06:00",
           "description": "A strange doorway appears in the basement of a furniture showroom, leading to an endless network of interconnected rooms where time bends and the only thing scarier than getting lost is the sense that something is lying in wait."
+        },
+        {
+          "title": "The Box",
+          "start": "2026-11-26T07:32:13-06:00",
+          "stop": "2026-11-26T08:52:43-06:00",
+          "description": "Lazer is locked in a windowless room. A mysterious, modulated voice talks to him through a hidden speaker and threatens to kill him if Lazer doesn't complete a series of horrific, torturous tasks. Through this nightmarish crucible, Lazer must face his many demons, past and present, as he tries to stay alive and figure out who in the hell wants to watch him suffer."
         }
       ],
       "logo": "logos/56.png"
@@ -889,6 +913,13 @@
           "stop": "2026-11-26T07:35:23-06:00",
           "episode_title": "Flesh and Blood",
           "description": "As the Ori invade the Jaffa planet Chulak, Vala and Daniel must deal with their leader: Vala's young daughter, rapidly aged by the Ori to serve their purposes."
+        },
+        {
+          "title": "Stargate SG-1",
+          "start": "2026-11-26T07:35:23-06:00",
+          "stop": "2026-11-26T08:19:52-06:00",
+          "episode_title": "Morpheus",
+          "description": "SG-1 investigates a problem off-world and soon finds that they have become victims themselves: they cannot stay awake. Meanwhile, Vala Mal Doran undergoes an evaluation on Earth, hoping to join SG-1."
         }
       ],
       "logo": "logos/64.png"
@@ -1040,13 +1071,6 @@
       "number": 72,
       "name": "Comedy",
       "programmes": [
-        {
-          "title": "MXC",
-          "start": "2026-11-26T01:25:13-06:00",
-          "stop": "2026-11-26T01:46:08-06:00",
-          "episode_title": "Meat Handlers vs. Cartoon Voice Actors",
-          "description": "The rivalry between the cartoon voice actors and America's meat handlers is finally settled. Plus, Vic gives Kenny advice on being a TV announcer. Games include: Sinkers and Floaters; Log Drop; Wall Buggers; Boulder Dash"
-        },
         {
           "title": "MXC",
           "start": "2026-11-26T01:46:08-06:00",
