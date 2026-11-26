@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-25T22:16:24.721236-06:00",
+  "generated_at": "2026-11-25T22:31:24.707497-06:00",
   "timezone": "America/Chicago",
   "source": "tunarr-xmltv",
   "window_hours": 6,
-  "window_start": "2026-11-25T22:16:24.721236-06:00",
-  "window_end": "2026-11-26T04:16:24.721236-06:00",
+  "window_start": "2026-11-25T22:31:24.707497-06:00",
+  "window_end": "2026-11-26T04:31:24.707497-06:00",
   "channel_count": 15,
-  "programme_count": 139,
+  "programme_count": 144,
   "channels": [
     {
       "id": "C2.50.tunarr.com",
@@ -247,13 +247,6 @@
       "name": "Japanimation",
       "programmes": [
         {
-          "title": "Great Teacher Onizuka",
-          "start": "2026-11-25T21:52:41-06:00",
-          "stop": "2026-11-25T22:17:43-06:00",
-          "episode_title": "Confessions",
-          "description": "As a special event to decorate the last night of the trip to Okinawa, Onizuka proposes a pair of men and women, \"Swimsuit liver test and stunning\". Moreover, the pair is Onizuka's dogma and prejudice. Naturally, Kyoko will pair with Yoshikawa due to Onizuka's strategy (?). Kyoko begins to try herself alone in a dark place and gradually becomes obedient to her own heart. However, on the way, the two are entwined by the Yankees for some reason."
-        },
-        {
           "title": "Super Dimension Fortress Macross",
           "start": "2026-11-25T22:17:43-06:00",
           "stop": "2026-11-25T22:43:57-06:00",
@@ -362,6 +355,13 @@
           "stop": "2026-11-26T04:23:56-06:00",
           "episode_title": "The Long Road Ahead",
           "description": "Von Lohengramm, Yang and Rubinsky contemplate their next moves. Yang talks with Julian about democracy and militarism."
+        },
+        {
+          "title": "Dragon Ball Z",
+          "start": "2026-11-26T04:23:56-06:00",
+          "stop": "2026-11-26T04:49:01-06:00",
+          "episode_title": "Pay to Win",
+          "description": "As the final bout of the tournament continues, Number 18 throws the defending champ for a loop by offering to throw the fight! Meanwhile, Babidi has selected his warrior for Stage 3: Dabura, King of the Demon World!"
         }
       ],
       "logo": "logos/32.png"
@@ -400,6 +400,12 @@
           "start": "2026-11-26T03:07:39-06:00",
           "stop": "2026-11-26T04:20:39-06:00",
           "description": "Little Shark arrives at Yagyo Station and encounters Sora, a girl sitting sadly on a bench. Sora tells him she's transferring to a high school in the city and is worried she might be all alone. Little Shark encourages her, showing her a magazine with pictures of the fun city life and telling her she'll surely make new friends there. After parting ways with Sora, Little Shark starts walking and his eyes are drawn to a glittering poster of the city. At that moment, a shark-shaped cloud passes over him. As if drawn by the cloud, Little Shark boards a train bound for the city. Shining neon lights, a scramble crossing where people come and go, a crowded train swaying with many people. Little Shark's little grand adventure begins in the city."
+        },
+        {
+          "title": "Your Name.",
+          "start": "2026-11-26T04:20:39-06:00",
+          "stop": "2026-11-26T06:08:09-06:00",
+          "description": "High schoolers Mitsuha and Taki are complete strangers living separate lives. But one night, they suddenly switch places. Mitsuha wakes up in Taki’s body, and he in hers. This bizarre occurrence continues to happen randomly, and the two must adjust their lives around each other."
         }
       ],
       "logo": "logos/33.png"
@@ -409,13 +415,6 @@
       "number": 45,
       "name": "Mobile Suit Network",
       "programmes": [
-        {
-          "title": "Mobile Suit Gundam 0083: Stardust Memory",
-          "start": "2026-11-25T21:52:26-06:00",
-          "stop": "2026-11-25T22:18:51-06:00",
-          "episode_title": "Colliding War Zones",
-          "description": "Gato retreats after the nuclear strike destroys two-thirds of the Federation's fleet, but runs into Kou. As Nina breaks down watching them fight, both of their mobile suits take heavy damage and the pilots flee before they explode. Meanwhile, Cima's fleet hijacks two colonies in transport and later blow off one mirror each from them. When the Albion crew is informed of the colonyjack, Nina correctly theorizes that the colonies will crash into each other, with one in direct course for the Moon. She also reveals the existence of a third Gundam built under the GDP."
-        },
         {
           "title": "Mobile Suit Gundam 0083: Stardust Memory",
           "start": "2026-11-25T22:18:51-06:00",
@@ -497,6 +496,13 @@
           "stop": "2026-11-26T04:17:02-06:00",
           "episode_title": "Escape From Luna II",
           "description": "After arriving at a Federation asteroid military base, the White Base is confiscated and its crew are arrested for violating military protocol by allowing civilians to use top secret government property."
+        },
+        {
+          "title": "Mobile Suit Gundam",
+          "start": "2026-11-26T04:17:02-06:00",
+          "stop": "2026-11-26T04:42:42-06:00",
+          "episode_title": "Re-Entry to Earth",
+          "description": "Bright Noa is instructed to take the White Base to a military base on Earth, but first they have to take on Char Aznable's forces near the atmospheric entry point."
         }
       ],
       "logo": "logos/45.png"
@@ -538,13 +544,6 @@
       "number": 47,
       "name": "Universal Century",
       "programmes": [
-        {
-          "title": "Mobile Suit Gundam",
-          "start": "2026-11-25T21:54:45-06:00",
-          "stop": "2026-11-25T22:20:24-06:00",
-          "episode_title": "Zeon's Secret Mine",
-          "description": "The crew of White Base searches for the Amuro and the Gundam; Amuro hopes to end the war by attacking a mine believed to be the main source of iron ore for the Zeon war industry."
-        },
         {
           "title": "Mobile Suit Gundam",
           "start": "2026-11-25T22:20:24-06:00",
@@ -642,6 +641,13 @@
           "stop": "2026-11-26T04:23:48-06:00",
           "episode_title": "Night Caller",
           "description": "With scrappy Zaku II units, Captain Solari and Lesean mount a strong defense against the Federation mobile suits. Later, an unexpected visitor arrives."
+        },
+        {
+          "title": "Gundam: Requiem for Vengeance",
+          "start": "2026-11-26T04:23:48-06:00",
+          "stop": "2026-11-26T04:47:57-06:00",
+          "episode_title": "The River",
+          "description": "Captain Solari’s convoy ambushes an EFF vehicle, but a Zeon patrol jeopardizes the mission before they can reach the outpost."
         }
       ],
       "logo": "logos/47.png"
@@ -755,6 +761,13 @@
           "stop": "2026-11-26T04:20:41-06:00",
           "episode_title": "Wandering Eyes",
           "description": "An Earth Alliance fleet, led by Orb forces, heads towards to Black Sea to deal a critical blow to ZAFT. However, a third party is waiting in the wings to stop the battle."
+        },
+        {
+          "title": "Mobile Suit Gundam Seed Destiny",
+          "start": "2026-11-26T04:20:41-06:00",
+          "stop": "2026-11-26T04:45:27-06:00",
+          "episode_title": "Sword of the Blue Skies",
+          "description": "Cagalli's attempts to stop the Orb fleet fails, and a battle breaks out between the Minerva, the Archangel, and the joint Orb-Earth Alliance fleet."
         }
       ],
       "logo": "logos/48.png"
@@ -787,6 +800,12 @@
           "start": "2026-11-26T02:39:05-06:00",
           "stop": "2026-11-26T04:26:14-06:00",
           "description": "After receiving an exotic small animal as a Christmas gift, a young man inadvertently breaks three important rules concerning his new pet, which unleashes a horde of malevolently mischievous creatures on a small town."
+        },
+        {
+          "title": "The Exorcism of Hannah Stevenson",
+          "start": "2026-11-26T04:26:14-06:00",
+          "stop": "2026-11-26T05:40:50-06:00",
+          "description": "A young couple take their first foreign holiday together. Yet, behind the couple's happy smiles lies a hidden desire. They turn to a mysterious local woman for help, but the truth of the situation is more destructive than they feared."
         }
       ],
       "logo": "logos/56.png"
@@ -851,6 +870,13 @@
           "stop": "2026-11-26T04:21:44-06:00",
           "episode_title": "Accession",
           "description": "Stardate: Unknown. A man claiming to be the emissary comes through the wormhole. Sisko is happy to give up his position. Meanwhile Keiko returns and O'Brien stops spending time with Bashir."
+        },
+        {
+          "title": "Star Trek: Deep Space Nine",
+          "start": "2026-11-26T04:21:44-06:00",
+          "stop": "2026-11-26T05:08:02-06:00",
+          "episode_title": "Rules of Engagement",
+          "description": "Stardate: 49665.3. When Worf destroys a civilian shuttle during an engagement with the Klingons, an extradition hearing is held to see if he must face charges."
         }
       ],
       "logo": "logos/64.png"
@@ -860,13 +886,6 @@
       "number": 65,
       "name": "Stargate Command",
       "programmes": [
-        {
-          "title": "Stargate SG-1",
-          "start": "2026-11-25T21:39:01-06:00",
-          "stop": "2026-11-25T22:24:08-06:00",
-          "episode_title": "The Broca Divide",
-          "description": "Members of SG-1 become infected with an alien virus that turns them into primitive beings. Dr. Fraiser must find a cure to save the team and the alien population from whom it was contracted."
-        },
         {
           "title": "Stargate Atlantis",
           "start": "2026-11-25T22:24:08-06:00",
@@ -993,6 +1012,13 @@
           "stop": "2026-11-26T04:30:01-06:00",
           "episode_title": "Dreadnought",
           "description": "Voyager comes across a ship that has been destroyed. Upon investigation they discover that B'Elanna Torres is responsible. Dreadnought is a self-guided missile created by the Cardassians to destroy the Maquis; however, the bomb failed to go off, allowing B'Elanna to get inside and re-program it to do the Maquis' bidding. Meanwhile, Tom shows signs of escalating dissatisfaction at serving aboard Voyager."
+        },
+        {
+          "title": "Star Trek: Voyager",
+          "start": "2026-11-26T04:30:01-06:00",
+          "stop": "2026-11-26T05:16:50-06:00",
+          "episode_title": "Death Wish",
+          "description": "Stardate: 49301.2. A suicidal Q threatens the future of the Q-Continuum after he requests asylum aboard Voyager."
         }
       ],
       "logo": "logos/66.png"
@@ -1062,6 +1088,13 @@
           "stop": "2026-11-26T04:20:43-06:00",
           "episode_title": "Chapter Three: Make the Unsafe Choice",
           "description": "Barry misses an acting class to honor an obligation. The detectives try to piece together a murder puzzle. Sally makes a mistake during an audition, and turns to Barry for comfort. The Chechens rejoice when a legendary assassin arrives."
+        },
+        {
+          "title": "Barry",
+          "start": "2026-11-26T04:20:43-06:00",
+          "stop": "2026-11-26T04:50:31-06:00",
+          "episode_title": "Chapter Four: Commit ... to YOU",
+          "description": "Barry finds that distancing himself from Fuches and the Chechens might be harder than he thought. Sally is dismayed to learn that an audition arranged by a prospective agent has strings attached. Gene promises Ross a bombshell, but only over dinner. Barry invites a Marine buddy and his two pals to a party, where a rising actor threatens Barry's claim on Sally."
         }
       ],
       "logo": "logos/72.png"
