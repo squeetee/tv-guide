@@ -1,25 +1,18 @@
 window.GUIDE_DATA = {
-  "generated_at": "2026-11-26T05:31:27.576192-06:00",
+  "generated_at": "2026-11-26T05:46:27.079877-06:00",
   "timezone": "America/Chicago",
   "source": "tunarr-xmltv",
   "window_hours": 6,
-  "window_start": "2026-11-26T05:31:27.576192-06:00",
-  "window_end": "2026-11-26T11:31:27.576192-06:00",
+  "window_start": "2026-11-26T05:46:27.079877-06:00",
+  "window_end": "2026-11-26T11:46:27.079877-06:00",
   "channel_count": 15,
-  "programme_count": 142,
+  "programme_count": 139,
   "channels": [
     {
       "id": "C2.50.tunarr.com",
       "number": 2,
       "name": "Syndication",
       "programmes": [
-        {
-          "title": "Farscape",
-          "start": "2026-11-26T04:52:07-06:00",
-          "stop": "2026-11-26T05:39:02-06:00",
-          "episode_title": "Coup By Clam",
-          "description": "While in quarantine high above the patriarchal planet Khurtanan, the crew shares a meal of alien mollusks and almost instantaneously suffers a violent physical reaction. Each crew member becomes bodily linked to one of the others, Crichton to Sikozu, Aeryn to Rygel, and so on. It soon becomes clear they have been deliberately poisoned by the local doctor and are being blackmailed in exchange for the cure."
-        },
         {
           "title": "Star Trek: Enterprise",
           "start": "2026-11-26T05:39:02-06:00",
@@ -140,18 +133,6 @@ window.GUIDE_DATA = {
       "number": 11,
       "name": "Kidz!",
       "programmes": [
-        {
-          "title": "Looney Tunes",
-          "start": "2026-11-26T05:25:58-06:00",
-          "stop": "2026-11-26T05:34:57-06:00",
-          "episode_title": "Episode 5"
-        },
-        {
-          "title": "Looney Tunes",
-          "start": "2026-11-26T05:34:57-06:00",
-          "stop": "2026-11-26T05:44:02-06:00",
-          "episode_title": "Episode 6"
-        },
         {
           "title": "Swat Kats: The Radical Squadron",
           "start": "2026-11-26T05:44:02-06:00",
@@ -364,6 +345,13 @@ window.GUIDE_DATA = {
           "stop": "2026-11-26T11:40:01-06:00",
           "episode_title": "The Dark Prince Returns",
           "description": "In an all-out assault against Vegeta, Babidi uses his power to undo the unsuspecting Prince from within! Vegeta is stripped of his good qualities by the wicked wizard, and becomes the heartless warrior that he once was!"
+        },
+        {
+          "title": "Dragon Ball Z",
+          "start": "2026-11-26T11:40:01-06:00",
+          "stop": "2026-11-26T12:05:06-06:00",
+          "episode_title": "Vegeta's Pride",
+          "description": "Evil Vegeta gives Goku an ultimatum: fight - or watch him annihilate more innocent lives! Goku vows to settle the score between them once and for all, but the Supreme Kai steps between the Saiyans with a bold declaration!"
         }
       ],
       "logo": "logos/32.png"
@@ -411,13 +399,6 @@ window.GUIDE_DATA = {
       "number": 45,
       "name": "Mobile Suit Network",
       "programmes": [
-        {
-          "title": "Mobile Suit Zeta Gundam",
-          "start": "2026-11-26T05:07:49-06:00",
-          "stop": "2026-11-26T05:32:57-06:00",
-          "episode_title": "The Day of Dakar",
-          "description": "Jerid pursues Karaba's Audhumla as the AEUG plans to infiltrate Dakar so that Char can break into the Federation Council and state his case. While the battle rages outside, Char makes an appearance on television and proclaims that the Federation has become just like the Zabis and they need to change and that people should move off of the Earth to help it recover."
-        },
         {
           "title": "Mobile Suit Gundam Seed Destiny",
           "start": "2026-11-26T05:32:57-06:00",
@@ -539,6 +520,18 @@ window.GUIDE_DATA = {
           "stop": "2026-11-26T11:42:46-06:00",
           "episode_title": "A Place for the Soul",
           "description": "Flay, who was held captive by Rau, is rescued by the Dominion despite Kira's desperate attempts to steal her lifepod. She gives Muruta Azrael the disk she was given by Rau which contains the specs on the Freedom and Justice and the Neutron Jammer Canceller technology."
+        },
+        {
+          "title": "Mobile Suit Gundam-san",
+          "start": "2026-11-26T11:42:46-06:00",
+          "stop": "2026-11-26T11:46:17-06:00",
+          "episode_title": "Episode 1"
+        },
+        {
+          "title": "Mobile Suit Gundam-san",
+          "start": "2026-11-26T11:46:17-06:00",
+          "stop": "2026-11-26T11:49:48-06:00",
+          "episode_title": "Episode 2"
         }
       ],
       "logo": "logos/45.png"
@@ -548,12 +541,6 @@ window.GUIDE_DATA = {
       "number": 46,
       "name": "Gundam Theater",
       "programmes": [
-        {
-          "title": "30th Gundam Perfect Mission",
-          "start": "2026-11-26T05:29:55-06:00",
-          "stop": "2026-11-26T05:33:02-06:00",
-          "description": "30th Gundam Perfect Mission is a short original video animation (OVA) officially released by Sunrise in celebration of the 30th anniversary of the Gundam metaseries. It features all the titular and mascot gundams of the main series in a non-cannon conjoint mission."
-        },
         {
           "title": "Gundam Wing: The Endless Waltz",
           "start": "2026-11-26T05:33:02-06:00",
@@ -598,13 +585,6 @@ window.GUIDE_DATA = {
       "number": 47,
       "name": "Universal Century",
       "programmes": [
-        {
-          "title": "Mobile Suit Gundam MS IGLOO",
-          "start": "2026-11-26T05:12:20-06:00",
-          "stop": "2026-11-26T05:41:32-06:00",
-          "episode_title": "Odessa, Iron Storm!",
-          "description": "(U.C. 0079.11.08 - 0079.11.09) Though Operation Odessa is proceeding, the 44th Hybrid Brigade suffers setback after its advance is bombarded by artillery from Zeon's Dobday-class land battleships. They are reinforced by three Guntanks piloted by a trio of convicts led by Lt. Arleen Nazon, a technical officer blamed and condemned to rot in jail after her lover defected to Zeon with information of the RTX-440 project. Bearing deep hatred to the man who betrayed her, Clyde Bettany, Arleen vows revenge for destroying her future. The offensive resumes on the second day and the Federation forces again suffering casualty from the well dug Zeon defence. Arleen's team penetrates enemy lines to provide artillery reconnaissance, before storming and breaking into the Zeon forward base. In the mist of battle, Arleen's two teammates self-detonate their Guntanks, taking out one Dobday."
-        },
         {
           "title": "Mobile Suit Gundam",
           "start": "2026-11-26T05:41:32-06:00",
@@ -681,13 +661,6 @@ window.GUIDE_DATA = {
       "number": 48,
       "name": "Cosmic Era",
       "programmes": [
-        {
-          "title": "Mobile Suit Gundam Seed Destiny",
-          "start": "2026-11-26T05:10:14-06:00",
-          "stop": "2026-11-26T05:35:00-06:00",
-          "episode_title": "Differing Views",
-          "description": "With Miriallia's help, Athrun meets with Kira and Cagalli."
-        },
         {
           "title": "Mobile Suit Gundam Seed Destiny",
           "start": "2026-11-26T05:35:00-06:00",
@@ -795,12 +768,6 @@ window.GUIDE_DATA = {
       "name": "Fright Night",
       "programmes": [
         {
-          "title": "The Exorcism of Hannah Stevenson",
-          "start": "2026-11-26T04:26:14-06:00",
-          "stop": "2026-11-26T05:40:50-06:00",
-          "description": "A young couple take their first foreign holiday together. Yet, behind the couple's happy smiles lies a hidden desire. They turn to a mysterious local woman for help, but the truth of the situation is more destructive than they feared."
-        },
-        {
           "title": "Backrooms",
           "start": "2026-11-26T05:40:50-06:00",
           "stop": "2026-11-26T07:32:13-06:00",
@@ -823,6 +790,12 @@ window.GUIDE_DATA = {
           "start": "2026-11-26T09:46:33-06:00",
           "stop": "2026-11-26T11:39:04-06:00",
           "description": "Paranormal investigators Ed and Lorraine Warren work to help a family terrorized by a dark presence in their farmhouse. Forced to confront a powerful entity, the Warrens find themselves caught in the most terrifying case of their lives."
+        },
+        {
+          "title": "The Exorcist",
+          "start": "2026-11-26T11:39:04-06:00",
+          "stop": "2026-11-26T13:52:20-06:00",
+          "description": "Regan MacNeil, a playful 12 year old, begins communicating with an invisible figure through a Ouija board, but as her behavior turns terrifying and doctors fail to explain it, her mother seeks help from a skeptical priest."
         }
       ],
       "logo": "logos/56.png"
@@ -904,13 +877,6 @@ window.GUIDE_DATA = {
       "name": "Stargate Command",
       "programmes": [
         {
-          "title": "Stargate Atlantis",
-          "start": "2026-11-26T05:00:43-06:00",
-          "stop": "2026-11-26T05:45:31-06:00",
-          "episode_title": "Enemy at the Gate",
-          "description": "\"Todd\" informs the Atlantis expedition that a rogue group of Wraith has acquired several Zero Point Modules to power a Super-hive, and wants it destroyed. However, after the Daedalus is disabled, they learn that the ship is heading straight for Earth, and they must stop it before it gets there."
-        },
-        {
           "title": "Stargate SG-1",
           "start": "2026-11-26T05:45:31-06:00",
           "stop": "2026-11-26T06:30:38-06:00",
@@ -951,6 +917,13 @@ window.GUIDE_DATA = {
           "stop": "2026-11-26T11:36:46-06:00",
           "episode_title": "Fire and Water",
           "description": "O'Neill, Carter and Teal'c return through the Stargate shell-shocked and distressed to announce that Daniel Jackson was killed. But Jackson was captured by the last survivor of an aquatic race, who planted false memories in the other members of SG1. Can the team remember and return to rescue Daniel?"
+        },
+        {
+          "title": "Stargate Atlantis",
+          "start": "2026-11-26T11:36:46-06:00",
+          "stop": "2026-11-26T12:19:38-06:00",
+          "episode_title": "Hide and Seek",
+          "description": "Rodney can't remove an Ancient device that makes him invincible but prevents him from eating or drinking. Meanwhile, there are power malfunctions throughout the city and one of the Athosians mentions seeing a shadow."
         }
       ],
       "logo": "logos/65.png"
@@ -1070,6 +1043,13 @@ window.GUIDE_DATA = {
           "start": "2026-11-26T10:03:10-06:00",
           "stop": "2026-11-26T11:33:47-06:00",
           "description": "Kevin tries to be involved with his son and ex-wife's family for Christmas. During dinner, he thought his Christmas *day* couldn't be more screwed; his son suddenly wishes it was Christmas every day. After that, it was a regular Groundhog's Day. Kevin learns new dance moves and can actually sing. Don't let the caroling fool you."
+        },
+        {
+          "title": "The IT Crowd",
+          "start": "2026-11-26T11:33:47-06:00",
+          "stop": "2026-11-26T11:59:10-06:00",
+          "episode_title": "Fifty-Fifty",
+          "description": "When Roy gets dumped after a date, he starts believing that girls go for \"bad boys\" and creates a fake profile on a dating site and, surprisingly, gets a response. Meanwhile, Jen starts flirting with a security guard."
         }
       ],
       "logo": "logos/72.png"
