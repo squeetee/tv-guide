@@ -1,12 +1,12 @@
 window.GUIDE_DATA = {
-  "generated_at": "2026-11-25T20:57:43.496517-06:00",
+  "generated_at": "2026-11-25T21:01:24.668757-06:00",
   "timezone": "America/Chicago",
   "source": "tunarr-xmltv",
   "window_hours": 12,
-  "window_start": "2026-11-25T20:57:43.496517-06:00",
-  "window_end": "2026-11-26T08:57:43.496517-06:00",
+  "window_start": "2026-11-25T21:01:24.668757-06:00",
+  "window_end": "2026-11-26T09:01:24.668757-06:00",
   "channel_count": 15,
-  "programme_count": 260,
+  "programme_count": 259,
   "channels": [
     {
       "id": "C2.50.tunarr.com",
@@ -171,12 +171,6 @@ window.GUIDE_DATA = {
       "number": 11,
       "name": "Kidz!",
       "programmes": [
-        {
-          "title": "Looney Tunes",
-          "start": "2026-11-25T20:51:19-06:00",
-          "stop": "2026-11-25T20:59:21-06:00",
-          "episode_title": "Episode 1"
-        },
         {
           "title": "Looney Tunes",
           "start": "2026-11-25T20:59:21-06:00",
