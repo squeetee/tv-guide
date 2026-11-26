@@ -1,24 +1,18 @@
 window.GUIDE_DATA = {
-  "generated_at": "2026-11-25T21:02:19.786509-06:00",
+  "generated_at": "2026-11-25T21:16:24.688148-06:00",
   "timezone": "America/Chicago",
   "source": "tunarr-xmltv",
   "window_hours": 6,
-  "window_start": "2026-11-25T21:02:19.786509-06:00",
-  "window_end": "2026-11-26T03:02:19.786509-06:00",
+  "window_start": "2026-11-25T21:16:24.688148-06:00",
+  "window_end": "2026-11-26T03:16:24.688148-06:00",
   "channel_count": 15,
-  "programme_count": 151,
+  "programme_count": 150,
   "channels": [
     {
       "id": "C2.50.tunarr.com",
       "number": 2,
       "name": "Syndication",
       "programmes": [
-        {
-          "title": "Battlestar Galactica",
-          "start": "2026-11-25T20:26:01-06:00",
-          "stop": "2026-11-25T21:08:58-06:00",
-          "episode_title": "Episode 6"
-        },
         {
           "title": "Battlestar Galactica",
           "start": "2026-11-25T21:08:58-06:00",
@@ -103,12 +97,6 @@ window.GUIDE_DATA = {
       "number": 11,
       "name": "Kidz!",
       "programmes": [
-        {
-          "title": "Looney Tunes",
-          "start": "2026-11-25T20:59:21-06:00",
-          "stop": "2026-11-25T21:07:45-06:00",
-          "episode_title": "Episode 2"
-        },
         {
           "title": "Voltron: Legendary Defender",
           "start": "2026-11-25T21:07:45-06:00",
@@ -246,12 +234,6 @@ window.GUIDE_DATA = {
       "programmes": [
         {
           "title": "Dragon Ball Z",
-          "start": "2026-11-25T20:37:27-06:00",
-          "stop": "2026-11-25T21:02:33-06:00",
-          "episode_title": "Battle Supreme"
-        },
-        {
-          "title": "Dragon Ball Z",
           "start": "2026-11-25T21:02:33-06:00",
           "stop": "2026-11-25T21:27:38-06:00",
           "episode_title": "Eighteen Unmasks"
@@ -345,6 +327,12 @@ window.GUIDE_DATA = {
           "start": "2026-11-26T02:37:48-06:00",
           "stop": "2026-11-26T03:02:46-06:00",
           "episode_title": "First Adjournment (Episode 9.5)"
+        },
+        {
+          "title": "Last Exile",
+          "start": "2026-11-26T03:02:46-06:00",
+          "stop": "2026-11-26T03:28:03-06:00",
+          "episode_title": "First Move"
         }
       ],
       "logo": "logos/32.png"
@@ -378,6 +366,11 @@ window.GUIDE_DATA = {
           "title": "Appleseed XIII: Ouranos",
           "start": "2026-11-26T01:42:23-06:00",
           "stop": "2026-11-26T03:07:39-06:00"
+        },
+        {
+          "title": "Odekake Kozame Movie",
+          "start": "2026-11-26T03:07:39-06:00",
+          "stop": "2026-11-26T04:20:39-06:00"
         }
       ],
       "logo": "logos/33.png"
@@ -524,11 +517,6 @@ window.GUIDE_DATA = {
       "name": "Universal Century",
       "programmes": [
         {
-          "title": "Mobile Suit Gundam: Cucuruz Doan's Island",
-          "start": "2026-11-25T19:13:47-06:00",
-          "stop": "2026-11-25T21:03:24-06:00"
-        },
-        {
           "title": "Mobile Suit Gundam",
           "start": "2026-11-25T21:03:24-06:00",
           "stop": "2026-11-25T21:29:04-06:00",
@@ -611,6 +599,12 @@ window.GUIDE_DATA = {
           "start": "2026-11-26T02:40:44-06:00",
           "stop": "2026-11-26T03:06:36-06:00",
           "episode_title": "Haunted Forest"
+        },
+        {
+          "title": "Gundam: Requiem for Vengeance",
+          "start": "2026-11-26T03:06:36-06:00",
+          "stop": "2026-11-26T03:32:24-06:00",
+          "episode_title": "Broken"
         }
       ],
       "logo": "logos/47.png"
@@ -709,6 +703,12 @@ window.GUIDE_DATA = {
           "start": "2026-11-26T02:41:37-06:00",
           "stop": "2026-11-26T03:06:23-06:00",
           "episode_title": "Attack the Lohengrin!"
+        },
+        {
+          "title": "Mobile Suit Gundam Seed Destiny",
+          "start": "2026-11-26T03:06:23-06:00",
+          "stop": "2026-11-26T03:31:09-06:00",
+          "episode_title": "The Hidden Truth"
         }
       ],
       "logo": "logos/48.png"
@@ -937,12 +937,6 @@ window.GUIDE_DATA = {
       "number": 72,
       "name": "Comedy",
       "programmes": [
-        {
-          "title": "The Office (US)",
-          "start": "2026-11-25T20:47:34-06:00",
-          "stop": "2026-11-25T21:10:50-06:00",
-          "episode_title": "The Alliance"
-        },
         {
           "title": "Coupling",
           "start": "2026-11-25T21:10:50-06:00",
