@@ -1,25 +1,18 @@
 {
-  "generated_at": "2026-11-26T06:16:27.530343-06:00",
+  "generated_at": "2026-11-26T06:31:27.663338-06:00",
   "timezone": "America/Chicago",
   "source": "tunarr-xmltv",
   "window_hours": 6,
-  "window_start": "2026-11-26T06:16:27.530343-06:00",
-  "window_end": "2026-11-26T12:16:27.530343-06:00",
+  "window_start": "2026-11-26T06:31:27.663338-06:00",
+  "window_end": "2026-11-26T12:31:27.663338-06:00",
   "channel_count": 15,
-  "programme_count": 140,
+  "programme_count": 138,
   "channels": [
     {
       "id": "C2.50.tunarr.com",
       "number": 2,
       "name": "Syndication",
       "programmes": [
-        {
-          "title": "Star Trek: Enterprise",
-          "start": "2026-11-26T05:39:02-06:00",
-          "stop": "2026-11-26T06:20:29-06:00",
-          "episode_title": "The Seventh",
-          "description": "Archer, Mayweather and T'Pol travel to an arctic world to apprehend a fugitive, when T'Pol is contacted by Vulcan High Command. The mission takes a dangerous turn when T'Pol begins having flashbacks that suggest the events she remembers about a former mission may not accurately relate to what happened."
-        },
         {
           "title": "Star Trek: Enterprise",
           "start": "2026-11-26T06:20:29-06:00",
@@ -99,6 +92,13 @@
           "stop": "2026-11-26T12:24:02-06:00",
           "episode_title": "Did I Stutter?",
           "description": "Pam is sporting a new look at work with her glasses. She admits she spent the night at a \"friend's\" house and forgot her contact solution. Michael makes sure to point out that the glasses make her look ugly, and if she wants to be hot, the glasses need to come off."
+        },
+        {
+          "title": "The Office (US)",
+          "start": "2026-11-26T12:24:02-06:00",
+          "stop": "2026-11-26T12:47:16-06:00",
+          "episode_title": "Job Fair",
+          "description": "Jim is wearing his best golfing uniform because he is hitting the links with a potential client, Phil Maguire. This is a very important account for Jim because he needs to look good to Ryan, who recently put him on probation for his job performance. Andy and Kevin are also joining in the game to show their support."
         }
       ],
       "logo": "logos/2.png"
@@ -146,13 +146,6 @@
       "number": 11,
       "name": "Kidz!",
       "programmes": [
-        {
-          "title": "Swat Kats: The Radical Squadron",
-          "start": "2026-11-26T06:07:15-06:00",
-          "stop": "2026-11-26T06:30:10-06:00",
-          "episode_title": "The Ci-Kat-A",
-          "description": "An exploration probe returns from its mission in space and is taken to MASA where Dr. Harley Street discovers a yellow viscous substance oozing from inside the probe."
-        },
         {
           "title": "Kim Possible: So the Drama",
           "start": "2026-11-26T06:30:10-06:00",
@@ -344,6 +337,13 @@
           "stop": "2026-11-26T12:31:06-06:00",
           "episode_title": "The Legendary Hit Man",
           "description": "Sakamoto enjoys a quiet life in retirement with his family. But one day, an old colleague demands he return to the assassin world — or face consequences."
+        },
+        {
+          "title": "Sakamoto Days",
+          "start": "2026-11-26T12:31:06-06:00",
+          "stop": "2026-11-26T12:57:04-06:00",
+          "episode_title": "Vs. Son Hee and Bacho",
+          "description": "While out on an errand, Sakamoto and Shin encounter Lu Shaotang, the daughter of a mafia boss, who's on the run and targeted by twin assassins."
         }
       ],
       "logo": "logos/32.png"
@@ -385,19 +385,6 @@
       "number": 45,
       "name": "Mobile Suit Network",
       "programmes": [
-        {
-          "title": "Mobile Suit Gundam Seed Destiny",
-          "start": "2026-11-26T05:57:46-06:00",
-          "stop": "2026-11-26T06:22:35-06:00",
-          "episode_title": "Eve of Chaos",
-          "description": "Kira survives, against all odds, as Shinn and Ahtrun have a falling out."
-        },
-        {
-          "title": "Gundam Seed MSV Astray",
-          "start": "2026-11-26T06:22:35-06:00",
-          "stop": "2026-11-26T06:29:11-06:00",
-          "episode_title": "Episode 1"
-        },
         {
           "title": "Gundam Seed MSV Astray",
           "start": "2026-11-26T06:29:11-06:00",
@@ -656,13 +643,6 @@
       "programmes": [
         {
           "title": "Mobile Suit Gundam Seed Destiny",
-          "start": "2026-11-26T05:59:49-06:00",
-          "stop": "2026-11-26T06:24:37-06:00",
-          "episode_title": "The Promise",
-          "description": "Shinn rushes an injured Stella aboard the Minerva, learning her startling truth in the process. Lacus returns to the PLANTs to gain a full view of the situation."
-        },
-        {
-          "title": "Mobile Suit Gundam Seed Destiny",
           "start": "2026-11-26T06:24:37-06:00",
           "stop": "2026-11-26T06:49:26-06:00",
           "episode_title": "Unfulfilled Feelings",
@@ -878,13 +858,6 @@
       "programmes": [
         {
           "title": "Stargate SG-1",
-          "start": "2026-11-26T05:45:31-06:00",
-          "stop": "2026-11-26T06:30:38-06:00",
-          "episode_title": "Thor's Hammer",
-          "description": "SG-1 goes to the planet Cimmeria in search of allies against the Goa'uld. Upon arrival, Jack and Teal'c are trapped in a labyrinth, where the only exit is through Thor's Hammer, a device to destroy Goa'uld, but preserve the host. Daniel Jackson must destroy the device that could someday have saved his wife in order to free his friends."
-        },
-        {
-          "title": "Stargate SG-1",
           "start": "2026-11-26T06:30:38-06:00",
           "stop": "2026-11-26T07:15:44-06:00",
           "episode_title": "The Torment of Tantalus",
@@ -924,6 +897,13 @@
           "stop": "2026-11-26T12:19:38-06:00",
           "episode_title": "Hide and Seek",
           "description": "Rodney can't remove an Ancient device that makes him invincible but prevents him from eating or drinking. Meanwhile, there are power malfunctions throughout the city and one of the Athosians mentions seeing a shadow."
+        },
+        {
+          "title": "Stargate Atlantis",
+          "start": "2026-11-26T12:19:38-06:00",
+          "stop": "2026-11-26T13:02:27-06:00",
+          "episode_title": "Thirty Eight Minutes",
+          "description": "A Jumper gets stuck in a Stargate when it was carrying Sheppard, Teyla, Ford and Rodney, making it impossible to pass through it. The fact that Major Sheppard is deadly injured and the Stargate will get closed in thirty eight minutes (which would mean their death) makes necessary to find out quickly a way to fit in the Stargate and escape."
         }
       ],
       "logo": "logos/65.png"
@@ -1057,6 +1037,13 @@
           "stop": "2026-11-26T12:23:39-06:00",
           "episode_title": "The Red Door",
           "description": "Moss puts a picture of his head on his cup to make sure it doesn't get lost. Curious about the red door behind Roy's desk, Jen ignores the boys' warnings never to open it, and goes in. She finds the vampiric Richmond inside."
+        },
+        {
+          "title": "The Office (US)",
+          "start": "2026-11-26T12:23:39-06:00",
+          "stop": "2026-11-26T12:45:30-06:00",
+          "episode_title": "The Dundies",
+          "description": "It's time for the \"Dundies\", Dunder Mifflin's annual awards banquet (held at the neighborhood Chili's), and the staff must endure the excruciating performance of their inept emcee, boss Michael Scott."
         }
       ],
       "logo": "logos/72.png"
