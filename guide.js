@@ -1,12 +1,12 @@
 window.GUIDE_DATA = {
-  "generated_at": "2026-11-26T14:16:24.857225-06:00",
+  "generated_at": "2026-11-26T14:31:24.930834-06:00",
   "timezone": "America/Chicago",
   "source": "tunarr-xmltv",
   "window_hours": 6,
-  "window_start": "2026-11-26T14:16:24.857225-06:00",
-  "window_end": "2026-11-26T20:16:24.857225-06:00",
+  "window_start": "2026-11-26T14:31:24.930834-06:00",
+  "window_end": "2026-11-26T20:31:24.930834-06:00",
   "channel_count": 15,
-  "programme_count": 129,
+  "programme_count": 133,
   "channels": [
     {
       "id": "C2.50.tunarr.com",
@@ -201,6 +201,13 @@ window.GUIDE_DATA = {
           "stop": "2026-11-26T20:28:02-06:00",
           "episode_title": "Enter the Madkat",
           "description": "Lenny Ringtail, a crazy comedian, escapes his asylum and finds refuge in a magic shop."
+        },
+        {
+          "title": "Swat Kats: The Radical Squadron",
+          "start": "2026-11-26T20:28:02-06:00",
+          "stop": "2026-11-26T20:51:20-06:00",
+          "episode_title": "Katastrophe",
+          "description": "Dr. Viper forms a fiendish alliance with Dark Kat and the Metallikats! The SWAT Kats scramble to expose this slithering, sinister plot. Can they save Megakat City?"
         }
       ],
       "logo": "logos/11.png"
@@ -236,12 +243,6 @@ window.GUIDE_DATA = {
       "number": 32,
       "name": "Japanimation",
       "programmes": [
-        {
-          "title": "Hyper Police",
-          "start": "2026-11-26T13:52:41-06:00",
-          "stop": "2026-11-26T14:17:43-06:00",
-          "episode_title": "Sakura Becomes Insane"
-        },
         {
           "title": "Hyper Police",
           "start": "2026-11-26T14:17:43-06:00",
@@ -336,6 +337,13 @@ window.GUIDE_DATA = {
           "stop": "2026-11-26T20:30:43-06:00",
           "episode_title": "The Guy I Kinda Like is a Sergeant",
           "description": "As part of the organization Mithril, Sergeant Souske Sagara, Melissa Mao and Kurz Weber receive a secret mission: guarding Kaname Chidori, a popular student from a Tokyo high school who has hidden military potential."
+        },
+        {
+          "title": "Full Metal Panic!",
+          "start": "2026-11-26T20:30:43-06:00",
+          "stop": "2026-11-26T20:54:27-06:00",
+          "episode_title": "I Want to Protect You",
+          "description": "Sousuke is set on his mission to protect Kaname, and attacks anything vaguely resembling a threat to Kaname. This leads to funny situations and Sousuke has to explain Kaname why he is following her, blaming coincidence."
         }
       ],
       "logo": "logos/32.png"
@@ -368,6 +376,12 @@ window.GUIDE_DATA = {
           "start": "2026-11-26T18:21:53-06:00",
           "stop": "2026-11-26T20:23:23-06:00",
           "description": "Eren Yeager and others of the 104th Training Corps have just become full members of the Survey Corps. As they ready themselves to face the Titans once again, their preparations are interrupted by the invasion of Wall Rose."
+        },
+        {
+          "title": "Appleseed Alpha",
+          "start": "2026-11-26T20:23:23-06:00",
+          "stop": "2026-11-26T21:57:38-06:00",
+          "description": "Based on the comic book by the creator of Ghost in the Shell, a young female soldier Deunan and her cyborg partner Briareos survive through the post World War 3 apocalyptic New York in search of human's future hope, the legendary city of Olympus."
         }
       ],
       "logo": "logos/33.png"
@@ -377,13 +391,6 @@ window.GUIDE_DATA = {
       "number": 45,
       "name": "Mobile Suit Network",
       "programmes": [
-        {
-          "title": "Gundam Build Fighters",
-          "start": "2026-11-26T13:54:14-06:00",
-          "stop": "2026-11-26T14:19:21-06:00",
-          "episode_title": "The Boy Who Calls the Wind",
-          "description": "Fumina Hoshino, president of the Seiho Academy's Gunpla Battle Club, is flustered. Since she is currently the Battle Club's only member, it won't be able to enter the Gunpla Battle Japanese Under-19 Championship, which requires teams of three. Then Fumina meets a transfer student named Sekai Kamiki, a master of the Jigen Haoh school of martial arts. She immediately recruits him for the Battle Club. Sekai, using a Dom that he unexpectedly discovers in the club room, is taken in by the appeal of Gunpla Battle. Then Daiki Miyaga, the president of the Plastic Model Club who has been trying to recruit Fumina, appears and proposes a battle. Even though it's his first time, Sekai uses his Jigen Haoh martial arts to crush Miyaga's machine. But then the gifted young builder Yuuma Kousaka, Fumina's childhood friend, interrupts with his Lightning Gundam!"
-        },
         {
           "title": "Mobile Suit Gundam: The Witch from Mercury",
           "start": "2026-11-26T14:19:21-06:00",
@@ -465,6 +472,13 @@ window.GUIDE_DATA = {
           "stop": "2026-11-26T20:21:13-06:00",
           "episode_title": "Her Name Is Gyanko",
           "description": "Having transferred to the Seiho Academy, Sekai discovers that he and Yuuma are in the same class. He challenges Yuuma to a battle but is bluntly rejected. Meanwhile, the school's student council has decided to merge the Gunpla Battle Club with the Plastic Model Club. To survive on its own, the Battle Club must defeat the Plamo Club in battle, and Yuuma is among the latter's players. With the Battle Club facing three-to-two odds, the battle seems like a mere formality, but Fumina's tactics let them put up a good fight. Miyaga loses his temper and deploys the huge mobile armor Agrissa, finally backing Fumina into a corner. But Yuuma, unable to accept that his club president is trying to win by ignoring the previously agreed rules, teams up with Sekai to destroy Miyaga's Agrissa. Thus, with the addition of Yuuma, team Try Fighters is finally formed!"
+        },
+        {
+          "title": "Mobile Suit Gundam Wing",
+          "start": "2026-11-26T20:21:13-06:00",
+          "stop": "2026-11-26T21:20:39-06:00",
+          "episode_title": "Operation Meteor II: Even Numbers II",
+          "description": "Feature-length episode recapping events from the Gundam Wing TV series.from the point of view of Duo and Quatre. The episode also features brief amounts of new footage of the characters after the events of the TV series."
         }
       ],
       "logo": "logos/45.png"
@@ -512,13 +526,6 @@ window.GUIDE_DATA = {
       "number": 47,
       "name": "Universal Century",
       "programmes": [
-        {
-          "title": "Mobile Suit Gundam 0080: War in the Pocket",
-          "start": "2026-11-26T14:00:58-06:00",
-          "stop": "2026-11-26T14:28:07-06:00",
-          "episode_title": "How Many Miles to the Battlefield?",
-          "description": "On the colony of Side 6, 11-year-old Alfred Izuruha messes around in school with his friends during lunch. As Al walks home, he bumps into his old friend Christina MacKenzie, who had moved to Earth years before."
-        },
         {
           "title": "Mobile Suit Gundam",
           "start": "2026-11-26T14:28:07-06:00",
@@ -612,13 +619,6 @@ window.GUIDE_DATA = {
       "programmes": [
         {
           "title": "Mobile Suit Gundam Seed Destiny",
-          "start": "2026-11-26T13:52:51-06:00",
-          "stop": "2026-11-26T14:17:38-06:00",
-          "episode_title": "Lacus Times Two",
-          "description": "The real Lacus on television states that there is someone who has the same face, voice and name as herself in the PLANTs, and the Minerva returns to space."
-        },
-        {
-          "title": "Mobile Suit Gundam Seed Destiny",
           "start": "2026-11-26T14:17:38-06:00",
           "stop": "2026-11-26T14:42:25-06:00",
           "episode_title": "Prelude to Revolution",
@@ -683,6 +683,13 @@ window.GUIDE_DATA = {
           "stop": "2026-11-26T20:28:46-06:00",
           "episode_title": "False Peace",
           "description": "The Orb Union space colony, Heliopolis, is attacked by ZAFT, despite its neutrality since the beginning of the Bloody Valentine War. Kira Yamato accidentally sees the Earth Alliance's new prototype mobile suits, which have been secretly constructed at the Heliopolis Morgenroete factory. He encounters his childhood friend, Athrun Zala, now a ZAFT soldier as one of the attackers."
+        },
+        {
+          "title": "Mobile Suit Gundam SEED",
+          "start": "2026-11-26T20:28:46-06:00",
+          "stop": "2026-11-26T20:53:32-06:00",
+          "episode_title": "Its Name is Gundam",
+          "description": "ZAFT is able to steal four of the five G-Project prototype mobile suits, leaving only the GAT-X105 Strike. With Murrue Ramius unable to pilot it effectively, Kira pilots the Strike and defends Heliopolis against the invading ZAFT forces to protect his friends. Ensign Natarle Badgiruel takes command of the new mobile assault ship Archangel with the surviving crew members."
         }
       ],
       "logo": "logos/48.png"
@@ -715,6 +722,12 @@ window.GUIDE_DATA = {
           "start": "2026-11-26T19:00:03-06:00",
           "stop": "2026-11-26T20:29:30-06:00",
           "description": "Cherry Holly, a vibrant young nurse is hired by the Hallewell family to care for an infirm old man. A path of discovery changes the course of her life, and the lives of everyone around her. Forced to confront her true identity, Cherry makes a decision that will set her upon a collision course with fate, one she won't ever return from."
+        },
+        {
+          "title": "Stigmata",
+          "start": "2026-11-26T20:29:30-06:00",
+          "stop": "2026-11-26T22:12:36-06:00",
+          "description": "A young woman with no strong religious beliefs, Frankie Paige begins having strange and violent experiences, showing signs of the wounds that Jesus received when crucified. When the Vatican gets word of Frankie's situation, a high-ranking cardinal requests that the Rev. Andrew Kiernan investigate her case. Soon Kiernan realizes that very sinister forces are at work, and tries to rescue Frankie from the entity that is plaguing her."
         }
       ],
       "logo": "logos/56.png"
@@ -857,6 +870,13 @@ window.GUIDE_DATA = {
           "stop": "2026-11-26T20:21:44-06:00",
           "episode_title": "Hope",
           "description": "Chloe's body is taken over by another consciousness. Meanwhile, Dr. Volker is stricken with a mysterious illness."
+        },
+        {
+          "title": "Stargate Atlantis",
+          "start": "2026-11-26T20:21:44-06:00",
+          "stop": "2026-11-26T21:04:34-06:00",
+          "episode_title": "Poisoning the Well",
+          "description": "The team finds a world whose people are on the brink of a discovery that may make them immune to the Wraith feeding."
         }
       ],
       "logo": "logos/65.png"
@@ -989,6 +1009,13 @@ window.GUIDE_DATA = {
           "stop": "2026-11-26T20:25:30-06:00",
           "episode_title": "Office Olympics",
           "description": "While Michael and Dwight are out of the office for the day trying to close a deal on a new condo for Michael, Jim and Pam arrange for the staff to participate in an \"Office Olympics,\" where the workers play strange, invented games (among them, Dunderball, Hate Ball...and Pam Pong) that they usually play while the boss is out. At the end of the day, the festivities cheer up everyone - even the oblivious Michael."
+        },
+        {
+          "title": "The Office (US)",
+          "start": "2026-11-26T20:25:30-06:00",
+          "stop": "2026-11-26T20:47:55-06:00",
+          "episode_title": "The Fire",
+          "description": "The Office is forced into the parking lot for the day when a fire starts in the kitchen. To ease everyone's boredom, Jim suggests a game of \"Desert Island\" and \"Who Would You Do?\", where certain staff members reveal a little too much information about themselves. Throughout the day, Michael talks business with Ryan, leaving Dwight feeling left out."
         }
       ],
       "logo": "logos/72.png"
