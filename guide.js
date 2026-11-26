@@ -1,12 +1,12 @@
 window.GUIDE_DATA = {
-  "generated_at": "2026-11-26T04:16:36.590891-06:00",
+  "generated_at": "2026-11-26T04:31:41.237088-06:00",
   "timezone": "America/Chicago",
   "source": "tunarr-xmltv",
   "window_hours": 6,
-  "window_start": "2026-11-26T04:16:36.590891-06:00",
-  "window_end": "2026-11-26T10:16:36.590891-06:00",
+  "window_start": "2026-11-26T04:31:41.237088-06:00",
+  "window_end": "2026-11-26T10:31:41.237088-06:00",
   "channel_count": 15,
-  "programme_count": 150,
+  "programme_count": 145,
   "channels": [
     {
       "id": "C2.50.tunarr.com",
@@ -87,6 +87,13 @@ window.GUIDE_DATA = {
           "stop": "2026-11-26T10:18:47-06:00",
           "episode_title": "This Woman's Work",
           "description": "After an Arkfall crash, Pottinger recruits Nolan to lead their salvage mission but his secret agenda puts them in grave danger against an alien race they've never encountered before. Meanwhile Stahma, rebuked by church elders for her growing sense of female empowerment, makes a shocking power play, while Irisa begins confiding her dark secrets to Tommy."
+        },
+        {
+          "title": "Defiance",
+          "start": "2026-11-26T10:18:47-06:00",
+          "stop": "2026-11-26T11:02:12-06:00",
+          "episode_title": "If You Could See Her Through My Eyes",
+          "description": "Datak is framed for a bizarre murder and turns to an unlikely ally for help; Irisa discovers more about her destiny after encountering a mysterious stranger."
         }
       ],
       "logo": "logos/2.png"
@@ -257,13 +264,6 @@ window.GUIDE_DATA = {
       "name": "Japanimation",
       "programmes": [
         {
-          "title": "Legend of the Galactic Heroes",
-          "start": "2026-11-26T03:55:58-06:00",
-          "stop": "2026-11-26T04:23:56-06:00",
-          "episode_title": "The Long Road Ahead",
-          "description": "Von Lohengramm, Yang and Rubinsky contemplate their next moves. Yang talks with Julian about democracy and militarism."
-        },
-        {
           "title": "Dragon Ball Z",
           "start": "2026-11-26T04:23:56-06:00",
           "stop": "2026-11-26T04:49:01-06:00",
@@ -372,6 +372,13 @@ window.GUIDE_DATA = {
           "stop": "2026-11-26T10:24:02-06:00",
           "episode_title": "The Battle for Agito's Documents!",
           "description": "It's time for the school trip to Kyoto, but there's a problem - Akito can't afford it. Ikki's team will leave no man behind, so they set out to get some money from Kaito."
+        },
+        {
+          "title": ".hack//SIGN",
+          "start": "2026-11-26T10:24:02-06:00",
+          "stop": "2026-11-26T10:48:39-06:00",
+          "episode_title": "Despair",
+          "description": "Subaru still can't find Tsukasa, though not for want of trying. Her only hope now is that someone knows his secret place. Meanwhile, Bear has uncovered the identity of the man they saw in the mystrious castle: he is Harold Huick, the creator of The World."
         }
       ],
       "logo": "logos/32.png"
@@ -381,12 +388,6 @@ window.GUIDE_DATA = {
       "number": 33,
       "name": "Anime Cinema",
       "programmes": [
-        {
-          "title": "Odekake Kozame Movie",
-          "start": "2026-11-26T03:07:39-06:00",
-          "stop": "2026-11-26T04:20:39-06:00",
-          "description": "Little Shark arrives at Yagyo Station and encounters Sora, a girl sitting sadly on a bench. Sora tells him she's transferring to a high school in the city and is worried she might be all alone. Little Shark encourages her, showing her a magazine with pictures of the fun city life and telling her she'll surely make new friends there. After parting ways with Sora, Little Shark starts walking and his eyes are drawn to a glittering poster of the city. At that moment, a shark-shaped cloud passes over him. As if drawn by the cloud, Little Shark boards a train bound for the city. Shining neon lights, a scramble crossing where people come and go, a crowded train swaying with many people. Little Shark's little grand adventure begins in the city."
-        },
         {
           "title": "Your Name.",
           "start": "2026-11-26T04:20:39-06:00",
@@ -419,13 +420,6 @@ window.GUIDE_DATA = {
       "number": 45,
       "name": "Mobile Suit Network",
       "programmes": [
-        {
-          "title": "Mobile Suit Gundam",
-          "start": "2026-11-26T03:51:22-06:00",
-          "stop": "2026-11-26T04:17:02-06:00",
-          "episode_title": "Escape From Luna II",
-          "description": "After arriving at a Federation asteroid military base, the White Base is confiscated and its crew are arrested for violating military protocol by allowing civilians to use top secret government property."
-        },
         {
           "title": "Mobile Suit Gundam",
           "start": "2026-11-26T04:17:02-06:00",
@@ -547,6 +541,13 @@ window.GUIDE_DATA = {
           "stop": "2026-11-26T10:28:13-06:00",
           "episode_title": "Gunpla Eve",
           "description": "A festival is held in Shizuoka one week before the final round of the tournament, where guests can participate in Free Battle rounds against the championship's competitors. Meanwhile, Nils and Caroline follow a truck that leads them to the source of Plavsky particles."
+        },
+        {
+          "title": "Gundam Build Fighters",
+          "start": "2026-11-26T10:28:13-06:00",
+          "stop": "2026-11-26T10:53:14-06:00",
+          "episode_title": "Dark Matter",
+          "description": "In the final round of the tournament, Meijin Kawaguchi the 3rd unveils the true form of his Gundam Amazing Exia. However, he brings forth a disturbing aura in the arena reminiscent of his predecessor."
         }
       ],
       "logo": "logos/45.png"
@@ -612,13 +613,6 @@ window.GUIDE_DATA = {
       "number": 47,
       "name": "Universal Century",
       "programmes": [
-        {
-          "title": "Gundam: Requiem for Vengeance",
-          "start": "2026-11-26T03:58:09-06:00",
-          "stop": "2026-11-26T04:23:48-06:00",
-          "episode_title": "Night Caller",
-          "description": "With scrappy Zaku II units, Captain Solari and Lesean mount a strong defense against the Federation mobile suits. Later, an unexpected visitor arrives."
-        },
         {
           "title": "Gundam: Requiem for Vengeance",
           "start": "2026-11-26T04:23:48-06:00",
@@ -716,13 +710,6 @@ window.GUIDE_DATA = {
       "number": 48,
       "name": "Cosmic Era",
       "programmes": [
-        {
-          "title": "Mobile Suit Gundam Seed Destiny",
-          "start": "2026-11-26T03:55:55-06:00",
-          "stop": "2026-11-26T04:20:41-06:00",
-          "episode_title": "Wandering Eyes",
-          "description": "An Earth Alliance fleet, led by Orb forces, heads towards to Black Sea to deal a critical blow to ZAFT. However, a third party is waiting in the wings to stop the battle."
-        },
         {
           "title": "Mobile Suit Gundam Seed Destiny",
           "start": "2026-11-26T04:20:41-06:00",
@@ -830,12 +817,6 @@ window.GUIDE_DATA = {
       "name": "Fright Night",
       "programmes": [
         {
-          "title": "Gremlins",
-          "start": "2026-11-26T02:39:05-06:00",
-          "stop": "2026-11-26T04:26:14-06:00",
-          "description": "After receiving an exotic small animal as a Christmas gift, a young man inadvertently breaks three important rules concerning his new pet, which unleashes a horde of malevolently mischievous creatures on a small town."
-        },
-        {
           "title": "The Exorcism of Hannah Stevenson",
           "start": "2026-11-26T04:26:14-06:00",
           "stop": "2026-11-26T05:40:50-06:00",
@@ -873,13 +854,6 @@ window.GUIDE_DATA = {
       "number": 64,
       "name": "Sci-Fi",
       "programmes": [
-        {
-          "title": "Star Trek: Deep Space Nine",
-          "start": "2026-11-26T03:35:21-06:00",
-          "stop": "2026-11-26T04:21:44-06:00",
-          "episode_title": "Accession",
-          "description": "Stardate: Unknown. A man claiming to be the emissary comes through the wormhole. Sisko is happy to give up his position. Meanwhile Keiko returns and O'Brien stops spending time with Bashir."
-        },
         {
           "title": "Star Trek: Deep Space Nine",
           "start": "2026-11-26T04:21:44-06:00",
@@ -1003,13 +977,6 @@ window.GUIDE_DATA = {
       "programmes": [
         {
           "title": "Star Trek: Voyager",
-          "start": "2026-11-26T03:43:16-06:00",
-          "stop": "2026-11-26T04:30:01-06:00",
-          "episode_title": "Dreadnought",
-          "description": "Voyager comes across a ship that has been destroyed. Upon investigation they discover that B'Elanna Torres is responsible. Dreadnought is a self-guided missile created by the Cardassians to destroy the Maquis; however, the bomb failed to go off, allowing B'Elanna to get inside and re-program it to do the Maquis' bidding. Meanwhile, Tom shows signs of escalating dissatisfaction at serving aboard Voyager."
-        },
-        {
-          "title": "Star Trek: Voyager",
           "start": "2026-11-26T04:30:01-06:00",
           "stop": "2026-11-26T05:16:50-06:00",
           "episode_title": "Death Wish",
@@ -1063,6 +1030,13 @@ window.GUIDE_DATA = {
           "stop": "2026-11-26T10:28:37-06:00",
           "episode_title": "Time's Orphan",
           "description": "Stardate: Unknown. The Chief's daughter gets caught in a time displacement and when they get her back, she is considerably older."
+        },
+        {
+          "title": "Star Trek: Deep Space Nine",
+          "start": "2026-11-26T10:28:37-06:00",
+          "stop": "2026-11-26T11:14:47-06:00",
+          "episode_title": "The Sound of Her Voice",
+          "description": "Stardate: 51948.3. As the Defiant races to a shipwrecked officer who is days away, the crew keeps in contact with her. Meanwhile, Jake follows Quark's latest scheme for story research."
         }
       ],
       "logo": "logos/66.png"
@@ -1072,13 +1046,6 @@ window.GUIDE_DATA = {
       "number": 72,
       "name": "Comedy",
       "programmes": [
-        {
-          "title": "Barry",
-          "start": "2026-11-26T03:49:30-06:00",
-          "stop": "2026-11-26T04:20:43-06:00",
-          "episode_title": "Chapter Three: Make the Unsafe Choice",
-          "description": "Barry misses an acting class to honor an obligation. The detectives try to piece together a murder puzzle. Sally makes a mistake during an audition, and turns to Barry for comfort. The Chechens rejoice when a legendary assassin arrives."
-        },
         {
           "title": "Barry",
           "start": "2026-11-26T04:20:43-06:00",
