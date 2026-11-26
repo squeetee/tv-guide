@@ -1,25 +1,18 @@
 {
-  "generated_at": "2026-11-26T15:16:24.950430-06:00",
+  "generated_at": "2026-11-26T15:31:25.149815-06:00",
   "timezone": "America/Chicago",
   "source": "tunarr-xmltv",
   "window_hours": 6,
-  "window_start": "2026-11-26T15:16:24.950430-06:00",
-  "window_end": "2026-11-26T21:16:24.950430-06:00",
+  "window_start": "2026-11-26T15:31:25.149815-06:00",
+  "window_end": "2026-11-26T21:31:25.149815-06:00",
   "channel_count": 15,
-  "programme_count": 130,
+  "programme_count": 132,
   "channels": [
     {
       "id": "C2.50.tunarr.com",
       "number": 2,
       "name": "Syndication",
       "programmes": [
-        {
-          "title": "Stargate SG-1",
-          "start": "2026-11-26T14:34:54-06:00",
-          "stop": "2026-11-26T15:17:35-06:00",
-          "episode_title": "Ethon",
-          "description": "A contact within the Rand Protectorate comes to Earth with news that the Ori have given his people a superweapon to use against the Caledonian Federation in exchange for their conversion to Origin. SG-1 plans to turn the people from their newfound religion and destroy the superweapon."
-        },
         {
           "title": "Andromeda",
           "start": "2026-11-26T15:17:35-06:00",
@@ -89,6 +82,13 @@
           "stop": "2026-11-26T21:19:08-06:00",
           "episode_title": "A Simple Investigation",
           "description": "Odo helps a woman hiding on the station from organized criminals, but quickly develops a personal interest in the case."
+        },
+        {
+          "title": "Stargate Infinity",
+          "start": "2026-11-26T21:19:08-06:00",
+          "stop": "2026-11-26T21:41:19-06:00",
+          "episode_title": "The Face of Evil",
+          "description": "The team arrives on an ice planet and intervenes in a fight between the Tlak'khan and the native Ursons. They win the day for the natives but begin to suspect all isn't as it seems. Seattle follows a young Tlak'khan to a hidden city while Gus interrogates the prisoners who it turns out are farmer/refugees. The team realizes the Ursons are in the wrong and turn against them to help the Tlak'khan farmers."
         }
       ],
       "logo": "logos/2.png"
@@ -98,12 +98,6 @@
       "number": 3,
       "name": "The Movie Channel",
       "programmes": [
-        {
-          "title": "The Adventures of Ichabod and Mr. Toad",
-          "start": "2026-11-26T14:13:37-06:00",
-          "stop": "2026-11-26T15:22:35-06:00",
-          "description": "A concise adaptation of Kenneth Grahame's \"The Wind in the Willows\" about Mr. Toad's motor mania, followed by a short retelling of Washington Irving's \"The Legend of Sleepy Hollow\" concerning schoolmaster Ichabod Crane."
-        },
         {
           "title": "Star Wars: The Clone Wars",
           "start": "2026-11-26T15:22:35-06:00",
@@ -355,6 +349,13 @@
           "stop": "2026-11-26T21:18:58-06:00",
           "episode_title": "Medusa's Revival! A Spider and Snake's Fateful Reunion?",
           "description": "Dr. Stein’s trying to whip the Meisters and Weapons into shape for their eventual fight against Arachne. They’ll definitely need to toughen up - Arachne isn’t the only witch who’s back on the scene."
+        },
+        {
+          "title": "Soul Eater",
+          "start": "2026-11-26T21:18:58-06:00",
+          "stop": "2026-11-26T21:43:29-06:00",
+          "episode_title": "The Red Hot Runaway Express - A Magic Tool Left Behind by the Great Wizard?",
+          "description": "Under the desert sun, Death the Kid and the Thompsons fight Fisher King for a Magic Tool that’s kept a train running for a century. When Death the Kid learns who made the device, it stops him in his tracks."
         }
       ],
       "logo": "logos/32.png"
@@ -470,6 +471,13 @@
           "stop": "2026-11-26T21:20:39-06:00",
           "episode_title": "Operation Meteor II: Even Numbers II",
           "description": "Feature-length episode recapping events from the Gundam Wing TV series.from the point of view of Duo and Quatre. The episode also features brief amounts of new footage of the characters after the events of the TV series."
+        },
+        {
+          "title": "Mobile Suit Gundam Wing",
+          "start": "2026-11-26T21:20:39-06:00",
+          "stop": "2026-11-26T21:45:33-06:00",
+          "episode_title": "The Shooting Star She Saw",
+          "description": "In an effort to end many years of tyrannical rule, five pilots and their Gundams are dispatched to Earth to begin Operation Meteor. Four land without incident, but one is intercepted and his mission is compromised."
         }
       ],
       "logo": "logos/45.png"
@@ -517,13 +525,6 @@
       "number": 47,
       "name": "Universal Century",
       "programmes": [
-        {
-          "title": "Mobile Suit Gundam 0080: War in the Pocket",
-          "start": "2026-11-26T14:53:47-06:00",
-          "stop": "2026-11-26T15:21:58-06:00",
-          "episode_title": "Reflections in a Brown Eye",
-          "description": "Al takes pictures of the damaged Zaku and sees the pilot pointing a gun at him."
-        },
         {
           "title": "Mobile Suit Gundam",
           "start": "2026-11-26T15:21:58-06:00",
@@ -606,6 +607,13 @@
           "stop": "2026-11-26T21:25:03-06:00",
           "episode_title": "Char and Sayla",
           "description": "Char Aznable's Gelgoog takes over M'Quve on engaging the Gundam while the White Base enters the Texas colony and sends Sayla Mass and Job John to search for Amuro."
+        },
+        {
+          "title": "Mobile Suit Gundam MS IGLOO",
+          "start": "2026-11-26T21:25:03-06:00",
+          "stop": "2026-11-26T21:56:05-06:00",
+          "episode_title": "Go Beyond The Light Beam Peaks",
+          "description": "(U.C. 0079.12.28 - 0079.12.30) Situation for Zeon is getting desperate after the Federation successfully sieges the space fortress Solomon. Upon arriving at A Baoa Qu, Jotunheim is visited by Col. Herbert von Kuspen, a uptight high-rank commander from an elite battalion, who immediately try to assume command of the ship but meets resistance from both Monique and Prochnow. The ship is then reinforced with \"Principality's elite soldiers\" — turns out to be a group of young cadets forcefully mobilized from the homeland. To Monique's shock, the most enthusiastic soldier out of the inexperienced recruits is nobody other than her own younger brother Erwin. The Jotunheim is then dispatched to lunar space and ordered to test and perfect the Oggo mobile pods. At Granada airspace they run into a small Federation forces, and Erwin leads a squad of three Oggos to engage in combat."
         }
       ],
       "logo": "logos/47.png"
@@ -681,6 +689,13 @@
           "stop": "2026-11-26T21:18:18-06:00",
           "episode_title": "Collapsing Land",
           "description": "Lt. Murrue Ramius takes over as captain of the Archangel and Kira and his friends are detained for seeing top secret military weapons. Rau Le Creuset is determined to capture the Strike after seeing how well it moved and sends out mobile suits to retrieve it. Disobeying orders, Athrun also dispatches so he could confirm if Kira is the one piloting the Strike, but when he finds his answer, Heliopolis crumbles as it sustains too much damage."
+        },
+        {
+          "title": "Mobile Suit Gundam SEED",
+          "start": "2026-11-26T21:18:18-06:00",
+          "stop": "2026-11-26T21:43:01-06:00",
+          "episode_title": "Silent Run",
+          "description": "Kira discovers a malfunctioning lifeboat and brings it aboard the Archangel. Everyone is surprised to find Flay Allster as one of the rescued civilians. The Archangel decides to head for the Eurasian Federation military satellite Artemis to seek help. Rau Le Creuset follows and plans an attack on the Archangel. Kira decides to continue piloting the Strike and his friends volunteer to become members of the Archangel crew as his support."
         }
       ],
       "logo": "logos/48.png"
@@ -690,12 +705,6 @@
       "number": 56,
       "name": "Fright Night",
       "programmes": [
-        {
-          "title": "SantaClaus: A Horror Story",
-          "start": "2026-11-26T13:52:20-06:00",
-          "stop": "2026-11-26T15:24:00-06:00",
-          "description": "A woman who is researching alien abductions for her new book begins to receive reports of a nocturnal attacker whose description matches that of Santa Claus. She enlists the help of a scholar of mythology to see if there is a darker side to the story of Santa Claus, and what she discovers is more horrifying than anything that she could have imagined."
-        },
         {
           "title": "The Thing",
           "start": "2026-11-26T15:24:00-06:00",
@@ -728,13 +737,6 @@
       "number": 64,
       "name": "Sci-Fi",
       "programmes": [
-        {
-          "title": "Eureka",
-          "start": "2026-11-26T14:34:24-06:00",
-          "stop": "2026-11-26T15:18:58-06:00",
-          "episode_title": "Before I Forget",
-          "description": "Jack shoots Henry after trying to arrest a mysterious man. Twenty-four hours earlier we meet Henry's two college friends who may be involved in Jack's memory loss. Everytime Jack and company come close to solving the case of what they forgot, their memory is wiped out again. Meanwhile, Jack must try to remember his daughter's play."
-        },
         {
           "title": "Eureka",
           "start": "2026-11-26T15:18:58-06:00",
@@ -790,6 +792,13 @@
           "stop": "2026-11-26T21:24:04-06:00",
           "episode_title": "Revenging Angel",
           "description": "D'Argo injures Crichton, as Crichton lies in a coma/near death, he escapes into a highly animated world. It's Farscape, Chuck Jones/Loony Tunes style. Meanwhile D'Argo's actions create a crisis on Moya, which could destroy the Leviathan"
+        },
+        {
+          "title": "Farscape",
+          "start": "2026-11-26T21:24:04-06:00",
+          "stop": "2026-11-26T22:10:59-06:00",
+          "episode_title": "The Choice",
+          "description": "Aeryn is devastated. She leaves Talyn, and grieves on a planet. Talyn's crew tries to help but she doesn't want their help. She spots someone who might be her father. But not all family reunions are joyous."
         }
       ],
       "logo": "logos/64.png"
@@ -917,6 +926,13 @@
           "start": "2026-11-26T19:51:41-06:00",
           "stop": "2026-11-26T21:23:00-06:00",
           "episode_title": "Episode 26"
+        },
+        {
+          "title": "Star Trek: The Next Generation",
+          "start": "2026-11-26T21:23:00-06:00",
+          "stop": "2026-11-26T22:54:03-06:00",
+          "episode_title": "Encounter at Farpoint",
+          "description": "Stardate: 41153.7. The new commander of the recently built U.S.S. Enterprise (NCC1701-D), Captain Jean-Luc Picard takes the crew on their first mission to discover the secret of Farpoint Station. During their journey, they encounter an omnipotent being known as Q. Q accuses humanity of barbarism, and places humanity on trial. Jean-Luc must prove otherwise or the human race will be annihilated."
         }
       ],
       "logo": "logos/66.png"
