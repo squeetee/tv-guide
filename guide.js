@@ -1,10 +1,10 @@
 window.GUIDE_DATA = {
-  "generated_at": "2026-11-26T07:16:27.249442-06:00",
+  "generated_at": "2026-11-26T07:31:28.837467-06:00",
   "timezone": "America/Chicago",
   "source": "tunarr-xmltv",
   "window_hours": 6,
-  "window_start": "2026-11-26T07:16:27.249442-06:00",
-  "window_end": "2026-11-26T13:16:27.249442-06:00",
+  "window_start": "2026-11-26T07:31:28.837467-06:00",
+  "window_end": "2026-11-26T13:31:28.837467-06:00",
   "channel_count": 15,
   "programme_count": 139,
   "channels": [
@@ -13,12 +13,6 @@ window.GUIDE_DATA = {
       "number": 2,
       "name": "Syndication",
       "programmes": [
-        {
-          "title": "Looney Tunes",
-          "start": "2026-11-26T07:06:13-06:00",
-          "stop": "2026-11-26T07:24:02-06:00",
-          "episode_title": "Episode 5"
-        },
         {
           "title": "Star Trek: The Next Generation",
           "start": "2026-11-26T07:24:02-06:00",
@@ -208,6 +202,12 @@ window.GUIDE_DATA = {
           "stop": "2026-11-26T13:29:02-06:00",
           "episode_title": "The Forgotten",
           "description": "When men begin disappearing at a bowery, Bruce Wayne decides to go undercover as a worker. He loses his memory after he is attacked, kidnapped and forced to work in a mining camp."
+        },
+        {
+          "title": "Looney Tunes",
+          "start": "2026-11-26T13:29:02-06:00",
+          "stop": "2026-11-26T13:37:41-06:00",
+          "episode_title": "Episode 3"
         }
       ],
       "logo": "logos/11.png"
@@ -234,6 +234,12 @@ window.GUIDE_DATA = {
           "start": "2026-11-26T11:08:45-06:00",
           "stop": "2026-11-26T13:21:45-06:00",
           "description": "After the crew of the Enterprise find an unstoppable force of terror from within their own organization, Captain Kirk leads a manhunt to a war-zone world to capture a one-man weapon of mass destruction."
+        },
+        {
+          "title": "U.S. Marshals",
+          "start": "2026-11-26T13:21:45-06:00",
+          "stop": "2026-11-26T15:33:46-06:00",
+          "description": "U.S. Marshal Sam Gerard is accompanying a plane load of convicts from Chicago to New York. The plane crashes spectacularly, and Mark Sheridan escapes. But when Diplomatic Security Agent John Royce is assigned to help Gerard recapture Sheridan, it becomes clear that Sheridan is more than just another murderer."
         }
       ],
       "logo": "logos/28.png"
@@ -243,13 +249,6 @@ window.GUIDE_DATA = {
       "number": 32,
       "name": "Japanimation",
       "programmes": [
-        {
-          "title": "Outlaw Star",
-          "start": "2026-11-26T07:03:10-06:00",
-          "stop": "2026-11-26T07:29:07-06:00",
-          "episode_title": "The Beast Girl Ready to Pounce!",
-          "description": "Hilda’s sacrifice allows the crew a chance to get away. They head back to Blue Heaven for ship upgrades and information. But while they wait on the ship, they’re confronted by Aisha Clanclan from the Ctarl-Ctarl Empire!"
-        },
         {
           "title": "Outlaw Star",
           "start": "2026-11-26T07:29:07-06:00",
@@ -344,6 +343,12 @@ window.GUIDE_DATA = {
           "start": "2026-11-26T12:57:04-06:00",
           "stop": "2026-11-26T13:22:27-06:00",
           "episode_title": "Walk This Way - Plant Coral"
+        },
+        {
+          "title": "Eureka Seven: AO",
+          "start": "2026-11-26T13:22:27-06:00",
+          "stop": "2026-11-26T13:47:51-06:00",
+          "episode_title": "Tighten Up - génération bleu"
         }
       ],
       "logo": "logos/32.png"
@@ -391,13 +396,6 @@ window.GUIDE_DATA = {
       "number": 45,
       "name": "Mobile Suit Network",
       "programmes": [
-        {
-          "title": "Gundam Build Divers",
-          "start": "2026-11-26T07:00:54-06:00",
-          "stop": "2026-11-26T07:26:30-06:00",
-          "episode_title": "Devoted Heart",
-          "description": "The members of Build Divers are shocked to see Sarah standing beside Kyoya Kujo in a GBN special broadcast to all Divers. With his harsh manner, Kyoya seems like a different person from his previous self. In order to find out the true intentions of Sarah, who has left her teammates, Riku tries to make contact with Kyoya."
-        },
         {
           "title": "Mobile Suit Gundam SEED",
           "start": "2026-11-26T07:26:30-06:00",
@@ -519,6 +517,13 @@ window.GUIDE_DATA = {
           "stop": "2026-11-26T13:29:10-06:00",
           "episode_title": "Don't Say a Word",
           "description": "After surviving the trap laid out for them and destroying the airbase, the crew of the Freeden head back toe Estard where they are hailed as heroes to their cause. Unsure of his committment to what is going on Roybea leaves the Freeden, leaving his Gundam Leopard behind, heading off unescorted into Estard as Witz takes up an offer from General Lee Jackson to upgrade his Gundam Airmaster to more better compete with the newer mobile suits and mobile armors being made by the New UNE military."
+        },
+        {
+          "title": "Gundam Build Fighters",
+          "start": "2026-11-26T13:29:10-06:00",
+          "stop": "2026-11-26T13:54:14-06:00",
+          "episode_title": "Promise",
+          "description": "Sei and Reiji's victory in the tournament causes Chairman Mashita to panic, with his Arista resonating all Plavsky particles in the PPSE Stadium to form a 1/144 scale replica of the Zeon space fortress A Baoa Qu over the facility. The Gunpla Fighters must band together to break into the fortress and destroy the Arista before it produces disastrous results."
         }
       ],
       "logo": "logos/45.png"
@@ -566,13 +571,6 @@ window.GUIDE_DATA = {
       "number": 47,
       "name": "Universal Century",
       "programmes": [
-        {
-          "title": "Mobile Suit Gundam: The 08th MS Team",
-          "start": "2026-11-26T06:58:34-06:00",
-          "stop": "2026-11-26T07:24:17-06:00",
-          "episode_title": "Duty and Ideals",
-          "description": "Shiro has returned safely from the mountains, but is now suspected of being a spy, and is confined to his quarters until a verdict is decided. Then Kiki's village comes under Zeon attack, and Shiro must violate his orders to go to the rescue."
-        },
         {
           "title": "Mobile Suit Gundam: The 08th MS Team - Miller's Report",
           "start": "2026-11-26T07:24:17-06:00",
@@ -739,6 +737,13 @@ window.GUIDE_DATA = {
           "stop": "2026-11-26T13:28:03-06:00",
           "episode_title": "Freedom and Justice",
           "description": "The attack on Orb continues, but Cagalli is saved from Shinn by Kira."
+        },
+        {
+          "title": "Mobile Suit Gundam Seed Destiny",
+          "start": "2026-11-26T13:28:03-06:00",
+          "stop": "2026-11-26T13:52:51-06:00",
+          "episode_title": "A Call for Counterattack",
+          "description": "Pandemonium ensues as the complex ties of allegiances are tested in an all out battle between several suits. Yuna meets his well-deserved fate."
         }
       ],
       "logo": "logos/48.png"
@@ -914,13 +919,6 @@ window.GUIDE_DATA = {
       "number": 66,
       "name": "Starfleet",
       "programmes": [
-        {
-          "title": "Star Trek: Enterprise",
-          "start": "2026-11-26T06:43:26-06:00",
-          "stop": "2026-11-26T07:26:08-06:00",
-          "episode_title": "The Aenar (3)",
-          "description": "Archer visits Shran's icy homeworld to find an Andorian subspecies called the Aenar, to determine their connection to the marauder destroying ships in the region."
-        },
         {
           "title": "Star Trek: Enterprise",
           "start": "2026-11-26T07:26:08-06:00",
