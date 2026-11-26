@@ -1,10 +1,10 @@
 window.GUIDE_DATA = {
-  "generated_at": "2026-11-26T02:46:24.911645-06:00",
+  "generated_at": "2026-11-26T03:01:30.746894-06:00",
   "timezone": "America/Chicago",
   "source": "tunarr-xmltv",
   "window_hours": 6,
-  "window_start": "2026-11-26T02:46:24.911645-06:00",
-  "window_end": "2026-11-26T08:46:24.911645-06:00",
+  "window_start": "2026-11-26T03:01:30.746894-06:00",
+  "window_end": "2026-11-26T09:01:30.746894-06:00",
   "channel_count": 15,
   "programme_count": 139,
   "channels": [
@@ -80,6 +80,13 @@ window.GUIDE_DATA = {
           "stop": "2026-11-26T08:51:40-06:00",
           "episode_title": "A Fistful of Datas",
           "description": "Stardate: 46271.5. Worf and his son, Alexander, become trapped in the holodeck when their Wild West program malfunctions. However, they must find a way to defeat the holographic bandits who have Data's appearance and abilities."
+        },
+        {
+          "title": "Stargate Infinity",
+          "start": "2026-11-26T08:51:40-06:00",
+          "stop": "2026-11-26T09:13:51-06:00",
+          "episode_title": "Museum",
+          "description": "(from contributor Jared Prophet) The gang come through the Gate on the Great Wall of China...in a large museum. After exploring, and listening to Gus Bonner's \"\"boring\"\" speeches about history, the group runs afool of both Julius Cesar's and Napoleon's robot armies."
         }
       ],
       "logo": "logos/2.png"
@@ -506,12 +513,6 @@ window.GUIDE_DATA = {
       "name": "Gundam Theater",
       "programmes": [
         {
-          "title": "Mobile Suit Gundam: Cucuruz Doan's Island",
-          "start": "2026-11-26T01:11:39-06:00",
-          "stop": "2026-11-26T03:01:17-06:00",
-          "description": "After Jaburo, the EFF plan an operation to capture Odessa, headquarters of Zeon's Attack Force. White Base heads to Belfast to resupply. However, White Base receives new orders; to head to an island known as the \"Island of No Return\"."
-        },
-        {
           "title": "Mobile Suit Gundam Hathaway",
           "start": "2026-11-26T03:01:17-06:00",
           "stop": "2026-11-26T04:37:37-06:00",
@@ -802,6 +803,12 @@ window.GUIDE_DATA = {
           "start": "2026-11-26T07:32:13-06:00",
           "stop": "2026-11-26T08:52:43-06:00",
           "description": "Lazer is locked in a windowless room. A mysterious, modulated voice talks to him through a hidden speaker and threatens to kill him if Lazer doesn't complete a series of horrific, torturous tasks. Through this nightmarish crucible, Lazer must face his many demons, past and present, as he tries to stay alive and figure out who in the hell wants to watch him suffer."
+        },
+        {
+          "title": "Rust",
+          "start": "2026-11-26T08:52:43-06:00",
+          "stop": "2026-11-26T09:46:33-06:00",
+          "description": "BEST FRIENDS HEATHER AND MORGAN MEET UP WITH SOME FRIENDS AT AN ABANDONED ATTRACTION. WHAT THEY DONT KNOW IS WITHIN THE HOUSE LIVES A CANNIBALISTIC MADMAN. THEY SOON FIND THEMSELVES FIGHTING TO SURVIVE. THEY ARE NOW BEING HUNTED DOWN BY NON OTHER THEN THE BLOOD WRENCHING AND UNMERCIFUL GRASP OF TRAVIS MCLENNAN."
         }
       ],
       "logo": "logos/56.png"
@@ -811,13 +818,6 @@ window.GUIDE_DATA = {
       "number": 64,
       "name": "Sci-Fi",
       "programmes": [
-        {
-          "title": "The X-Files",
-          "start": "2026-11-26T02:03:59-06:00",
-          "stop": "2026-11-26T02:49:10-06:00",
-          "episode_title": "Our Town",
-          "description": "After several disappearances in a small town, Mulder and Scully investigate and find hundreds of human bones in the river. They discover that the man behind the town's main source of wealth, a chicken processing plant, has found a way to prolong his life through cannibalism."
-        },
         {
           "title": "The X-Files",
           "start": "2026-11-26T02:49:10-06:00",
@@ -948,13 +948,6 @@ window.GUIDE_DATA = {
       "programmes": [
         {
           "title": "Star Trek: Deep Space Nine",
-          "start": "2026-11-26T02:10:54-06:00",
-          "stop": "2026-11-26T02:57:07-06:00",
-          "episode_title": "Valiant",
-          "description": "Stardate: 51825.4. Jake and Nog's runabout comes under attack from the Jem'Hadar. They are rescued by the Valiant, a ship manned by Red Squad, a elite group of young Starfleet cadets."
-        },
-        {
-          "title": "Star Trek: Deep Space Nine",
           "start": "2026-11-26T02:57:07-06:00",
           "stop": "2026-11-26T03:43:16-06:00",
           "episode_title": "Profit and Lace",
@@ -1008,6 +1001,13 @@ window.GUIDE_DATA = {
           "stop": "2026-11-26T08:55:36-06:00",
           "episode_title": "Lifesigns",
           "description": "Stardate: 46504.3. After receiving a Vidiian patient who is about to die from the Phage, the doctor transfers her consciousness into the ship's computer and creates a holographic body. He soon finds himself becoming deeply attracted to her."
+        },
+        {
+          "title": "Star Trek: Voyager",
+          "start": "2026-11-26T08:55:36-06:00",
+          "stop": "2026-11-26T09:42:27-06:00",
+          "episode_title": "Investigations",
+          "description": "Stardate: 49485.2. After weeks of erratic behavior, Tom Paris leaves Voyager and joins a Talaxian convoy."
         }
       ],
       "logo": "logos/66.png"
