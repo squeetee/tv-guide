@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-26T16:46:25.326599-06:00",
+  "generated_at": "2026-11-26T17:01:25.141372-06:00",
   "timezone": "America/Chicago",
   "source": "tunarr-xmltv",
   "window_hours": 6,
-  "window_start": "2026-11-26T16:46:25.326599-06:00",
-  "window_end": "2026-11-26T22:46:25.326599-06:00",
+  "window_start": "2026-11-26T17:01:25.141372-06:00",
+  "window_end": "2026-11-26T23:01:25.141372-06:00",
   "channel_count": 15,
-  "programme_count": 132,
+  "programme_count": 129,
   "channels": [
     {
       "id": "C2.50.tunarr.com",
@@ -89,6 +89,13 @@
           "stop": "2026-11-26T22:53:35-06:00",
           "episode_title": "Blood the Boy",
           "description": "When a ruthless reporter threatens to dismantle his family's legacy, an unravelling son commits an unpardonable atrocity to bury the truth, while a young cowboy risks his broken body in the rodeo chute for a sliver of redemption."
+        },
+        {
+          "title": "Yellowstone (2018)",
+          "start": "2026-11-26T22:53:35-06:00",
+          "stop": "2026-11-26T23:42:45-06:00",
+          "episode_title": "Resurrection Day",
+          "description": "Jamie is driven to a dark place while grappling with the consequences of his actions, Malcolm threatens Beth, and Monica and Tate move to the ranch with Kayce."
         }
       ],
       "logo": "logos/2.png"
@@ -136,13 +143,6 @@
       "number": 11,
       "name": "Kidz!",
       "programmes": [
-        {
-          "title": "Voltron: Legendary Defender",
-          "start": "2026-11-26T16:30:58-06:00",
-          "stop": "2026-11-26T16:55:32-06:00",
-          "episode_title": "The Voltron Show!",
-          "description": "Coran gets carried away with turning the Paladins into intergalactic stars when he designs an elaborate, effects-filled live tour of the universe."
-        },
         {
           "title": "Looney Tunes",
           "start": "2026-11-26T16:55:32-06:00",
@@ -255,13 +255,6 @@
       "programmes": [
         {
           "title": "Hunter x Hunter",
-          "start": "2026-11-26T16:22:55-06:00",
-          "stop": "2026-11-26T16:47:25-06:00",
-          "episode_title": "Rivals x For x Survival",
-          "description": "With the navigators' help, Gon, Kurapika and Leorio arrive at Zaban City, the venue of the exam. The navigator leads them to a small restaurant, which is revealed to be the front for the venue. Gon's group is led to an elevator disguised as a back room, which leads a hundred floors underground. Below, they meet the rest of the participants and given their numbers. There they meet Tonpa, a regular participant who claims to have tried and failed 35 times in the exam."
-        },
-        {
-          "title": "Hunter x Hunter",
           "start": "2026-11-26T16:47:25-06:00",
           "stop": "2026-11-26T17:11:55-06:00",
           "episode_title": "Hope x And x Ambition",
@@ -357,12 +350,6 @@
       "number": 33,
       "name": "Anime Cinema",
       "programmes": [
-        {
-          "title": "Knights of Sidonia: The Movie",
-          "start": "2026-11-26T14:41:22-06:00",
-          "stop": "2026-11-26T16:56:25-06:00",
-          "description": "The film is a compilation of the first season, featuring new scenes and remastered sound effects. The story follows Nagate Tanikaze, who has spent his entire life living deep beneath Sidonia’s surface. While searching for food, he ventures above ground for the first time and discovers humanity’s ongoing struggle to survive against the Gauna."
-        },
         {
           "title": "Appleseed XIII: Tartaros",
           "start": "2026-11-26T16:56:25-06:00",
@@ -531,12 +518,6 @@
       "number": 47,
       "name": "Universal Century",
       "programmes": [
-        {
-          "title": "Mobile Suit Gundam Thunderbolt: December Sky",
-          "start": "2026-11-26T15:47:38-06:00",
-          "stop": "2026-11-26T16:58:09-06:00",
-          "description": "During the One Year War of U.C. 0079, the Earth Federation and Principality of Zeon engage in a fierce battle at the \"Thunderbolt Sector\", a shoal zone in the former Colony Side 4 \"Moore\". After successfully infiltrating Zeon's sniper field, ace Federation pilot and jazz enthusiast Io Fleming is given control of the latest Gundam prototype."
-        },
         {
           "title": "Mobile Suit Gundam 0080: War in the Pocket",
           "start": "2026-11-26T16:58:09-06:00",
@@ -709,6 +690,13 @@
           "stop": "2026-11-26T22:57:20-06:00",
           "episode_title": "The Scar of Space",
           "description": "The Archangel forages for water in the Debris Belt. They are shocked to find themselves in the ruins of Junius Seven, so the crew decides to hold a memorial. As they are excavating ice found around the ruin, a ZAFT mobile suit attacks, but Kira dispatches him. Kira finds a floating lifepod and takes it aboard."
+        },
+        {
+          "title": "Mobile Suit Gundam SEED",
+          "start": "2026-11-26T22:57:20-06:00",
+          "stop": "2026-11-26T23:22:06-06:00",
+          "episode_title": "Songstress of the Enemy Forces",
+          "description": "Lacus Clyne, the daughter of PLANT Supreme Council Chairman Siegel Clyne, is found within the lifepod. Her presence causes tension within the crew, but when the crew receives a message from the 8th Fleet that they are being searched and rescued, they are overjoyed."
         }
       ],
       "logo": "logos/48.png"
@@ -756,13 +744,6 @@
       "number": 64,
       "name": "Sci-Fi",
       "programmes": [
-        {
-          "title": "Farscape",
-          "start": "2026-11-26T16:03:32-06:00",
-          "stop": "2026-11-26T16:50:27-06:00",
-          "episode_title": "Infinite Possibilities - Daedalus Demands (1)",
-          "description": "Crichton must seek out an old friend who has gained too much knowledge about wormholes."
-        },
         {
           "title": "Farscape",
           "start": "2026-11-26T16:50:27-06:00",
@@ -938,6 +919,13 @@
           "stop": "2026-11-26T22:54:03-06:00",
           "episode_title": "Encounter at Farpoint",
           "description": "Stardate: 41153.7. The new commander of the recently built U.S.S. Enterprise (NCC1701-D), Captain Jean-Luc Picard takes the crew on their first mission to discover the secret of Farpoint Station. During their journey, they encounter an omnipotent being known as Q. Q accuses humanity of barbarism, and places humanity on trial. Jean-Luc must prove otherwise or the human race will be annihilated."
+        },
+        {
+          "title": "Star Trek: Voyager",
+          "start": "2026-11-26T22:54:03-06:00",
+          "stop": "2026-11-26T23:40:52-06:00",
+          "episode_title": "Resolutions",
+          "description": "Stardate: 49690.1. When Captain Janeway and Chakotay contract an incurable virus they are left on a planet that shield them from its effects. While Janeway searches for a cure, she begins to form a deeper relationship with her first officer. Onboard Voyager, Tuvok, who is now in command, faces a near mutiny."
         }
       ],
       "logo": "logos/66.png"
@@ -947,13 +935,6 @@
       "number": 72,
       "name": "Comedy",
       "programmes": [
-        {
-          "title": "MXC",
-          "start": "2026-11-26T16:34:49-06:00",
-          "stop": "2026-11-26T16:55:44-06:00",
-          "episode_title": "Inventors vs. Ex-Child Actors",
-          "description": "Washed-up child actors go head-to-head with the keen minds of the inventors on this show. Also, overhearing one ex-child actor's catch phrase, Vic and Kenny go crazy-go-nuts. Games include: Get Over It; Sinkers and Floaters; Door Jam; Le Tour de Grand Prix; Log Drop"
-        },
         {
           "title": "Warehouse 13",
           "start": "2026-11-26T16:55:44-06:00",
