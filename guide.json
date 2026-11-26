@@ -1,25 +1,18 @@
 {
-  "generated_at": "2026-11-26T09:01:29.270568-06:00",
+  "generated_at": "2026-11-26T09:16:27.428018-06:00",
   "timezone": "America/Chicago",
   "source": "tunarr-xmltv",
   "window_hours": 6,
-  "window_start": "2026-11-26T09:01:29.270568-06:00",
-  "window_end": "2026-11-26T15:01:29.270568-06:00",
+  "window_start": "2026-11-26T09:16:27.428018-06:00",
+  "window_end": "2026-11-26T15:16:27.428018-06:00",
   "channel_count": 15,
-  "programme_count": 144,
+  "programme_count": 142,
   "channels": [
     {
       "id": "C2.50.tunarr.com",
       "number": 2,
       "name": "Syndication",
       "programmes": [
-        {
-          "title": "Stargate Infinity",
-          "start": "2026-11-26T08:51:40-06:00",
-          "stop": "2026-11-26T09:13:51-06:00",
-          "episode_title": "Museum",
-          "description": "(from contributor Jared Prophet) The gang come through the Gate on the Great Wall of China...in a large museum. After exploring, and listening to Gus Bonner's \"\"boring\"\" speeches about history, the group runs afool of both Julius Cesar's and Napoleon's robot armies."
-        },
         {
           "title": "Stargate Infinity",
           "start": "2026-11-26T09:13:51-06:00",
@@ -115,12 +108,6 @@
       "number": 3,
       "name": "The Movie Channel",
       "programmes": [
-        {
-          "title": "No Code of Conduct",
-          "start": "2026-11-26T07:42:00-06:00",
-          "stop": "2026-11-26T09:12:59-06:00",
-          "description": "A cop, his partner, and his father uncover a plot by city elders to smuggle drugs from Mexico into Phoenix, Arizona."
-        },
         {
           "title": "Scott Pilgrim vs. the World",
           "start": "2026-11-26T09:12:59-06:00",
@@ -271,13 +258,6 @@
       "programmes": [
         {
           "title": "KOWLOON GENERIC ROMANCE",
-          "start": "2026-11-26T08:43:46-06:00",
-          "stop": "2026-11-26T09:08:22-06:00",
-          "episode_title": "Episode 12",
-          "description": "Miyuki gives up on his revenge, and Reiko learns the true cause of death of Kujirai B from talking to Yulong."
-        },
-        {
-          "title": "KOWLOON GENERIC ROMANCE",
           "start": "2026-11-26T09:08:22-06:00",
           "stop": "2026-11-26T09:34:28-06:00",
           "episode_title": "Episode 13",
@@ -381,6 +361,13 @@
           "stop": "2026-11-26T15:07:44-06:00",
           "episode_title": "When Shen Hu Wins Glory",
           "description": "Lelouch successfully escapes with Empress Tianzi and the Black Knights attempt to unite with their Indian allies. Desperate to recover the Empress, the Eunuchs agree to forgive Li Xingke if he rescues her. To that end, he is granted use of the powerful Shenhu. Kallen intercepts him with the Guren Flight-Enabled Version, but its power runs out and she is taken hostage. Lelouch swears to rescue her, despite Diethard Reid's suggestion to retreat. Xingke demonstrates his skill as a strategist, forcing the Black Knights to retreat to a mountainside monument constructed as the tomb for the former Tianzi, hoping the Federation would be hesitant to attack. The Eunuchs turn on Xingke and his troops, having enlisted the aid of the Britannian forces. Meanwhile, another Lelouch is present at the Ashford Academy."
+        },
+        {
+          "title": "Code Geass: Lelouch of the Rebellion",
+          "start": "2026-11-26T15:07:44-06:00",
+          "stop": "2026-11-26T15:32:47-06:00",
+          "episode_title": "Power of Passion",
+          "description": "The Black Knights continue their fight against the Chinese, but the battle takes a turn for the worse when the Britannians back the Eunuchs. They no longer care about the empress' wellbeing, meaning Zero may have lost his bargaining chip and the battle."
         }
       ],
       "logo": "logos/32.png"
@@ -390,12 +377,6 @@
       "number": 33,
       "name": "Anime Cinema",
       "programmes": [
-        {
-          "title": "Martian Successor Nadesico: The Motion Picture - Prince of Darkness",
-          "start": "2026-11-26T07:43:25-06:00",
-          "stop": "2026-11-26T09:03:25-06:00",
-          "description": "In this follow-up to the Martian Successor Nadesico anime series, a 14-year-old, genetically-engineered genius captain of the new Battleship Nadesico must fight an organized Martian Successor attack."
-        },
         {
           "title": "PSYCHO-PASS: The Movie",
           "start": "2026-11-26T09:03:25-06:00",
@@ -428,13 +409,6 @@
       "number": 45,
       "name": "Mobile Suit Network",
       "programmes": [
-        {
-          "title": "Mobile Suit Victory Gundam",
-          "start": "2026-11-26T08:40:59-06:00",
-          "stop": "2026-11-26T09:05:56-06:00",
-          "episode_title": "Pressing Doggorla",
-          "description": "The Motorad fleet stops at the Marilyn so the Adrestia can be repaired. Hoping to attack BESPA while they are vulnerable, the League Militaire launches an attack against the enemy fleet, but BESPA manages a stout defense with the mobile armor Doggorla. Despite their inexperience as mobile suit pilots, Odelo and Tomache are sent out to fight."
-        },
         {
           "title": "Mobile Suit Zeta Gundam",
           "start": "2026-11-26T09:05:56-06:00",
@@ -556,6 +530,13 @@
           "stop": "2026-11-26T15:08:53-06:00",
           "episode_title": "May All Blessings Find Their Way to You, I'm Wishing It",
           "description": "Relationships that end and others that are formed anew. Sadness and joy. Violence and wishing for peace. Space intermingles everything as a younger generation finds its way in a world where what is right is only a matter of perspective."
+        },
+        {
+          "title": "Mobile Suit Gundam Wing",
+          "start": "2026-11-26T15:08:53-06:00",
+          "stop": "2026-11-26T16:24:52-06:00",
+          "episode_title": "Operation Meteor I: Even Numbers",
+          "description": "Feature-length episode recapping events from the Gundam Wing TV series from the point of view of Duo and Quatre. The episode also features brief amounts of new footage of the characters after the events of the TV series."
         }
       ],
       "logo": "logos/45.png"
@@ -565,12 +546,6 @@
       "number": 46,
       "name": "Gundam Theater",
       "programmes": [
-        {
-          "title": "Mobile Suit Zeta Gundam - A New Translation I: Heirs to the Stars",
-          "start": "2026-11-26T07:33:46-06:00",
-          "stop": "2026-11-26T09:09:07-06:00",
-          "description": "Ten years after the One Year War, Camille Bidan becomes involved in the conflict against the Titans as the pilot of Zeta Gundam."
-        },
         {
           "title": "MOBILE SUIT GUNDAM HATHAWAY The Sorcery of Nymph Circe",
           "start": "2026-11-26T09:09:07-06:00",
@@ -603,13 +578,6 @@
       "number": 47,
       "name": "Universal Century",
       "programmes": [
-        {
-          "title": "Mobile Suit Gundam",
-          "start": "2026-11-26T08:42:15-06:00",
-          "stop": "2026-11-26T09:07:56-06:00",
-          "episode_title": "Across the Atlantic Ocean",
-          "description": "Thanks to intelligence acquired from Miharu, Flanagan Boone and his Mad Angler squadron attack the White Base en route to Jaburo headquarters in South America."
-        },
         {
           "title": "Mobile Suit Gundam",
           "start": "2026-11-26T09:07:56-06:00",
@@ -791,6 +759,13 @@
           "stop": "2026-11-26T15:07:12-06:00",
           "episode_title": "The Song of Truth",
           "description": "While gathering intelligence under the guise of a shopping trip at Copernicus City, Lacus receives a message from Meer, who is afraid of being killed. Though Athrun and Meyrin insists it is a trap, Lacus decides to meet Meer anyway."
+        },
+        {
+          "title": "Mobile Suit Gundam Seed Destiny",
+          "start": "2026-11-26T15:07:12-06:00",
+          "stop": "2026-11-26T15:32:01-06:00",
+          "episode_title": "Meer",
+          "description": "Athrun, Kira, Lacus, and Meyrin read Meer's diary, learning why she aided Durandal."
         }
       ],
       "logo": "logos/48.png"
@@ -832,13 +807,6 @@
       "number": 64,
       "name": "Sci-Fi",
       "programmes": [
-        {
-          "title": "Star Trek: Deep Space Nine",
-          "start": "2026-11-26T08:19:52-06:00",
-          "stop": "2026-11-26T09:06:14-06:00",
-          "episode_title": "Hard Time",
-          "description": "Stardate: Unknown. O'Brien tries to re-integrate to life on the station after serving 20 years in a virtual prison."
-        },
         {
           "title": "Star Trek: Deep Space Nine",
           "start": "2026-11-26T09:06:14-06:00",
@@ -958,6 +926,13 @@
           "stop": "2026-11-26T15:15:49-06:00",
           "episode_title": "Deliverance (2)",
           "description": "Locked in a battle with a Drone Command Ship, the Destiny is surprised by the arrival of the Aliens that abducted Rush and Chloe."
+        },
+        {
+          "title": "Stargate Universe",
+          "start": "2026-11-26T15:15:49-06:00",
+          "stop": "2026-11-26T15:59:26-06:00",
+          "episode_title": "Twin Destinies",
+          "description": "Rush travels back in time to avert a disaster, meeting a past version of himself."
         }
       ],
       "logo": "logos/65.png"
@@ -1015,6 +990,13 @@
           "stop": "2026-11-26T15:03:14-06:00",
           "episode_title": "All Good Things...",
           "description": "Stardate: 47988.0. Shortly after Picard is diagnosed with a long-term, potentially debilitating brain disorder, he starts experiencing bizarre shifts into three main time periods: 25 years into the future, a few days before the Enterprise-D is sent on its mission to Farpoint station, and the present. Picard realizes that Q is behind these shifts through time. Stardate: 47988.1. After his encounter with Q, Picard assembles the senior staff, and wonders if Q is actually giving him a chance to save humanity by showing him that the spatial anomaly also exists in the past. As they talk, the ship reaches the Neutral Zone, then Picard returns to the future, where Beverly's ship is also on the edge of the Neutral Zone. He convinces a reluctant Worf to accompany the group into Klingon territory, and then travels to the past, where he orders the crew into the Devron system."
+        },
+        {
+          "title": "Star Trek: Voyager",
+          "start": "2026-11-26T15:03:14-06:00",
+          "stop": "2026-11-26T15:50:05-06:00",
+          "episode_title": "The Thaw",
+          "description": "Stardate: Unknown. The crew of Voyager encounters a planet that has recently entered an ice age. They discover a series of stasis chambers where a small group of people are mentally connected to an artificial environment that turned horribly wrong."
         }
       ],
       "logo": "logos/66.png"
@@ -1084,6 +1066,13 @@
           "start": "2026-11-26T13:08:02-06:00",
           "stop": "2026-11-26T15:12:53-06:00",
           "description": "When single mom Callie and her two kids Trevor and Phoebe arrive in a small Oklahoma town, they begin to discover their connection to the original Ghostbusters and the secret legacy their grandfather left behind."
+        },
+        {
+          "title": "Barry",
+          "start": "2026-11-26T15:12:53-06:00",
+          "stop": "2026-11-26T15:43:04-06:00",
+          "episode_title": "Chapter Five: Do Your Job",
+          "description": "Barry looks to hit the reset button with Sally, but a scene from Macbeth triggers a reaction that pushes them farther apart. Moss moves to interrogate members of Gene's acting class after a shooting video surfaces. Barry finds himself in a quandary after having to team up with a reckless new acquaintance named Taylor in a dangerous mission to wipe out a group of Bolivians."
         }
       ],
       "logo": "logos/72.png"
