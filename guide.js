@@ -1,12 +1,12 @@
 window.GUIDE_DATA = {
-  "generated_at": "2026-11-26T03:31:32.893608-06:00",
+  "generated_at": "2026-11-26T03:46:38.776393-06:00",
   "timezone": "America/Chicago",
   "source": "tunarr-xmltv",
   "window_hours": 6,
-  "window_start": "2026-11-26T03:31:32.893608-06:00",
-  "window_end": "2026-11-26T09:31:32.893608-06:00",
+  "window_start": "2026-11-26T03:46:38.776393-06:00",
+  "window_end": "2026-11-26T09:46:38.776393-06:00",
   "channel_count": 15,
-  "programme_count": 143,
+  "programme_count": 147,
   "channels": [
     {
       "id": "C2.50.tunarr.com",
@@ -87,6 +87,13 @@ window.GUIDE_DATA = {
           "stop": "2026-11-26T09:36:02-06:00",
           "episode_title": "Us and Them",
           "description": "The team arrive on a planet where the natives bear a extremely strong resemblence to Draga. They are contemptous of \"\"rock crawlers\"\" but Draga is drawn to them. But when the Tlak'khan show up the local's powers serve no good. The team helps them and gives them a measure of understanding of other cultures."
+        },
+        {
+          "title": "Defiance",
+          "start": "2026-11-26T09:36:02-06:00",
+          "stop": "2026-11-26T10:18:47-06:00",
+          "episode_title": "This Woman's Work",
+          "description": "After an Arkfall crash, Pottinger recruits Nolan to lead their salvage mission but his secret agenda puts them in grave danger against an alien race they've never encountered before. Meanwhile Stahma, rebuked by church elders for her growing sense of female empowerment, makes a shocking power play, while Irisa begins confiding her dark secrets to Tommy."
         }
       ],
       "logo": "logos/2.png"
@@ -96,12 +103,6 @@ window.GUIDE_DATA = {
       "number": 3,
       "name": "The Movie Channel",
       "programmes": [
-        {
-          "title": "National Lampoon's Animal House",
-          "start": "2026-11-26T01:55:44-06:00",
-          "stop": "2026-11-26T03:45:25-06:00",
-          "description": "Faber College has one frat house so disreputable that it will take anyone. It has a second one full of rich young Anglo-Saxon men who are so sanctimonious that nobody can stand them except Dean Vernon Wormer, who enlists the help of the second frat to drive the boys of Delta House off the campus. The dean's plan comes into play just before the Homecoming parade to end all parades for all time."
-        },
         {
           "title": "Mean Girls",
           "start": "2026-11-26T03:45:25-06:00",
@@ -201,6 +202,12 @@ window.GUIDE_DATA = {
           "start": "2026-11-26T07:57:57-06:00",
           "stop": "2026-11-26T09:39:00-06:00",
           "description": "Casper is a kind young ghost who peacefully haunts a mansion in Maine. When specialist James Harvey arrives to communicate with Casper and his fellow spirits, he brings along his teenage daughter, Kat. Casper quickly falls in love with Kat, but their budding relationship is complicated not only by his transparent state, but also by his troublemaking apparition uncles and their mischievous antics."
+        },
+        {
+          "title": "Looney Tunes",
+          "start": "2026-11-26T09:39:00-06:00",
+          "stop": "2026-11-26T09:47:10-06:00",
+          "episode_title": "Episode 1"
         }
       ],
       "logo": "logos/11.png"
@@ -359,6 +366,13 @@ window.GUIDE_DATA = {
           "stop": "2026-11-26T09:34:23-06:00",
           "episode_title": "Episode 13",
           "description": "As reality and fiction, past and present intwetwine, Reiko witnesses Kudo's memory of Kujirai B's death."
+        },
+        {
+          "title": "Air Gear",
+          "start": "2026-11-26T09:34:23-06:00",
+          "stop": "2026-11-26T09:59:13-06:00",
+          "episode_title": "Genesis Strikes!",
+          "description": "Kogarasumaru's rep is on the rise after defeating Behemoth. It hasn't been easy, but future victories might come easier if Ikki accepts Simca's offer to join forces."
         }
       ],
       "logo": "logos/32.png"
@@ -589,13 +603,6 @@ window.GUIDE_DATA = {
       "programmes": [
         {
           "title": "Gundam: Requiem for Vengeance",
-          "start": "2026-11-26T03:06:36-06:00",
-          "stop": "2026-11-26T03:32:24-06:00",
-          "episode_title": "Broken",
-          "description": "With the battle lost, an injured Captain Solari retreats with Dr. Kasuga and Lieutenant Lesean. They regroup with an infantry unit and plan an escape."
-        },
-        {
-          "title": "Gundam: Requiem for Vengeance",
           "start": "2026-11-26T03:32:24-06:00",
           "stop": "2026-11-26T03:58:09-06:00",
           "episode_title": "Junkyard",
@@ -683,6 +690,13 @@ window.GUIDE_DATA = {
           "stop": "2026-11-26T09:33:36-06:00",
           "episode_title": "Tragedy in Jaburo",
           "description": "The White Base finally reaches Jaburo general headquarters; Zeon then launches a massive invasion on the base led by Char and his custom Z'Gok."
+        },
+        {
+          "title": "Mobile Suit Gundam",
+          "start": "2026-11-26T09:33:36-06:00",
+          "stop": "2026-11-26T09:59:16-06:00",
+          "episode_title": "A Wish of War Orphans",
+          "description": "Char infiltrates Jaburo with a squadron of Acguy mobile suits and plant time bombs on the Federation's new mass-produced GMs, but not before being discovered by Katz, Kikka, and Letz."
         }
       ],
       "logo": "logos/47.png"
@@ -789,6 +803,13 @@ window.GUIDE_DATA = {
           "stop": "2026-11-26T09:44:42-06:00",
           "episode_title": "Stella",
           "description": "The Minerva and Archangel work to stop the Destroy and its destructive rampage through Europe. Shinn is shocked to learn that Stella is the unit's pilot."
+        },
+        {
+          "title": "Mobile Suit Gundam Seed Destiny",
+          "start": "2026-11-26T09:44:42-06:00",
+          "stop": "2026-11-26T10:09:31-06:00",
+          "episode_title": "The World Revealed",
+          "description": "Shinn swears vengeance against the Freedom, as the Earth Sphere is thrown into chaos with Durandal's announcement."
         }
       ],
       "logo": "logos/48.png"
@@ -827,6 +848,12 @@ window.GUIDE_DATA = {
           "start": "2026-11-26T08:52:43-06:00",
           "stop": "2026-11-26T09:46:33-06:00",
           "description": "BEST FRIENDS HEATHER AND MORGAN MEET UP WITH SOME FRIENDS AT AN ABANDONED ATTRACTION. WHAT THEY DONT KNOW IS WITHIN THE HOUSE LIVES A CANNIBALISTIC MADMAN. THEY SOON FIND THEMSELVES FIGHTING TO SURVIVE. THEY ARE NOW BEING HUNTED DOWN BY NON OTHER THEN THE BLOOD WRENCHING AND UNMERCIFUL GRASP OF TRAVIS MCLENNAN."
+        },
+        {
+          "title": "The Conjuring",
+          "start": "2026-11-26T09:46:33-06:00",
+          "stop": "2026-11-26T11:39:04-06:00",
+          "description": "Paranormal investigators Ed and Lorraine Warren work to help a family terrorized by a dark presence in their farmhouse. Forced to confront a powerful entity, the Warrens find themselves caught in the most terrifying case of their lives."
         }
       ],
       "logo": "logos/56.png"
@@ -836,13 +863,6 @@ window.GUIDE_DATA = {
       "number": 64,
       "name": "Sci-Fi",
       "programmes": [
-        {
-          "title": "The X-Files",
-          "start": "2026-11-26T02:49:10-06:00",
-          "stop": "2026-11-26T03:35:21-06:00",
-          "episode_title": "Anasazi (1)",
-          "description": "Mulder receives an encrypted computer disk containing the defense department's top secret files on extraterrestrial life and becomes a target. Scully takes him to a Navajo family that unearthed a buried secret to decipher the disk."
-        },
         {
           "title": "Star Trek: Deep Space Nine",
           "start": "2026-11-26T03:35:21-06:00",
@@ -965,13 +985,6 @@ window.GUIDE_DATA = {
       "name": "Starfleet",
       "programmes": [
         {
-          "title": "Star Trek: Deep Space Nine",
-          "start": "2026-11-26T02:57:07-06:00",
-          "stop": "2026-11-26T03:43:16-06:00",
-          "episode_title": "Profit and Lace",
-          "description": "Stardate: Unknown. Quark's mother and the Grand Nagus show up on DS9, announcing a new amendment to the Bill of Opportunities he has instituted on the home planet of Ferenganar, and then follows up with the announcement, that, due to the new amendment, chaos has followed and he has been deposed."
-        },
-        {
           "title": "Star Trek: Voyager",
           "start": "2026-11-26T03:43:16-06:00",
           "stop": "2026-11-26T04:30:01-06:00",
@@ -1026,6 +1039,13 @@ window.GUIDE_DATA = {
           "stop": "2026-11-26T09:42:27-06:00",
           "episode_title": "Investigations",
           "description": "Stardate: 49485.2. After weeks of erratic behavior, Tom Paris leaves Voyager and joins a Talaxian convoy."
+        },
+        {
+          "title": "Star Trek: Deep Space Nine",
+          "start": "2026-11-26T09:42:27-06:00",
+          "stop": "2026-11-26T10:28:37-06:00",
+          "episode_title": "Time's Orphan",
+          "description": "Stardate: Unknown. The Chief's daughter gets caught in a time displacement and when they get her back, she is considerably older."
         }
       ],
       "logo": "logos/66.png"
@@ -1081,6 +1101,13 @@ window.GUIDE_DATA = {
           "stop": "2026-11-26T09:42:15-06:00",
           "episode_title": "Dairy Workers vs. Automobile Workers",
           "description": "Dairy Workers vs. Automobile Workers (AKA Cows vs. Cars). Who will win out when its lactose versus lube jobs? Games: Wall Bangers, Get Hard!, Saddle Sores, Swish Bucklers, and the Teetering Temple of Crippling Doom."
+        },
+        {
+          "title": "MXC",
+          "start": "2026-11-26T09:42:15-06:00",
+          "stop": "2026-11-26T10:03:10-06:00",
+          "episode_title": "Cops vs. Cons",
+          "description": "The good guys challenge the bad guys in this battle. Also, Kenny dresses up as a cop with an attitude and Vic gets into the mind of a criminal. Games include: Dope on a Rope; Prison Break; Hand Job; Bunk Buddies; Legal Maze; Yankin' It"
         }
       ],
       "logo": "logos/72.png"
