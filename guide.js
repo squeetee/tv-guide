@@ -1,12 +1,12 @@
 window.GUIDE_DATA = {
-  "generated_at": "2026-11-26T03:01:30.746894-06:00",
+  "generated_at": "2026-11-26T03:16:26.853462-06:00",
   "timezone": "America/Chicago",
   "source": "tunarr-xmltv",
   "window_hours": 6,
-  "window_start": "2026-11-26T03:01:30.746894-06:00",
-  "window_end": "2026-11-26T09:01:30.746894-06:00",
+  "window_start": "2026-11-26T03:16:26.853462-06:00",
+  "window_end": "2026-11-26T09:16:26.853462-06:00",
   "channel_count": 15,
-  "programme_count": 139,
+  "programme_count": 143,
   "channels": [
     {
       "id": "C2.50.tunarr.com",
@@ -87,6 +87,13 @@ window.GUIDE_DATA = {
           "stop": "2026-11-26T09:13:51-06:00",
           "episode_title": "Museum",
           "description": "(from contributor Jared Prophet) The gang come through the Gate on the Great Wall of China...in a large museum. After exploring, and listening to Gus Bonner's \"\"boring\"\" speeches about history, the group runs afool of both Julius Cesar's and Napoleon's robot armies."
+        },
+        {
+          "title": "Stargate Infinity",
+          "start": "2026-11-26T09:13:51-06:00",
+          "stop": "2026-11-26T09:36:02-06:00",
+          "episode_title": "Us and Them",
+          "description": "The team arrive on a planet where the natives bear a extremely strong resemblence to Draga. They are contemptous of \"\"rock crawlers\"\" but Draga is drawn to them. But when the Tlak'khan show up the local's powers serve no good. The team helps them and gives them a measure of understanding of other cultures."
         }
       ],
       "logo": "logos/2.png"
@@ -125,6 +132,12 @@ window.GUIDE_DATA = {
           "start": "2026-11-26T07:42:00-06:00",
           "stop": "2026-11-26T09:12:59-06:00",
           "description": "A cop, his partner, and his father uncover a plot by city elders to smuggle drugs from Mexico into Phoenix, Arizona."
+        },
+        {
+          "title": "Scott Pilgrim vs. the World",
+          "start": "2026-11-26T09:12:59-06:00",
+          "stop": "2026-11-26T11:06:16-06:00",
+          "description": "As bass guitarist for a garage-rock band, Scott Pilgrim has never had trouble getting a girlfriend; usually, the problem is getting rid of them. But when Ramona Flowers skates into his heart, he finds she has the most troublesome baggage of all: an army of ex-boyfriends who will stop at nothing to eliminate him from her list of suitors."
         }
       ],
       "logo": "logos/3.png"
@@ -240,13 +253,6 @@ window.GUIDE_DATA = {
       "programmes": [
         {
           "title": "Last Exile",
-          "start": "2026-11-26T02:37:48-06:00",
-          "stop": "2026-11-26T03:02:46-06:00",
-          "episode_title": "First Adjournment (Episode 9.5)",
-          "description": "A recap episode told by Giselle and Millia, both of whom are writing a letter to Atamora at Kortoffel."
-        },
-        {
-          "title": "Last Exile",
           "start": "2026-11-26T03:02:46-06:00",
           "stop": "2026-11-26T03:28:03-06:00",
           "episode_title": "First Move",
@@ -354,6 +360,13 @@ window.GUIDE_DATA = {
           "stop": "2026-11-26T09:08:17-06:00",
           "episode_title": "Episode 12",
           "description": "Miyuki gives up on his revenge, and Reiko learns the true cause of death of Kujirai B from talking to Yulong."
+        },
+        {
+          "title": "KOWLOON GENERIC ROMANCE",
+          "start": "2026-11-26T09:08:17-06:00",
+          "stop": "2026-11-26T09:34:23-06:00",
+          "episode_title": "Episode 13",
+          "description": "As reality and fiction, past and present intwetwine, Reiko witnesses Kudo's memory of Kujirai B's death."
         }
       ],
       "logo": "logos/32.png"
@@ -363,12 +376,6 @@ window.GUIDE_DATA = {
       "number": 33,
       "name": "Anime Cinema",
       "programmes": [
-        {
-          "title": "Appleseed XIII: Ouranos",
-          "start": "2026-11-26T01:42:23-06:00",
-          "stop": "2026-11-26T03:07:39-06:00",
-          "description": "The action continues in the second Appleseed XIII movie that cuts the anime series down to what you want most: bullets, explosions, and total mayhem! When terrorists begin assassinating bioroids, Deunan might be the only person able to protect the future."
-        },
         {
           "title": "Odekake Kozame Movie",
           "start": "2026-11-26T03:07:39-06:00",
@@ -392,6 +399,12 @@ window.GUIDE_DATA = {
           "start": "2026-11-26T07:43:25-06:00",
           "stop": "2026-11-26T09:03:25-06:00",
           "description": "In this follow-up to the Martian Successor Nadesico anime series, a 14-year-old, genetically-engineered genius captain of the new Battleship Nadesico must fight an organized Martian Successor attack."
+        },
+        {
+          "title": "PSYCHO-PASS: The Movie",
+          "start": "2026-11-26T09:03:25-06:00",
+          "stop": "2026-11-26T10:58:00-06:00",
+          "description": "In this sequel to Psycho-Pass TV show, Inspector Tsunemori is sent to a neighboring war-torn nation, where the Sibyl System is being introduced as an experiment, to find Shinya Kogami, her former enforcer who went rogue three years ago."
         }
       ],
       "logo": "logos/33.png"
@@ -503,6 +516,13 @@ window.GUIDE_DATA = {
           "stop": "2026-11-26T09:05:56-06:00",
           "episode_title": "Pressing Doggorla",
           "description": "The Motorad fleet stops at the Marilyn so the Adrestia can be repaired. Hoping to attack BESPA while they are vulnerable, the League Militaire launches an attack against the enemy fleet, but BESPA manages a stout defense with the mobile armor Doggorla. Despite their inexperience as mobile suit pilots, Odelo and Tomache are sent out to fight."
+        },
+        {
+          "title": "Mobile Suit Zeta Gundam",
+          "start": "2026-11-26T09:05:56-06:00",
+          "stop": "2026-11-26T09:31:03-06:00",
+          "episode_title": "Reccoa's Shadow",
+          "description": "Jerid continues his pursuit as Char, Kamille, and Amuro plan their return to space. Yazan attacks the Argama in space while Reccoa, now on the Alexandria views the battle and helps the mobile suits pilots escape the AEUG."
         }
       ],
       "logo": "logos/45.png"
@@ -553,6 +573,12 @@ window.GUIDE_DATA = {
           "start": "2026-11-26T07:33:46-06:00",
           "stop": "2026-11-26T09:09:07-06:00",
           "description": "Ten years after the One Year War, Camille Bidan becomes involved in the conflict against the Titans as the pilot of Zeta Gundam."
+        },
+        {
+          "title": "MOBILE SUIT GUNDAM HATHAWAY The Sorcery of Nymph Circe",
+          "start": "2026-11-26T09:09:07-06:00",
+          "stop": "2026-11-26T10:57:38-06:00",
+          "description": "Hathaway Noa's fight against the Earth Federation continues, culminating in a terrorist attack on Adelaide's government conference. Gigi Andalucia remains crucial, her influence embodying the \"witch\" figure."
         }
       ],
       "logo": "logos/46.png"
@@ -562,13 +588,6 @@ window.GUIDE_DATA = {
       "number": 47,
       "name": "Universal Century",
       "programmes": [
-        {
-          "title": "Gundam: Requiem for Vengeance",
-          "start": "2026-11-26T02:40:44-06:00",
-          "stop": "2026-11-26T03:06:36-06:00",
-          "episode_title": "Haunted Forest",
-          "description": "The Red Wolf Squadron joins the battle on the European front to reclaim Cluj-Napoca. Later, Captain Solari notices something amiss."
-        },
         {
           "title": "Gundam: Requiem for Vengeance",
           "start": "2026-11-26T03:06:36-06:00",
@@ -658,6 +677,13 @@ window.GUIDE_DATA = {
           "stop": "2026-11-26T09:07:56-06:00",
           "episode_title": "Across the Atlantic Ocean",
           "description": "Thanks to intelligence acquired from Miharu, Flanagan Boone and his Mad Angler squadron attack the White Base en route to Jaburo headquarters in South America."
+        },
+        {
+          "title": "Mobile Suit Gundam",
+          "start": "2026-11-26T09:07:56-06:00",
+          "stop": "2026-11-26T09:33:36-06:00",
+          "episode_title": "Tragedy in Jaburo",
+          "description": "The White Base finally reaches Jaburo general headquarters; Zeon then launches a massive invasion on the base led by Char and his custom Z'Gok."
         }
       ],
       "logo": "logos/47.png"
@@ -667,13 +693,6 @@ window.GUIDE_DATA = {
       "number": 48,
       "name": "Cosmic Era",
       "programmes": [
-        {
-          "title": "Mobile Suit Gundam Seed Destiny",
-          "start": "2026-11-26T02:41:37-06:00",
-          "stop": "2026-11-26T03:06:23-06:00",
-          "episode_title": "Attack the Lohengrin!",
-          "description": "The Minerva must destroy a fixed positron cannon emplacement to break through to Gibraltar. They are lent aid by a young resistance fighter, Conille."
-        },
         {
           "title": "Mobile Suit Gundam Seed Destiny",
           "start": "2026-11-26T03:06:23-06:00",
@@ -873,6 +892,13 @@ window.GUIDE_DATA = {
           "stop": "2026-11-26T09:06:14-06:00",
           "episode_title": "Hard Time",
           "description": "Stardate: Unknown. O'Brien tries to re-integrate to life on the station after serving 20 years in a virtual prison."
+        },
+        {
+          "title": "Star Trek: Deep Space Nine",
+          "start": "2026-11-26T09:06:14-06:00",
+          "stop": "2026-11-26T09:52:38-06:00",
+          "episode_title": "Shattered Mirror",
+          "description": "Stardate: Unknown. When the Mirror Universe counterpart of Sisko's deceased wife lures Jake to the other side, Sisko must follow and help the human resistance against the Alliance's forces."
         }
       ],
       "logo": "logos/64.png"
