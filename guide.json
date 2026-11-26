@@ -1,25 +1,18 @@
 {
-  "generated_at": "2026-11-26T00:16:24.856264-06:00",
+  "generated_at": "2026-11-26T00:46:24.947207-06:00",
   "timezone": "America/Chicago",
   "source": "tunarr-xmltv",
   "window_hours": 6,
-  "window_start": "2026-11-26T00:16:24.856264-06:00",
-  "window_end": "2026-11-26T06:16:24.856264-06:00",
+  "window_start": "2026-11-26T00:46:24.947207-06:00",
+  "window_end": "2026-11-26T06:46:24.947207-06:00",
   "channel_count": 15,
-  "programme_count": 142,
+  "programme_count": 143,
   "channels": [
     {
       "id": "C2.50.tunarr.com",
       "number": 2,
       "name": "Syndication",
       "programmes": [
-        {
-          "title": "Star Trek: Deep Space Nine",
-          "start": "2026-11-25T23:40:24-06:00",
-          "stop": "2026-11-26T00:26:46-06:00",
-          "episode_title": "By Inferno's Light (2)",
-          "description": "Stardate: 50564.2. The station readies for a Dominion attack. Worf and Garak meet some unexpected friends in a Dominion Prison camp."
-        },
         {
           "title": "Homeland",
           "start": "2026-11-26T00:26:46-06:00",
@@ -68,6 +61,13 @@
           "stop": "2026-11-26T06:20:29-06:00",
           "episode_title": "The Seventh",
           "description": "Archer, Mayweather and T'Pol travel to an arctic world to apprehend a fugitive, when T'Pol is contacted by Vulcan High Command. The mission takes a dangerous turn when T'Pol begins having flashbacks that suggest the events she remembers about a former mission may not accurately relate to what happened."
+        },
+        {
+          "title": "Star Trek: Enterprise",
+          "start": "2026-11-26T06:20:29-06:00",
+          "stop": "2026-11-26T07:01:57-06:00",
+          "episode_title": "The Communicator",
+          "description": "Archer and Reed return to a pre-warp society, that is on the verge of war, to recover a lost communicator from an undercover survey mission."
         }
       ],
       "logo": "logos/2.png"
@@ -77,12 +77,6 @@
       "number": 3,
       "name": "The Movie Channel",
       "programmes": [
-        {
-          "title": "The Twilight Saga: Breaking Dawn - Part 1",
-          "start": "2026-11-25T22:39:40-06:00",
-          "stop": "2026-11-26T00:37:42-06:00",
-          "description": "Bella and Edward celebrate their wedding, but, after their honeymoon on Isle Esme, things take a turn for the worse when Bella realizes she is pregnant. As the baby grows at an abnormally fast rate and causes many health problems to Bella, Edward and the wolf pack fear that she may give birth to an immortal child. But the Cullens will do everything they can to ensure that both Bella and the unborn child remain safe."
-        },
         {
           "title": "The Rescuers Down Under",
           "start": "2026-11-26T00:37:42-06:00",
@@ -106,6 +100,12 @@
           "start": "2026-11-26T05:23:12-06:00",
           "stop": "2026-11-26T06:34:53-06:00",
           "description": "Being one of 101 takes its toll on Patch, who doesn't feel unique. When he's accidentally left behind on moving day, he meets his idol, Thunderbolt, who enlists him on a publicity campaign."
+        },
+        {
+          "title": "Lady and the Tramp II: Scamp's Adventure",
+          "start": "2026-11-26T06:34:53-06:00",
+          "stop": "2026-11-26T07:42:00-06:00",
+          "description": "The son of Lady and the Tramp, Scamp, escapes home to travel on an adventure. Along the way, he meets a group of street dogs who know the past of his parents and do everything that they can to recruit him and make him forget about his family forever."
         }
       ],
       "logo": "logos/3.png"
@@ -115,13 +115,6 @@
       "number": 11,
       "name": "Kidz!",
       "programmes": [
-        {
-          "title": "Justice League",
-          "start": "2026-11-26T00:02:42-06:00",
-          "stop": "2026-11-26T00:26:22-06:00",
-          "episode_title": "Maid of Honor (2)",
-          "description": "Batman and Wonder Woman move against Kasnia to prevent Vandal Savage from terrorizing the world with his orbital rail gun."
-        },
         {
           "title": "Justice League",
           "start": "2026-11-26T00:26:22-06:00",
@@ -184,6 +177,12 @@
           "stop": "2026-11-26T06:30:10-06:00",
           "episode_title": "The Ci-Kat-A",
           "description": "An exploration probe returns from its mission in space and is taken to MASA where Dr. Harley Street discovers a yellow viscous substance oozing from inside the probe."
+        },
+        {
+          "title": "Kim Possible: So the Drama",
+          "start": "2026-11-26T06:30:10-06:00",
+          "stop": "2026-11-26T07:42:05-06:00",
+          "description": "As they are on their next adventure and mission, Kim and Ron reflect on their own lives and everything that they have been through together. They both need to figure out what is next in their own lives and how it all affects their friendship and relationship."
         }
       ],
       "logo": "logos/11.png"
@@ -233,13 +232,6 @@
       "number": 32,
       "name": "Japanimation",
       "programmes": [
-        {
-          "title": "Full Metal Panic!",
-          "start": "2026-11-25T23:58:45-06:00",
-          "stop": "2026-11-26T00:23:46-06:00",
-          "episode_title": "Hostility Passing-By",
-          "description": "After Sousuke causes a lunchtime riot, he and Kaname must man the bread counter and serve the students."
-        },
         {
           "title": "Full Metal Panic!",
           "start": "2026-11-26T00:23:46-06:00",
@@ -365,6 +357,13 @@
           "stop": "2026-11-26T06:38:08-06:00",
           "episode_title": "Yuki's Trouble",
           "description": "On the first day of high school, Yuki is not perfectly happy as she failed to get the highest score at the entrance examination. Although she does not show her desire, she wants to be the center of attention always. The honor belongs to her classmate, Arima. Yuki feels strong rivalry to Arima. She beats him at the mid-term exam. To her surprise, Arima congratulates her achievement heartily. One day, Arima tells her that he wants to “go steady” with her. Yuki bluntly refuses his proposal. Then, she accidentally reveals her true desire and is terrified by her mistake."
+        },
+        {
+          "title": "His and Her Circumstances",
+          "start": "2026-11-26T06:38:08-06:00",
+          "stop": "2026-11-26T07:03:06-06:00",
+          "episode_title": "Their Secret",
+          "description": "Yukino's inadvertently made a fool of herself in front of Arima and now he's blackmailing her! Getting her to do his work, act as his slave... she's just about at her wit's end!"
         }
       ],
       "logo": "logos/32.png"
@@ -418,12 +417,6 @@
       "number": 45,
       "name": "Mobile Suit Network",
       "programmes": [
-        {
-          "title": "SD Gundam Force",
-          "start": "2026-11-26T00:03:56-06:00",
-          "stop": "2026-11-26T00:28:15-06:00",
-          "episode_title": "Episode 46"
-        },
         {
           "title": "Mobile Suit Gundam",
           "start": "2026-11-26T00:28:15-06:00",
@@ -507,6 +500,25 @@
           "stop": "2026-11-26T06:22:35-06:00",
           "episode_title": "Eve of Chaos",
           "description": "Kira survives, against all odds, as Shinn and Ahtrun have a falling out."
+        },
+        {
+          "title": "Gundam Seed MSV Astray",
+          "start": "2026-11-26T06:22:35-06:00",
+          "stop": "2026-11-26T06:29:11-06:00",
+          "episode_title": "Episode 1"
+        },
+        {
+          "title": "Gundam Seed MSV Astray",
+          "start": "2026-11-26T06:29:11-06:00",
+          "stop": "2026-11-26T06:35:18-06:00",
+          "episode_title": "Episode 2"
+        },
+        {
+          "title": "Gundam Build Divers",
+          "start": "2026-11-26T06:35:18-06:00",
+          "stop": "2026-11-26T07:00:54-06:00",
+          "episode_title": "Your Feelings",
+          "description": "The GBN administration has officially announced that Sarah is an electronic lifeform, or \"EL-Diver,\" whose existence is the cause of the bug outbreaks. As the administration begins its pursuit, Riku and the other Build Divers are also searching for Sarah, who has run away from them."
         }
       ],
       "logo": "logos/45.png"
@@ -560,13 +572,6 @@
       "number": 47,
       "name": "Universal Century",
       "programmes": [
-        {
-          "title": "Mobile Suit Gundam MS IGLOO",
-          "start": "2026-11-26T00:03:03-06:00",
-          "stop": "2026-11-26T00:31:55-06:00",
-          "episode_title": "The Illusion That Lingers Over the Orbit",
-          "description": "(U.C. 0079.10.24 - 0079.11.10) Upon news of a powerful new Federation mobile suit, Zeon propagandizes the Zudah, a mobile suit claimed to be superior to the Federation prototype. The 603rd is put in charge of testing the prototype with the help of a distinguished Zimmad test pilot Maj. Jean-Luc Duvall. However, the testing soon goes wrong after a fellow test pilot is killed when his Zudah lost control and disintegrated during combat simulation. To add salt to insult, the Jotunheim crew is shock to learn that the Federation already knows the Zudah's shameful background — it is nothing but a repainted version of the failed project that previously lost the bid to Zaku I due to a lethal design flaw. The Zudah is doomed to lose all honor and become a ghost fighter."
-        },
         {
           "title": "Mobile Suit Gundam: The 08th MS Team",
           "start": "2026-11-26T00:31:55-06:00",
@@ -664,6 +669,13 @@
           "stop": "2026-11-26T06:32:54-06:00",
           "episode_title": "Reunion",
           "description": "The Apsalus makes its escape, with Shiro's Gundam clinging to its hull. When the malfunctioning mobile armor crashes in the snowy mountains, Shiro and Aina are reunited. They cooperate to survive in the frozen wasteland, but then rescuers arrive."
+        },
+        {
+          "title": "Mobile Suit Gundam",
+          "start": "2026-11-26T06:32:54-06:00",
+          "stop": "2026-11-26T06:58:34-06:00",
+          "episode_title": "Char Returns",
+          "description": "Under the command of Char Aznable, new Zeon amphibious mobile suits attack White Base, docked in a Federation base at Belfast."
         }
       ],
       "logo": "logos/47.png"
@@ -673,13 +685,6 @@
       "number": 48,
       "name": "Cosmic Era",
       "programmes": [
-        {
-          "title": "Mobile Suit Gundam Seed Destiny",
-          "start": "2026-11-26T00:13:00-06:00",
-          "stop": "2026-11-26T00:37:46-06:00",
-          "episode_title": "Blood in the Water",
-          "description": "After departing Orb, the Minerva is thrown into battle against an Atlantic Federation fleet. Due to their new alliance with the Federation, Orb quickly sets up a barricade of ships preventing the Minerva from retreating back to the safety of Orb territory."
-        },
         {
           "title": "Mobile Suit Gundam Seed Destiny",
           "start": "2026-11-26T00:37:46-06:00",
@@ -777,6 +782,13 @@
           "stop": "2026-11-26T06:24:37-06:00",
           "episode_title": "The Promise",
           "description": "Shinn rushes an injured Stella aboard the Minerva, learning her startling truth in the process. Lacus returns to the PLANTs to gain a full view of the situation."
+        },
+        {
+          "title": "Mobile Suit Gundam Seed Destiny",
+          "start": "2026-11-26T06:24:37-06:00",
+          "stop": "2026-11-26T06:49:26-06:00",
+          "episode_title": "Unfulfilled Feelings",
+          "description": "Lacus & Andrew Waltfeld reunite with the Eternal and its crew, while Lunamaria reports her findings from Athrun's rendezvous with Kira to Talia."
         }
       ],
       "logo": "logos/48.png"
@@ -824,13 +836,6 @@
       "number": 64,
       "name": "Sci-Fi",
       "programmes": [
-        {
-          "title": "Warehouse 13",
-          "start": "2026-11-25T23:37:04-06:00",
-          "stop": "2026-11-26T00:21:15-06:00",
-          "episode_title": "What Matters Most",
-          "description": "Someone in a gated community is using an artifact to extract vengeance and Myka and Pete go to investigate. Meanwhile, Artie and Claudia help a teen suffering from dangerous visions, and Steven and Abigail clean up the warehouse."
-        },
         {
           "title": "Star Trek",
           "start": "2026-11-26T00:21:15-06:00",
@@ -897,13 +902,6 @@
       "programmes": [
         {
           "title": "Stargate SG-1",
-          "start": "2026-11-25T23:49:31-06:00",
-          "stop": "2026-11-26T00:34:38-06:00",
-          "episode_title": "The First Commandment",
-          "description": "SG-1 must stop a renegade Stargate commander, who has gone mad and set himself up as a god on an alien planet."
-        },
-        {
-          "title": "Stargate SG-1",
           "start": "2026-11-26T00:34:38-06:00",
           "stop": "2026-11-26T01:19:44-06:00",
           "episode_title": "Cold Lazarus",
@@ -957,6 +955,13 @@
           "stop": "2026-11-26T06:30:38-06:00",
           "episode_title": "Thor's Hammer",
           "description": "SG-1 goes to the planet Cimmeria in search of allies against the Goa'uld. Upon arrival, Jack and Teal'c are trapped in a labyrinth, where the only exit is through Thor's Hammer, a device to destroy Goa'uld, but preserve the host. Daniel Jackson must destroy the device that could someday have saved his wife in order to free his friends."
+        },
+        {
+          "title": "Stargate SG-1",
+          "start": "2026-11-26T06:30:38-06:00",
+          "stop": "2026-11-26T07:15:44-06:00",
+          "episode_title": "The Torment of Tantalus",
+          "description": "Daniel Jackson discovers that the Stargate was activated in 1945 and a young professor went through, never to return. Together with his still living fiancée, the SG1 team discover the now aged professor, naked and trapped in a decaying fortress, containing the secrets of an Ancient alliance. Will they be able to rescue him and escape to earth in time?"
         }
       ],
       "logo": "logos/65.png"
@@ -966,13 +971,6 @@
       "number": 66,
       "name": "Starfleet",
       "programmes": [
-        {
-          "title": "Star Trek",
-          "start": "2026-11-25T23:45:58-06:00",
-          "stop": "2026-11-26T00:37:17-06:00",
-          "episode_title": "Charlie X",
-          "description": "Raised from boyhood by non-corporeal beings, 17 year old Charles Evans is picked up and transferred to the Enterprise. On board the ship, the teenager proves dangerously unable to wield his enormous psionic powers with maturity."
-        },
         {
           "title": "Star Trek: Voyager",
           "start": "2026-11-26T00:37:17-06:00",
@@ -1028,6 +1026,13 @@
           "stop": "2026-11-26T06:43:26-06:00",
           "episode_title": "Emergence",
           "description": "Strange images begin appearing throughout the ship's decks and holodecks. Data and the rest of the crew begin to investigate only to discover that the ship's computer itself is exhibiting the strange behavior as it begins to become self-aware."
+        },
+        {
+          "title": "Star Trek: Enterprise",
+          "start": "2026-11-26T06:43:26-06:00",
+          "stop": "2026-11-26T07:26:08-06:00",
+          "episode_title": "The Aenar (3)",
+          "description": "Archer visits Shran's icy homeworld to find an Andorian subspecies called the Aenar, to determine their connection to the marauder destroying ships in the region."
         }
       ],
       "logo": "logos/66.png"
