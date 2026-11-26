@@ -1,12 +1,12 @@
 window.GUIDE_DATA = {
-  "generated_at": "2026-11-26T08:31:27.407419-06:00",
+  "generated_at": "2026-11-26T08:46:25.864835-06:00",
   "timezone": "America/Chicago",
   "source": "tunarr-xmltv",
   "window_hours": 6,
-  "window_start": "2026-11-26T08:31:27.407419-06:00",
-  "window_end": "2026-11-26T14:31:27.407419-06:00",
+  "window_start": "2026-11-26T08:46:25.864835-06:00",
+  "window_end": "2026-11-26T14:46:25.864835-06:00",
   "channel_count": 15,
-  "programme_count": 142,
+  "programme_count": 146,
   "channels": [
     {
       "id": "C2.50.tunarr.com",
@@ -106,6 +106,13 @@ window.GUIDE_DATA = {
           "stop": "2026-11-26T14:34:54-06:00",
           "episode_title": "Stronghold",
           "description": "Baal kidnaps Teal'c as part of a plot to brainwash those Jaffa advocating a move toward democracy. Cameron Mitchell learns that an old friend is about to die."
+        },
+        {
+          "title": "Stargate SG-1",
+          "start": "2026-11-26T14:34:54-06:00",
+          "stop": "2026-11-26T15:17:35-06:00",
+          "episode_title": "Ethon",
+          "description": "A contact within the Rand Protectorate comes to Earth with news that the Ori have given his people a superweapon to use against the Caledonian Federation in exchange for their conversion to Origin. SG-1 plans to turn the people from their newfound religion and destroy the superweapon."
         }
       ],
       "logo": "logos/2.png"
@@ -222,6 +229,12 @@ window.GUIDE_DATA = {
           "stop": "2026-11-26T14:33:59-06:00",
           "episode_title": "A Better World (1)",
           "description": "The Justice Lords, an alternate version of the League from a different dimension, capture their counterparts and plan to bring their own brand of justice to the new Earth."
+        },
+        {
+          "title": "Ernest Saves Christmas",
+          "start": "2026-11-26T14:33:59-06:00",
+          "stop": "2026-11-26T16:06:24-06:00",
+          "description": "When Santa Claus decides to retire and pass on his magic bag of Christmas surprises to a new Saint Nick, he enlists the aid of a hilarious assortment of characters. A perky teen runaway and hapless taxi driver Ernest P. Worrell must convince a skeptical kiddie-show host to take over the post of Father Christmas."
         }
       ],
       "logo": "logos/11.png"
@@ -263,12 +276,6 @@ window.GUIDE_DATA = {
       "number": 32,
       "name": "Japanimation",
       "programmes": [
-        {
-          "title": "Dragon Ball Super",
-          "start": "2026-11-26T08:19:29-06:00",
-          "stop": "2026-11-26T08:43:46-06:00",
-          "episode_title": "Episode 15"
-        },
         {
           "title": "KOWLOON GENERIC ROMANCE",
           "start": "2026-11-26T08:43:46-06:00",
@@ -374,6 +381,13 @@ window.GUIDE_DATA = {
           "start": "2026-11-26T14:17:43-06:00",
           "stop": "2026-11-26T14:42:42-06:00",
           "episode_title": "The Day of Catastrophe"
+        },
+        {
+          "title": "Code Geass: Lelouch of the Rebellion",
+          "start": "2026-11-26T14:42:42-06:00",
+          "stop": "2026-11-26T15:07:44-06:00",
+          "episode_title": "When Shen Hu Wins Glory",
+          "description": "Lelouch successfully escapes with Empress Tianzi and the Black Knights attempt to unite with their Indian allies. Desperate to recover the Empress, the Eunuchs agree to forgive Li Xingke if he rescues her. To that end, he is granted use of the powerful Shenhu. Kallen intercepts him with the Guren Flight-Enabled Version, but its power runs out and she is taken hostage. Lelouch swears to rescue her, despite Diethard Reid's suggestion to retreat. Xingke demonstrates his skill as a strategist, forcing the Black Knights to retreat to a mountainside monument constructed as the tomb for the former Tianzi, hoping the Federation would be hesitant to attack. The Eunuchs turn on Xingke and his troops, having enlisted the aid of the Britannian forces. Meanwhile, another Lelouch is present at the Ashford Academy."
         }
       ],
       "logo": "logos/32.png"
@@ -406,6 +420,12 @@ window.GUIDE_DATA = {
           "start": "2026-11-26T12:35:59-06:00",
           "stop": "2026-11-26T14:41:22-06:00",
           "description": "A secret military project endangers Neo-Tokyo when it turns a teenage biker gang member into a rampaging psychic psychopath who can only be stopped by his best friend."
+        },
+        {
+          "title": "Knights of Sidonia: The Movie",
+          "start": "2026-11-26T14:41:22-06:00",
+          "stop": "2026-11-26T16:56:25-06:00",
+          "description": "The film is a compilation of the first season, featuring new scenes and remastered sound effects. The story follows Nagate Tanikaze, who has spent his entire life living deep beneath Sidonia’s surface. While searching for food, he ventures above ground for the first time and discovers humanity’s ongoing struggle to survive against the Gauna."
         }
       ],
       "logo": "logos/33.png"
@@ -415,13 +435,6 @@ window.GUIDE_DATA = {
       "number": 45,
       "name": "Mobile Suit Network",
       "programmes": [
-        {
-          "title": "Mobile Suit Victory Gundam",
-          "start": "2026-11-26T08:16:03-06:00",
-          "stop": "2026-11-26T08:40:59-06:00",
-          "episode_title": "Motorad, Take-Off!",
-          "description": "Marbet and Oliver help train Odelo and Tomache to become mobile suit pilots, while the League Militaire finds out that BESPA forces are hiding on the moon near Saint Josef. To prevent a battle from breaking out, Shakti goes out on her own to find the Motorad fleet and try to persuade Cronicle to not attack the Earth."
-        },
         {
           "title": "Mobile Suit Victory Gundam",
           "start": "2026-11-26T08:40:59-06:00",
@@ -543,6 +556,13 @@ window.GUIDE_DATA = {
           "stop": "2026-11-26T14:44:07-06:00",
           "episode_title": "Unrelenting Tenderness",
           "description": "Piloting the Calibarn, Suletta confronts Ericht head-on. Guel squares off against Lauda, who is burning with bitter hatred for Miorine. And amid the chaos of battle, a rocket carrying Miorine and the others makes its way to Quiet Zero."
+        },
+        {
+          "title": "Mobile Suit Gundam: The Witch from Mercury",
+          "start": "2026-11-26T14:44:07-06:00",
+          "stop": "2026-11-26T15:08:53-06:00",
+          "episode_title": "May All Blessings Find Their Way to You, I'm Wishing It",
+          "description": "Relationships that end and others that are formed anew. Sadness and joy. Violence and wishing for peace. Space intermingles everything as a younger generation finds its way in a world where what is right is only a matter of perspective."
         }
       ],
       "logo": "logos/45.png"
@@ -575,6 +595,12 @@ window.GUIDE_DATA = {
           "start": "2026-11-26T12:58:47-06:00",
           "stop": "2026-11-26T14:38:34-06:00",
           "description": "In the trilogy's final saga, alliances are made and broken as the AEUG, Titans and Axis initiate an all-out war for control of the Earth Sphere."
+        },
+        {
+          "title": "Mobile Suit Gundam Thunderbolt: December Sky",
+          "start": "2026-11-26T14:38:34-06:00",
+          "stop": "2026-11-26T15:49:05-06:00",
+          "description": "During the One Year War of U.C. 0079, the Earth Federation and Principality of Zeon engage in a fierce battle at the \"Thunderbolt Sector\", a shoal zone in the former Colony Side 4 \"Moore\". After successfully infiltrating Zeon's sniper field, ace Federation pilot and jazz enthusiast Io Fleming is given control of the latest Gundam prototype."
         }
       ],
       "logo": "logos/46.png"
@@ -584,13 +610,6 @@ window.GUIDE_DATA = {
       "number": 47,
       "name": "Universal Century",
       "programmes": [
-        {
-          "title": "Mobile Suit Gundam",
-          "start": "2026-11-26T08:16:35-06:00",
-          "stop": "2026-11-26T08:42:15-06:00",
-          "episode_title": "A Spy on Board",
-          "description": "Kai Shiden develops a friendship with Miharu Ratokie, a local girl, while Char prepares a second amphibious attack on the Federation at Belfast."
-        },
         {
           "title": "Mobile Suit Gundam",
           "start": "2026-11-26T08:42:15-06:00",
@@ -765,6 +784,13 @@ window.GUIDE_DATA = {
           "stop": "2026-11-26T14:42:25-06:00",
           "episode_title": "Prelude to Revolution",
           "description": "After the attack on the PLANTs by the Requiem, the Orb forces begin their preparations to leave Earth. ZAFT begins their assault on Requiem and the Minerva is sent to the front lines."
+        },
+        {
+          "title": "Mobile Suit Gundam Seed Destiny",
+          "start": "2026-11-26T14:42:25-06:00",
+          "stop": "2026-11-26T15:07:12-06:00",
+          "episode_title": "The Song of Truth",
+          "description": "While gathering intelligence under the guise of a shopping trip at Copernicus City, Lacus receives a message from Meer, who is afraid of being killed. Though Athrun and Meyrin insists it is a trap, Lacus decides to meet Meer anyway."
         }
       ],
       "logo": "logos/48.png"
@@ -867,6 +893,13 @@ window.GUIDE_DATA = {
           "stop": "2026-11-26T14:34:24-06:00",
           "episode_title": "In the Flesh",
           "description": "The crew of Voyager discover a simulation of Starfleet Headquarters being run by Species 8472. With the aid of regular doses of drugs, Species 8472 are able to shape-shift into human form. It is up to Janeway to try to convince the aliens that Starfleet is not a threat to them."
+        },
+        {
+          "title": "Eureka",
+          "start": "2026-11-26T14:34:24-06:00",
+          "stop": "2026-11-26T15:18:58-06:00",
+          "episode_title": "Before I Forget",
+          "description": "Jack shoots Henry after trying to arrest a mysterious man. Twenty-four hours earlier we meet Henry's two college friends who may be involved in Jack's memory loss. Everytime Jack and company come close to solving the case of what they forgot, their memory is wiped out again. Meanwhile, Jack must try to remember his daughter's play."
         }
       ],
       "logo": "logos/64.png"
@@ -876,13 +909,6 @@ window.GUIDE_DATA = {
       "number": 65,
       "name": "Stargate Command",
       "programmes": [
-        {
-          "title": "Stargate Atlantis",
-          "start": "2026-11-26T07:15:44-06:00",
-          "stop": "2026-11-26T08:41:08-06:00",
-          "episode_title": "Rising (1)",
-          "description": "Dr. Elizabeth Weir leads an expedition to find the Ancients' lost city of Atlantis, a journey that brings her and a carefully selected crew of Earth's best and brightest to the Pegasus galaxy, where they embark on the adventure of a lifetime, and awaken among the stars an enemy none of them could have predicted, endangering themselves and the native people of Pegasus alike."
-        },
         {
           "title": "Stargate Atlantis",
           "start": "2026-11-26T08:41:08-06:00",
@@ -931,6 +957,13 @@ window.GUIDE_DATA = {
           "stop": "2026-11-26T14:32:40-06:00",
           "episode_title": "Singularity",
           "description": "A mysterious affliction wipes out the entire population of a planet, plus an SG team -- except for one young girl. Carter befriends her, but learns that she is being used by the Goa'uld."
+        },
+        {
+          "title": "Stargate Universe",
+          "start": "2026-11-26T14:32:40-06:00",
+          "stop": "2026-11-26T15:15:49-06:00",
+          "episode_title": "Deliverance (2)",
+          "description": "Locked in a battle with a Drone Command Ship, the Destiny is surprised by the arrival of the Aliens that abducted Rush and Chloe."
         }
       ],
       "logo": "logos/65.png"
@@ -1004,13 +1037,6 @@ window.GUIDE_DATA = {
       "number": 72,
       "name": "Comedy",
       "programmes": [
-        {
-          "title": "Warehouse 13",
-          "start": "2026-11-26T07:07:12-06:00",
-          "stop": "2026-11-26T08:35:50-06:00",
-          "episode_title": "Pilot",
-          "description": "After preparing a museum in D.C. for presidential visit, 2 Secret Service agents are transferred to an isolated warehouse 13 in South Dakota, where Artie sends them to Iowa to collect a supernatural artifact from a law school student."
-        },
         {
           "title": "Warehouse 13",
           "start": "2026-11-26T08:35:50-06:00",
