@@ -1,12 +1,12 @@
 window.GUIDE_DATA = {
-  "generated_at": "2026-11-26T05:16:35.224535-06:00",
+  "generated_at": "2026-11-26T05:31:27.576192-06:00",
   "timezone": "America/Chicago",
   "source": "tunarr-xmltv",
   "window_hours": 6,
-  "window_start": "2026-11-26T05:16:35.224535-06:00",
-  "window_end": "2026-11-26T11:16:35.224535-06:00",
+  "window_start": "2026-11-26T05:31:27.576192-06:00",
+  "window_end": "2026-11-26T11:31:27.576192-06:00",
   "channel_count": 15,
-  "programme_count": 144,
+  "programme_count": 142,
   "channels": [
     {
       "id": "C2.50.tunarr.com",
@@ -103,12 +103,6 @@ window.GUIDE_DATA = {
       "name": "The Movie Channel",
       "programmes": [
         {
-          "title": "Mean Girls",
-          "start": "2026-11-26T03:45:25-06:00",
-          "stop": "2026-11-26T05:23:12-06:00",
-          "description": "Lindsay Lohan stars as Cady Heron, a 16 year old homeschooled girl who not only makes the mistake of falling for Aaron Samuels (Jonathan Bennett), the ex-boyfriend of queenbee Regina George (Rachel McAdams), but also unintentionally joins The Plastics, led by Regina herself. Join Cady as she learns that high school life can and will be really tough."
-        },
-        {
           "title": "101 Dalmatians 2: Patch's London Adventure",
           "start": "2026-11-26T05:23:12-06:00",
           "stop": "2026-11-26T06:34:53-06:00",
@@ -146,12 +140,6 @@ window.GUIDE_DATA = {
       "number": 11,
       "name": "Kidz!",
       "programmes": [
-        {
-          "title": "Cinderella",
-          "start": "2026-11-26T04:09:59-06:00",
-          "stop": "2026-11-26T05:25:58-06:00",
-          "description": "Cinderella has faith her dreams of a better life will come true. With help from her loyal mice friends and a wave of her Fairy Godmother's wand, Cinderella's rags are magically turned into a glorious gown and off she goes to the Royal Ball. But when the clock strikes midnight, the spell is broken, leaving a single glass slipper... the only key to the ultimate fairy-tale ending!"
-        },
         {
           "title": "Looney Tunes",
           "start": "2026-11-26T05:25:58-06:00",
@@ -219,6 +207,12 @@ window.GUIDE_DATA = {
           "start": "2026-11-26T09:55:20-06:00",
           "stop": "2026-11-26T11:30:58-06:00",
           "description": "Three children and their father move from Los Angeles, California to Edmonton, Alberta. When they go shopping at West Edmonton Mall, they find counterfeit cash, inadvertently help catch crooks, and make a discovery about Santa."
+        },
+        {
+          "title": "Cinderella II: Dreams Come True",
+          "start": "2026-11-26T11:30:58-06:00",
+          "stop": "2026-11-26T12:42:19-06:00",
+          "description": "Jaq and Gus create a storybook based on three events that happened after the first film. The stories include Cinderella's opposition to the court's strict etiquette, Jaq's becoming human for a day, and Anastasia's redemption through love."
         }
       ],
       "logo": "logos/11.png"
@@ -268,20 +262,6 @@ window.GUIDE_DATA = {
       "number": 32,
       "name": "Japanimation",
       "programmes": [
-        {
-          "title": "Ingoku Danchi: Deviant's Apartment Complex",
-          "start": "2026-11-26T05:14:11-06:00",
-          "stop": "2026-11-26T05:18:40-06:00",
-          "episode_title": "Watanabe the Kidnapper",
-          "description": "Young Yoshida becomes the apartment complex manager in place of his father. What seems like peaceful daily life turns out to be a den of depravity roaming with \"perverted women.\" Watanabe, a kind resident, rejected for her loneliness-driven excessive physical contact, transforms into a kidnapper. Can Yoshida resist her throbbing desire as she pins him down, clad in the lewd \"Libido Cloth\" outfit? The turbulent management duties begin, swirling with the madness and desires of the housewives."
-        },
-        {
-          "title": "Ingoku Danchi: Deviant's Apartment Complex",
-          "start": "2026-11-26T05:18:40-06:00",
-          "stop": "2026-11-26T05:23:09-06:00",
-          "episode_title": "Ichinose the Circulator",
-          "description": "There's been a massive scattering of lewd photos throughout the apartment complex. The culprit is Ichinose, a housewife who believes her own body is art. But when the photos are burned by the residents who value discipline, and her bond with the young man is denied, she awakens as the \"Circulator\" through the power of Libido Cloth. Hiding in a night's cloak, she restrains Yoshida and begins to take pictures of him. What is her true objective? This art, tainted by madness, foreshadows the emergence of an even more dangerous housewife."
-        },
         {
           "title": "Code Geass: Lelouch of the Rebellion",
           "start": "2026-11-26T05:23:09-06:00",
@@ -552,6 +532,13 @@ window.GUIDE_DATA = {
           "stop": "2026-11-26T11:18:00-06:00",
           "episode_title": "The Opening Door",
           "description": "Kira and Mu face terrifying revelations in an encounter with Rau. Dearka and Yzak have their own meeting where they question what they are truly fighting against. Meanwhile, the Dominion and the Earth Alliance once again attacks. Rau returns to his ship and sends Flay back to the Earth Forces."
+        },
+        {
+          "title": "Mobile Suit Gundam SEED",
+          "start": "2026-11-26T11:18:00-06:00",
+          "stop": "2026-11-26T11:42:46-06:00",
+          "episode_title": "A Place for the Soul",
+          "description": "Flay, who was held captive by Rau, is rescued by the Dominion despite Kira's desperate attempts to steal her lifepod. She gives Muruta Azrael the disk she was given by Rau which contains the specs on the Freedom and Justice and the Neutron Jammer Canceller technology."
         }
       ],
       "logo": "logos/45.png"
@@ -561,12 +548,6 @@ window.GUIDE_DATA = {
       "number": 46,
       "name": "Gundam Theater",
       "programmes": [
-        {
-          "title": "Mobile Suit Gundam: The 08th MS Team - Miller's Report",
-          "start": "2026-11-26T04:37:37-06:00",
-          "stop": "2026-11-26T05:29:55-06:00",
-          "description": "In a future war, a young battle robot pilot suspected of being a spy must face court martial. Meanwhile, the home village of a friend of his is threatened by enemy forces."
-        },
         {
           "title": "30th Gundam Perfect Mission",
           "start": "2026-11-26T05:29:55-06:00",
@@ -797,6 +778,13 @@ window.GUIDE_DATA = {
           "stop": "2026-11-26T11:23:58-06:00",
           "episode_title": "Athrun on the Run",
           "description": "Athrun, after being framed a traitor, escapes with Meyrin Hawke."
+        },
+        {
+          "title": "Mobile Suit Gundam Seed Destiny",
+          "start": "2026-11-26T11:23:58-06:00",
+          "stop": "2026-11-26T11:48:47-06:00",
+          "episode_title": "Thunder in the Dark",
+          "description": "With Athrun's Gouf destroyed, Ledonir Kisaka rescues them, bringing them to the Archangel."
         }
       ],
       "logo": "logos/48.png"
@@ -899,6 +887,13 @@ window.GUIDE_DATA = {
           "stop": "2026-11-26T11:26:27-06:00",
           "episode_title": "Scratch 'n Sniff",
           "description": "Crichton, D'Argo, Jool and Chiana are forced to take a holiday by Pilot as he is fed up with their constant bickering."
+        },
+        {
+          "title": "The Expanse",
+          "start": "2026-11-26T11:26:27-06:00",
+          "stop": "2026-11-26T12:14:27-06:00",
+          "episode_title": "Strange Dogs",
+          "description": "The Rocinante crew make a startling discovery on an asteroid. Avasarala and Bobbie contend with the devastation on Earth. Drummer and her family must make a heartbreaking decision. On Ceres, Marco and Filip's struggles turn inward."
         }
       ],
       "logo": "logos/64.png"
@@ -965,13 +960,6 @@ window.GUIDE_DATA = {
       "number": 66,
       "name": "Starfleet",
       "programmes": [
-        {
-          "title": "Star Trek: Voyager",
-          "start": "2026-11-26T04:30:01-06:00",
-          "stop": "2026-11-26T05:16:50-06:00",
-          "episode_title": "Death Wish",
-          "description": "Stardate: 49301.2. A suicidal Q threatens the future of the Q-Continuum after he requests asylum aboard Voyager."
-        },
         {
           "title": "Star Trek: The Next Generation",
           "start": "2026-11-26T05:16:50-06:00",
