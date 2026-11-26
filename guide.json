@@ -1,25 +1,18 @@
 {
-  "generated_at": "2026-11-26T01:16:46.981160-06:00",
+  "generated_at": "2026-11-26T01:31:24.852557-06:00",
   "timezone": "America/Chicago",
   "source": "tunarr-xmltv",
   "window_hours": 6,
-  "window_start": "2026-11-26T01:16:46.981160-06:00",
-  "window_end": "2026-11-26T07:16:46.981160-06:00",
+  "window_start": "2026-11-26T01:31:24.852557-06:00",
+  "window_end": "2026-11-26T07:31:24.852557-06:00",
   "channel_count": 15,
-  "programme_count": 145,
+  "programme_count": 143,
   "channels": [
     {
       "id": "C2.50.tunarr.com",
       "number": 2,
       "name": "Syndication",
       "programmes": [
-        {
-          "title": "Homeland",
-          "start": "2026-11-26T00:26:46-06:00",
-          "stop": "2026-11-26T01:25:25-06:00",
-          "episode_title": "A False Glimmer",
-          "description": "Alison's real loyalties are officially uncovered. Jonas tells Carrie there is no way they will ever get back together. Quinn undergoes surgery. Saul makes Carrie a job offer, but she says she's not CIA material any more. Otto makes Carrie a different kind of offer."
-        },
         {
           "title": "Homeland",
           "start": "2026-11-26T01:25:25-06:00",
@@ -80,6 +73,13 @@
           "start": "2026-11-26T07:06:13-06:00",
           "stop": "2026-11-26T07:24:02-06:00",
           "episode_title": "Episode 5"
+        },
+        {
+          "title": "Star Trek: The Next Generation",
+          "start": "2026-11-26T07:24:02-06:00",
+          "stop": "2026-11-26T08:07:59-06:00",
+          "episode_title": "Rascals",
+          "description": "Stardate: 46235.7. A transporter accident transforms Picard, Ro Laren, Guinan and Keiko O'Brien into small children who appear to be about 12 years old. Matters are complicated when the Ferengi seize the Enterprise."
         }
       ],
       "logo": "logos/2.png"
@@ -362,6 +362,13 @@
           "stop": "2026-11-26T07:29:03-06:00",
           "episode_title": "The Beast Girl Ready to Pounce!",
           "description": "Hilda’s sacrifice allows the crew a chance to get away. They head back to Blue Heaven for ship upgrades and information. But while they wait on the ship, they’re confronted by Aisha Clanclan from the Ctarl-Ctarl Empire!"
+        },
+        {
+          "title": "Outlaw Star",
+          "start": "2026-11-26T07:29:03-06:00",
+          "stop": "2026-11-26T07:55:09-06:00",
+          "episode_title": "The Beautiful Assassin",
+          "description": "Gene and the crew meet up with Fred Luo to secure some much-needed work only to find he’s the target of the deadly assassin, Suzuka. To protect Fred and the promise of new work, Gene faces her!"
         }
       ],
       "logo": "logos/32.png"
@@ -409,13 +416,6 @@
       "number": 45,
       "name": "Mobile Suit Network",
       "programmes": [
-        {
-          "title": "Mobile Suit Gundam",
-          "start": "2026-11-26T00:53:55-06:00",
-          "stop": "2026-11-26T01:19:34-06:00",
-          "episode_title": "Vote to Attack",
-          "description": "In order to improve their chances of eluding Char Aznable's pursuit of White Base, the crew has to vote whether to attack a Zeon supply ship or not."
-        },
         {
           "title": "Mobile Suit Gundam 0080: War in the Pocket",
           "start": "2026-11-26T01:19:34-06:00",
@@ -511,6 +511,13 @@
           "stop": "2026-11-26T07:26:30-06:00",
           "episode_title": "Devoted Heart",
           "description": "The members of Build Divers are shocked to see Sarah standing beside Kyoya Kujo in a GBN special broadcast to all Divers. With his harsh manner, Kyoya seems like a different person from his previous self. In order to find out the true intentions of Sarah, who has left her teammates, Riku tries to make contact with Kyoya."
+        },
+        {
+          "title": "Mobile Suit Gundam SEED",
+          "start": "2026-11-26T07:26:30-06:00",
+          "stop": "2026-11-26T07:51:16-06:00",
+          "episode_title": "What Stands in the Way",
+          "description": "The newly-formed Three Ships Alliance take shelter at the abandoned Mendel colony. Unfortunately, they are tracked down by both ZAFT and Earth Alliance forces. Rau Le Creuset commands the ZAFT fleet and Captain Natarle Badgiruel, commands the Earth Alliance assault ship Dominion. Dominion takes the initiative and attacks with the mission of capturing either the Freedom or Justice."
         }
       ],
       "logo": "logos/45.png"
@@ -570,13 +577,6 @@
       "number": 47,
       "name": "Universal Century",
       "programmes": [
-        {
-          "title": "Mobile Suit Gundam: The 08th MS Team",
-          "start": "2026-11-26T00:57:45-06:00",
-          "stop": "2026-11-26T01:23:35-06:00",
-          "episode_title": "The Broken Order to Stand By",
-          "description": "The musician Eledore learns that he will be making his major-label debut. In high spirits, he drags Michel along to a nearby village to celebrate. But when they reach the bar, the pair find gun-toting Zeon soldiers waiting for them."
-        },
         {
           "title": "Mobile Suit Gundam",
           "start": "2026-11-26T01:23:35-06:00",
@@ -674,6 +674,12 @@
           "stop": "2026-11-26T07:24:17-06:00",
           "episode_title": "Duty and Ideals",
           "description": "Shiro has returned safely from the mountains, but is now suspected of being a spy, and is confined to his quarters until a verdict is decided. Then Kiki's village comes under Zeon attack, and Shiro must violate his orders to go to the rescue."
+        },
+        {
+          "title": "Mobile Suit Gundam: The 08th MS Team - Miller's Report",
+          "start": "2026-11-26T07:24:17-06:00",
+          "stop": "2026-11-26T08:16:35-06:00",
+          "description": "In a future war, a young battle robot pilot suspected of being a spy must face court martial. Meanwhile, the home village of a friend of his is threatened by enemy forces."
         }
       ],
       "logo": "logos/47.png"
@@ -683,13 +689,6 @@
       "number": 48,
       "name": "Cosmic Era",
       "programmes": [
-        {
-          "title": "Mobile Suit Gundam Seed Destiny",
-          "start": "2026-11-26T01:02:32-06:00",
-          "stop": "2026-11-26T01:27:18-06:00",
-          "episode_title": "Flight to Tomorrow",
-          "description": "Kira, Lacus, and the remnants of the Archangel crew, embark on their old vessel and depart, and Cagalli faces a choice in her engagement to Yuna."
-        },
         {
           "title": "Mobile Suit Gundam Seed Destiny",
           "start": "2026-11-26T01:27:18-06:00",
@@ -900,13 +899,6 @@
       "name": "Stargate Command",
       "programmes": [
         {
-          "title": "Stargate SG-1",
-          "start": "2026-11-26T00:34:38-06:00",
-          "stop": "2026-11-26T01:19:44-06:00",
-          "episode_title": "Cold Lazarus",
-          "description": "When Jack is injured unintentionally by a crystal alien, the alien duplicates Jack's form and out of fear of retribution tries to heal Jack. He returns to Earth in place of Jack, while Jack is still unconscious on the planet, to find the one thing he feels will accomplish this; the one thing that cannot be found again. Meanwhile, the 'real' Jack has returned and is trying to convince SGC that he is who he says he is."
-        },
-        {
           "title": "Stargate Atlantis",
           "start": "2026-11-26T01:19:44-06:00",
           "stop": "2026-11-26T02:02:26-06:00",
@@ -979,13 +971,6 @@
       "programmes": [
         {
           "title": "Star Trek: Voyager",
-          "start": "2026-11-26T00:37:17-06:00",
-          "stop": "2026-11-26T01:24:07-06:00",
-          "episode_title": "Threshold",
-          "description": "Stardate: Unknown. After finding a type of dilithium that can survive at a higher temperatures, Tom Paris comes up with the ingenious idea of attempting to cross the transwarp threshold in an attempt to find a way to get home faster."
-        },
-        {
-          "title": "Star Trek: Voyager",
           "start": "2026-11-26T01:24:07-06:00",
           "stop": "2026-11-26T02:10:54-06:00",
           "episode_title": "Meld",
@@ -1039,6 +1024,13 @@
           "stop": "2026-11-26T07:26:08-06:00",
           "episode_title": "The Aenar (3)",
           "description": "Archer visits Shran's icy homeworld to find an Andorian subspecies called the Aenar, to determine their connection to the marauder destroying ships in the region."
+        },
+        {
+          "title": "Star Trek: Enterprise",
+          "start": "2026-11-26T07:26:08-06:00",
+          "stop": "2026-11-26T08:08:49-06:00",
+          "episode_title": "Affliction (1)",
+          "description": "While Enterprise is visiting Earth, Phlox is abducted by the Klingons and forced to research a cure for a virus destined to wipe out the race. Reed is tapped by a secret agency and ordered to betray Archer. Trip transfers to the Columbia."
         }
       ],
       "logo": "logos/66.png"
@@ -1048,12 +1040,6 @@
       "number": 72,
       "name": "Comedy",
       "programmes": [
-        {
-          "title": "The Dog Who Saved Christmas",
-          "start": "2026-11-25T23:55:51-06:00",
-          "stop": "2026-11-26T01:25:13-06:00",
-          "description": "Zeus, a Labrador Retriever and a former police dog, has lost his bark after his barking ended up blowing off a five-year investigation and his partner can't shoot straight again and ends up at the pound. He is adopted by a father as both an early Christmas present and as a guard dog for the house, but the mom remains hesitant."
-        },
         {
           "title": "MXC",
           "start": "2026-11-26T01:25:13-06:00",
