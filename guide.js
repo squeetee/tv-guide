@@ -1,10 +1,10 @@
 window.GUIDE_DATA = {
-  "generated_at": "2026-11-26T16:16:25.002675-06:00",
+  "generated_at": "2026-11-26T16:31:25.116594-06:00",
   "timezone": "America/Chicago",
   "source": "tunarr-xmltv",
   "window_hours": 6,
-  "window_start": "2026-11-26T16:16:25.002675-06:00",
-  "window_end": "2026-11-26T22:16:25.002675-06:00",
+  "window_start": "2026-11-26T16:31:25.116594-06:00",
+  "window_end": "2026-11-26T22:31:25.116594-06:00",
   "channel_count": 15,
   "programme_count": 132,
   "channels": [
@@ -128,6 +128,12 @@ window.GUIDE_DATA = {
           "start": "2026-11-26T20:57:39-06:00",
           "stop": "2026-11-26T22:25:53-06:00",
           "description": "In a desperate attempt to win a basketball match and earn their freedom, the Looney Tunes seek the aid of retired NBA star Michael Jordan."
+        },
+        {
+          "title": "Starship Troopers",
+          "start": "2026-11-26T22:25:53-06:00",
+          "stop": "2026-11-27T00:36:15-06:00",
+          "description": "Set in the future, the story follows a young soldier named Johnny Rico and his exploits in the Mobile Infantry. Rico's military career progresses from recruit to non-commissioned officer and finally to officer against the backdrop of an interstellar war between mankind and an arachnoid species known as \"the Bugs.\""
         }
       ],
       "logo": "logos/3.png"
@@ -137,13 +143,6 @@ window.GUIDE_DATA = {
       "number": 11,
       "name": "Kidz!",
       "programmes": [
-        {
-          "title": "Voltron: Legendary Defender",
-          "start": "2026-11-26T16:06:24-06:00",
-          "stop": "2026-11-26T16:30:58-06:00",
-          "episode_title": "Black Site",
-          "description": "An internal struggle for power erupts within the Galra. Pidge returns to the castle with some precious cargo. The team gets a cow."
-        },
         {
           "title": "Voltron: Legendary Defender",
           "start": "2026-11-26T16:30:58-06:00",
@@ -220,6 +219,12 @@ window.GUIDE_DATA = {
           "start": "2026-11-26T21:08:37-06:00",
           "stop": "2026-11-26T22:25:30-06:00",
           "description": "On Christmas Eve, Kelly is reluctant to go to a Christmas Eve ball, so Barbie tells her the story of Eden Starling, a glamorous singing diva in the Victorian England and the owner of a theatre house. However, Eden is self-centered and loves only herself. She is frequently accompanied by her snooty cat, Chuzzlewit. She does not believe in Christmas and orders all her employees to work on Christmas."
+        },
+        {
+          "title": "Home on the Range",
+          "start": "2026-11-26T22:25:30-06:00",
+          "stop": "2026-11-26T23:42:36-06:00",
+          "description": "When a greedy outlaw schemes to take possession of the \"Patch Of Heaven\" dairy farm, three determined cows, a karate-kicking stallion and a colorful corral of critters join forces to save their home. The stakes are sky-high as this unlikely animal alliance risk their hides and match wits with a mysterious band of bad guys."
         }
       ],
       "logo": "logos/11.png"
@@ -255,13 +260,6 @@ window.GUIDE_DATA = {
       "number": 32,
       "name": "Japanimation",
       "programmes": [
-        {
-          "title": "FLCL",
-          "start": "2026-11-26T15:57:07-06:00",
-          "stop": "2026-11-26T16:22:55-06:00",
-          "episode_title": "Furi Kiri (Full Swing)",
-          "description": "There’s a guy claiming to know Haruko and why she’s using Naota’s head as a portal for oversized battling robots. It’s too late, though, as a malfunctioning satellite is heading straight for them and it’s up to Naota to stop it!"
-        },
         {
           "title": "Hunter x Hunter",
           "start": "2026-11-26T16:22:55-06:00",
@@ -397,13 +395,6 @@ window.GUIDE_DATA = {
       "number": 45,
       "name": "Mobile Suit Network",
       "programmes": [
-        {
-          "title": "Mobile Suit Gundam Wing",
-          "start": "2026-11-26T15:08:53-06:00",
-          "stop": "2026-11-26T16:24:52-06:00",
-          "episode_title": "Operation Meteor I: Even Numbers",
-          "description": "Feature-length episode recapping events from the Gundam Wing TV series from the point of view of Duo and Quatre. The episode also features brief amounts of new footage of the characters after the events of the TV series."
-        },
         {
           "title": "Mobile Suit Gundam Wing",
           "start": "2026-11-26T16:24:52-06:00",
@@ -622,6 +613,13 @@ window.GUIDE_DATA = {
           "stop": "2026-11-26T22:21:45-06:00",
           "episode_title": "The Newtype: Challia Bull",
           "description": "Gihren Zabi sends Char a Newtype to pilot the new Braw Bro; Amuro's own Newtype abilities are growing as he senses the presence of Lalah."
+        },
+        {
+          "title": "Gundam Evolve",
+          "start": "2026-11-26T22:21:45-06:00",
+          "stop": "2026-11-26T22:37:25-06:00",
+          "episode_title": "\"Newtype Challia Bull\"",
+          "description": "Universal Century: \"Challia Bull was found to have the attributes of a Newtype during his activities in the Jupiter Energy Fleet. While doubtful of his own abilities, he is recruited and assigned by commander-in-chief Gihren to serve in Char Aznable's combat unit under Kycilia's command. Even as he senses the girl he met, known as Lalah Sune, to be something of a Newtype, the fierce combat with the Federation ace-piloted Gundam changed his convictions.\""
         }
       ],
       "logo": "logos/47.png"
@@ -631,13 +629,6 @@ window.GUIDE_DATA = {
       "number": 48,
       "name": "Cosmic Era",
       "programmes": [
-        {
-          "title": "Mobile Suit Gundam Seed Destiny",
-          "start": "2026-11-26T15:56:48-06:00",
-          "stop": "2026-11-26T16:21:35-06:00",
-          "episode_title": "Rey",
-          "description": "Shinn and Rey are transferred to Messiah. Shinn is confronted by Durandal and Rey and finally decides to follow the course of action pointed out by them. The Minerva arrives at Station One and begins its attack on the Archangel and Eternal."
-        },
         {
           "title": "Mobile Suit Gundam Seed Destiny",
           "start": "2026-11-26T16:21:35-06:00",
@@ -1009,6 +1000,13 @@ window.GUIDE_DATA = {
           "stop": "2026-11-26T22:29:08-06:00",
           "episode_title": "Rogue Wall Enthusiasts",
           "description": "Digging into Patrick Spring's past, Farah and Dirk discover the first really big clue into his murder. Todd goes to the police only to learn he has no safe harbor left and Amanda must deal with a looming presence in her life."
+        },
+        {
+          "title": "Dirk Gently's Holistic Detective Agency",
+          "start": "2026-11-26T22:29:08-06:00",
+          "stop": "2026-11-26T23:11:49-06:00",
+          "episode_title": "Watkin",
+          "description": "Dirk and Todd find themselves in a complicated and dangerous situation left behind by Patrick Spring. As the police begin putting together the pieces of their imponderable case, an FBI agent's unlikely return complicates matters for Amanda and Farah."
         }
       ],
       "logo": "logos/72.png"
