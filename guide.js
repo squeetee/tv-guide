@@ -1,12 +1,12 @@
 window.GUIDE_DATA = {
-  "generated_at": "2026-11-26T14:01:24.875546-06:00",
+  "generated_at": "2026-11-26T14:16:24.857225-06:00",
   "timezone": "America/Chicago",
   "source": "tunarr-xmltv",
   "window_hours": 6,
-  "window_start": "2026-11-26T14:01:24.875546-06:00",
-  "window_end": "2026-11-26T20:01:24.875546-06:00",
+  "window_start": "2026-11-26T14:16:24.857225-06:00",
+  "window_end": "2026-11-26T20:16:24.857225-06:00",
   "channel_count": 15,
-  "programme_count": 126,
+  "programme_count": 129,
   "channels": [
     {
       "id": "C2.50.tunarr.com",
@@ -99,12 +99,6 @@ window.GUIDE_DATA = {
       "name": "The Movie Channel",
       "programmes": [
         {
-          "title": "The Lion King II: Simba's Pride",
-          "start": "2026-11-26T12:54:50-06:00",
-          "stop": "2026-11-26T14:13:37-06:00",
-          "description": "The circle of life continues for Simba, now fully grown and in his rightful place as the king of Pride Rock. Simba and Nala have given birth to a daughter, Kiara who's as rebellious as her father was. But Kiara drives her parents to distraction when she catches the eye of Kovu, the son of the evil lioness, Zira. Will Kovu steal Kiara's heart?"
-        },
-        {
           "title": "The Adventures of Ichabod and Mr. Toad",
           "start": "2026-11-26T14:13:37-06:00",
           "stop": "2026-11-26T15:22:35-06:00",
@@ -136,13 +130,6 @@ window.GUIDE_DATA = {
       "number": 11,
       "name": "Kidz!",
       "programmes": [
-        {
-          "title": "Justice League",
-          "start": "2026-11-26T13:47:10-06:00",
-          "stop": "2026-11-26T14:11:24-06:00",
-          "episode_title": "Hearts and Minds (2)",
-          "description": "Despero's followers attack and John is forced to use a gun when his ring becomes useless due to Despero's mental tampering. While John, Katma, and Hawkgirl are captured, J'onn, Kilowog, and Flash must try to deactivate the mystic flames and deprive Despero of his power."
-        },
         {
           "title": "Justice League",
           "start": "2026-11-26T14:11:24-06:00",
@@ -207,6 +194,13 @@ window.GUIDE_DATA = {
           "start": "2026-11-26T19:03:00-06:00",
           "stop": "2026-11-26T20:05:05-06:00",
           "description": "It's Christmastime in the Hundred Acre Wood and all of the gang is getting ready with presents and decorations. The gang makes a list of what they want for Christmas and send it to Santa Claus - except that Pooh forgot to ask for something. So he heads out to retrieve the letter and get it to Santa by Christmas...which happens to be tomorrow!"
+        },
+        {
+          "title": "Swat Kats: The Radical Squadron",
+          "start": "2026-11-26T20:05:05-06:00",
+          "stop": "2026-11-26T20:28:02-06:00",
+          "episode_title": "Enter the Madkat",
+          "description": "Lenny Ringtail, a crazy comedian, escapes his asylum and finds refuge in a magic shop."
         }
       ],
       "logo": "logos/11.png"
@@ -335,6 +329,13 @@ window.GUIDE_DATA = {
           "stop": "2026-11-26T20:06:59-06:00",
           "episode_title": "Return of the Psychotic Prince",
           "description": "After reading Kogami’s personnel file, Akane attempts to learn more about Kogami’s past and why he ended up as an Enforcer. Meanwhile, the CID detectives attempt to figure out who was helping Kanehara commit murders in the Hachioji Drone incident."
+        },
+        {
+          "title": "Full Metal Panic!",
+          "start": "2026-11-26T20:06:59-06:00",
+          "stop": "2026-11-26T20:30:43-06:00",
+          "episode_title": "The Guy I Kinda Like is a Sergeant",
+          "description": "As part of the organization Mithril, Sergeant Souske Sagara, Melissa Mao and Kurz Weber receive a secret mission: guarding Kaname Chidori, a popular student from a Tokyo high school who has hidden military potential."
         }
       ],
       "logo": "logos/32.png"
@@ -593,6 +594,13 @@ window.GUIDE_DATA = {
           "stop": "2026-11-26T20:05:36-06:00",
           "episode_title": "Big Zam's Last Stand",
           "description": "As the battle continues, a hulking mobile armor piloted by Dozle Zabi inflicts heavy losses on the Federation; Amuro and Sleggar come up with a plan to stop its onslaught."
+        },
+        {
+          "title": "Mobile Suit Gundam 0080: War in the Pocket",
+          "start": "2026-11-26T20:05:36-06:00",
+          "stop": "2026-11-26T20:33:43-06:00",
+          "episode_title": "War In the Pocket",
+          "description": "Al and Bernie repair the damaged Zaku to fight the Alex Gundam."
         }
       ],
       "logo": "logos/47.png"
@@ -668,6 +676,13 @@ window.GUIDE_DATA = {
           "start": "2026-11-26T17:57:37-06:00",
           "stop": "2026-11-26T20:04:00-06:00",
           "description": "In C.E.75, the fighting still continues. There are independence movements, and aggression by Blue Cosmos... In order to calm the situation, a global peace monitoring agency called COMPASS is established, with Lacus as its first president. As members of COMPASS, Kira and his comrades intervene into various regional battles. Then a newly established nation called Foundation proposes a joint operation against a Blue Cosmos stronghold."
+        },
+        {
+          "title": "Mobile Suit Gundam SEED",
+          "start": "2026-11-26T20:04:00-06:00",
+          "stop": "2026-11-26T20:28:46-06:00",
+          "episode_title": "False Peace",
+          "description": "The Orb Union space colony, Heliopolis, is attacked by ZAFT, despite its neutrality since the beginning of the Bloody Valentine War. Kira Yamato accidentally sees the Earth Alliance's new prototype mobile suits, which have been secretly constructed at the Heliopolis Morgenroete factory. He encounters his childhood friend, Athrun Zala, now a ZAFT soldier as one of the attackers."
         }
       ],
       "logo": "logos/48.png"
@@ -967,6 +982,13 @@ window.GUIDE_DATA = {
           "start": "2026-11-26T18:25:27-06:00",
           "stop": "2026-11-26T20:03:02-06:00",
           "description": "When young Buddy falls into Santa's gift sack on Christmas Eve, he's transported back to the North Pole and raised as a toy-making elf by Santa's helpers. But as he grows into adulthood, he can't shake the nagging feeling that he doesn't belong. Buddy vows to visit Manhattan and find his real dad, a workaholic."
+        },
+        {
+          "title": "The Office (US)",
+          "start": "2026-11-26T20:03:02-06:00",
+          "stop": "2026-11-26T20:25:30-06:00",
+          "episode_title": "Office Olympics",
+          "description": "While Michael and Dwight are out of the office for the day trying to close a deal on a new condo for Michael, Jim and Pam arrange for the staff to participate in an \"Office Olympics,\" where the workers play strange, invented games (among them, Dunderball, Hate Ball...and Pam Pong) that they usually play while the boss is out. At the end of the day, the festivities cheer up everyone - even the oblivious Michael."
         }
       ],
       "logo": "logos/72.png"
