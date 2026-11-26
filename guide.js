@@ -1,25 +1,18 @@
 window.GUIDE_DATA = {
-  "generated_at": "2026-11-25T22:46:24.722683-06:00",
+  "generated_at": "2026-11-25T23:01:24.770533-06:00",
   "timezone": "America/Chicago",
   "source": "tunarr-xmltv",
   "window_hours": 6,
-  "window_start": "2026-11-25T22:46:24.722683-06:00",
-  "window_end": "2026-11-26T04:46:24.722683-06:00",
+  "window_start": "2026-11-25T23:01:24.770533-06:00",
+  "window_end": "2026-11-26T05:01:24.770533-06:00",
   "channel_count": 15,
-  "programme_count": 140,
+  "programme_count": 139,
   "channels": [
     {
       "id": "C2.50.tunarr.com",
       "number": 2,
       "name": "Syndication",
       "programmes": [
-        {
-          "title": "MXC",
-          "start": "2026-11-25T22:33:36-06:00",
-          "stop": "2026-11-25T22:54:01-06:00",
-          "episode_title": "Republicans vs. Democrats vs. Third Party",
-          "description": "MXC presents their first ever three-way... battle in honor of the Presidential electoral college entitled \"Squeeze Out The Vote 2004\" where it's the Republicans against the Democrats against the Third Party. Forget the backstabbing and name-calling because this time, the mud-slinging's for real! Games include: Rock the Moat; Dark Horse Race; Pork the Barrel; The Rotating Surfboard of Political Suicide; Mudslingers; Log Jam"
-        },
         {
           "title": "Star Trek: Deep Space Nine",
           "start": "2026-11-25T22:54:01-06:00",
@@ -68,6 +61,13 @@ window.GUIDE_DATA = {
           "stop": "2026-11-26T04:52:07-06:00",
           "episode_title": "A Prefect Murder",
           "description": "The crew lands on a planet divided by generations of clan war. After experiencing strange hallucinations, Aeryn is subliminally coerced into assassinating a clan leader. When Crichton also starts having hallucinations, they must uncover the planet's political machinations in order to prevent more killings."
+        },
+        {
+          "title": "Farscape",
+          "start": "2026-11-26T04:52:07-06:00",
+          "stop": "2026-11-26T05:39:02-06:00",
+          "episode_title": "Coup By Clam",
+          "description": "While in quarantine high above the patriarchal planet Khurtanan, the crew shares a meal of alien mollusks and almost instantaneously suffers a violent physical reaction. Each crew member becomes bodily linked to one of the others, Crichton to Sikozu, Aeryn to Rygel, and so on. It soon becomes clear they have been deliberately poisoned by the local doctor and are being blackmailed in exchange for the cure."
         }
       ],
       "logo": "logos/2.png"
@@ -109,13 +109,6 @@ window.GUIDE_DATA = {
       "number": 11,
       "name": "Kidz!",
       "programmes": [
-        {
-          "title": "Batman: The Animated Series",
-          "start": "2026-11-25T22:36:51-06:00",
-          "stop": "2026-11-25T23:00:15-06:00",
-          "episode_title": "Vendetta",
-          "description": "Batman suspects that an imprisoned Detective Bullock may be innocent after he is arrested for murder. The real murderer turns out to be Killer Croc, who framed Bullock to get revenge."
-        },
         {
           "title": "Star Wars Rebels",
           "start": "2026-11-25T23:00:15-06:00",
@@ -217,6 +210,13 @@ window.GUIDE_DATA = {
           "start": "2026-11-26T02:27:09-06:00",
           "stop": "2026-11-26T04:46:46-06:00",
           "description": "French nuclear tests irradiate an iguana into a giant monster that viciously attacks freighter ships in the Pacific Ocean. A team of experts, including Niko Tatopoulos, conclude that the oversized reptile is the culprit. Before long, the giant lizard is loose in Manhattan as the US military races to destroy the monster before it reproduces and it's spawn takes over the world."
+        },
+        {
+          "title": "Band of Brothers",
+          "start": "2026-11-26T04:46:46-06:00",
+          "stop": "2026-11-26T05:49:56-06:00",
+          "episode_title": "Points",
+          "description": "As the Germans surrender, it appears that that the hard days for Easy Company are over as they are stationed in Austria. But they soon learn that those solders without enough service points will be sent to fight in Japan."
         }
       ],
       "logo": "logos/28.png"
@@ -335,6 +335,13 @@ window.GUIDE_DATA = {
           "stop": "2026-11-26T04:49:01-06:00",
           "episode_title": "Pay to Win",
           "description": "As the final bout of the tournament continues, Number 18 throws the defending champ for a loop by offering to throw the fight! Meanwhile, Babidi has selected his warrior for Stage 3: Dabura, King of the Demon World!"
+        },
+        {
+          "title": "Dragon Ball Z",
+          "start": "2026-11-26T04:49:01-06:00",
+          "stop": "2026-11-26T05:14:06-06:00",
+          "episode_title": "Heart of a Villain",
+          "description": "The intense battle between Gohan and Dabura rages on, but just as the Stage 3 clash reaches a heated peak, Dabura stops the fight! Why has the evil giant conceded, and what is the great discovery he claims to have made?"
         }
       ],
       "logo": "logos/32.png"
@@ -344,12 +351,6 @@ window.GUIDE_DATA = {
       "number": 33,
       "name": "Anime Cinema",
       "programmes": [
-        {
-          "title": "Ghost in the Shell",
-          "start": "2026-11-25T21:29:12-06:00",
-          "stop": "2026-11-25T22:53:00-06:00",
-          "description": "In the year 2029, the barriers of our world have been broken down by the net and by cybernetics, but this brings new vulnerability to humans in the form of brain-hacking. When a highly-wanted hacker known as 'The Puppetmaster' begins involving them in politics, Section 9, a group of cybernetically enhanced cops, are called in to investigate and stop the Puppetmaster."
-        },
         {
           "title": "Attack on Titan: Chronicle",
           "start": "2026-11-25T22:53:00-06:00",
@@ -388,13 +389,6 @@ window.GUIDE_DATA = {
       "number": 45,
       "name": "Mobile Suit Network",
       "programmes": [
-        {
-          "title": "Mobile Suit Gundam 0083: Stardust Memory",
-          "start": "2026-11-25T22:18:51-06:00",
-          "stop": "2026-11-25T22:48:08-06:00",
-          "episode_title": "La Vie En Rose",
-          "description": "The Albion arrives at Anaheim Electronics' La Vie En Rose research ship to get the GP03 Dendrobium Stamen, where they are met by designer Lucette Auduvie and Federation officer Nakaha Nakato. Almost immediately, Nakato tells the crew that the GDP has been suspended and they are all confined to the Albion until further notice. Lucette shows Kou the GP03's diagrams and later sacrifices her life to stop Nakato killing Kou as he takes over the GP03 with the Albion crew's help and leave La Vie En Rose. Meanwhile, the Federation command expresses indifference at the upcoming Zeon colony drop on the Moon. The Konpeitoh survivors mobilize and try to stop it, but run out of fuel when Cima maneuvers to have Von Braun City's laser station activate the colony's engines to redirect it toward Earth. Gato also meets up with the Axis Advance Fleet, where he gets the massive Neue Ziel mobile armor and tries it against a small Federation patrol."
-        },
         {
           "title": "Gundam Build Real",
           "start": "2026-11-25T22:48:08-06:00",
@@ -627,6 +621,13 @@ window.GUIDE_DATA = {
           "stop": "2026-11-26T04:47:57-06:00",
           "episode_title": "The River",
           "description": "Captain Solari’s convoy ambushes an EFF vehicle, but a Zeon patrol jeopardizes the mission before they can reach the outpost."
+        },
+        {
+          "title": "Gundam: Requiem for Vengeance",
+          "start": "2026-11-26T04:47:57-06:00",
+          "stop": "2026-11-26T05:12:20-06:00",
+          "episode_title": "Convoy to Oblivion",
+          "description": "While Captain Solari struggles with survivor's guilt, the convoy is attacked. She decides to stay behind to secure an escape route to the spaceport."
         }
       ],
       "logo": "logos/47.png"
@@ -636,13 +637,6 @@ window.GUIDE_DATA = {
       "number": 48,
       "name": "Cosmic Era",
       "programmes": [
-        {
-          "title": "Mobile Suit Gundam Seed Destiny",
-          "start": "2026-11-25T22:33:55-06:00",
-          "stop": "2026-11-25T22:58:42-06:00",
-          "episode_title": "Junction",
-          "description": "The Minerva arrives at Orb. While the crew enjoys some downtime. Cagalli learns some unsettling information about the future of Orb. While Athrun decides to return to PLANT once more and meet with Gilbert Durandal."
-        },
         {
           "title": "Mobile Suit Gundam Seed Destiny",
           "start": "2026-11-25T22:58:42-06:00",
@@ -795,13 +789,6 @@ window.GUIDE_DATA = {
       "name": "Sci-Fi",
       "programmes": [
         {
-          "title": "Severance",
-          "start": "2026-11-25T22:08:19-06:00",
-          "stop": "2026-11-25T22:52:52-06:00",
-          "episode_title": "The Grim Barbarity of Optics and Design",
-          "description": "Irving and Dylan confront Burt about his lies. Mark and Helly discover a strange new department."
-        },
-        {
           "title": "Warehouse 13",
           "start": "2026-11-25T22:52:52-06:00",
           "stop": "2026-11-25T23:37:04-06:00",
@@ -927,6 +914,13 @@ window.GUIDE_DATA = {
           "stop": "2026-11-26T05:00:43-06:00",
           "episode_title": "Vegas",
           "description": "In the city of Las Vegas in an alternate reality, police Detective John Sheppard investigates a series of bizarre murders where each body appears to have desiccated. He is soon called to Area 51, where Dr. Rodney McKay explains the situation."
+        },
+        {
+          "title": "Stargate Atlantis",
+          "start": "2026-11-26T05:00:43-06:00",
+          "stop": "2026-11-26T05:45:31-06:00",
+          "episode_title": "Enemy at the Gate",
+          "description": "\"Todd\" informs the Atlantis expedition that a rogue group of Wraith has acquired several Zero Point Modules to power a Super-hive, and wants it destroyed. However, after the Daedalus is disabled, they learn that the ship is heading straight for Earth, and they must stop it before it gets there."
         }
       ],
       "logo": "logos/65.png"
@@ -936,13 +930,6 @@ window.GUIDE_DATA = {
       "number": 66,
       "name": "Starfleet",
       "programmes": [
-        {
-          "title": "Star Trek: Voyager",
-          "start": "2026-11-25T22:07:49-06:00",
-          "stop": "2026-11-25T22:54:38-06:00",
-          "episode_title": "Alliances",
-          "description": "Finding themselves the underdog of the Delta Quadrant, Voyager attempts to form an alliance with select Kazon sects. Janeway also inducts the Trabe, a race once made up of tyrants who oppressed the Kazon but now are scattered and vulnerable. When the groups gather for talks, Janeway suspects the Trabe may not be as frail as they claim."
-        },
         {
           "title": "Star Trek",
           "start": "2026-11-25T22:54:38-06:00",
@@ -1067,6 +1054,12 @@ window.GUIDE_DATA = {
           "stop": "2026-11-26T04:50:31-06:00",
           "episode_title": "Chapter Four: Commit ... to YOU",
           "description": "Barry finds that distancing himself from Fuches and the Chechens might be harder than he thought. Sally is dismayed to learn that an audition arranged by a prospective agent has strings attached. Gene promises Ross a bombshell, but only over dinner. Barry invites a Marine buddy and his two pals to a party, where a rising actor threatens Barry's claim on Sally."
+        },
+        {
+          "title": "Guardians of the Galaxy: Vol. 2",
+          "start": "2026-11-26T04:50:31-06:00",
+          "stop": "2026-11-26T07:07:12-06:00",
+          "description": "After saving Xandar from Ronan's wrath, the Guardians are now recognized as heroes. Now the team must help their leader, Star Lord, uncover the truth behind his true heritage. Along the way, old foes turn to allies and betrayal is blooming. And the Guardians find they are up against a devastating new menace who is out to rule the galaxy."
         }
       ],
       "logo": "logos/72.png"
