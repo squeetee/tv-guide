@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-11-26T11:31:24.747623-06:00",
+  "generated_at": "2026-11-26T11:46:24.808668-06:00",
   "timezone": "America/Chicago",
   "source": "tunarr-xmltv",
   "window_hours": 6,
-  "window_start": "2026-11-26T11:31:24.747623-06:00",
-  "window_end": "2026-11-26T17:31:24.747623-06:00",
+  "window_start": "2026-11-26T11:46:24.808668-06:00",
+  "window_end": "2026-11-26T17:46:24.808668-06:00",
   "channel_count": 15,
   "programme_count": 143,
   "channels": [
@@ -106,6 +106,13 @@
           "stop": "2026-11-26T17:33:12-06:00",
           "episode_title": "Hearts and Minds (2)",
           "description": "Despero's followers attack and John is forced to use a gun when his ring becomes useless due to Despero's mental tampering. While John, Katma, and Hawkgirl are captured, J'onn, Kilowog, and Flash must try to deactivate the mystic flames and deprive Despero of his power."
+        },
+        {
+          "title": "Batman: The Animated Series",
+          "start": "2026-11-26T17:33:12-06:00",
+          "stop": "2026-11-26T17:55:21-06:00",
+          "episode_title": "Baby-Doll",
+          "description": "Baby-Doll, a former child star, pours out her frustrations on her TV family by kidnapping them and holding them hostage."
         }
       ],
       "logo": "logos/2.png"
@@ -237,6 +244,13 @@
           "stop": "2026-11-26T17:35:27-06:00",
           "episode_title": "Bombad Jedi",
           "description": "Padmé travels to Rodia to meet with old family friend Onaconda Farr about the lack of food rations. Unfortunately Farr has just made a deal with the Separatists. Padmé is imprisoned, leaving it up to Jar Jar Binks and C-3PO to rescue her."
+        },
+        {
+          "title": "Star Wars: The Clone Wars",
+          "start": "2026-11-26T17:35:27-06:00",
+          "stop": "2026-11-26T17:58:57-06:00",
+          "episode_title": "Cloak of Darkness",
+          "description": "Ahsoka and Jedi Master Luminara escort the captured notorious Separatist leader Nute Gunray to Coruscant so he can stand trial for his crimes. However, they are unaware that Count Dooku has sent his assassin, Asajj Ventress, to free their captive. With the help of Senate Commandos, the Jedi have to thwart Ventress's efforts to free their prisoner, despite the traitorous plans of Senate Guard Captain Argyus."
         }
       ],
       "logo": "logos/11.png"
@@ -272,13 +286,6 @@
       "number": 32,
       "name": "Japanimation",
       "programmes": [
-        {
-          "title": "Dragon Ball Z",
-          "start": "2026-11-26T11:14:56-06:00",
-          "stop": "2026-11-26T11:40:01-06:00",
-          "episode_title": "The Dark Prince Returns",
-          "description": "In an all-out assault against Vegeta, Babidi uses his power to undo the unsuspecting Prince from within! Vegeta is stripped of his good qualities by the wicked wizard, and becomes the heartless warrior that he once was!"
-        },
         {
           "title": "Dragon Ball Z",
           "start": "2026-11-26T11:40:01-06:00",
@@ -383,6 +390,12 @@
           "start": "2026-11-26T17:11:55-06:00",
           "stop": "2026-11-26T17:32:24-06:00",
           "episode_title": "Episode 14"
+        },
+        {
+          "title": "Dragon Ball",
+          "start": "2026-11-26T17:32:24-06:00",
+          "stop": "2026-11-26T17:53:04-06:00",
+          "episode_title": "Episode 15"
         }
       ],
       "logo": "logos/32.png"
@@ -424,19 +437,6 @@
       "number": 45,
       "name": "Mobile Suit Network",
       "programmes": [
-        {
-          "title": "Mobile Suit Gundam SEED",
-          "start": "2026-11-26T11:18:00-06:00",
-          "stop": "2026-11-26T11:42:46-06:00",
-          "episode_title": "A Place for the Soul",
-          "description": "Flay, who was held captive by Rau, is rescued by the Dominion despite Kira's desperate attempts to steal her lifepod. She gives Muruta Azrael the disk she was given by Rau which contains the specs on the Freedom and Justice and the Neutron Jammer Canceller technology."
-        },
-        {
-          "title": "Mobile Suit Gundam-san",
-          "start": "2026-11-26T11:42:46-06:00",
-          "stop": "2026-11-26T11:46:17-06:00",
-          "episode_title": "Episode 1"
-        },
         {
           "title": "Mobile Suit Gundam-san",
           "start": "2026-11-26T11:46:17-06:00",
@@ -518,6 +518,12 @@
           "start": "2026-11-26T17:24:48-06:00",
           "stop": "2026-11-26T17:37:38-06:00",
           "episode_title": "Mirage of Terror"
+        },
+        {
+          "title": "SD Gundam Sangokuden Brave Battle Warriors",
+          "start": "2026-11-26T17:37:38-06:00",
+          "stop": "2026-11-26T17:50:29-06:00",
+          "episode_title": "A New World"
         }
       ],
       "logo": "logos/45.png"
@@ -761,12 +767,6 @@
       "name": "Fright Night",
       "programmes": [
         {
-          "title": "The Conjuring",
-          "start": "2026-11-26T09:46:33-06:00",
-          "stop": "2026-11-26T11:39:04-06:00",
-          "description": "Paranormal investigators Ed and Lorraine Warren work to help a family terrorized by a dark presence in their farmhouse. Forced to confront a powerful entity, the Warrens find themselves caught in the most terrifying case of their lives."
-        },
-        {
           "title": "The Exorcist",
           "start": "2026-11-26T11:39:04-06:00",
           "stop": "2026-11-26T13:52:20-06:00",
@@ -853,6 +853,13 @@
           "stop": "2026-11-26T17:37:21-06:00",
           "episode_title": "Infinite Possibilities - Icarus Abides (2)",
           "description": "Jack (The Ancient) unlocks the wormhole knowledge in Crichton's mind so together they can build a device to destroy the Scarran dreadnought."
+        },
+        {
+          "title": "The X-Files",
+          "start": "2026-11-26T17:37:21-06:00",
+          "stop": "2026-11-26T18:23:02-06:00",
+          "episode_title": "The Blessing Way (2)",
+          "description": "Scully finds her career with the FBI in jeopardy as Mulder is still missing and the Cigarette Smoking Man is pursuing the stolen files. The Navajo elders find Mulder's body in a cave and perform an ancient ceremony to call the spirit back to the empty vessel."
         }
       ],
       "logo": "logos/64.png"
@@ -862,13 +869,6 @@
       "number": 65,
       "name": "Stargate Command",
       "programmes": [
-        {
-          "title": "Stargate SG-1",
-          "start": "2026-11-26T10:51:39-06:00",
-          "stop": "2026-11-26T11:36:46-06:00",
-          "episode_title": "Fire and Water",
-          "description": "O'Neill, Carter and Teal'c return through the Stargate shell-shocked and distressed to announce that Daniel Jackson was killed. But Jackson was captured by the last survivor of an aquatic race, who planted false memories in the other members of SG1. Can the team remember and return to rescue Daniel?"
-        },
         {
           "title": "Stargate Atlantis",
           "start": "2026-11-26T11:36:46-06:00",
@@ -1005,12 +1005,6 @@
       "name": "Comedy",
       "programmes": [
         {
-          "title": "Christmas Do-Over",
-          "start": "2026-11-26T10:03:10-06:00",
-          "stop": "2026-11-26T11:33:47-06:00",
-          "description": "Kevin tries to be involved with his son and ex-wife's family for Christmas. During dinner, he thought his Christmas *day* couldn't be more screwed; his son suddenly wishes it was Christmas every day. After that, it was a regular Groundhog's Day. Kevin learns new dance moves and can actually sing. Don't let the caroling fool you."
-        },
-        {
           "title": "The IT Crowd",
           "start": "2026-11-26T11:33:47-06:00",
           "stop": "2026-11-26T11:59:10-06:00",
@@ -1078,6 +1072,13 @@
           "stop": "2026-11-26T17:40:46-06:00",
           "episode_title": "Magnetism",
           "description": "Pete and Myka are sent to investigate a small town where the inhabitants' minds are being altered making them act as they please. Meanwhile, Artie is confused by the energy flows going on in the warehouse and he seeks help from Leena who may know more about what is going on."
+        },
+        {
+          "title": "Warehouse 13",
+          "start": "2026-11-26T17:40:46-06:00",
+          "stop": "2026-11-26T18:25:27-06:00",
+          "episode_title": "Claudia",
+          "description": "A woman kidnaps Artie and insists that he help her recover her brother... who was lost in an artifact-related experiment 12 years ago."
         }
       ],
       "logo": "logos/72.png"
