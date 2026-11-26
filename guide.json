@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-26T05:46:27.079877-06:00",
+  "generated_at": "2026-11-26T06:01:29.329885-06:00",
   "timezone": "America/Chicago",
   "source": "tunarr-xmltv",
   "window_hours": 6,
-  "window_start": "2026-11-26T05:46:27.079877-06:00",
-  "window_end": "2026-11-26T11:46:27.079877-06:00",
+  "window_start": "2026-11-26T06:01:29.329885-06:00",
+  "window_end": "2026-11-26T12:01:29.329885-06:00",
   "channel_count": 15,
-  "programme_count": 139,
+  "programme_count": 137,
   "channels": [
     {
       "id": "C2.50.tunarr.com",
@@ -86,6 +86,12 @@
           "start": "2026-11-26T11:02:12-06:00",
           "stop": "2026-11-26T11:50:47-06:00",
           "episode_title": "Episode 6"
+        },
+        {
+          "title": "Looney Tunes",
+          "start": "2026-11-26T11:50:47-06:00",
+          "stop": "2026-11-26T12:01:31-06:00",
+          "episode_title": "Episode 7"
         }
       ],
       "logo": "logos/2.png"
@@ -205,13 +211,6 @@
       "programmes": [
         {
           "title": "Band of Brothers",
-          "start": "2026-11-26T04:46:46-06:00",
-          "stop": "2026-11-26T05:49:56-06:00",
-          "episode_title": "Points",
-          "description": "As the Germans surrender, it appears that that the hard days for Easy Company are over as they are stationed in Austria. But they soon learn that those solders without enough service points will be sent to fight in Japan."
-        },
-        {
-          "title": "Band of Brothers",
           "start": "2026-11-26T05:49:56-06:00",
           "stop": "2026-11-26T07:04:04-06:00",
           "episode_title": "Currahee",
@@ -243,13 +242,6 @@
       "number": 32,
       "name": "Japanimation",
       "programmes": [
-        {
-          "title": "Code Geass: Lelouch of the Rebellion",
-          "start": "2026-11-26T05:23:09-06:00",
-          "stop": "2026-11-26T05:48:11-06:00",
-          "episode_title": "One Million Miracles",
-          "description": "The Black Knights question Lelouch's decision, and the Britannian Army remains wary of his intentions. In a private conversation with Suzaku, Gino Weinberg, Anya Alstreim, Lloyd Apslund, Cécile Croomy, and Miss Romeyer, Zero requests he be exiled from Area 11 in exchange for delivering one million participants. The Britannians think he is abandoning them to ensure his own safety, and accept. At the opening ceremony, Zero asks Suzaku what it means to be Japanese, to which the Knight of Seven replies it is a shared heart. When every participating Eleven dresses as Zero on cue, Suzaku has no choice but to exile all one million \"Zeroes\", unwilling to start another massacre in the face of their peaceful resistance."
-        },
         {
           "title": "Code Geass: Lelouch of the Rebellion",
           "start": "2026-11-26T05:48:11-06:00",
@@ -401,13 +393,6 @@
       "programmes": [
         {
           "title": "Mobile Suit Gundam Seed Destiny",
-          "start": "2026-11-26T05:32:57-06:00",
-          "stop": "2026-11-26T05:57:46-06:00",
-          "episode_title": "Nightmare",
-          "description": "The Archangel returns to Orb, and Shinn sees a chance to enact revenge upon the Freedom"
-        },
-        {
-          "title": "Mobile Suit Gundam Seed Destiny",
           "start": "2026-11-26T05:57:46-06:00",
           "stop": "2026-11-26T06:22:35-06:00",
           "episode_title": "Eve of Chaos",
@@ -532,6 +517,13 @@
           "start": "2026-11-26T11:46:17-06:00",
           "stop": "2026-11-26T11:49:48-06:00",
           "episode_title": "Episode 2"
+        },
+        {
+          "title": "Mobile Suit Gundam Seed Destiny",
+          "start": "2026-11-26T11:49:48-06:00",
+          "stop": "2026-11-26T12:14:36-06:00",
+          "episode_title": "Athrun on the Run",
+          "description": "Athrun, after being framed a traitor, escapes with Meyrin Hawke."
         }
       ],
       "logo": "logos/45.png"
@@ -663,13 +655,6 @@
       "programmes": [
         {
           "title": "Mobile Suit Gundam Seed Destiny",
-          "start": "2026-11-26T05:35:00-06:00",
-          "stop": "2026-11-26T05:59:49-06:00",
-          "episode_title": "The Place of Sin",
-          "description": "Startling truths await ZAFT forces at an abandoned lab."
-        },
-        {
-          "title": "Mobile Suit Gundam Seed Destiny",
           "start": "2026-11-26T05:59:49-06:00",
           "stop": "2026-11-26T06:24:37-06:00",
           "episode_title": "The Promise",
@@ -758,6 +743,13 @@
           "stop": "2026-11-26T11:48:47-06:00",
           "episode_title": "Thunder in the Dark",
           "description": "With Athrun's Gouf destroyed, Ledonir Kisaka rescues them, bringing them to the Archangel."
+        },
+        {
+          "title": "Mobile Suit Gundam Seed Destiny",
+          "start": "2026-11-26T11:48:47-06:00",
+          "stop": "2026-11-26T12:13:37-06:00",
+          "episode_title": "A New Flag",
+          "description": "ZAFT and its allies attack Heaven's Base."
         }
       ],
       "logo": "logos/48.png"
@@ -805,13 +797,6 @@
       "number": 64,
       "name": "Sci-Fi",
       "programmes": [
-        {
-          "title": "Star Trek",
-          "start": "2026-11-26T05:08:02-06:00",
-          "stop": "2026-11-26T05:59:27-06:00",
-          "episode_title": "Errand of Mercy",
-          "description": "The Federation and the Klingon Empire teeter on the brink of war as Kirk investigates Organia, a humble planet, inhabited by pacifists, that is unwittingly caught in the middle."
-        },
         {
           "title": "Star Trek",
           "start": "2026-11-26T05:59:27-06:00",
@@ -935,13 +920,6 @@
       "programmes": [
         {
           "title": "Star Trek: The Next Generation",
-          "start": "2026-11-26T05:16:50-06:00",
-          "stop": "2026-11-26T06:00:18-06:00",
-          "episode_title": "Bloodlines",
-          "description": "Stardate: 47829.1. Picard tries to save his newly-discovered son from the retaliation of a vengeful Ferengi whose only son was killed by Picard during the Battle of Maxia many years before."
-        },
-        {
-          "title": "Star Trek: The Next Generation",
           "start": "2026-11-26T06:00:18-06:00",
           "stop": "2026-11-26T06:43:26-06:00",
           "episode_title": "Emergence",
@@ -1050,6 +1028,13 @@
           "stop": "2026-11-26T11:59:10-06:00",
           "episode_title": "Fifty-Fifty",
           "description": "When Roy gets dumped after a date, he starts believing that girls go for \"bad boys\" and creates a fake profile on a dating site and, surprisingly, gets a response. Meanwhile, Jen starts flirting with a security guard."
+        },
+        {
+          "title": "The IT Crowd",
+          "start": "2026-11-26T11:59:10-06:00",
+          "stop": "2026-11-26T12:23:39-06:00",
+          "episode_title": "The Red Door",
+          "description": "Moss puts a picture of his head on his cup to make sure it doesn't get lost. Curious about the red door behind Roy's desk, Jen ignores the boys' warnings never to open it, and goes in. She finds the vampiric Richmond inside."
         }
       ],
       "logo": "logos/72.png"
