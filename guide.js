@@ -1,30 +1,18 @@
 window.GUIDE_DATA = {
-  "generated_at": "2026-11-26T13:46:24.914656-06:00",
+  "generated_at": "2026-11-26T14:01:24.875546-06:00",
   "timezone": "America/Chicago",
   "source": "tunarr-xmltv",
   "window_hours": 6,
-  "window_start": "2026-11-26T13:46:24.914656-06:00",
-  "window_end": "2026-11-26T19:46:24.914656-06:00",
+  "window_start": "2026-11-26T14:01:24.875546-06:00",
+  "window_end": "2026-11-26T20:01:24.875546-06:00",
   "channel_count": 15,
-  "programme_count": 134,
+  "programme_count": 126,
   "channels": [
     {
       "id": "C2.50.tunarr.com",
       "number": 2,
       "name": "Syndication",
       "programmes": [
-        {
-          "title": "Looney Tunes",
-          "start": "2026-11-26T13:33:51-06:00",
-          "stop": "2026-11-26T13:48:09-06:00",
-          "episode_title": "Episode 8"
-        },
-        {
-          "title": "Looney Tunes",
-          "start": "2026-11-26T13:48:09-06:00",
-          "stop": "2026-11-26T13:52:09-06:00",
-          "episode_title": "Episode 9"
-        },
         {
           "title": "Stargate SG-1",
           "start": "2026-11-26T13:52:09-06:00",
@@ -94,6 +82,13 @@ window.GUIDE_DATA = {
           "stop": "2026-11-26T19:46:25-06:00",
           "episode_title": "Assured Destruction",
           "description": "As Earth strategizes a costly ploy to gain advantage in the war against Mars, Anna struggles to convince Sorrento-Gillis to do the right thing. Avasarala and Bobbie seek refuge aboard the Rocinante."
+        },
+        {
+          "title": "Star Trek: Deep Space Nine",
+          "start": "2026-11-26T19:46:25-06:00",
+          "stop": "2026-11-26T20:32:48-06:00",
+          "episode_title": "Doctor Bashir, I Presume?",
+          "description": "Stardate: Unknown. Dr. Bashir is selected to be the model for the next-generation of Emergency Medical Hologram (EMH). But he balks when his parents are invited to the station to be interviewed by the EMH programmer, Dr. Zimmerman. There is a dark secret in his family that he's afraid that his parents will reveal."
         }
       ],
       "logo": "logos/2.png"
@@ -141,12 +136,6 @@ window.GUIDE_DATA = {
       "number": 11,
       "name": "Kidz!",
       "programmes": [
-        {
-          "title": "Looney Tunes",
-          "start": "2026-11-26T13:37:41-06:00",
-          "stop": "2026-11-26T13:47:10-06:00",
-          "episode_title": "Episode 4"
-        },
         {
           "title": "Justice League",
           "start": "2026-11-26T13:47:10-06:00",
@@ -253,24 +242,6 @@ window.GUIDE_DATA = {
       "number": 32,
       "name": "Japanimation",
       "programmes": [
-        {
-          "title": "Eureka Seven: AO",
-          "start": "2026-11-26T13:22:27-06:00",
-          "stop": "2026-11-26T13:47:51-06:00",
-          "episode_title": "Tighten Up - génération bleu"
-        },
-        {
-          "title": "Ikki Tousen",
-          "start": "2026-11-26T13:47:51-06:00",
-          "stop": "2026-11-26T13:50:16-06:00",
-          "episode_title": "Episode 13"
-        },
-        {
-          "title": "Ikki Tousen",
-          "start": "2026-11-26T13:50:16-06:00",
-          "stop": "2026-11-26T13:52:41-06:00",
-          "episode_title": "Episode 14"
-        },
         {
           "title": "Hyper Police",
           "start": "2026-11-26T13:52:41-06:00",
@@ -407,13 +378,6 @@ window.GUIDE_DATA = {
       "programmes": [
         {
           "title": "Gundam Build Fighters",
-          "start": "2026-11-26T13:29:10-06:00",
-          "stop": "2026-11-26T13:54:14-06:00",
-          "episode_title": "Promise",
-          "description": "Sei and Reiji's victory in the tournament causes Chairman Mashita to panic, with his Arista resonating all Plavsky particles in the PPSE Stadium to form a 1/144 scale replica of the Zeon space fortress A Baoa Qu over the facility. The Gunpla Fighters must band together to break into the fortress and destroy the Arista before it produces disastrous results."
-        },
-        {
-          "title": "Gundam Build Fighters",
           "start": "2026-11-26T13:54:14-06:00",
           "stop": "2026-11-26T14:19:21-06:00",
           "episode_title": "The Boy Who Calls the Wind",
@@ -493,6 +457,13 @@ window.GUIDE_DATA = {
           "stop": "2026-11-26T19:56:07-06:00",
           "episode_title": "Team Up, Try Fighters!",
           "description": "Having transferred to the Seiho Academy, Sekai discovers that he and Yuuma are in the same class. He challenges Yuuma to a battle but is bluntly rejected. Meanwhile, the school's student council has decided to merge the Gunpla Battle Club with the Plastic Model Club. To survive on its own, the Battle Club must defeat the Plamo Club in battle, and Yuuma is among the latter's players. With the Battle Club facing three-to-two odds, the battle seems like a mere formality, but Fumina's tactics let them put up a good fight. Miyaga loses his temper and deploys the huge mobile armor Agrissa, finally backing Fumina into a corner. But Yuuma, unable to accept that his club president is trying to win by ignoring the previously agreed rules, teams up with Sekai to destroy Miyaga's Agrissa. Thus, with the addition of Yuuma, team Try Fighters is finally formed!"
+        },
+        {
+          "title": "Gundam Build Fighters",
+          "start": "2026-11-26T19:56:07-06:00",
+          "stop": "2026-11-26T20:21:13-06:00",
+          "episode_title": "Her Name Is Gyanko",
+          "description": "Having transferred to the Seiho Academy, Sekai discovers that he and Yuuma are in the same class. He challenges Yuuma to a battle but is bluntly rejected. Meanwhile, the school's student council has decided to merge the Gunpla Battle Club with the Plastic Model Club. To survive on its own, the Battle Club must defeat the Plamo Club in battle, and Yuuma is among the latter's players. With the Battle Club facing three-to-two odds, the battle seems like a mere formality, but Fumina's tactics let them put up a good fight. Miyaga loses his temper and deploys the huge mobile armor Agrissa, finally backing Fumina into a corner. But Yuuma, unable to accept that his club president is trying to win by ignoring the previously agreed rules, teams up with Sekai to destroy Miyaga's Agrissa. Thus, with the addition of Yuuma, team Try Fighters is finally formed!"
         }
       ],
       "logo": "logos/45.png"
@@ -540,13 +511,6 @@ window.GUIDE_DATA = {
       "number": 47,
       "name": "Universal Century",
       "programmes": [
-        {
-          "title": "Mobile Suit Gundam: The 08th MS Team",
-          "start": "2026-11-26T13:34:59-06:00",
-          "stop": "2026-11-26T14:00:58-06:00",
-          "episode_title": "The Shuddering Mountain (2)",
-          "description": "The Apsalus cuts loose with its devastating mega particle cannon. As the Federation's Colonel Ryer and Zeon's Ginius Sakhalin escalate the fighting, Shiro and Aina transcend the division between the two sides to face their final challenge."
-        },
         {
           "title": "Mobile Suit Gundam 0080: War in the Pocket",
           "start": "2026-11-26T14:00:58-06:00",
@@ -640,13 +604,6 @@ window.GUIDE_DATA = {
       "programmes": [
         {
           "title": "Mobile Suit Gundam Seed Destiny",
-          "start": "2026-11-26T13:28:03-06:00",
-          "stop": "2026-11-26T13:52:51-06:00",
-          "episode_title": "A Call for Counterattack",
-          "description": "Pandemonium ensues as the complex ties of allegiances are tested in an all out battle between several suits. Yuna meets his well-deserved fate."
-        },
-        {
-          "title": "Mobile Suit Gundam Seed Destiny",
           "start": "2026-11-26T13:52:51-06:00",
           "stop": "2026-11-26T14:17:38-06:00",
           "episode_title": "Lacus Times Two",
@@ -721,12 +678,6 @@ window.GUIDE_DATA = {
       "name": "Fright Night",
       "programmes": [
         {
-          "title": "The Exorcist",
-          "start": "2026-11-26T11:39:04-06:00",
-          "stop": "2026-11-26T13:52:20-06:00",
-          "description": "Regan MacNeil, a playful 12 year old, begins communicating with an invisible figure through a Ouija board, but as her behavior turns terrifying and doctors fail to explain it, her mother seeks help from a skeptical priest."
-        },
-        {
           "title": "SantaClaus: A Horror Story",
           "start": "2026-11-26T13:52:20-06:00",
           "stop": "2026-11-26T15:24:00-06:00",
@@ -758,13 +709,6 @@ window.GUIDE_DATA = {
       "number": 64,
       "name": "Sci-Fi",
       "programmes": [
-        {
-          "title": "Star Trek: Voyager",
-          "start": "2026-11-26T13:00:32-06:00",
-          "stop": "2026-11-26T13:47:28-06:00",
-          "episode_title": "Extreme Risk",
-          "description": "Stardate: Unknown. In order to retrieve a probe stuck in a hazardous atmosphere, Tom Paris designs a new type of shuttlecraft named the 'Delta Flyer'. Torres begins to exhibit reckless behavior by engaging in dangerous holodeck programs."
-        },
         {
           "title": "Star Trek: Voyager",
           "start": "2026-11-26T13:47:28-06:00",
@@ -820,6 +764,13 @@ window.GUIDE_DATA = {
           "stop": "2026-11-26T19:53:26-06:00",
           "episode_title": "Invincible",
           "description": "An unpredictable researcher accidentally unleashes a dangerous artifact which was previously hidden by Nathan Stark."
+        },
+        {
+          "title": "Eureka",
+          "start": "2026-11-26T19:53:26-06:00",
+          "stop": "2026-11-26T20:37:10-06:00",
+          "episode_title": "Dr. Nobel",
+          "description": "A sleeping weapons system is accidentally awakened by Fargo and Spencer. Henry tries to avert the pending catastrophe with the help of a retired, nonsensical scientist."
         }
       ],
       "logo": "logos/64.png"
@@ -829,13 +780,6 @@ window.GUIDE_DATA = {
       "number": 65,
       "name": "Stargate Command",
       "programmes": [
-        {
-          "title": "Stargate SG-1",
-          "start": "2026-11-26T13:02:27-06:00",
-          "stop": "2026-11-26T13:47:33-06:00",
-          "episode_title": "Hathor",
-          "description": "The Goa'uld Hathor (one of the mothers of all Goa'uld), brainwashes the men of the SGC with pheromones, and nearly makes Jack a host to a larva conceived with Daniel. She flees after the unaffected women of Stargate Command retake the facility."
-        },
         {
           "title": "Stargate SG-1",
           "start": "2026-11-26T13:47:33-06:00",
@@ -955,6 +899,12 @@ window.GUIDE_DATA = {
           "stop": "2026-11-26T19:51:41-06:00",
           "episode_title": "Image in the Sand",
           "description": "Having returned to Earth a couple of months ago, Sisko waits for the Prophets to instruct him on what to do next. When he receives one, he begins searching for the woman behind the face in the sand in his vision. Meanwhile, back on DS9, Kira deals with a promotion and handling the decisions surrounding her command, and finding herself wishing for the return of Sisko. And Worf deals with the loss of his wife, Jadzia Dax."
+        },
+        {
+          "title": "Star Trek: The Next Generation",
+          "start": "2026-11-26T19:51:41-06:00",
+          "stop": "2026-11-26T21:23:00-06:00",
+          "episode_title": "Episode 26"
         }
       ],
       "logo": "logos/66.png"
