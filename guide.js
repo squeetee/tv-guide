@@ -1,12 +1,12 @@
 window.GUIDE_DATA = {
-  "generated_at": "2026-11-26T10:31:25.912325-06:00",
+  "generated_at": "2026-11-26T10:46:25.752787-06:00",
   "timezone": "America/Chicago",
   "source": "tunarr-xmltv",
   "window_hours": 6,
-  "window_start": "2026-11-26T10:31:25.912325-06:00",
-  "window_end": "2026-11-26T16:31:25.912325-06:00",
+  "window_start": "2026-11-26T10:46:25.752787-06:00",
+  "window_end": "2026-11-26T16:46:25.752787-06:00",
   "channel_count": 15,
-  "programme_count": 138,
+  "programme_count": 141,
   "channels": [
     {
       "id": "C2.50.tunarr.com",
@@ -99,6 +99,13 @@ window.GUIDE_DATA = {
           "stop": "2026-11-26T16:45:12-06:00",
           "episode_title": "Immaculate Perception",
           "description": "The knights of Genetic purity start attacking a cluster of Nietchean prides. Andromeda tries to stop them. Tyr searches for Orca pride, Freya has given birth to his son, the genetic reincarnation of Drago Museveni. He'll do anything to protect them."
+        },
+        {
+          "title": "Justice League",
+          "start": "2026-11-26T16:45:12-06:00",
+          "stop": "2026-11-26T17:08:58-06:00",
+          "episode_title": "Hearts and Minds (1)",
+          "description": "John Stewart leaves on a mission to help his fellow Green Lanterns overthrow a intergalactic dictator with strange powers."
         }
       ],
       "logo": "logos/2.png"
@@ -638,13 +645,6 @@ window.GUIDE_DATA = {
       "programmes": [
         {
           "title": "Mobile Suit Gundam Seed Destiny",
-          "start": "2026-11-26T10:09:31-06:00",
-          "stop": "2026-11-26T10:34:20-06:00",
-          "episode_title": "Nightmare",
-          "description": "The Archangel returns to Orb, and Shinn sees a chance to enact revenge upon the Freedom"
-        },
-        {
-          "title": "Mobile Suit Gundam Seed Destiny",
           "start": "2026-11-26T10:34:20-06:00",
           "stop": "2026-11-26T10:59:09-06:00",
           "episode_title": "Eve of Chaos",
@@ -747,6 +747,12 @@ window.GUIDE_DATA = {
           "stop": "2026-11-26T16:46:22-06:00",
           "episode_title": "The Final Power",
           "description": "Kira in the Strike Freedom is confronted by Rey in the Legend. Meanwhile, Athrun in the Infinite Justice battles Lunamaria in the Impulse and Shinn in the Destiny. An all out attack happens against the Requiem, ending the second Bloody Valentine war."
+        },
+        {
+          "title": "Mobile Suit Gundam Seed Destiny",
+          "start": "2026-11-26T16:46:22-06:00",
+          "stop": "2026-11-26T17:10:40-06:00",
+          "episode_title": "Episode 51"
         }
       ],
       "logo": "logos/48.png"
@@ -788,13 +794,6 @@ window.GUIDE_DATA = {
       "number": 64,
       "name": "Sci-Fi",
       "programmes": [
-        {
-          "title": "Farscape",
-          "start": "2026-11-26T09:52:38-06:00",
-          "stop": "2026-11-26T10:39:32-06:00",
-          "episode_title": "Meltdown",
-          "description": "Talyn gets the urge to fly into a sun. While in its vicinity Stark is contacted by an alien woman who is being held against her will."
-        },
         {
           "title": "Farscape",
           "start": "2026-11-26T10:39:32-06:00",
@@ -921,6 +920,13 @@ window.GUIDE_DATA = {
           "stop": "2026-11-26T16:44:32-06:00",
           "episode_title": "Cor-Ai",
           "description": "SG-1 travel to a planet where Teal'c is recognised as once having been head Jaffa to Apophis. He is arrested for the murder of a villager and put on trial for his life. Then other Jaffa attack the village. Will SG-1 be able to save Teal'c and prove that he has changed allegiance?"
+        },
+        {
+          "title": "Stargate SG-1",
+          "start": "2026-11-26T16:44:32-06:00",
+          "stop": "2026-11-26T17:29:38-06:00",
+          "episode_title": "Enigma",
+          "description": "The SG-1 team rescues a group of advanced humans from a planet near destruction, and must find a new home for the refugees before the Pentagon gets their hands on them."
         }
       ],
       "logo": "logos/65.png"
@@ -978,6 +984,13 @@ window.GUIDE_DATA = {
           "stop": "2026-11-26T16:36:53-06:00",
           "episode_title": "Tuvix",
           "description": "Stardate: 49655.2. A transporter accident merges Tuvok and Neelix into one new being who calls himself 'Tuvix.'"
+        },
+        {
+          "title": "Star Trek",
+          "start": "2026-11-26T16:36:53-06:00",
+          "stop": "2026-11-26T17:28:11-06:00",
+          "episode_title": "Where No Man Has Gone Before",
+          "description": "When the Enterprise attempts to penetrate a space barrier, it is damaged and creates a potentially worse problem. Two crew members, including Kirk's best friend, gain psionic powers that are growing exponentially. This leaves Captain Kirk with the difficult choice; either marooning them or killing before they get so powerful they lose their humanity and become truly dangerous."
         }
       ],
       "logo": "logos/66.png"
@@ -1047,6 +1060,13 @@ window.GUIDE_DATA = {
           "stop": "2026-11-26T16:34:49-06:00",
           "episode_title": "The Couples Show",
           "description": "Romance is in the air with a very special couples only show. Vic, Kenny, and the Captain discuss the ins and outs of love and relationships. Games include: Plank Spankers; Romantic Rotating Surfboard of Death; Hot Steaming Bowl of Love; The Sticky Stuff of Love; Brass Balls of Love"
+        },
+        {
+          "title": "MXC",
+          "start": "2026-11-26T16:34:49-06:00",
+          "stop": "2026-11-26T16:55:44-06:00",
+          "episode_title": "Inventors vs. Ex-Child Actors",
+          "description": "Washed-up child actors go head-to-head with the keen minds of the inventors on this show. Also, overhearing one ex-child actor's catch phrase, Vic and Kenny go crazy-go-nuts. Games include: Get Over It; Sinkers and Floaters; Door Jam; Le Tour de Grand Prix; Log Drop"
         }
       ],
       "logo": "logos/72.png"
