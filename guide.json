@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-26T09:46:26.416304-06:00",
+  "generated_at": "2026-11-26T10:01:25.874026-06:00",
   "timezone": "America/Chicago",
   "source": "tunarr-xmltv",
   "window_hours": 6,
-  "window_start": "2026-11-26T09:46:26.416304-06:00",
-  "window_end": "2026-11-26T15:46:26.416304-06:00",
+  "window_start": "2026-11-26T10:01:25.874026-06:00",
+  "window_end": "2026-11-26T16:01:25.874026-06:00",
   "channel_count": 15,
-  "programme_count": 140,
+  "programme_count": 139,
   "channels": [
     {
       "id": "C2.50.tunarr.com",
@@ -99,6 +99,13 @@
           "stop": "2026-11-26T16:01:24-06:00",
           "episode_title": "The Knight, Death, and the Devil",
           "description": "Andromeda gets word of a fleet of Highguard ships in Tartarus. Dylan, Rommie and Tyr go after Ryan, an AI with knowledge of the location. But Ryan has a history with the fleet, which creates difficulties when they finally locate the fleet. Beka, Harper, and Trance, work on get more worlds to join the Commonwealth."
+        },
+        {
+          "title": "Andromeda",
+          "start": "2026-11-26T16:01:24-06:00",
+          "stop": "2026-11-26T16:45:12-06:00",
+          "episode_title": "Immaculate Perception",
+          "description": "The knights of Genetic purity start attacking a cluster of Nietchean prides. Andromeda tries to stop them. Tyr searches for Orca pride, Freya has given birth to his son, the genetic reincarnation of Drago Museveni. He'll do anything to protect them."
         }
       ],
       "logo": "logos/2.png"
@@ -146,18 +153,6 @@
       "number": 11,
       "name": "Kidz!",
       "programmes": [
-        {
-          "title": "Looney Tunes",
-          "start": "2026-11-26T09:39:00-06:00",
-          "stop": "2026-11-26T09:47:10-06:00",
-          "episode_title": "Episode 1"
-        },
-        {
-          "title": "Looney Tunes",
-          "start": "2026-11-26T09:47:10-06:00",
-          "stop": "2026-11-26T09:55:20-06:00",
-          "episode_title": "Episode 2"
-        },
         {
           "title": "Christmas in Wonderland",
           "start": "2026-11-26T09:55:20-06:00",
@@ -256,13 +251,6 @@
       "number": 32,
       "name": "Japanimation",
       "programmes": [
-        {
-          "title": "Air Gear",
-          "start": "2026-11-26T09:34:28-06:00",
-          "stop": "2026-11-26T09:59:17-06:00",
-          "episode_title": "Genesis Strikes!",
-          "description": "Kogarasumaru's rep is on the rise after defeating Behemoth. It hasn't been easy, but future victories might come easier if Ikki accepts Simca's offer to join forces."
-        },
         {
           "title": "Air Gear",
           "start": "2026-11-26T09:59:17-06:00",
@@ -368,6 +356,13 @@
           "stop": "2026-11-26T15:57:07-06:00",
           "episode_title": "Marquis de Carabas",
           "description": "The president of Naota’s class, Ninamori, is no stranger to the dirty deeds of politics. She rigs the vote to cast him as the lead role of their class play. But she gets in over her head after a crashing introduction to Haruko."
+        },
+        {
+          "title": "FLCL",
+          "start": "2026-11-26T15:57:07-06:00",
+          "stop": "2026-11-26T16:22:55-06:00",
+          "episode_title": "Furi Kiri (Full Swing)",
+          "description": "There’s a guy claiming to know Haruko and why she’s using Naota’s head as a portal for oversized battling robots. It’s too late, though, as a malfunctioning satellite is heading straight for them and it’s up to Naota to stop it!"
         }
       ],
       "logo": "logos/32.png"
@@ -409,19 +404,6 @@
       "number": 45,
       "name": "Mobile Suit Network",
       "programmes": [
-        {
-          "title": "Mobile Suit Zeta Gundam",
-          "start": "2026-11-26T09:31:03-06:00",
-          "stop": "2026-11-26T09:56:11-06:00",
-          "episode_title": "By the Lake",
-          "description": "Bask Om and Jamitov discuss strategy on Gryps while Kamille and the others attempt to relax at Colony 13. Rosamia runs into Kamille there and tells him she's his little sister. As Kamille, Fa, Rosamia, Shinta and Qum relax on the lake, they see Haman and Mineva nearby. Meanwhile, Char has his hands full with Mobile Suits that he spots."
-        },
-        {
-          "title": "Mobile Suit Gundam-san",
-          "start": "2026-11-26T09:56:11-06:00",
-          "stop": "2026-11-26T09:59:41-06:00",
-          "episode_title": "Kycilia-tan, Age 14"
-        },
         {
           "title": "Mobile Suit Gundam-san",
           "start": "2026-11-26T09:59:41-06:00",
@@ -562,6 +544,12 @@
           "start": "2026-11-26T14:38:34-06:00",
           "stop": "2026-11-26T15:49:05-06:00",
           "description": "During the One Year War of U.C. 0079, the Earth Federation and Principality of Zeon engage in a fierce battle at the \"Thunderbolt Sector\", a shoal zone in the former Colony Side 4 \"Moore\". After successfully infiltrating Zeon's sniper field, ace Federation pilot and jazz enthusiast Io Fleming is given control of the latest Gundam prototype."
+        },
+        {
+          "title": "Mobile Suit Gundam I",
+          "start": "2026-11-26T15:49:05-06:00",
+          "stop": "2026-11-26T18:09:38-06:00",
+          "description": "In the year Universal Century 0079, humans have colonized the area of space lying in between the Earth and the moon. However, the ambitious Zabi family, rulers of the Duchy of Zeon, the grouping of colonies furthest from the earth, has sparked a war."
         }
       ],
       "logo": "logos/46.png"
@@ -571,13 +559,6 @@
       "number": 47,
       "name": "Universal Century",
       "programmes": [
-        {
-          "title": "Mobile Suit Gundam",
-          "start": "2026-11-26T09:33:36-06:00",
-          "stop": "2026-11-26T09:59:16-06:00",
-          "episode_title": "A Wish of War Orphans",
-          "description": "Char infiltrates Jaburo with a squadron of Acguy mobile suits and plant time bombs on the Federation's new mass-produced GMs, but not before being discovered by Katz, Kikka, and Letz."
-        },
         {
           "title": "Mobile Suit Gundam II: Soldiers of Sorrow",
           "start": "2026-11-26T09:59:16-06:00",
@@ -639,6 +620,12 @@
           "stop": "2026-11-26T15:47:38-06:00",
           "episode_title": "Breakthrough",
           "description": "A task force of Musai cruisers and Rick Doms led by Dren attempt to destroy the White Base as it heads towards the neutral colony of Side Six."
+        },
+        {
+          "title": "Mobile Suit Gundam Thunderbolt: December Sky",
+          "start": "2026-11-26T15:47:38-06:00",
+          "stop": "2026-11-26T16:58:09-06:00",
+          "description": "During the One Year War of U.C. 0079, the Earth Federation and Principality of Zeon engage in a fierce battle at the \"Thunderbolt Sector\", a shoal zone in the former Colony Side 4 \"Moore\". After successfully infiltrating Zeon's sniper field, ace Federation pilot and jazz enthusiast Io Fleming is given control of the latest Gundam prototype."
         }
       ],
       "logo": "logos/47.png"
@@ -752,6 +739,13 @@
           "stop": "2026-11-26T15:56:48-06:00",
           "episode_title": "To a New World",
           "description": "Chairman Durandal calls for the implementation of the \"Destiny Plan\", which is supposed to decide the fate of each individual on a genetic level."
+        },
+        {
+          "title": "Mobile Suit Gundam Seed Destiny",
+          "start": "2026-11-26T15:56:48-06:00",
+          "stop": "2026-11-26T16:21:35-06:00",
+          "episode_title": "Rey",
+          "description": "Shinn and Rey are transferred to Messiah. Shinn is confronted by Durandal and Rey and finally decides to follow the course of action pointed out by them. The Minerva arrives at Station One and begins its attack on the Archangel and Eternal."
         }
       ],
       "logo": "logos/48.png"
@@ -761,12 +755,6 @@
       "number": 56,
       "name": "Fright Night",
       "programmes": [
-        {
-          "title": "Rust",
-          "start": "2026-11-26T08:52:43-06:00",
-          "stop": "2026-11-26T09:46:33-06:00",
-          "description": "BEST FRIENDS HEATHER AND MORGAN MEET UP WITH SOME FRIENDS AT AN ABANDONED ATTRACTION. WHAT THEY DONT KNOW IS WITHIN THE HOUSE LIVES A CANNIBALISTIC MADMAN. THEY SOON FIND THEMSELVES FIGHTING TO SURVIVE. THEY ARE NOW BEING HUNTED DOWN BY NON OTHER THEN THE BLOOD WRENCHING AND UNMERCIFUL GRASP OF TRAVIS MCLENNAN."
-        },
         {
           "title": "The Conjuring",
           "start": "2026-11-26T09:46:33-06:00",
@@ -799,13 +787,6 @@
       "number": 64,
       "name": "Sci-Fi",
       "programmes": [
-        {
-          "title": "Star Trek: Deep Space Nine",
-          "start": "2026-11-26T09:06:14-06:00",
-          "stop": "2026-11-26T09:52:38-06:00",
-          "episode_title": "Shattered Mirror",
-          "description": "Stardate: Unknown. When the Mirror Universe counterpart of Sisko's deceased wife lures Jake to the other side, Sisko must follow and help the human resistance against the Alliance's forces."
-        },
         {
           "title": "Farscape",
           "start": "2026-11-26T09:52:38-06:00",
@@ -932,6 +913,13 @@
           "stop": "2026-11-26T15:59:26-06:00",
           "episode_title": "Twin Destinies",
           "description": "Rush travels back in time to avert a disaster, meeting a past version of himself."
+        },
+        {
+          "title": "Stargate SG-1",
+          "start": "2026-11-26T15:59:26-06:00",
+          "stop": "2026-11-26T16:44:32-06:00",
+          "episode_title": "Cor-Ai",
+          "description": "SG-1 travel to a planet where Teal'c is recognised as once having been head Jaffa to Apophis. He is arrested for the murder of a villager and put on trial for his life. Then other Jaffa attack the village. Will SG-1 be able to save Teal'c and prove that he has changed allegiance?"
         }
       ],
       "logo": "logos/65.png"
@@ -989,6 +977,13 @@
           "stop": "2026-11-26T15:50:05-06:00",
           "episode_title": "The Thaw",
           "description": "Stardate: Unknown. The crew of Voyager encounters a planet that has recently entered an ice age. They discover a series of stasis chambers where a small group of people are mentally connected to an artificial environment that turned horribly wrong."
+        },
+        {
+          "title": "Star Trek: Voyager",
+          "start": "2026-11-26T15:50:05-06:00",
+          "stop": "2026-11-26T16:36:53-06:00",
+          "episode_title": "Tuvix",
+          "description": "Stardate: 49655.2. A transporter accident merges Tuvok and Neelix into one new being who calls himself 'Tuvix.'"
         }
       ],
       "logo": "logos/66.png"
