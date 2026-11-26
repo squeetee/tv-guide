@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-11-25T23:31:24.771593-06:00",
+  "generated_at": "2026-11-25T23:46:24.806147-06:00",
   "timezone": "America/Chicago",
   "source": "tunarr-xmltv",
   "window_hours": 6,
-  "window_start": "2026-11-25T23:31:24.771593-06:00",
-  "window_end": "2026-11-26T05:31:24.771593-06:00",
+  "window_start": "2026-11-25T23:46:24.806147-06:00",
+  "window_end": "2026-11-26T05:46:24.806147-06:00",
   "channel_count": 15,
   "programme_count": 141,
   "channels": [
@@ -13,13 +13,6 @@
       "number": 2,
       "name": "Syndication",
       "programmes": [
-        {
-          "title": "Star Trek: Deep Space Nine",
-          "start": "2026-11-25T22:54:01-06:00",
-          "stop": "2026-11-25T23:40:24-06:00",
-          "episode_title": "In Purgatory's Shadow (1)",
-          "description": "Stardate: Unknown. A coded message from the Gamma Quadrant leads Garak to believe his mentor, Enabran Tain, is still alive. He and Worf seek him out, only to discover something much worse: a Dominion invasion fleet poised to attack the Alpha Quadrant."
-        },
         {
           "title": "Star Trek: Deep Space Nine",
           "start": "2026-11-25T23:40:24-06:00",
@@ -68,6 +61,13 @@
           "stop": "2026-11-26T05:39:02-06:00",
           "episode_title": "Coup By Clam",
           "description": "While in quarantine high above the patriarchal planet Khurtanan, the crew shares a meal of alien mollusks and almost instantaneously suffers a violent physical reaction. Each crew member becomes bodily linked to one of the others, Crichton to Sikozu, Aeryn to Rygel, and so on. It soon becomes clear they have been deliberately poisoned by the local doctor and are being blackmailed in exchange for the cure."
+        },
+        {
+          "title": "Star Trek: Enterprise",
+          "start": "2026-11-26T05:39:02-06:00",
+          "stop": "2026-11-26T06:20:29-06:00",
+          "episode_title": "The Seventh",
+          "description": "Archer, Mayweather and T'Pol travel to an arctic world to apprehend a fugitive, when T'Pol is contacted by Vulcan High Command. The mission takes a dangerous turn when T'Pol begins having flashbacks that suggest the events she remembers about a former mission may not accurately relate to what happened."
         }
       ],
       "logo": "logos/2.png"
@@ -115,13 +115,6 @@
       "number": 11,
       "name": "Kidz!",
       "programmes": [
-        {
-          "title": "Star Wars Rebels",
-          "start": "2026-11-25T23:23:16-06:00",
-          "stop": "2026-11-25T23:46:16-06:00",
-          "episode_title": "Twin Suns",
-          "description": "Reacting to a vision of Maul, Ezra defies Hera and Kanan to travel to a remote planet in hopes of stopping the former Sith lord from carrying out his plans."
-        },
         {
           "title": "Looney Tunes",
           "start": "2026-11-25T23:46:16-06:00",
@@ -183,6 +176,19 @@
           "start": "2026-11-26T05:25:58-06:00",
           "stop": "2026-11-26T05:34:57-06:00",
           "episode_title": "Episode 5"
+        },
+        {
+          "title": "Looney Tunes",
+          "start": "2026-11-26T05:34:57-06:00",
+          "stop": "2026-11-26T05:44:02-06:00",
+          "episode_title": "Episode 6"
+        },
+        {
+          "title": "Swat Kats: The Radical Squadron",
+          "start": "2026-11-26T05:44:02-06:00",
+          "stop": "2026-11-26T06:07:15-06:00",
+          "episode_title": "Metal Urgency",
+          "description": "It's an all out kat-fight to the finish when the Metallikats come storming back in the drivers' seats of two giant hi-tech turbo attack-robots."
         }
       ],
       "logo": "logos/11.png"
@@ -225,12 +231,6 @@
       "number": 32,
       "name": "Japanimation",
       "programmes": [
-        {
-          "title": "Dragon Ball Super",
-          "start": "2026-11-25T23:10:11-06:00",
-          "stop": "2026-11-25T23:34:28-06:00",
-          "episode_title": "Episode 12"
-        },
         {
           "title": "Dragon Ball Super",
           "start": "2026-11-25T23:34:28-06:00",
@@ -403,13 +403,6 @@
       "name": "Mobile Suit Network",
       "programmes": [
         {
-          "title": "Gundam Build Real",
-          "start": "2026-11-25T23:13:53-06:00",
-          "stop": "2026-11-25T23:39:38-06:00",
-          "episode_title": "Episode 1: Reunion",
-          "description": "Our protagonist Hiro created Team BRIGHT along with his friends when they were in elementary school. The team attracted much attention, especially armament specialist Sota, but their Gunpla (the 78) disappeared on the day before the tournament, leading them to quarrel and split up. Now, four years later, the former group record-keeper Imaizumi sends the other members a video and they meet at their old school. However, Imaizumi isn't there, and Hiro and his friends find something else instead..."
-        },
-        {
           "title": "SD Gundam Force",
           "start": "2026-11-25T23:39:38-06:00",
           "stop": "2026-11-26T00:03:56-06:00",
@@ -490,6 +483,13 @@
           "stop": "2026-11-26T05:32:57-06:00",
           "episode_title": "The Day of Dakar",
           "description": "Jerid pursues Karaba's Audhumla as the AEUG plans to infiltrate Dakar so that Char can break into the Federation Council and state his case. While the battle rages outside, Char makes an appearance on television and proclaims that the Federation has become just like the Zabis and they need to change and that people should move off of the Earth to help it recover."
+        },
+        {
+          "title": "Mobile Suit Gundam Seed Destiny",
+          "start": "2026-11-26T05:32:57-06:00",
+          "stop": "2026-11-26T05:57:46-06:00",
+          "episode_title": "Nightmare",
+          "description": "The Archangel returns to Orb, and Shinn sees a chance to enact revenge upon the Freedom"
         }
       ],
       "logo": "logos/45.png"
@@ -499,12 +499,6 @@
       "number": 46,
       "name": "Gundam Theater",
       "programmes": [
-        {
-          "title": "Turn A Gundam II: Moonlight Butterfly",
-          "start": "2026-11-25T21:34:14-06:00",
-          "stop": "2026-11-25T23:41:48-06:00",
-          "description": "Following the events of the first movie, the Militia finishes restoration work on its excavated spaceship and travels to the moon to deal with Gym Ghingnham and Agrippa Maintainer, who along with Dianna Soreil form a governing triumvirate over the Moonrace. On the moon, the political situation rapidly evolves as new deals are made, setting the stage for a decisive final battle to determine the relationship between the people of Earth and the technologically advanced Moonrace."
-        },
         {
           "title": "Mobile Suit Gundam Narrative",
           "start": "2026-11-25T23:41:48-06:00",
@@ -534,6 +528,12 @@
           "start": "2026-11-26T05:29:55-06:00",
           "stop": "2026-11-26T05:33:02-06:00",
           "description": "30th Gundam Perfect Mission is a short original video animation (OVA) officially released by Sunrise in celebration of the 30th anniversary of the Gundam metaseries. It features all the titular and mascot gundams of the main series in a non-cannon conjoint mission."
+        },
+        {
+          "title": "Gundam Wing: The Endless Waltz",
+          "start": "2026-11-26T05:33:02-06:00",
+          "stop": "2026-11-26T07:04:18-06:00",
+          "description": "After peace is won, rival Gundam pilots face renewed war as a vengeful faction rises, forcing them to fight one last battle to end endless cycles of conflict."
         }
       ],
       "logo": "logos/46.png"
@@ -543,13 +543,6 @@
       "number": 47,
       "name": "Universal Century",
       "programmes": [
-        {
-          "title": "Mobile Suit Gundam",
-          "start": "2026-11-25T23:11:44-06:00",
-          "stop": "2026-11-25T23:37:24-06:00",
-          "episode_title": "Sorrow and Hatred",
-          "description": "Crowley Hamon spearheads one last suicidal attack on White Base with what remains of the troops once led by Ramba Ral."
-        },
         {
           "title": "Mobile Suit Gundam",
           "start": "2026-11-25T23:37:24-06:00",
@@ -647,6 +640,13 @@
           "stop": "2026-11-26T05:41:32-06:00",
           "episode_title": "Odessa, Iron Storm!",
           "description": "(U.C. 0079.11.08 - 0079.11.09) Though Operation Odessa is proceeding, the 44th Hybrid Brigade suffers setback after its advance is bombarded by artillery from Zeon's Dobday-class land battleships. They are reinforced by three Guntanks piloted by a trio of convicts led by Lt. Arleen Nazon, a technical officer blamed and condemned to rot in jail after her lover defected to Zeon with information of the RTX-440 project. Bearing deep hatred to the man who betrayed her, Clyde Bettany, Arleen vows revenge for destroying her future. The offensive resumes on the second day and the Federation forces again suffering casualty from the well dug Zeon defence. Arleen's team penetrates enemy lines to provide artillery reconnaissance, before storming and breaking into the Zeon forward base. In the mist of battle, Arleen's two teammates self-detonate their Guntanks, taking out one Dobday."
+        },
+        {
+          "title": "Mobile Suit Gundam",
+          "start": "2026-11-26T05:41:32-06:00",
+          "stop": "2026-11-26T06:07:12-06:00",
+          "episode_title": "The Battle of Odessa",
+          "description": "Amuro discovers the Zeon mole, stops a nuclear bomb, and faces off the remaining two members of the Black Tri-Stars as the battle at Odessa continues."
         }
       ],
       "logo": "logos/47.png"
@@ -760,6 +760,13 @@
           "stop": "2026-11-26T05:35:00-06:00",
           "episode_title": "Differing Views",
           "description": "With Miriallia's help, Athrun meets with Kira and Cagalli."
+        },
+        {
+          "title": "Mobile Suit Gundam Seed Destiny",
+          "start": "2026-11-26T05:35:00-06:00",
+          "stop": "2026-11-26T05:59:49-06:00",
+          "episode_title": "The Place of Sin",
+          "description": "Startling truths await ZAFT forces at an abandoned lab."
         }
       ],
       "logo": "logos/48.png"
@@ -792,6 +799,12 @@
           "start": "2026-11-26T04:26:14-06:00",
           "stop": "2026-11-26T05:40:50-06:00",
           "description": "A young couple take their first foreign holiday together. Yet, behind the couple's happy smiles lies a hidden desire. They turn to a mysterious local woman for help, but the truth of the situation is more destructive than they feared."
+        },
+        {
+          "title": "Backrooms",
+          "start": "2026-11-26T05:40:50-06:00",
+          "stop": "2026-11-26T07:32:13-06:00",
+          "description": "A strange doorway appears in the basement of a furniture showroom, leading to an endless network of interconnected rooms where time bends and the only thing scarier than getting lost is the sense that something is lying in wait."
         }
       ],
       "logo": "logos/56.png"
@@ -801,13 +814,6 @@
       "number": 64,
       "name": "Sci-Fi",
       "programmes": [
-        {
-          "title": "Warehouse 13",
-          "start": "2026-11-25T22:52:52-06:00",
-          "stop": "2026-11-25T23:37:04-06:00",
-          "episode_title": "Runaway",
-          "description": "When a volcanic event at an Arkansas State Prison allows two inmates to escape, Pete, Myka and Steve must partner with a U.S. Marshal to track down the fugitives."
-        },
         {
           "title": "Warehouse 13",
           "start": "2026-11-25T23:37:04-06:00",
@@ -934,6 +940,13 @@
           "stop": "2026-11-26T05:45:31-06:00",
           "episode_title": "Enemy at the Gate",
           "description": "\"Todd\" informs the Atlantis expedition that a rogue group of Wraith has acquired several Zero Point Modules to power a Super-hive, and wants it destroyed. However, after the Daedalus is disabled, they learn that the ship is heading straight for Earth, and they must stop it before it gets there."
+        },
+        {
+          "title": "Stargate SG-1",
+          "start": "2026-11-26T05:45:31-06:00",
+          "stop": "2026-11-26T06:30:38-06:00",
+          "episode_title": "Thor's Hammer",
+          "description": "SG-1 goes to the planet Cimmeria in search of allies against the Goa'uld. Upon arrival, Jack and Teal'c are trapped in a labyrinth, where the only exit is through Thor's Hammer, a device to destroy Goa'uld, but preserve the host. Daniel Jackson must destroy the device that could someday have saved his wife in order to free his friends."
         }
       ],
       "logo": "logos/65.png"
@@ -943,13 +956,6 @@
       "number": 66,
       "name": "Starfleet",
       "programmes": [
-        {
-          "title": "Star Trek",
-          "start": "2026-11-25T22:54:38-06:00",
-          "stop": "2026-11-25T23:45:58-06:00",
-          "episode_title": "The Man Trap",
-          "description": "Doctor Leonard “Bones” McCoy meets a former girlfriend when the enterprise brings supplies to a remote archaeological survey group. Still attractive to McCoy, the woman's current appearance hides a dark and deadly secret."
-        },
         {
           "title": "Star Trek",
           "start": "2026-11-25T23:45:58-06:00",
@@ -1014,13 +1020,6 @@
       "number": 72,
       "name": "Comedy",
       "programmes": [
-        {
-          "title": "The Office (US)",
-          "start": "2026-11-25T23:09:06-06:00",
-          "stop": "2026-11-25T23:32:28-06:00",
-          "episode_title": "Basketball",
-          "description": "The office staff play a basketball game against the warehouse workers in which Jim shows off to impress Pam and upstage her fiancee who is on the opposing team."
-        },
         {
           "title": "The Office (US)",
           "start": "2026-11-25T23:32:28-06:00",
