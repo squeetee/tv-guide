@@ -1,25 +1,18 @@
 window.GUIDE_DATA = {
-  "generated_at": "2026-11-26T04:47:39.568250-06:00",
+  "generated_at": "2026-11-26T05:01:41.490704-06:00",
   "timezone": "America/Chicago",
   "source": "tunarr-xmltv",
   "window_hours": 6,
-  "window_start": "2026-11-26T04:47:39.568250-06:00",
-  "window_end": "2026-11-26T10:47:39.568250-06:00",
+  "window_start": "2026-11-26T05:01:41.490704-06:00",
+  "window_end": "2026-11-26T11:01:41.490704-06:00",
   "channel_count": 15,
-  "programme_count": 143,
+  "programme_count": 144,
   "channels": [
     {
       "id": "C2.50.tunarr.com",
       "number": 2,
       "name": "Syndication",
       "programmes": [
-        {
-          "title": "Farscape",
-          "start": "2026-11-26T04:05:12-06:00",
-          "stop": "2026-11-26T04:52:07-06:00",
-          "episode_title": "A Prefect Murder",
-          "description": "The crew lands on a planet divided by generations of clan war. After experiencing strange hallucinations, Aeryn is subliminally coerced into assassinating a clan leader. When Crichton also starts having hallucinations, they must uncover the planet's political machinations in order to prevent more killings."
-        },
         {
           "title": "Farscape",
           "start": "2026-11-26T04:52:07-06:00",
@@ -259,13 +252,6 @@ window.GUIDE_DATA = {
       "programmes": [
         {
           "title": "Dragon Ball Z",
-          "start": "2026-11-26T04:23:56-06:00",
-          "stop": "2026-11-26T04:49:01-06:00",
-          "episode_title": "Pay to Win",
-          "description": "As the final bout of the tournament continues, Number 18 throws the defending champ for a loop by offering to throw the fight! Meanwhile, Babidi has selected his warrior for Stage 3: Dabura, King of the Demon World!"
-        },
-        {
-          "title": "Dragon Ball Z",
           "start": "2026-11-26T04:49:01-06:00",
           "stop": "2026-11-26T05:14:06-06:00",
           "episode_title": "Heart of a Villain",
@@ -373,6 +359,13 @@ window.GUIDE_DATA = {
           "stop": "2026-11-26T10:48:39-06:00",
           "episode_title": "Despair",
           "description": "Subaru still can't find Tsukasa, though not for want of trying. Her only hope now is that someone knows his secret place. Meanwhile, Bear has uncovered the identity of the man they saw in the mystrious castle: he is Harold Huick, the creator of The World."
+        },
+        {
+          "title": ".hack//SIGN",
+          "start": "2026-11-26T10:48:39-06:00",
+          "stop": "2026-11-26T11:14:51-06:00",
+          "episode_title": "Phantom",
+          "description": "Despite the traps laid out for them, Bear, Mimiru and Subaru manage to find Harold Huick's incarnation, who tells them his secret. But the mysterious entity which was using Tsukasa seems determined to stop the secret getting out."
         }
       ],
       "logo": "logos/32.png"
@@ -405,6 +398,12 @@ window.GUIDE_DATA = {
           "start": "2026-11-26T09:03:25-06:00",
           "stop": "2026-11-26T10:58:00-06:00",
           "description": "In this sequel to Psycho-Pass TV show, Inspector Tsunemori is sent to a neighboring war-torn nation, where the Sibyl System is being introduced as an experiment, to find Shinya Kogami, her former enforcer who went rogue three years ago."
+        },
+        {
+          "title": "Heaven's Lost Property the Movie: The Angeloid of Clockwork",
+          "start": "2026-11-26T10:58:00-06:00",
+          "stop": "2026-11-26T12:35:59-06:00",
+          "description": "Hiyori is a sweet shy wallflower who is infatuated with Tomoki. She joins the New World Discovery Club in order to get closer to her crush, but Tomoki's love of peace and quiet leads him to try and scare Hiyori away with his usual perverted antics. Hiyori remains committed to her cause until a tragic accident changes everything. It seems Hiyori has a mysterious connection to the Angeloids."
         }
       ],
       "logo": "logos/33.png"
@@ -535,6 +534,13 @@ window.GUIDE_DATA = {
           "stop": "2026-11-26T10:53:14-06:00",
           "episode_title": "Dark Matter",
           "description": "In the final round of the tournament, Meijin Kawaguchi the 3rd unveils the true form of his Gundam Amazing Exia. However, he brings forth a disturbing aura in the arena reminiscent of his predecessor."
+        },
+        {
+          "title": "Mobile Suit Gundam SEED",
+          "start": "2026-11-26T10:53:14-06:00",
+          "stop": "2026-11-26T11:18:00-06:00",
+          "episode_title": "The Opening Door",
+          "description": "Kira and Mu face terrifying revelations in an encounter with Rau. Dearka and Yzak have their own meeting where they question what they are truly fighting against. Meanwhile, the Dominion and the Earth Alliance once again attacks. Rau returns to his ship and sends Flay back to the Earth Forces."
         }
       ],
       "logo": "logos/45.png"
@@ -585,6 +591,12 @@ window.GUIDE_DATA = {
           "start": "2026-11-26T09:09:07-06:00",
           "stop": "2026-11-26T10:57:38-06:00",
           "description": "Hathaway Noa's fight against the Earth Federation continues, culminating in a terrorist attack on Adelaide's government conference. Gigi Andalucia remains crucial, her influence embodying the \"witch\" figure."
+        },
+        {
+          "title": "Mobile Suit Gundam F91",
+          "start": "2026-11-26T10:57:38-06:00",
+          "stop": "2026-11-26T12:58:47-06:00",
+          "description": "After a generation of peace, the Earth Federation's new space colonies becomes a battlefield. To save his friends and family, the reluctant warrior Seabook Arno becomes the pilot of a new Gundam which bears the code name F91."
         }
       ],
       "logo": "logos/46.png"
@@ -594,13 +606,6 @@ window.GUIDE_DATA = {
       "number": 47,
       "name": "Universal Century",
       "programmes": [
-        {
-          "title": "Gundam: Requiem for Vengeance",
-          "start": "2026-11-26T04:23:48-06:00",
-          "stop": "2026-11-26T04:47:57-06:00",
-          "episode_title": "The River",
-          "description": "Captain Solari’s convoy ambushes an EFF vehicle, but a Zeon patrol jeopardizes the mission before they can reach the outpost."
-        },
         {
           "title": "Gundam: Requiem for Vengeance",
           "start": "2026-11-26T04:47:57-06:00",
@@ -788,6 +793,13 @@ window.GUIDE_DATA = {
           "stop": "2026-11-26T10:59:09-06:00",
           "episode_title": "Eve of Chaos",
           "description": "Kira survives, against all odds, as Shinn and Ahtrun have a falling out."
+        },
+        {
+          "title": "Mobile Suit Gundam Seed Destiny",
+          "start": "2026-11-26T10:59:09-06:00",
+          "stop": "2026-11-26T11:23:58-06:00",
+          "episode_title": "Athrun on the Run",
+          "description": "Athrun, after being framed a traitor, escapes with Meyrin Hawke."
         }
       ],
       "logo": "logos/48.png"
@@ -908,13 +920,6 @@ window.GUIDE_DATA = {
       "programmes": [
         {
           "title": "Stargate Atlantis",
-          "start": "2026-11-26T04:15:20-06:00",
-          "stop": "2026-11-26T05:00:43-06:00",
-          "episode_title": "Vegas",
-          "description": "In the city of Las Vegas in an alternate reality, police Detective John Sheppard investigates a series of bizarre murders where each body appears to have desiccated. He is soon called to Area 51, where Dr. Rodney McKay explains the situation."
-        },
-        {
-          "title": "Stargate Atlantis",
           "start": "2026-11-26T05:00:43-06:00",
           "stop": "2026-11-26T05:45:31-06:00",
           "episode_title": "Enemy at the Gate",
@@ -954,6 +959,13 @@ window.GUIDE_DATA = {
           "stop": "2026-11-26T10:51:39-06:00",
           "episode_title": "Bloodlines",
           "description": "Teal'c returns to Chulak to stop his people from implanting his son with a larval Goa'uld."
+        },
+        {
+          "title": "Stargate SG-1",
+          "start": "2026-11-26T10:51:39-06:00",
+          "stop": "2026-11-26T11:36:46-06:00",
+          "episode_title": "Fire and Water",
+          "description": "O'Neill, Carter and Teal'c return through the Stargate shell-shocked and distressed to announce that Daniel Jackson was killed. But Jackson was captured by the last survivor of an aquatic race, who planted false memories in the other members of SG1. Can the team remember and return to rescue Daniel?"
         }
       ],
       "logo": "logos/65.png"
@@ -1034,13 +1046,6 @@ window.GUIDE_DATA = {
       "number": 72,
       "name": "Comedy",
       "programmes": [
-        {
-          "title": "Barry",
-          "start": "2026-11-26T04:20:43-06:00",
-          "stop": "2026-11-26T04:50:31-06:00",
-          "episode_title": "Chapter Four: Commit ... to YOU",
-          "description": "Barry finds that distancing himself from Fuches and the Chechens might be harder than he thought. Sally is dismayed to learn that an audition arranged by a prospective agent has strings attached. Gene promises Ross a bombshell, but only over dinner. Barry invites a Marine buddy and his two pals to a party, where a rising actor threatens Barry's claim on Sally."
-        },
         {
           "title": "Guardians of the Galaxy: Vol. 2",
           "start": "2026-11-26T04:50:31-06:00",
