@@ -1,25 +1,18 @@
 window.GUIDE_DATA = {
-  "generated_at": "2026-11-26T09:31:27.859578-06:00",
+  "generated_at": "2026-11-26T09:46:26.416304-06:00",
   "timezone": "America/Chicago",
   "source": "tunarr-xmltv",
   "window_hours": 6,
-  "window_start": "2026-11-26T09:31:27.859578-06:00",
-  "window_end": "2026-11-26T15:31:27.859578-06:00",
+  "window_start": "2026-11-26T09:46:26.416304-06:00",
+  "window_end": "2026-11-26T15:46:26.416304-06:00",
   "channel_count": 15,
-  "programme_count": 143,
+  "programme_count": 140,
   "channels": [
     {
       "id": "C2.50.tunarr.com",
       "number": 2,
       "name": "Syndication",
       "programmes": [
-        {
-          "title": "Stargate Infinity",
-          "start": "2026-11-26T09:13:51-06:00",
-          "stop": "2026-11-26T09:36:02-06:00",
-          "episode_title": "Us and Them",
-          "description": "The team arrive on a planet where the natives bear a extremely strong resemblence to Draga. They are contemptous of \"\"rock crawlers\"\" but Draga is drawn to them. But when the Tlak'khan show up the local's powers serve no good. The team helps them and gives them a measure of understanding of other cultures."
-        },
         {
           "title": "Defiance",
           "start": "2026-11-26T09:36:02-06:00",
@@ -154,12 +147,6 @@ window.GUIDE_DATA = {
       "name": "Kidz!",
       "programmes": [
         {
-          "title": "Casper",
-          "start": "2026-11-26T07:57:57-06:00",
-          "stop": "2026-11-26T09:39:00-06:00",
-          "description": "Casper is a kind young ghost who peacefully haunts a mansion in Maine. When specialist James Harvey arrives to communicate with Casper and his fellow spirits, he brings along his teenage daughter, Kat. Casper quickly falls in love with Kat, but their budding relationship is complicated not only by his transparent state, but also by his troublemaking apparition uncles and their mischievous antics."
-        },
-        {
           "title": "Looney Tunes",
           "start": "2026-11-26T09:39:00-06:00",
           "stop": "2026-11-26T09:47:10-06:00",
@@ -254,6 +241,12 @@ window.GUIDE_DATA = {
           "start": "2026-11-26T13:21:45-06:00",
           "stop": "2026-11-26T15:33:46-06:00",
           "description": "U.S. Marshal Sam Gerard is accompanying a plane load of convicts from Chicago to New York. The plane crashes spectacularly, and Mark Sheridan escapes. But when Diplomatic Security Agent John Royce is assigned to help Gerard recapture Sheridan, it becomes clear that Sheridan is more than just another murderer."
+        },
+        {
+          "title": "The Lord of the Rings: The Two Towers",
+          "start": "2026-11-26T15:33:46-06:00",
+          "stop": "2026-11-26T19:09:28-06:00",
+          "description": "In the second part of the Tolkien trilogy, Frodo Baggins and the other members of the Fellowship continue on their sacred quest to destroy the One Ring--but on separate paths. Their destinies lie at two towers--Orthanc Tower in Isengard, where the corrupt wizard Saruman awaits, and Sauron's fortress at Barad-dur, deep within the dark lands of Mordor."
         }
       ],
       "logo": "logos/28.png"
@@ -263,13 +256,6 @@ window.GUIDE_DATA = {
       "number": 32,
       "name": "Japanimation",
       "programmes": [
-        {
-          "title": "KOWLOON GENERIC ROMANCE",
-          "start": "2026-11-26T09:08:22-06:00",
-          "stop": "2026-11-26T09:34:28-06:00",
-          "episode_title": "Episode 13",
-          "description": "As reality and fiction, past and present intwetwine, Reiko witnesses Kudo's memory of Kujirai B's death."
-        },
         {
           "title": "Air Gear",
           "start": "2026-11-26T09:34:28-06:00",
@@ -375,6 +361,13 @@ window.GUIDE_DATA = {
           "stop": "2026-11-26T15:32:47-06:00",
           "episode_title": "Power of Passion",
           "description": "The Black Knights continue their fight against the Chinese, but the battle takes a turn for the worse when the Britannians back the Eunuchs. They no longer care about the empress' wellbeing, meaning Zero may have lost his bargaining chip and the battle."
+        },
+        {
+          "title": "FLCL",
+          "start": "2026-11-26T15:32:47-06:00",
+          "stop": "2026-11-26T15:57:07-06:00",
+          "episode_title": "Marquis de Carabas",
+          "description": "The president of Naota’s class, Ninamori, is no stranger to the dirty deeds of politics. She rigs the vote to cast him as the lead role of their class play. But she gets in over her head after a crashing introduction to Haruko."
         }
       ],
       "logo": "logos/32.png"
@@ -580,13 +573,6 @@ window.GUIDE_DATA = {
       "programmes": [
         {
           "title": "Mobile Suit Gundam",
-          "start": "2026-11-26T09:07:56-06:00",
-          "stop": "2026-11-26T09:33:36-06:00",
-          "episode_title": "Tragedy in Jaburo",
-          "description": "The White Base finally reaches Jaburo general headquarters; Zeon then launches a massive invasion on the base led by Char and his custom Z'Gok."
-        },
-        {
-          "title": "Mobile Suit Gundam",
           "start": "2026-11-26T09:33:36-06:00",
           "stop": "2026-11-26T09:59:16-06:00",
           "episode_title": "A Wish of War Orphans",
@@ -662,13 +648,6 @@ window.GUIDE_DATA = {
       "number": 48,
       "name": "Cosmic Era",
       "programmes": [
-        {
-          "title": "Mobile Suit Gundam Seed Destiny",
-          "start": "2026-11-26T09:19:51-06:00",
-          "stop": "2026-11-26T09:44:42-06:00",
-          "episode_title": "Stella",
-          "description": "The Minerva and Archangel work to stop the Destroy and its destructive rampage through Europe. Shinn is shocked to learn that Stella is the unit's pilot."
-        },
         {
           "title": "Mobile Suit Gundam Seed Destiny",
           "start": "2026-11-26T09:44:42-06:00",
@@ -766,6 +745,13 @@ window.GUIDE_DATA = {
           "stop": "2026-11-26T15:32:01-06:00",
           "episode_title": "Meer",
           "description": "Athrun, Kira, Lacus, and Meyrin read Meer's diary, learning why she aided Durandal."
+        },
+        {
+          "title": "Mobile Suit Gundam Seed Destiny",
+          "start": "2026-11-26T15:32:01-06:00",
+          "stop": "2026-11-26T15:56:48-06:00",
+          "episode_title": "To a New World",
+          "description": "Chairman Durandal calls for the implementation of the \"Destiny Plan\", which is supposed to decide the fate of each individual on a genetic level."
         }
       ],
       "logo": "logos/48.png"
@@ -956,13 +942,6 @@ window.GUIDE_DATA = {
       "name": "Starfleet",
       "programmes": [
         {
-          "title": "Star Trek: Voyager",
-          "start": "2026-11-26T08:55:36-06:00",
-          "stop": "2026-11-26T09:42:27-06:00",
-          "episode_title": "Investigations",
-          "description": "Stardate: 49485.2. After weeks of erratic behavior, Tom Paris leaves Voyager and joins a Talaxian convoy."
-        },
-        {
           "title": "Star Trek: Deep Space Nine",
           "start": "2026-11-26T09:42:27-06:00",
           "stop": "2026-11-26T10:28:37-06:00",
@@ -1021,13 +1000,6 @@ window.GUIDE_DATA = {
       "programmes": [
         {
           "title": "MXC",
-          "start": "2026-11-26T09:21:19-06:00",
-          "stop": "2026-11-26T09:42:15-06:00",
-          "episode_title": "Dairy Workers vs. Automobile Workers",
-          "description": "Dairy Workers vs. Automobile Workers (AKA Cows vs. Cars). Who will win out when its lactose versus lube jobs? Games: Wall Bangers, Get Hard!, Saddle Sores, Swish Bucklers, and the Teetering Temple of Crippling Doom."
-        },
-        {
-          "title": "MXC",
           "start": "2026-11-26T09:42:15-06:00",
           "stop": "2026-11-26T10:03:10-06:00",
           "episode_title": "Cops vs. Cons",
@@ -1079,6 +1051,13 @@ window.GUIDE_DATA = {
           "stop": "2026-11-26T15:43:04-06:00",
           "episode_title": "Chapter Five: Do Your Job",
           "description": "Barry looks to hit the reset button with Sally, but a scene from Macbeth triggers a reaction that pushes them farther apart. Moss moves to interrogate members of Gene's acting class after a shooting video surfaces. Barry finds himself in a quandary after having to team up with a reckless new acquaintance named Taylor in a dangerous mission to wipe out a group of Bolivians."
+        },
+        {
+          "title": "Barry",
+          "start": "2026-11-26T15:43:04-06:00",
+          "stop": "2026-11-26T16:13:54-06:00",
+          "episode_title": "Chapter Six: Listen with Your Ears, React with Your Face",
+          "description": "Barry tries to fly solo at a remote airstrip, but Taylor still wants in; Vacha looks to exact revenge on the man who killed his brother, despite Pazar's hands-off orders; Moss tries to end her association with Gene, but finds herself drawn to his classroom at a critical juncture; Sally lobbies for a major acting challenge."
         }
       ],
       "logo": "logos/72.png"
