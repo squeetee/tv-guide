@@ -17,6 +17,13 @@
       flex-wrap: wrap;
     }
     .header-main { min-width: 0; }
+    .title-row {
+      display: flex;
+      align-items: center;
+      gap: 14px;
+      min-width: 0;
+    }
+    .title-stack { min-width: 0; }
     h1 {
       margin: 0 0 4px;
       font-size: 30px;
@@ -92,8 +99,8 @@
       border-right: 1px solid var(--sq-line);
     }
     .logo {
-      width: 40px;
-      height: 40px;
+      width: 48px;
+      height: 48px;
       flex: none;
       border-radius: 8px;
       background: rgba(0, 0, 0, 0.35);
@@ -107,10 +114,11 @@
       font-size: 14px;
     }
     .logo img { width: 100%; height: 100%; object-fit: contain; display: none; }
+    .logo.has-img { background: #000; }
     .ch-meta { min-width: 0; }
     .ch-num {
       color: var(--sq-accent);
-      font-size: 14px;
+      font-size: 13px;
       font-weight: 700;
       letter-spacing: 0.04em;
     }
@@ -122,22 +130,33 @@
       overflow: hidden;
       text-overflow: ellipsis;
     }
-    .track { position: relative; flex: none; height: var(--row-h); }
+    .track { position: relative; flex: none; height: var(--row-h); overflow: hidden; }
     .prog {
       position: absolute;
       top: 8px;
       bottom: 8px;
+      box-sizing: border-box;
       padding: 6px 8px;
       border-radius: 6px;
       background: var(--sq-surface);
       border: 1px solid var(--sq-line);
       overflow: hidden;
-      min-width: 8px;
+      min-width: 0;
+      max-width: 100%;
     }
     .prog.now {
       background: var(--sq-accent-dim);
       border-color: var(--sq-accent);
     }
+    .prog.tight { padding: 4px 4px; }
+    .prog.tiny {
+      padding: 2px 2px;
+      border-width: 0;
+      border-radius: 4px;
+      box-shadow: inset 0 0 0 1px var(--sq-line);
+    }
+    .prog.tiny.now { box-shadow: inset 0 0 0 1px var(--sq-accent); }
+    .prog.tiny .e, .prog.tiny .when { display: none; }
     .prog .t {
       font-family: var(--sq-font-display);
       font-weight: 700;
@@ -185,21 +204,27 @@
       h1 { font-size: 26px; }
       :root { --ch-w: 168px; --row-h: 92px; }
       .guide-wrap { max-height: calc(100vh - 170px); max-height: calc(100dvh - 170px); }
+      .title-row { align-items: flex-start; }
     }
   </style>
 </head>
 <body class="guide-full">
   <header>
     <div class="header-main">
-      <h1>Live TV Guide</h1>
-      <div class="sub" id="window-label">Loading schedule…</div>
+      <div class="title-row">
+        <a class="sq-btn" href="https://www.squeetee.com">Home</a>
+        <div class="title-stack">
+          <h1>Live TV Guide</h1>
+          <div class="sub" id="window-label">Loading schedule…</div>
+        </div>
+      </div>
     </div>
     <div class="header-actions">
       <a class="sq-btn" href="mailto:squeetee@gmail.com?subject=Requesting%20Plex%20TV%20guide%20access&amp;body=Hi%20Squeetee%2C%20I%27d%20like%20access%20to%20your%20Plex%20TV%20guide.%20My%20name%3A%20">Request access to the TV guide</a>
       <div class="stamp" id="stamp"></div>
     </div>
   </header>
-  <p class="note">Test page. Channel logos point at the local Plex server, so they stay blank when this file is opened off that PC or without Plex image access.</p>
+  <p class="note">Schedule updates about every 15 minutes.</p>
   <div id="root"></div>
   <script>
     function pad(n) { return String(n).padStart(2, "0"); }
@@ -220,6 +245,9 @@
       return String(text == null ? "" : text)
         .replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;").replace(/"/g, "&quot;");
     }
+    function isPublicLogo(value) {
+      return typeof value === "string" && /^logos\/\d+\.(png|jpe?g|gif|webp)$/i.test(value);
+    }
 
     function render(data) {
       const root = document.getElementById("root");
@@ -233,6 +261,7 @@
       const totalMin = Math.max(minutesBetween(start, end), 1);
       const pxMin = parseFloat(getComputedStyle(document.documentElement).getPropertyValue("--px-min")) || 2.4;
       const width = totalMin * pxMin;
+      const gap = 2;
 
       document.getElementById("window-label").textContent =
         formatShort(start) + " – " + formatClock(end) + " CT · " +
@@ -257,18 +286,32 @@
           const pStop = parseTs(p.stop);
           const leftMin = Math.max(0, minutesBetween(start, pStart));
           const rightMin = Math.min(totalMin, minutesBetween(start, pStop));
-          const w = Math.max(rightMin - leftMin, 0.5);
+          const spanMin = Math.max(rightMin - leftMin, 0);
+          if (spanMin <= 0) return "";
+          const leftPx = leftMin * pxMin;
+          const widthPx = Math.max(spanMin * pxMin - gap, 0);
+          if (widthPx <= 0) return "";
           const isNow = now >= pStart && now < pStop;
-          const episode = p.episode_title ? '<div class="e">' + esc(p.episode_title) + "</div>" : "";
-          return '<div class="prog' + (isNow ? " now" : "") + '" style="left:' +
-            (leftMin * pxMin) + "px;width:" + (w * pxMin - 4) + 'px">' +
-            '<div class="t">' + esc(p.title) + "</div>" + episode +
-            '<div class="when">' + formatClock(pStart) + " – " + formatClock(pStop) + "</div></div>";
+          let cls = "prog" + (isNow ? " now" : "");
+          if (widthPx < 28) cls += " tiny";
+          else if (widthPx < 72) cls += " tight";
+          const episode = (p.episode_title && widthPx >= 28)
+            ? '<div class="e">' + esc(p.episode_title) + "</div>" : "";
+          const when = widthPx >= 28
+            ? '<div class="when">' + formatClock(pStart) + " – " + formatClock(pStop) + "</div>" : "";
+          const tip = p.title + (p.episode_title ? " — " + p.episode_title : "") +
+            " (" + formatClock(pStart) + " – " + formatClock(pStop) + ")";
+          return '<div class="' + cls + '" title="' + esc(tip) + '" style="left:' +
+            leftPx + "px;width:" + widthPx + 'px">' +
+            '<div class="t">' + esc(p.title) + "</div>" + episode + when + "</div>";
         }).join("");
-        const logo = "";
+        const num = ch.number == null ? "" : String(ch.number);
+        const logoImg = isPublicLogo(ch.logo)
+          ? '<img alt="' + esc((ch.name || "Channel") + " logo") + '" data-src="' + esc(ch.logo) + '">'
+          : "";
         return '<div class="row"><div class="ch">' +
-          '<div class="logo"><span>' + esc(ch.number == null ? "" : ch.number) + "</span>" + logo + "</div>" +
-          '<div class="ch-meta"><div class="ch-num">CH ' + esc(ch.number == null ? "—" : ch.number) + "</div>" +
+          '<div class="logo"><span>' + esc(num) + "</span>" + logoImg + "</div>" +
+          '<div class="ch-meta"><div class="ch-num">CH ' + esc(num || "—") + "</div>" +
           '<div class="ch-name">' + esc(ch.name) + "</div></div></div>" +
           '<div class="track" style="width:' + width + 'px">' + blocks + "</div></div>";
       }).join("");
@@ -284,6 +327,7 @@
       root.querySelectorAll(".logo img").forEach(function (img) {
         img.onload = function () {
           img.style.display = "block";
+          img.parentElement.classList.add("has-img");
           const fallback = img.parentElement.querySelector("span");
           if (fallback) fallback.style.display = "none";
         };

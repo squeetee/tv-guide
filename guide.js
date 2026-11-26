@@ -1,12 +1,12 @@
 window.GUIDE_DATA = {
-  "generated_at": "2026-11-25T20:46:24.909828-06:00",
+  "generated_at": "2026-11-25T20:57:43.496517-06:00",
   "timezone": "America/Chicago",
   "source": "tunarr-xmltv",
   "window_hours": 12,
-  "window_start": "2026-11-25T20:46:24.909828-06:00",
-  "window_end": "2026-11-26T08:46:24.909828-06:00",
+  "window_start": "2026-11-25T20:57:43.496517-06:00",
+  "window_end": "2026-11-26T08:57:43.496517-06:00",
   "channel_count": 15,
-  "programme_count": 267,
+  "programme_count": 260,
   "channels": [
     {
       "id": "C2.50.tunarr.com",
@@ -115,18 +115,14 @@ window.GUIDE_DATA = {
           "stop": "2026-11-26T08:07:05-06:00",
           "episode_title": "Rascals"
         }
-      ]
+      ],
+      "logo": "logos/2.png"
     },
     {
       "id": "C3.51.tunarr.com",
       "number": 3,
       "name": "The Movie Channel",
       "programmes": [
-        {
-          "title": "The Mummy Returns",
-          "start": "2026-11-25T18:38:18-06:00",
-          "stop": "2026-11-25T20:48:45-06:00"
-        },
         {
           "title": "Draft Day",
           "start": "2026-11-25T20:48:45-06:00",
@@ -167,19 +163,14 @@ window.GUIDE_DATA = {
           "start": "2026-11-26T07:42:00-06:00",
           "stop": "2026-11-26T09:12:05-06:00"
         }
-      ]
+      ],
+      "logo": "logos/3.png"
     },
     {
       "id": "C11.98.tunarr.com",
       "number": 11,
       "name": "Kidz!",
       "programmes": [
-        {
-          "title": "Star Wars: The Clone Wars",
-          "start": "2026-11-25T20:27:54-06:00",
-          "stop": "2026-11-25T20:51:19-06:00",
-          "episode_title": "Duel of the Droids"
-        },
         {
           "title": "Looney Tunes",
           "start": "2026-11-25T20:51:19-06:00",
@@ -337,7 +328,8 @@ window.GUIDE_DATA = {
           "start": "2026-11-26T07:57:57-06:00",
           "stop": "2026-11-26T09:38:06-06:00"
         }
-      ]
+      ],
+      "logo": "logos/11.png"
     },
     {
       "id": "C28.106.tunarr.com",
@@ -386,7 +378,8 @@ window.GUIDE_DATA = {
           "start": "2026-11-26T07:04:04-06:00",
           "stop": "2026-11-26T09:27:14-06:00"
         }
-      ]
+      ],
+      "logo": "logos/28.png"
     },
     {
       "id": "C32.101.tunarr.com",
@@ -579,18 +572,14 @@ window.GUIDE_DATA = {
           "stop": "2026-11-26T08:18:31-06:00",
           "episode_title": "Episode 14"
         }
-      ]
+      ],
+      "logo": "logos/32.png"
     },
     {
       "id": "C33.102.tunarr.com",
       "number": 33,
       "name": "Anime Cinema",
       "programmes": [
-        {
-          "title": "Parasite Dolls",
-          "start": "2026-11-25T19:27:30-06:00",
-          "stop": "2026-11-25T20:55:22-06:00"
-        },
         {
           "title": "Macross 7: The Galaxy Is Calling Me!",
           "start": "2026-11-25T20:55:22-06:00",
@@ -636,19 +625,14 @@ window.GUIDE_DATA = {
           "start": "2026-11-26T07:43:25-06:00",
           "stop": "2026-11-26T09:02:31-06:00"
         }
-      ]
+      ],
+      "logo": "logos/33.png"
     },
     {
       "id": "C45.105.tunarr.com",
       "number": 45,
       "name": "Mobile Suit Network",
       "programmes": [
-        {
-          "title": "SD Gundam Force",
-          "start": "2026-11-25T20:32:54-06:00",
-          "stop": "2026-11-25T20:57:13-06:00",
-          "episode_title": "Episode 43"
-        },
         {
           "title": "SD Gundam Force",
           "start": "2026-11-25T20:57:13-06:00",
@@ -811,7 +795,8 @@ window.GUIDE_DATA = {
           "stop": "2026-11-26T08:15:09-06:00",
           "episode_title": "Spiral of Encounters"
         }
-      ]
+      ],
+      "logo": "logos/45.png"
     },
     {
       "id": "C46.106.tunarr.com",
@@ -878,7 +863,8 @@ window.GUIDE_DATA = {
           "start": "2026-11-26T07:33:46-06:00",
           "stop": "2026-11-26T09:08:13-06:00"
         }
-      ]
+      ],
+      "logo": "logos/46.png"
     },
     {
       "id": "C47.107.tunarr.com",
@@ -1039,19 +1025,14 @@ window.GUIDE_DATA = {
           "start": "2026-11-26T07:24:17-06:00",
           "stop": "2026-11-26T08:15:41-06:00"
         }
-      ]
+      ],
+      "logo": "logos/47.png"
     },
     {
       "id": "C48.108.tunarr.com",
       "number": 48,
       "name": "Cosmic Era",
       "programmes": [
-        {
-          "title": "Mobile Suit Gundam Seed Destiny",
-          "start": "2026-11-25T20:30:05-06:00",
-          "stop": "2026-11-25T20:54:51-06:00",
-          "episode_title": "Warning Shots"
-        },
         {
           "title": "Mobile Suit Gundam Seed Destiny",
           "start": "2026-11-25T20:54:51-06:00",
@@ -1214,7 +1195,8 @@ window.GUIDE_DATA = {
           "stop": "2026-11-26T08:02:59-06:00",
           "episode_title": "A Fleeting Dream"
         }
-      ]
+      ],
+      "logo": "logos/48.png"
     },
     {
       "id": "C56.107.tunarr.com",
@@ -1261,7 +1243,8 @@ window.GUIDE_DATA = {
           "start": "2026-11-26T07:32:13-06:00",
           "stop": "2026-11-26T08:51:49-06:00"
         }
-      ]
+      ],
+      "logo": "logos/56.png"
     },
     {
       "id": "C64.106.tunarr.com",
@@ -1358,19 +1341,14 @@ window.GUIDE_DATA = {
           "stop": "2026-11-26T08:18:58-06:00",
           "episode_title": "Morpheus"
         }
-      ]
+      ],
+      "logo": "logos/64.png"
     },
     {
       "id": "C65.107.tunarr.com",
       "number": 65,
       "name": "Stargate Command",
       "programmes": [
-        {
-          "title": "Stargate Universe",
-          "start": "2026-11-25T20:10:38-06:00",
-          "stop": "2026-11-25T20:53:54-06:00",
-          "episode_title": "Resurgence (1)"
-        },
         {
           "title": "Stargate SG-1",
           "start": "2026-11-25T20:53:54-06:00",
@@ -1461,7 +1439,8 @@ window.GUIDE_DATA = {
           "stop": "2026-11-26T08:40:14-06:00",
           "episode_title": "Rising (1)"
         }
-      ]
+      ],
+      "logo": "logos/65.png"
     },
     {
       "id": "C66.108.tunarr.com",
@@ -1558,19 +1537,14 @@ window.GUIDE_DATA = {
           "stop": "2026-11-26T08:07:55-06:00",
           "episode_title": "Affliction (1)"
         }
-      ]
+      ],
+      "logo": "logos/66.png"
     },
     {
       "id": "C72.105.tunarr.com",
       "number": 72,
       "name": "Comedy",
       "programmes": [
-        {
-          "title": "The Office (US)",
-          "start": "2026-11-25T20:24:13-06:00",
-          "stop": "2026-11-25T20:47:34-06:00",
-          "episode_title": "Health Care"
-        },
         {
           "title": "The Office (US)",
           "start": "2026-11-25T20:47:34-06:00",
@@ -1658,7 +1632,8 @@ window.GUIDE_DATA = {
           "stop": "2026-11-26T08:34:56-06:00",
           "episode_title": "Pilot"
         }
-      ]
+      ],
+      "logo": "logos/72.png"
     }
   ]
 };
