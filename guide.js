@@ -1,25 +1,18 @@
 window.GUIDE_DATA = {
-  "generated_at": "2026-11-26T02:16:24.859425-06:00",
+  "generated_at": "2026-11-26T02:31:24.906164-06:00",
   "timezone": "America/Chicago",
   "source": "tunarr-xmltv",
   "window_hours": 6,
-  "window_start": "2026-11-26T02:16:24.859425-06:00",
-  "window_end": "2026-11-26T08:16:24.859425-06:00",
+  "window_start": "2026-11-26T02:31:24.906164-06:00",
+  "window_end": "2026-11-26T08:31:24.906164-06:00",
   "channel_count": 15,
-  "programme_count": 144,
+  "programme_count": 143,
   "channels": [
     {
       "id": "C2.50.tunarr.com",
       "number": 2,
       "name": "Syndication",
       "programmes": [
-        {
-          "title": "Homeland",
-          "start": "2026-11-26T01:25:25-06:00",
-          "stop": "2026-11-26T02:17:08-06:00",
-          "episode_title": "Fair Game",
-          "description": "Carrie returns home to the US with Franny to work as an advocate for Muslim Americans. Dar and Saul brief President-elect Keane. Quinn struggles with his new circumstances."
-        },
         {
           "title": "Doctor Who (2005)",
           "start": "2026-11-26T02:17:08-06:00",
@@ -135,12 +128,6 @@ window.GUIDE_DATA = {
       "name": "Kidz!",
       "programmes": [
         {
-          "title": "The Polar Express",
-          "start": "2026-11-26T00:50:08-06:00",
-          "stop": "2026-11-26T02:26:48-06:00",
-          "description": "This is the story of a young hero boy who boards on a powerful magical train that's headed to the North Pole and Santa Claus' home on Christmas Eve night. During this ride, he embarks on a journey of self-discovery which shows him that the wonder of life never fades for those who believe."
-        },
-        {
           "title": "Looney Tunes",
           "start": "2026-11-26T02:26:48-06:00",
           "stop": "2026-11-26T02:35:56-06:00",
@@ -223,12 +210,6 @@ window.GUIDE_DATA = {
       "name": "Adrenaline",
       "programmes": [
         {
-          "title": "20,000 Leagues Under the Sea",
-          "start": "2026-11-26T00:47:33-06:00",
-          "stop": "2026-11-26T02:27:09-06:00",
-          "description": "Captain Nemo has built a fantastic submarine for his mission of revenge. He has traveled over 20,000 leagues in search of Charles Denver - a man who caused the death of Princess Daaker. Seeing what he had done, Denver took the daughter to his yacht and sailed away."
-        },
-        {
           "title": "Godzilla",
           "start": "2026-11-26T02:27:09-06:00",
           "stop": "2026-11-26T04:46:46-06:00",
@@ -262,13 +243,6 @@ window.GUIDE_DATA = {
       "number": 32,
       "name": "Japanimation",
       "programmes": [
-        {
-          "title": "Last Exile",
-          "start": "2026-11-26T02:03:57-06:00",
-          "stop": "2026-11-26T02:28:53-06:00",
-          "episode_title": "Before the First Takeoff Special",
-          "description": "Last Exile: Fam, the Silver Wing, the second anime series in Gonzo's Last Exile franchise, will air a special on October 7, one week before the premiere of the actual anime itself. The special program will outline the world of the anime through talk segments with the staff and cast."
-        },
         {
           "title": "I Can't Understand What My Husband Is Saying",
           "start": "2026-11-26T02:28:53-06:00",
@@ -386,6 +360,12 @@ window.GUIDE_DATA = {
           "start": "2026-11-26T07:55:09-06:00",
           "stop": "2026-11-26T08:19:25-06:00",
           "episode_title": "Episode 14"
+        },
+        {
+          "title": "Dragon Ball Super",
+          "start": "2026-11-26T08:19:25-06:00",
+          "stop": "2026-11-26T08:43:41-06:00",
+          "episode_title": "Episode 15"
         }
       ],
       "logo": "logos/32.png"
@@ -689,6 +669,13 @@ window.GUIDE_DATA = {
           "start": "2026-11-26T07:24:17-06:00",
           "stop": "2026-11-26T08:16:35-06:00",
           "description": "In a future war, a young battle robot pilot suspected of being a spy must face court martial. Meanwhile, the home village of a friend of his is threatened by enemy forces."
+        },
+        {
+          "title": "Mobile Suit Gundam",
+          "start": "2026-11-26T08:16:35-06:00",
+          "stop": "2026-11-26T08:42:15-06:00",
+          "episode_title": "A Spy on Board",
+          "description": "Kai Shiden develops a friendship with Miharu Ratokie, a local girl, while Char prepares a second amphibious attack on the Federation at Belfast."
         }
       ],
       "logo": "logos/47.png"
@@ -698,13 +685,6 @@ window.GUIDE_DATA = {
       "number": 48,
       "name": "Cosmic Era",
       "programmes": [
-        {
-          "title": "Mobile Suit Gundam Seed Destiny",
-          "start": "2026-11-26T01:52:04-06:00",
-          "stop": "2026-11-26T02:16:51-06:00",
-          "episode_title": "Struggle in the Indian Ocean",
-          "description": "The Minerva engages Neo Roanoke, and the three stolen Mobile Suits, in a battle over the Indian Ocean."
-        },
         {
           "title": "Mobile Suit Gundam Seed Destiny",
           "start": "2026-11-26T02:16:51-06:00",
@@ -809,6 +789,13 @@ window.GUIDE_DATA = {
           "stop": "2026-11-26T08:28:42-06:00",
           "episode_title": "The Endless Night",
           "description": "Rey and Shinn are arrested, but are given pardon by Chairman Durandal. Stella is given a new Mobile Suit, the Destroy."
+        },
+        {
+          "title": "Mobile Suit Gundam SEED C.E. 73: Stargazer",
+          "start": "2026-11-26T08:28:42-06:00",
+          "stop": "2026-11-26T09:19:51-06:00",
+          "episode_title": "Stage 01",
+          "description": "The world is thrown into chaos after the Break the World incident during the Second Bloody Valentine War. A ZGMF-1017 GINN attacks a city where DSSD members Selene McGriff and Edmond Du Clos are in and causes massive damage until it is stopped by a linear tank commanded by Edmond, who is mortally wounded in his attack. Meanwhile Selene and another DSSD member, Sol Ryuune L’ange, leave for space while Phantom Pain deploys its pilots to fight ZAFT mobile suits that attack an Earth Alliance base."
         }
       ],
       "logo": "logos/48.png"
@@ -911,6 +898,13 @@ window.GUIDE_DATA = {
           "stop": "2026-11-26T08:19:52-06:00",
           "episode_title": "Morpheus",
           "description": "SG-1 investigates a problem off-world and soon finds that they have become victims themselves: they cannot stay awake. Meanwhile, Vala Mal Doran undergoes an evaluation on Earth, hoping to join SG-1."
+        },
+        {
+          "title": "Star Trek: Deep Space Nine",
+          "start": "2026-11-26T08:19:52-06:00",
+          "stop": "2026-11-26T09:06:14-06:00",
+          "episode_title": "Hard Time",
+          "description": "Stardate: Unknown. O'Brien tries to re-integrate to life on the station after serving 20 years in a virtual prison."
         }
       ],
       "logo": "logos/64.png"
