@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-26T06:01:29.329885-06:00",
+  "generated_at": "2026-11-26T06:16:27.530343-06:00",
   "timezone": "America/Chicago",
   "source": "tunarr-xmltv",
   "window_hours": 6,
-  "window_start": "2026-11-26T06:01:29.329885-06:00",
-  "window_end": "2026-11-26T12:01:29.329885-06:00",
+  "window_start": "2026-11-26T06:16:27.530343-06:00",
+  "window_end": "2026-11-26T12:16:27.530343-06:00",
   "channel_count": 15,
-  "programme_count": 137,
+  "programme_count": 140,
   "channels": [
     {
       "id": "C2.50.tunarr.com",
@@ -92,6 +92,13 @@
           "start": "2026-11-26T11:50:47-06:00",
           "stop": "2026-11-26T12:01:31-06:00",
           "episode_title": "Episode 7"
+        },
+        {
+          "title": "The Office (US)",
+          "start": "2026-11-26T12:01:31-06:00",
+          "stop": "2026-11-26T12:24:02-06:00",
+          "episode_title": "Did I Stutter?",
+          "description": "Pam is sporting a new look at work with her glasses. She admits she spent the night at a \"friend's\" house and forgot her contact solution. Michael makes sure to point out that the glasses make her look ugly, and if she wants to be hot, the glasses need to come off."
         }
       ],
       "logo": "logos/2.png"
@@ -139,13 +146,6 @@
       "number": 11,
       "name": "Kidz!",
       "programmes": [
-        {
-          "title": "Swat Kats: The Radical Squadron",
-          "start": "2026-11-26T05:44:02-06:00",
-          "stop": "2026-11-26T06:07:15-06:00",
-          "episode_title": "Metal Urgency",
-          "description": "It's an all out kat-fight to the finish when the Metallikats come storming back in the drivers' seats of two giant hi-tech turbo attack-robots."
-        },
         {
           "title": "Swat Kats: The Radical Squadron",
           "start": "2026-11-26T06:07:15-06:00",
@@ -243,13 +243,6 @@
       "name": "Japanimation",
       "programmes": [
         {
-          "title": "Code Geass: Lelouch of the Rebellion",
-          "start": "2026-11-26T05:48:11-06:00",
-          "stop": "2026-11-26T06:13:13-06:00",
-          "episode_title": "A Bride in the Vermilion Forbidden City",
-          "description": "Lelouch learns the Chinese Empress, Tianzi, is being forced into a political marriage to First Prince Odysseus eu Britannia. The wedding is orchestrated by the High Eunuchs, who will become nobles of Britannia in exchange for turning over half their land to Second Prince Schneizel el Britannia."
-        },
-        {
           "title": "His and Her Circumstances",
           "start": "2026-11-26T06:13:13-06:00",
           "stop": "2026-11-26T06:38:12-06:00",
@@ -344,6 +337,13 @@
           "stop": "2026-11-26T12:05:06-06:00",
           "episode_title": "Vegeta's Pride",
           "description": "Evil Vegeta gives Goku an ultimatum: fight - or watch him annihilate more innocent lives! Goku vows to settle the score between them once and for all, but the Supreme Kai steps between the Saiyans with a bold declaration!"
+        },
+        {
+          "title": "Sakamoto Days",
+          "start": "2026-11-26T12:05:06-06:00",
+          "stop": "2026-11-26T12:31:06-06:00",
+          "episode_title": "The Legendary Hit Man",
+          "description": "Sakamoto enjoys a quiet life in retirement with his family. But one day, an old colleague demands he return to the assassin world — or face consequences."
         }
       ],
       "logo": "logos/32.png"
@@ -353,12 +353,6 @@
       "number": 33,
       "name": "Anime Cinema",
       "programmes": [
-        {
-          "title": "Your Name.",
-          "start": "2026-11-26T04:20:39-06:00",
-          "stop": "2026-11-26T06:08:09-06:00",
-          "description": "High schoolers Mitsuha and Taki are complete strangers living separate lives. But one night, they suddenly switch places. Mitsuha wakes up in Taki’s body, and he in hers. This bizarre occurrence continues to happen randomly, and the two must adjust their lives around each other."
-        },
         {
           "title": "Tenchi Muyo! In Love",
           "start": "2026-11-26T06:08:09-06:00",
@@ -524,6 +518,13 @@
           "stop": "2026-11-26T12:14:36-06:00",
           "episode_title": "Athrun on the Run",
           "description": "Athrun, after being framed a traitor, escapes with Meyrin Hawke."
+        },
+        {
+          "title": "Mobile Suit Gundam Seed Destiny",
+          "start": "2026-11-26T12:14:36-06:00",
+          "stop": "2026-11-26T12:39:26-06:00",
+          "episode_title": "Thunder in the Dark",
+          "description": "With Athrun's Gouf destroyed, Ledonir Kisaka rescues them, bringing them to the Archangel."
         }
       ],
       "logo": "logos/45.png"
@@ -577,13 +578,6 @@
       "number": 47,
       "name": "Universal Century",
       "programmes": [
-        {
-          "title": "Mobile Suit Gundam",
-          "start": "2026-11-26T05:41:32-06:00",
-          "stop": "2026-11-26T06:07:12-06:00",
-          "episode_title": "The Battle of Odessa",
-          "description": "Amuro discovers the Zeon mole, stops a nuclear bomb, and faces off the remaining two members of the Black Tri-Stars as the battle at Odessa continues."
-        },
         {
           "title": "Mobile Suit Gundam: The 08th MS Team",
           "start": "2026-11-26T06:07:12-06:00",
@@ -644,6 +638,13 @@
           "start": "2026-11-26T09:59:16-06:00",
           "stop": "2026-11-26T12:14:07-06:00",
           "description": "After attacks by Char and Garma, White Base crew battle Zeon forces through Asia, Europe, Atlantic on way to Federation HQ. Crewmembers like Amuro, Bright, Kai, Sayla, Mirai, Fraw, Hayato overcome fears, losses to survive."
+        },
+        {
+          "title": "Mobile Suit Gundam MS IGLOO",
+          "start": "2026-11-26T12:14:07-06:00",
+          "stop": "2026-11-26T12:43:32-06:00",
+          "episode_title": "I Saw The Ocean In Jaburo's Skies",
+          "description": "(U.C. 0079.12.03 - 0079.12.07) With Zeon losing their foothold on Earth, the 603rd is given a new project — to infiltrate a prototype weapon into the Federation airspace and attack Federation warships launching from Jaburo. Ensign Werner Holbein, an arrogant naval officer who boasts a proud maritime family tradition, is assigned to the Jotunheim to pilot the mobile diver unit Ze'Gok. However, the testing goes well below expectation, as both Holbein's test drop ends in failure after unable to score any hit with the Ze'Gok. On the third and final drop, Holbein manages to destroy a handful of Federation ships with a direct reentry/free descent before letting loose the attached \"Kuhblume\" beam scatter cannon. Before he could celebrate, two Core Booster II fighters arrived and shot down both the Ze'Gok and the retrieving Gaw carrier, killing Holbein in the process."
         }
       ],
       "logo": "logos/47.png"
@@ -750,6 +751,13 @@
           "stop": "2026-11-26T12:13:37-06:00",
           "episode_title": "A New Flag",
           "description": "ZAFT and its allies attack Heaven's Base."
+        },
+        {
+          "title": "Mobile Suit Gundam Seed Destiny",
+          "start": "2026-11-26T12:13:37-06:00",
+          "stop": "2026-11-26T12:38:24-06:00",
+          "episode_title": "Kira of the Skies",
+          "description": "After a trip to the Mendel Colony, Lacus and the Eternal's location is discovered by ZAFT. Just when it looks bleak for the Eternal, Kira comes to the rescue."
         }
       ],
       "logo": "logos/48.png"
@@ -852,6 +860,13 @@
           "stop": "2026-11-26T12:14:27-06:00",
           "episode_title": "Strange Dogs",
           "description": "The Rocinante crew make a startling discovery on an asteroid. Avasarala and Bobbie contend with the devastation on Earth. Drummer and her family must make a heartbreaking decision. On Ceres, Marco and Filip's struggles turn inward."
+        },
+        {
+          "title": "The Expanse",
+          "start": "2026-11-26T12:14:27-06:00",
+          "stop": "2026-11-26T13:00:32-06:00",
+          "episode_title": "Azure Dragon",
+          "description": "With an unexpected passenger aboard the Rocinante, Holden and crew undertake a dangerous mission that could shift the balance of power in the war. Drummer decides to make an uneasy alliance. Filip wrestles with his guilt."
         }
       ],
       "logo": "logos/64.png"
@@ -973,6 +988,13 @@
           "stop": "2026-11-26T12:01:40-06:00",
           "episode_title": "Deadlock",
           "description": "Stardate: 49548.7. An accident in a plasma cloud duplicates Voyager after they are attacked by the Vidiians. During the aftermath, the ship is severely damaged, Ensign Wildman's baby dies and Harry Kim is sucked into space through a hull breach."
+        },
+        {
+          "title": "Star Trek: Voyager",
+          "start": "2026-11-26T12:01:40-06:00",
+          "stop": "2026-11-26T12:48:29-06:00",
+          "episode_title": "Innocence",
+          "description": "Stardate: Unknown. When Tuvok crashes on a moon, he discovers three small children who believe they are about to die."
         }
       ],
       "logo": "logos/66.png"
