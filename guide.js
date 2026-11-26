@@ -1,10 +1,10 @@
 window.GUIDE_DATA = {
-  "generated_at": "2026-11-25T21:47:34.596068-06:00",
+  "generated_at": "2026-11-25T22:01:24.710427-06:00",
   "timezone": "America/Chicago",
   "source": "tunarr-xmltv",
   "window_hours": 6,
-  "window_start": "2026-11-25T21:47:34.596068-06:00",
-  "window_end": "2026-11-26T03:47:34.596068-06:00",
+  "window_start": "2026-11-25T22:01:24.710427-06:00",
+  "window_end": "2026-11-26T04:01:24.710427-06:00",
   "channel_count": 15,
   "programme_count": 142,
   "channels": [
@@ -13,12 +13,6 @@ window.GUIDE_DATA = {
       "number": 2,
       "name": "Syndication",
       "programmes": [
-        {
-          "title": "Battlestar Galactica",
-          "start": "2026-11-25T21:08:58-06:00",
-          "stop": "2026-11-25T21:50:56-06:00",
-          "episode_title": "Episode 7"
-        },
         {
           "title": "MXC",
           "start": "2026-11-25T21:50:56-06:00",
@@ -121,13 +115,6 @@ window.GUIDE_DATA = {
       "number": 11,
       "name": "Kidz!",
       "programmes": [
-        {
-          "title": "Voltron: Legendary Defender",
-          "start": "2026-11-25T21:32:20-06:00",
-          "stop": "2026-11-25T21:56:54-06:00",
-          "episode_title": "Reunion",
-          "description": "Pidge gets information that prompts her to embark on an important solo mission to the far reaches of the universe."
-        },
         {
           "title": "Looney Tunes",
           "start": "2026-11-25T21:56:54-06:00",
@@ -260,13 +247,6 @@ window.GUIDE_DATA = {
       "programmes": [
         {
           "title": "Great Teacher Onizuka",
-          "start": "2026-11-25T21:27:38-06:00",
-          "stop": "2026-11-25T21:52:41-06:00",
-          "episode_title": "Matters of the Heart",
-          "description": "Since Yoshikawa helped me in the sea, Kyoko's appearance has been strange. Yoshikawa appears in a dream, and his eyes are anxious. Around that time, the vice-principal, who was dying in the sea, was struck by the kind heart of the girl student who came all the way to visit him, and once again decided to return to his original intentions."
-        },
-        {
-          "title": "Great Teacher Onizuka",
           "start": "2026-11-25T21:52:41-06:00",
           "stop": "2026-11-25T22:17:43-06:00",
           "episode_title": "Confessions",
@@ -374,6 +354,13 @@ window.GUIDE_DATA = {
           "stop": "2026-11-26T03:55:58-06:00",
           "episode_title": "The Winter Rose Garden Edict",
           "description": "The news of Fleet Admiral Bucock's death reaches Iserlohn. The Yang declares a mourning period for Bucock. Lebello is assassinated by his subordinates. The Alliance government surrenders unconditionally. On February 9th, Reinhard lands on Heinessen. The Imperial soldiers discover low level bureaucrats unwilling to surrender public documents, records, or property to the Empire. Reinhard commends on how the Alliance perished precisely because such remarkable government servants were kept below positions of governance. Reinhard disgusted over treachery, then declares death upon Lebello's killers. February 20th, 800 S.C. / 2 N.I.C.: The 273 history of the Free Planets Alliance ended."
+        },
+        {
+          "title": "Legend of the Galactic Heroes",
+          "start": "2026-11-26T03:55:58-06:00",
+          "stop": "2026-11-26T04:23:56-06:00",
+          "episode_title": "The Long Road Ahead",
+          "description": "Von Lohengramm, Yang and Rubinsky contemplate their next moves. Yang talks with Julian about democracy and militarism."
         }
       ],
       "logo": "logos/32.png"
@@ -421,13 +408,6 @@ window.GUIDE_DATA = {
       "number": 45,
       "name": "Mobile Suit Network",
       "programmes": [
-        {
-          "title": "Mobile Suit Gundam",
-          "start": "2026-11-25T21:26:47-06:00",
-          "stop": "2026-11-25T21:52:26-06:00",
-          "episode_title": "Gundam Rising",
-          "description": "Civilian Amuro Ray is forced to pilot a prototype Federation mobile suit when enemy Zeon mobile suits attack his home space colony ."
-        },
         {
           "title": "Mobile Suit Gundam 0083: Stardust Memory",
           "start": "2026-11-25T21:52:26-06:00",
@@ -509,6 +489,13 @@ window.GUIDE_DATA = {
           "stop": "2026-11-26T03:51:22-06:00",
           "episode_title": "Operation Meteor I: Odd Numbers",
           "description": "Feature-length episode recapping events from the Gundam Wing TV series from the point of view of Heero, Trowa and Wufei. The episode also features brief amounts of new footage of the characters after the events of the TV series."
+        },
+        {
+          "title": "Mobile Suit Gundam",
+          "start": "2026-11-26T03:51:22-06:00",
+          "stop": "2026-11-26T04:17:02-06:00",
+          "episode_title": "Escape From Luna II",
+          "description": "After arriving at a Federation asteroid military base, the White Base is confiscated and its crew are arrested for violating military protocol by allowing civilians to use top secret government property."
         }
       ],
       "logo": "logos/45.png"
@@ -550,13 +537,6 @@ window.GUIDE_DATA = {
       "number": 47,
       "name": "Universal Century",
       "programmes": [
-        {
-          "title": "Mobile Suit Gundam",
-          "start": "2026-11-25T21:29:04-06:00",
-          "stop": "2026-11-25T21:54:45-06:00",
-          "episode_title": "Amuro Deserts",
-          "description": "Bright Noa decides to relieve Amuro as pilot of the Gundam after a tactical blunder made by the latter on the field of battle nearly results in defeat."
-        },
         {
           "title": "Mobile Suit Gundam",
           "start": "2026-11-25T21:54:45-06:00",
@@ -654,6 +634,13 @@ window.GUIDE_DATA = {
           "stop": "2026-11-26T03:58:09-06:00",
           "episode_title": "Junkyard",
           "description": "Awakening from a nightmare, Captain Solari finds the base in ruins. She later rallies weary mechanics to assemble Zaku II units from spare parts."
+        },
+        {
+          "title": "Gundam: Requiem for Vengeance",
+          "start": "2026-11-26T03:58:09-06:00",
+          "stop": "2026-11-26T04:23:48-06:00",
+          "episode_title": "Night Caller",
+          "description": "With scrappy Zaku II units, Captain Solari and Lesean mount a strong defense against the Federation mobile suits. Later, an unexpected visitor arrives."
         }
       ],
       "logo": "logos/47.png"
@@ -767,6 +754,13 @@ window.GUIDE_DATA = {
           "stop": "2026-11-26T03:55:55-06:00",
           "episode_title": "Past",
           "description": "After a misunderstanding between Athrun, Lunamaria and Meer, Shinn takes advantage of his shore leave by exploring the countryside."
+        },
+        {
+          "title": "Mobile Suit Gundam Seed Destiny",
+          "start": "2026-11-26T03:55:55-06:00",
+          "stop": "2026-11-26T04:20:41-06:00",
+          "episode_title": "Wandering Eyes",
+          "description": "An Earth Alliance fleet, led by Orb forces, heads towards to Black Sea to deal a critical blow to ZAFT. However, a third party is waiting in the wings to stop the battle."
         }
       ],
       "logo": "logos/48.png"
@@ -1081,6 +1075,13 @@ window.GUIDE_DATA = {
           "start": "2026-11-26T02:07:03-06:00",
           "stop": "2026-11-26T03:49:30-06:00",
           "description": "A seemingly routine late-night ferry ride in New York City descends into chaos when an ordinary mouse undergoes a terrifying transformation. This mutated creature unleashes a reign of terror upon the unsuspecting passengers, forcing them to fight for their survival. As the body count rises, the remaining survivors must band together to find a way to escape the deadly vessel and confront the monstrous threat."
+        },
+        {
+          "title": "Barry",
+          "start": "2026-11-26T03:49:30-06:00",
+          "stop": "2026-11-26T04:20:43-06:00",
+          "episode_title": "Chapter Three: Make the Unsafe Choice",
+          "description": "Barry misses an acting class to honor an obligation. The detectives try to piece together a murder puzzle. Sally makes a mistake during an audition, and turns to Barry for comfort. The Chechens rejoice when a legendary assassin arrives."
         }
       ],
       "logo": "logos/72.png"
