@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-11-26T03:16:26.853462-06:00",
+  "generated_at": "2026-11-26T03:31:32.893608-06:00",
   "timezone": "America/Chicago",
   "source": "tunarr-xmltv",
   "window_hours": 6,
-  "window_start": "2026-11-26T03:16:26.853462-06:00",
-  "window_end": "2026-11-26T09:16:26.853462-06:00",
+  "window_start": "2026-11-26T03:31:32.893608-06:00",
+  "window_end": "2026-11-26T09:31:32.893608-06:00",
   "channel_count": 15,
   "programme_count": 143,
   "channels": [
@@ -13,13 +13,6 @@
       "number": 2,
       "name": "Syndication",
       "programmes": [
-        {
-          "title": "Doctor Who (2005)",
-          "start": "2026-11-26T02:17:08-06:00",
-          "stop": "2026-11-26T03:22:33-06:00",
-          "episode_title": "The Eleventh Hour",
-          "description": "The Doctor has regenerated into a brand new man, but danger strikes before he can even recover. With the TARDIS wrecked, and the sonic screwdriver destroyed, the new Doctor has just 20 minutes to save the whole world - and only Amy Pond to help him."
-        },
         {
           "title": "Doctor Who (2005)",
           "start": "2026-11-26T03:22:33-06:00",
@@ -242,6 +235,12 @@
           "start": "2026-11-26T07:04:04-06:00",
           "stop": "2026-11-26T09:28:08-06:00",
           "description": "When Bond's latest assignment goes gravely wrong, agents around the world are exposed and MI6 headquarters is attacked. While M faces challenges to her authority and position from Gareth Mallory, the new Chairman of the Intelligence and Security Committee, it's up to Bond, aided only by field agent Eve, to locate the mastermind behind the attack."
+        },
+        {
+          "title": "Big Trouble in Little China",
+          "start": "2026-11-26T09:28:08-06:00",
+          "stop": "2026-11-26T11:08:45-06:00",
+          "description": "Truck driver Jack Burton gets embroiled in a supernatural battle when his best friend Wang Chi's green-eyed fiancée is kidnapped by henchmen of the sorcerer Lo Pan, who must marry a girl with green eyes in order to return to the human realm."
         }
       ],
       "logo": "logos/28.png"
@@ -251,13 +250,6 @@
       "number": 32,
       "name": "Japanimation",
       "programmes": [
-        {
-          "title": "Last Exile",
-          "start": "2026-11-26T03:02:46-06:00",
-          "stop": "2026-11-26T03:28:03-06:00",
-          "episode_title": "First Move",
-          "description": "Claus and Lavie are childhood friends whose fathers were also friends who died attempting to cross the \"Grand Rapids.\" Not long after that happened Claus's mother passed away, and the two kids teach themselves how to fly their inherited \"Vanship,\" doing various courier jobs for income. While still quite young they become a master flying team and take a job that embroils them in an epic war for dominance of the planet."
-        },
         {
           "title": "Legend of the Galactic Heroes",
           "start": "2026-11-26T03:28:03-06:00",
@@ -523,6 +515,13 @@
           "stop": "2026-11-26T09:31:03-06:00",
           "episode_title": "Reccoa's Shadow",
           "description": "Jerid continues his pursuit as Char, Kamille, and Amuro plan their return to space. Yazan attacks the Argama in space while Reccoa, now on the Alexandria views the battle and helps the mobile suits pilots escape the AEUG."
+        },
+        {
+          "title": "Mobile Suit Zeta Gundam",
+          "start": "2026-11-26T09:31:03-06:00",
+          "stop": "2026-11-26T09:56:11-06:00",
+          "episode_title": "By the Lake",
+          "description": "Bask Om and Jamitov discuss strategy on Gryps while Kamille and the others attempt to relax at Colony 13. Rosamia runs into Kamille there and tells him she's his little sister. As Kamille, Fa, Rosamia, Shinta and Qum relax on the lake, they see Haman and Mineva nearby. Meanwhile, Char has his hands full with Mobile Suits that he spots."
         }
       ],
       "logo": "logos/45.png"
@@ -695,13 +694,6 @@
       "programmes": [
         {
           "title": "Mobile Suit Gundam Seed Destiny",
-          "start": "2026-11-26T03:06:23-06:00",
-          "stop": "2026-11-26T03:31:09-06:00",
-          "episode_title": "The Hidden Truth",
-          "description": "Shinn narrates a series of flashbacks covering the events that have transpired in Gundam SEED and SEED Destiny."
-        },
-        {
-          "title": "Mobile Suit Gundam Seed Destiny",
           "start": "2026-11-26T03:31:09-06:00",
           "stop": "2026-11-26T03:55:55-06:00",
           "episode_title": "Past",
@@ -790,6 +782,13 @@
           "stop": "2026-11-26T09:19:51-06:00",
           "episode_title": "Stage 01",
           "description": "The world is thrown into chaos after the Break the World incident during the Second Bloody Valentine War. A ZGMF-1017 GINN attacks a city where DSSD members Selene McGriff and Edmond Du Clos are in and causes massive damage until it is stopped by a linear tank commanded by Edmond, who is mortally wounded in his attack. Meanwhile Selene and another DSSD member, Sol Ryuune L’ange, leave for space while Phantom Pain deploys its pilots to fight ZAFT mobile suits that attack an Earth Alliance base."
+        },
+        {
+          "title": "Mobile Suit Gundam Seed Destiny",
+          "start": "2026-11-26T09:19:51-06:00",
+          "stop": "2026-11-26T09:44:42-06:00",
+          "episode_title": "Stella",
+          "description": "The Minerva and Archangel work to stop the Destroy and its destructive rampage through Europe. Shinn is shocked to learn that Stella is the unit's pilot."
         }
       ],
       "logo": "logos/48.png"
@@ -908,13 +907,6 @@
       "number": 65,
       "name": "Stargate Command",
       "programmes": [
-        {
-          "title": "Stargate SG-1",
-          "start": "2026-11-26T02:45:07-06:00",
-          "stop": "2026-11-26T03:30:13-06:00",
-          "episode_title": "The Nox",
-          "description": "With the Stargate program in danger of being terminated, the team is under pressure to find new technology. Visiting a planet where they believe there is a creature that possesses the secret of invisibility, they encounter Apophis and his guards. Both sides receiving mortal wounds, they are aided by the planet's inhabitants, the Nox, a gentle people with a very large secret."
-        },
         {
           "title": "Stargate SG-1",
           "start": "2026-11-26T03:30:13-06:00",
@@ -1082,6 +1074,13 @@
           "stop": "2026-11-26T09:21:19-06:00",
           "episode_title": "Resonance",
           "description": "Pete and Myka are after a team of bank robbers who have a distinctive weapon. Meanwhile, Artie examines the security breach at the warehouse."
+        },
+        {
+          "title": "MXC",
+          "start": "2026-11-26T09:21:19-06:00",
+          "stop": "2026-11-26T09:42:15-06:00",
+          "episode_title": "Dairy Workers vs. Automobile Workers",
+          "description": "Dairy Workers vs. Automobile Workers (AKA Cows vs. Cars). Who will win out when its lactose versus lube jobs? Games: Wall Bangers, Get Hard!, Saddle Sores, Swish Bucklers, and the Teetering Temple of Crippling Doom."
         }
       ],
       "logo": "logos/72.png"
