@@ -1,10 +1,10 @@
 window.GUIDE_DATA = {
-  "generated_at": "2026-11-26T10:16:25.813778-06:00",
+  "generated_at": "2026-11-26T10:31:25.912325-06:00",
   "timezone": "America/Chicago",
   "source": "tunarr-xmltv",
   "window_hours": 6,
-  "window_start": "2026-11-26T10:16:25.813778-06:00",
-  "window_end": "2026-11-26T16:16:25.813778-06:00",
+  "window_start": "2026-11-26T10:31:25.912325-06:00",
+  "window_end": "2026-11-26T16:31:25.912325-06:00",
   "channel_count": 15,
   "programme_count": 138,
   "channels": [
@@ -13,13 +13,6 @@ window.GUIDE_DATA = {
       "number": 2,
       "name": "Syndication",
       "programmes": [
-        {
-          "title": "Defiance",
-          "start": "2026-11-26T09:36:02-06:00",
-          "stop": "2026-11-26T10:18:47-06:00",
-          "episode_title": "This Woman's Work",
-          "description": "After an Arkfall crash, Pottinger recruits Nolan to lead their salvage mission but his secret agenda puts them in grave danger against an alien race they've never encountered before. Meanwhile Stahma, rebuked by church elders for her growing sense of female empowerment, makes a shocking power play, while Irisa begins confiding her dark secrets to Tommy."
-        },
         {
           "title": "Defiance",
           "start": "2026-11-26T10:18:47-06:00",
@@ -217,6 +210,13 @@ window.GUIDE_DATA = {
           "stop": "2026-11-26T16:30:58-06:00",
           "episode_title": "Black Site",
           "description": "An internal struggle for power erupts within the Galra. Pidge returns to the castle with some precious cargo. The team gets a cow."
+        },
+        {
+          "title": "Voltron: Legendary Defender",
+          "start": "2026-11-26T16:30:58-06:00",
+          "stop": "2026-11-26T16:55:32-06:00",
+          "episode_title": "The Voltron Show!",
+          "description": "Coran gets carried away with turning the Paladins into intergalactic stars when he designs an elaborate, effects-filled live tour of the universe."
         }
       ],
       "logo": "logos/11.png"
@@ -258,13 +258,6 @@ window.GUIDE_DATA = {
       "number": 32,
       "name": "Japanimation",
       "programmes": [
-        {
-          "title": "Air Gear",
-          "start": "2026-11-26T09:59:17-06:00",
-          "stop": "2026-11-26T10:24:06-06:00",
-          "episode_title": "The Battle for Agito's Documents!",
-          "description": "It's time for the school trip to Kyoto, but there's a problem - Akito can't afford it. Ikki's team will leave no man behind, so they set out to get some money from Kaito."
-        },
         {
           "title": ".hack//SIGN",
           "start": "2026-11-26T10:24:06-06:00",
@@ -370,6 +363,13 @@ window.GUIDE_DATA = {
           "stop": "2026-11-26T16:22:55-06:00",
           "episode_title": "Furi Kiri (Full Swing)",
           "description": "There’s a guy claiming to know Haruko and why she’s using Naota’s head as a portal for oversized battling robots. It’s too late, though, as a malfunctioning satellite is heading straight for them and it’s up to Naota to stop it!"
+        },
+        {
+          "title": "Hunter x Hunter",
+          "start": "2026-11-26T16:22:55-06:00",
+          "stop": "2026-11-26T16:47:25-06:00",
+          "episode_title": "Rivals x For x Survival",
+          "description": "With the navigators' help, Gon, Kurapika and Leorio arrive at Zaban City, the venue of the exam. The navigator leads them to a small restaurant, which is revealed to be the front for the venue. Gon's group is led to an elevator disguised as a back room, which leads a hundred floors underground. Below, they meet the rest of the participants and given their numbers. There they meet Tonpa, a regular participant who claims to have tried and failed 35 times in the exam."
         }
       ],
       "logo": "logos/32.png"
@@ -411,13 +411,6 @@ window.GUIDE_DATA = {
       "number": 45,
       "name": "Mobile Suit Network",
       "programmes": [
-        {
-          "title": "Gundam Build Fighters",
-          "start": "2026-11-26T10:03:12-06:00",
-          "stop": "2026-11-26T10:28:13-06:00",
-          "episode_title": "Gunpla Eve",
-          "description": "A festival is held in Shizuoka one week before the final round of the tournament, where guests can participate in Free Battle rounds against the championship's competitors. Meanwhile, Nils and Caroline follow a truck that leads them to the source of Plavsky particles."
-        },
         {
           "title": "Gundam Build Fighters",
           "start": "2026-11-26T10:28:13-06:00",
@@ -513,6 +506,13 @@ window.GUIDE_DATA = {
           "stop": "2026-11-26T16:24:52-06:00",
           "episode_title": "Operation Meteor I: Even Numbers",
           "description": "Feature-length episode recapping events from the Gundam Wing TV series from the point of view of Duo and Quatre. The episode also features brief amounts of new footage of the characters after the events of the TV series."
+        },
+        {
+          "title": "Mobile Suit Gundam Wing",
+          "start": "2026-11-26T16:24:52-06:00",
+          "stop": "2026-11-26T17:24:48-06:00",
+          "episode_title": "Operation Meteor II: Odd Numbers II",
+          "description": "Feature-length episode recapping events from the Gundam Wing TV series from the point of view of Heero, Trowa and Wufei. The episode also features brief amounts of new footage of the characters after the events of the TV series."
         }
       ],
       "logo": "logos/45.png"
@@ -740,6 +740,13 @@ window.GUIDE_DATA = {
           "stop": "2026-11-26T16:21:35-06:00",
           "episode_title": "Rey",
           "description": "Shinn and Rey are transferred to Messiah. Shinn is confronted by Durandal and Rey and finally decides to follow the course of action pointed out by them. The Minerva arrives at Station One and begins its attack on the Archangel and Eternal."
+        },
+        {
+          "title": "Mobile Suit Gundam Seed Destiny",
+          "start": "2026-11-26T16:21:35-06:00",
+          "stop": "2026-11-26T16:46:22-06:00",
+          "episode_title": "The Final Power",
+          "description": "Kira in the Strike Freedom is confronted by Rey in the Legend. Meanwhile, Athrun in the Infinite Justice battles Lunamaria in the Impulse and Shinn in the Destiny. An all out attack happens against the Requiem, ending the second Bloody Valentine war."
         }
       ],
       "logo": "logos/48.png"
@@ -923,13 +930,6 @@ window.GUIDE_DATA = {
       "number": 66,
       "name": "Starfleet",
       "programmes": [
-        {
-          "title": "Star Trek: Deep Space Nine",
-          "start": "2026-11-26T09:42:27-06:00",
-          "stop": "2026-11-26T10:28:37-06:00",
-          "episode_title": "Time's Orphan",
-          "description": "Stardate: Unknown. The Chief's daughter gets caught in a time displacement and when they get her back, she is considerably older."
-        },
         {
           "title": "Star Trek: Deep Space Nine",
           "start": "2026-11-26T10:28:37-06:00",
