@@ -1,12 +1,12 @@
 window.GUIDE_DATA = {
-  "generated_at": "2026-11-26T07:31:28.837467-06:00",
+  "generated_at": "2026-11-26T07:46:47.274061-06:00",
   "timezone": "America/Chicago",
   "source": "tunarr-xmltv",
   "window_hours": 6,
-  "window_start": "2026-11-26T07:31:28.837467-06:00",
-  "window_end": "2026-11-26T13:31:28.837467-06:00",
+  "window_start": "2026-11-26T07:46:47.274061-06:00",
+  "window_end": "2026-11-26T13:46:47.274061-06:00",
   "channel_count": 15,
-  "programme_count": 139,
+  "programme_count": 136,
   "channels": [
     {
       "id": "C2.50.tunarr.com",
@@ -94,6 +94,12 @@ window.GUIDE_DATA = {
           "stop": "2026-11-26T13:33:51-06:00",
           "episode_title": "Prisoners",
           "description": "The Republic and Gungan forces have been captured by Riff Tamson and his Karkarodon enforcers. Now, it is up to Ahsoka and the young Prince Lee-Char to unite the fractured people of Mon Cala and drive out the Separatist invaders."
+        },
+        {
+          "title": "Looney Tunes",
+          "start": "2026-11-26T13:33:51-06:00",
+          "stop": "2026-11-26T13:48:09-06:00",
+          "episode_title": "Episode 8"
         }
       ],
       "logo": "logos/2.png"
@@ -103,12 +109,6 @@ window.GUIDE_DATA = {
       "number": 3,
       "name": "The Movie Channel",
       "programmes": [
-        {
-          "title": "Lady and the Tramp II: Scamp's Adventure",
-          "start": "2026-11-26T06:34:53-06:00",
-          "stop": "2026-11-26T07:42:00-06:00",
-          "description": "The son of Lady and the Tramp, Scamp, escapes home to travel on an adventure. Along the way, he meets a group of street dogs who know the past of his parents and do everything that they can to recruit him and make him forget about his family forever."
-        },
         {
           "title": "No Code of Conduct",
           "start": "2026-11-26T07:42:00-06:00",
@@ -141,12 +141,6 @@ window.GUIDE_DATA = {
       "number": 11,
       "name": "Kidz!",
       "programmes": [
-        {
-          "title": "Kim Possible: So the Drama",
-          "start": "2026-11-26T06:30:10-06:00",
-          "stop": "2026-11-26T07:42:05-06:00",
-          "description": "As they are on their next adventure and mission, Kim and Ron reflect on their own lives and everything that they have been through together. They both need to figure out what is next in their own lives and how it all affects their friendship and relationship."
-        },
         {
           "title": "Looney Tunes",
           "start": "2026-11-26T07:42:05-06:00",
@@ -208,6 +202,12 @@ window.GUIDE_DATA = {
           "start": "2026-11-26T13:29:02-06:00",
           "stop": "2026-11-26T13:37:41-06:00",
           "episode_title": "Episode 3"
+        },
+        {
+          "title": "Looney Tunes",
+          "start": "2026-11-26T13:37:41-06:00",
+          "stop": "2026-11-26T13:47:10-06:00",
+          "episode_title": "Episode 4"
         }
       ],
       "logo": "logos/11.png"
@@ -358,12 +358,6 @@ window.GUIDE_DATA = {
       "number": 33,
       "name": "Anime Cinema",
       "programmes": [
-        {
-          "title": "Tenchi Muyo! In Love",
-          "start": "2026-11-26T06:08:09-06:00",
-          "stop": "2026-11-26T07:43:25-06:00",
-          "description": "Tenchi and co. find their existence unsettled by a time-travelling entity called Kain. Desiring revenge upon the Juraian emperor, Tenchi, Kain travels back in time to kill Tenchi's mother. Trying to preserve the timestream, Tenchi and friends follow him back. Unfortunately, Tenchi must also deal with the pain that seeing his mother causes him. Since she died in the future, seeing her alive in the past reopens his old wounds."
-        },
         {
           "title": "Martian Successor Nadesico: The Motion Picture - Prince of Darkness",
           "start": "2026-11-26T07:43:25-06:00",
@@ -534,12 +528,6 @@ window.GUIDE_DATA = {
       "name": "Gundam Theater",
       "programmes": [
         {
-          "title": "Mobile Suit Gundam: Twilight AXIS Remain of the Red",
-          "start": "2026-11-26T07:06:18-06:00",
-          "stop": "2026-11-26T07:33:46-06:00",
-          "description": "Set months after the events of Mobile Suit Gundam Unicorn, the story focuses on two former Principality of Zeon Remnants, Former Weapons Developer Arlette Almage and Former Test Pilot Danton Hyleg. Both of them are hired by the Earth Federation Forces research team to investigate the remains of the asteroid base Axis. But upon their arrival, they encounter a Cyber Newtype, Quentin Fermo, who pilots the mysterious mobile suit, the RX-78AN-01 Gundam AN-01. Tristan attacks them for unknown reasons."
-        },
-        {
           "title": "Mobile Suit Zeta Gundam - A New Translation I: Heirs to the Stars",
           "start": "2026-11-26T07:33:46-06:00",
           "stop": "2026-11-26T09:09:07-06:00",
@@ -631,6 +619,13 @@ window.GUIDE_DATA = {
           "stop": "2026-11-26T13:34:59-06:00",
           "episode_title": "The Shuddering Mountain (1)",
           "description": "The Federation Forces begin their assault on the Apsalus development base. The 08th MS Team is assigned to escort a Guntank team into firing position, but Norris's Gouf Custom swiftly dispatches two of the Guntanks. Can the team save the last one?"
+        },
+        {
+          "title": "Mobile Suit Gundam: The 08th MS Team",
+          "start": "2026-11-26T13:34:59-06:00",
+          "stop": "2026-11-26T14:00:58-06:00",
+          "episode_title": "The Shuddering Mountain (2)",
+          "description": "The Apsalus cuts loose with its devastating mega particle cannon. As the Federation's Colonel Ryer and Zeon's Ginius Sakhalin escalate the fighting, Shiro and Aina transcend the division between the two sides to face their final challenge."
         }
       ],
       "logo": "logos/47.png"
@@ -640,13 +635,6 @@ window.GUIDE_DATA = {
       "number": 48,
       "name": "Cosmic Era",
       "programmes": [
-        {
-          "title": "Mobile Suit Gundam Seed Destiny",
-          "start": "2026-11-26T07:14:16-06:00",
-          "stop": "2026-11-26T07:39:04-06:00",
-          "episode_title": "Fates",
-          "description": "As Durandal plays a lonely game of chess, he reflects upon the past, and the philosophy of his dear friend, Rau Le Creuset."
-        },
         {
           "title": "Mobile Suit Gundam Seed Destiny",
           "start": "2026-11-26T07:39:04-06:00",
@@ -754,12 +742,6 @@ window.GUIDE_DATA = {
       "name": "Fright Night",
       "programmes": [
         {
-          "title": "Backrooms",
-          "start": "2026-11-26T05:40:50-06:00",
-          "stop": "2026-11-26T07:32:13-06:00",
-          "description": "A strange doorway appears in the basement of a furniture showroom, leading to an endless network of interconnected rooms where time bends and the only thing scarier than getting lost is the sense that something is lying in wait."
-        },
-        {
           "title": "The Box",
           "start": "2026-11-26T07:32:13-06:00",
           "stop": "2026-11-26T08:52:43-06:00",
@@ -791,13 +773,6 @@ window.GUIDE_DATA = {
       "number": 64,
       "name": "Sci-Fi",
       "programmes": [
-        {
-          "title": "Stargate SG-1",
-          "start": "2026-11-26T06:50:55-06:00",
-          "stop": "2026-11-26T07:35:23-06:00",
-          "episode_title": "Flesh and Blood",
-          "description": "As the Ori invade the Jaffa planet Chulak, Vala and Daniel must deal with their leader: Vala's young daughter, rapidly aged by the Ori to serve their purposes."
-        },
         {
           "title": "Stargate SG-1",
           "start": "2026-11-26T07:35:23-06:00",
@@ -974,6 +949,13 @@ window.GUIDE_DATA = {
           "stop": "2026-11-26T13:31:55-06:00",
           "episode_title": "Preemptive Strike",
           "description": "Stardate: 47941.7. Fresh from Starfleet's Advanced Tactical Training course, Ro Laren is assigned to infiltrate the Maquis. However, over time she begins to sympathize with them, which forces her to choose between her loyalty to the Federation, and her new friends in the Maquis."
+        },
+        {
+          "title": "Star Trek: The Next Generation",
+          "start": "2026-11-26T13:31:55-06:00",
+          "stop": "2026-11-26T15:03:14-06:00",
+          "episode_title": "All Good Things...",
+          "description": "Stardate: 47988.0. Shortly after Picard is diagnosed with a long-term, potentially debilitating brain disorder, he starts experiencing bizarre shifts into three main time periods: 25 years into the future, a few days before the Enterprise-D is sent on its mission to Farpoint station, and the present. Picard realizes that Q is behind these shifts through time. Stardate: 47988.1. After his encounter with Q, Picard assembles the senior staff, and wonders if Q is actually giving him a chance to save humanity by showing him that the spatial anomaly also exists in the past. As they talk, the ship reaches the Neutral Zone, then Picard returns to the future, where Beverly's ship is also on the edge of the Neutral Zone. He convinces a reluctant Worf to accompany the group into Klingon territory, and then travels to the past, where he orders the crew into the Devron system."
         }
       ],
       "logo": "logos/66.png"
