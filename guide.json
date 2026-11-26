@@ -1,25 +1,18 @@
 {
-  "generated_at": "2026-11-26T12:46:24.967940-06:00",
+  "generated_at": "2026-11-26T13:01:24.941009-06:00",
   "timezone": "America/Chicago",
   "source": "tunarr-xmltv",
   "window_hours": 6,
-  "window_start": "2026-11-26T12:46:24.967940-06:00",
-  "window_end": "2026-11-26T18:46:24.967940-06:00",
+  "window_start": "2026-11-26T13:01:24.941009-06:00",
+  "window_end": "2026-11-26T19:01:24.941009-06:00",
   "channel_count": 15,
-  "programme_count": 141,
+  "programme_count": 138,
   "channels": [
     {
       "id": "C2.50.tunarr.com",
       "number": 2,
       "name": "Syndication",
       "programmes": [
-        {
-          "title": "The Office (US)",
-          "start": "2026-11-26T12:24:02-06:00",
-          "stop": "2026-11-26T12:47:16-06:00",
-          "episode_title": "Job Fair",
-          "description": "Jim is wearing his best golfing uniform because he is hitting the links with a potential client, Phil Maguire. This is a very important account for Jim because he needs to look good to Ryan, who recently put him on probation for his job performance. Andy and Kevin are also joining in the game to show their support."
-        },
         {
           "title": "Star Wars: The Clone Wars",
           "start": "2026-11-26T12:47:16-06:00",
@@ -108,6 +101,13 @@
           "stop": "2026-11-26T19:01:07-06:00",
           "episode_title": "IFF",
           "description": "The Rocinante answers an unexpected distress signal. Bobbie and Avasarala find themselves being hunted by a mysterious captor. UN Secretary-General Sorrento-Gillis brings in a colleague from his past to lend an ear during this crucial time of war."
+        },
+        {
+          "title": "The Expanse",
+          "start": "2026-11-26T19:01:07-06:00",
+          "stop": "2026-11-26T19:46:25-06:00",
+          "episode_title": "Assured Destruction",
+          "description": "As Earth strategizes a costly ploy to gain advantage in the war against Mars, Anna struggles to convince Sorrento-Gillis to do the right thing. Avasarala and Bobbie seek refuge aboard the Rocinante."
         }
       ],
       "logo": "logos/2.png"
@@ -117,12 +117,6 @@
       "number": 3,
       "name": "The Movie Channel",
       "programmes": [
-        {
-          "title": "Meet the Parents",
-          "start": "2026-11-26T11:06:16-06:00",
-          "stop": "2026-11-26T12:54:50-06:00",
-          "description": "Greg Focker is ready to marry his girlfriend, Pam, but before he pops the question, he must win over her formidable father, humorless former CIA agent Jack Byrnes, at the wedding of Pam's sister. As Greg bends over backward to make a good impression, his visit to the Byrnes home turns into a hilarious series of disasters, and everything that can go wrong does, all under Jack's critical, hawklike gaze."
-        },
         {
           "title": "The Lion King II: Simba's Pride",
           "start": "2026-11-26T12:54:50-06:00",
@@ -281,13 +275,6 @@
       "number": 32,
       "name": "Japanimation",
       "programmes": [
-        {
-          "title": "Sakamoto Days",
-          "start": "2026-11-26T12:31:06-06:00",
-          "stop": "2026-11-26T12:57:04-06:00",
-          "episode_title": "Vs. Son Hee and Bacho",
-          "description": "While out on an errand, Sakamoto and Shin encounter Lu Shaotang, the daughter of a mafia boss, who's on the run and targeted by twin assassins."
-        },
         {
           "title": "Eureka Seven: AO",
           "start": "2026-11-26T12:57:04-06:00",
@@ -537,12 +524,6 @@
       "name": "Gundam Theater",
       "programmes": [
         {
-          "title": "Mobile Suit Gundam F91",
-          "start": "2026-11-26T10:57:38-06:00",
-          "stop": "2026-11-26T12:58:47-06:00",
-          "description": "After a generation of peace, the Earth Federation's new space colonies becomes a battlefield. To save his friends and family, the reluctant warrior Seabook Arno becomes the pilot of a new Gundam which bears the code name F91."
-        },
-        {
           "title": "Mobile Suit Zeta Gundam - A New Translation III: Love is the Pulse of the Stars",
           "start": "2026-11-26T12:58:47-06:00",
           "stop": "2026-11-26T14:38:34-06:00",
@@ -791,6 +772,12 @@
           "start": "2026-11-26T17:13:28-06:00",
           "stop": "2026-11-26T19:00:03-06:00",
           "description": "An American grandson of the infamous scientist, struggling to prove that his grandfather was not as insane as people believe, is invited to Transylvania, where he discovers the process that reanimates a dead body."
+        },
+        {
+          "title": "The Devil's Child",
+          "start": "2026-11-26T19:00:03-06:00",
+          "stop": "2026-11-26T20:29:30-06:00",
+          "description": "Cherry Holly, a vibrant young nurse is hired by the Hallewell family to care for an infirm old man. A path of discovery changes the course of her life, and the lives of everyone around her. Forced to confront her true identity, Cherry makes a decision that will set her upon a collision course with fate, one she won't ever return from."
         }
       ],
       "logo": "logos/56.png"
@@ -800,13 +787,6 @@
       "number": 64,
       "name": "Sci-Fi",
       "programmes": [
-        {
-          "title": "The Expanse",
-          "start": "2026-11-26T12:14:27-06:00",
-          "stop": "2026-11-26T13:00:32-06:00",
-          "episode_title": "Azure Dragon",
-          "description": "With an unexpected passenger aboard the Rocinante, Holden and crew undertake a dangerous mission that could shift the balance of power in the war. Drummer decides to make an uneasy alliance. Filip wrestles with his guilt."
-        },
         {
           "title": "Star Trek: Voyager",
           "start": "2026-11-26T13:00:32-06:00",
@@ -933,6 +913,13 @@
           "stop": "2026-11-26T18:55:14-06:00",
           "episode_title": "Childhood's End",
           "description": "Sheppard and the team visit a world where no one is over 24 years old -- because of a ritual suicide practice they believe keeps the Wraith at bay."
+        },
+        {
+          "title": "Stargate Universe",
+          "start": "2026-11-26T18:55:14-06:00",
+          "stop": "2026-11-26T19:38:30-06:00",
+          "episode_title": "Alliances",
+          "description": "Camille and Sgt. Greer are trapped when Homeworld Command comes under attack."
         }
       ],
       "logo": "logos/65.png"
@@ -942,13 +929,6 @@
       "number": 66,
       "name": "Starfleet",
       "programmes": [
-        {
-          "title": "Star Trek: Voyager",
-          "start": "2026-11-26T12:01:40-06:00",
-          "stop": "2026-11-26T12:48:29-06:00",
-          "episode_title": "Innocence",
-          "description": "Stardate: Unknown. When Tuvok crashes on a moon, he discovers three small children who believe they are about to die."
-        },
         {
           "title": "Star Trek: The Next Generation",
           "start": "2026-11-26T12:48:29-06:00",
