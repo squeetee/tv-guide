@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-26T07:46:47.274061-06:00",
+  "generated_at": "2026-11-26T08:01:28.076710-06:00",
   "timezone": "America/Chicago",
   "source": "tunarr-xmltv",
   "window_hours": 6,
-  "window_start": "2026-11-26T07:46:47.274061-06:00",
-  "window_end": "2026-11-26T13:46:47.274061-06:00",
+  "window_start": "2026-11-26T08:01:28.076710-06:00",
+  "window_end": "2026-11-26T14:01:28.076710-06:00",
   "channel_count": 15,
-  "programme_count": 136,
+  "programme_count": 144,
   "channels": [
     {
       "id": "C2.50.tunarr.com",
@@ -100,6 +100,19 @@
           "start": "2026-11-26T13:33:51-06:00",
           "stop": "2026-11-26T13:48:09-06:00",
           "episode_title": "Episode 8"
+        },
+        {
+          "title": "Looney Tunes",
+          "start": "2026-11-26T13:48:09-06:00",
+          "stop": "2026-11-26T13:52:09-06:00",
+          "episode_title": "Episode 9"
+        },
+        {
+          "title": "Stargate SG-1",
+          "start": "2026-11-26T13:52:09-06:00",
+          "stop": "2026-11-26T14:34:54-06:00",
+          "episode_title": "Stronghold",
+          "description": "Baal kidnaps Teal'c as part of a plot to brainwash those Jaffa advocating a move toward democracy. Cameron Mitchell learns that an old friend is about to die."
         }
       ],
       "logo": "logos/2.png"
@@ -141,18 +154,6 @@
       "number": 11,
       "name": "Kidz!",
       "programmes": [
-        {
-          "title": "Looney Tunes",
-          "start": "2026-11-26T07:42:05-06:00",
-          "stop": "2026-11-26T07:49:42-06:00",
-          "episode_title": "Episode 7"
-        },
-        {
-          "title": "Looney Tunes",
-          "start": "2026-11-26T07:49:42-06:00",
-          "stop": "2026-11-26T07:57:57-06:00",
-          "episode_title": "Episode 8"
-        },
         {
           "title": "Casper",
           "start": "2026-11-26T07:57:57-06:00",
@@ -208,6 +209,13 @@
           "start": "2026-11-26T13:37:41-06:00",
           "stop": "2026-11-26T13:47:10-06:00",
           "episode_title": "Episode 4"
+        },
+        {
+          "title": "Justice League",
+          "start": "2026-11-26T13:47:10-06:00",
+          "stop": "2026-11-26T14:11:24-06:00",
+          "episode_title": "Hearts and Minds (2)",
+          "description": "Despero's followers attack and John is forced to use a gun when his ring becomes useless due to Despero's mental tampering. While John, Katma, and Hawkgirl are captured, J'onn, Kilowog, and Flash must try to deactivate the mystic flames and deprive Despero of his power."
         }
       ],
       "logo": "logos/11.png"
@@ -249,13 +257,6 @@
       "number": 32,
       "name": "Japanimation",
       "programmes": [
-        {
-          "title": "Outlaw Star",
-          "start": "2026-11-26T07:29:07-06:00",
-          "stop": "2026-11-26T07:55:13-06:00",
-          "episode_title": "The Beautiful Assassin",
-          "description": "Gene and the crew meet up with Fred Luo to secure some much-needed work only to find he’s the target of the deadly assassin, Suzuka. To protect Fred and the promise of new work, Gene faces her!"
-        },
         {
           "title": "Dragon Ball Super",
           "start": "2026-11-26T07:55:13-06:00",
@@ -349,6 +350,24 @@
           "start": "2026-11-26T13:22:27-06:00",
           "stop": "2026-11-26T13:47:51-06:00",
           "episode_title": "Tighten Up - génération bleu"
+        },
+        {
+          "title": "Ikki Tousen",
+          "start": "2026-11-26T13:47:51-06:00",
+          "stop": "2026-11-26T13:50:16-06:00",
+          "episode_title": "Episode 13"
+        },
+        {
+          "title": "Ikki Tousen",
+          "start": "2026-11-26T13:50:16-06:00",
+          "stop": "2026-11-26T13:52:41-06:00",
+          "episode_title": "Episode 14"
+        },
+        {
+          "title": "Hyper Police",
+          "start": "2026-11-26T13:52:41-06:00",
+          "stop": "2026-11-26T14:17:43-06:00",
+          "episode_title": "Sakura Becomes Insane"
         }
       ],
       "logo": "logos/32.png"
@@ -390,13 +409,6 @@
       "number": 45,
       "name": "Mobile Suit Network",
       "programmes": [
-        {
-          "title": "Mobile Suit Gundam SEED",
-          "start": "2026-11-26T07:26:30-06:00",
-          "stop": "2026-11-26T07:51:16-06:00",
-          "episode_title": "What Stands in the Way",
-          "description": "The newly-formed Three Ships Alliance take shelter at the abandoned Mendel colony. Unfortunately, they are tracked down by both ZAFT and Earth Alliance forces. Rau Le Creuset commands the ZAFT fleet and Captain Natarle Badgiruel, commands the Earth Alliance assault ship Dominion. Dominion takes the initiative and attacks with the mission of capturing either the Freedom or Justice."
-        },
         {
           "title": "Mobile Suit Gundam SEED",
           "start": "2026-11-26T07:51:16-06:00",
@@ -518,6 +530,13 @@
           "stop": "2026-11-26T13:54:14-06:00",
           "episode_title": "Promise",
           "description": "Sei and Reiji's victory in the tournament causes Chairman Mashita to panic, with his Arista resonating all Plavsky particles in the PPSE Stadium to form a 1/144 scale replica of the Zeon space fortress A Baoa Qu over the facility. The Gunpla Fighters must band together to break into the fortress and destroy the Arista before it produces disastrous results."
+        },
+        {
+          "title": "Gundam Build Fighters",
+          "start": "2026-11-26T13:54:14-06:00",
+          "stop": "2026-11-26T14:19:21-06:00",
+          "episode_title": "The Boy Who Calls the Wind",
+          "description": "Fumina Hoshino, president of the Seiho Academy's Gunpla Battle Club, is flustered. Since she is currently the Battle Club's only member, it won't be able to enter the Gunpla Battle Japanese Under-19 Championship, which requires teams of three. Then Fumina meets a transfer student named Sekai Kamiki, a master of the Jigen Haoh school of martial arts. She immediately recruits him for the Battle Club. Sekai, using a Dom that he unexpectedly discovers in the club room, is taken in by the appeal of Gunpla Battle. Then Daiki Miyaga, the president of the Plastic Model Club who has been trying to recruit Fumina, appears and proposes a battle. Even though it's his first time, Sekai uses his Jigen Haoh martial arts to crush Miyaga's machine. But then the gifted young builder Yuuma Kousaka, Fumina's childhood friend, interrupts with his Lightning Gundam!"
         }
       ],
       "logo": "logos/45.png"
@@ -626,6 +645,13 @@
           "stop": "2026-11-26T14:00:58-06:00",
           "episode_title": "The Shuddering Mountain (2)",
           "description": "The Apsalus cuts loose with its devastating mega particle cannon. As the Federation's Colonel Ryer and Zeon's Ginius Sakhalin escalate the fighting, Shiro and Aina transcend the division between the two sides to face their final challenge."
+        },
+        {
+          "title": "Mobile Suit Gundam 0080: War in the Pocket",
+          "start": "2026-11-26T14:00:58-06:00",
+          "stop": "2026-11-26T14:28:07-06:00",
+          "episode_title": "How Many Miles to the Battlefield?",
+          "description": "On the colony of Side 6, 11-year-old Alfred Izuruha messes around in school with his friends during lunch. As Al walks home, he bumps into his old friend Christina MacKenzie, who had moved to Earth years before."
         }
       ],
       "logo": "logos/47.png"
@@ -732,6 +758,13 @@
           "stop": "2026-11-26T13:52:51-06:00",
           "episode_title": "A Call for Counterattack",
           "description": "Pandemonium ensues as the complex ties of allegiances are tested in an all out battle between several suits. Yuna meets his well-deserved fate."
+        },
+        {
+          "title": "Mobile Suit Gundam Seed Destiny",
+          "start": "2026-11-26T13:52:51-06:00",
+          "stop": "2026-11-26T14:17:38-06:00",
+          "episode_title": "Lacus Times Two",
+          "description": "The real Lacus on television states that there is someone who has the same face, voice and name as herself in the PLANTs, and the Minerva returns to space."
         }
       ],
       "logo": "logos/48.png"
@@ -764,6 +797,12 @@
           "start": "2026-11-26T11:39:04-06:00",
           "stop": "2026-11-26T13:52:20-06:00",
           "description": "Regan MacNeil, a playful 12 year old, begins communicating with an invisible figure through a Ouija board, but as her behavior turns terrifying and doctors fail to explain it, her mother seeks help from a skeptical priest."
+        },
+        {
+          "title": "SantaClaus: A Horror Story",
+          "start": "2026-11-26T13:52:20-06:00",
+          "stop": "2026-11-26T15:24:00-06:00",
+          "description": "A woman who is researching alien abductions for her new book begins to receive reports of a nocturnal attacker whose description matches that of Santa Claus. She enlists the help of a scholar of mythology to see if there is a darker side to the story of Santa Claus, and what she discovers is more horrifying than anything that she could have imagined."
         }
       ],
       "logo": "logos/56.png"
@@ -828,6 +867,13 @@
           "stop": "2026-11-26T13:47:28-06:00",
           "episode_title": "Extreme Risk",
           "description": "Stardate: Unknown. In order to retrieve a probe stuck in a hazardous atmosphere, Tom Paris designs a new type of shuttlecraft named the 'Delta Flyer'. Torres begins to exhibit reckless behavior by engaging in dangerous holodeck programs."
+        },
+        {
+          "title": "Star Trek: Voyager",
+          "start": "2026-11-26T13:47:28-06:00",
+          "stop": "2026-11-26T14:34:24-06:00",
+          "episode_title": "In the Flesh",
+          "description": "The crew of Voyager discover a simulation of Starfleet Headquarters being run by Species 8472. With the aid of regular doses of drugs, Species 8472 are able to shape-shift into human form. It is up to Janeway to try to convince the aliens that Starfleet is not a threat to them."
         }
       ],
       "logo": "logos/64.png"
@@ -885,6 +931,13 @@
           "stop": "2026-11-26T13:47:33-06:00",
           "episode_title": "Hathor",
           "description": "The Goa'uld Hathor (one of the mothers of all Goa'uld), brainwashes the men of the SGC with pheromones, and nearly makes Jack a host to a larva conceived with Daniel. She flees after the unaffected women of Stargate Command retake the facility."
+        },
+        {
+          "title": "Stargate SG-1",
+          "start": "2026-11-26T13:47:33-06:00",
+          "stop": "2026-11-26T14:32:40-06:00",
+          "episode_title": "Singularity",
+          "description": "A mysterious affliction wipes out the entire population of a planet, plus an SG team -- except for one young girl. Carter befriends her, but learns that she is being used by the Goa'uld."
         }
       ],
       "logo": "logos/65.png"
