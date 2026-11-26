@@ -1,10 +1,10 @@
 window.GUIDE_DATA = {
-  "generated_at": "2026-11-26T10:46:25.752787-06:00",
+  "generated_at": "2026-11-26T11:01:26.082167-06:00",
   "timezone": "America/Chicago",
   "source": "tunarr-xmltv",
   "window_hours": 6,
-  "window_start": "2026-11-26T10:46:25.752787-06:00",
-  "window_end": "2026-11-26T16:46:25.752787-06:00",
+  "window_start": "2026-11-26T11:01:26.082167-06:00",
+  "window_end": "2026-11-26T17:01:26.082167-06:00",
   "channel_count": 15,
   "programme_count": 141,
   "channels": [
@@ -224,6 +224,12 @@ window.GUIDE_DATA = {
           "stop": "2026-11-26T16:55:32-06:00",
           "episode_title": "The Voltron Show!",
           "description": "Coran gets carried away with turning the Paladins into intergalactic stars when he designs an elaborate, effects-filled live tour of the universe."
+        },
+        {
+          "title": "Looney Tunes",
+          "start": "2026-11-26T16:55:32-06:00",
+          "stop": "2026-11-26T17:03:41-06:00",
+          "episode_title": "Episode 5"
         }
       ],
       "logo": "logos/11.png"
@@ -265,13 +271,6 @@ window.GUIDE_DATA = {
       "number": 32,
       "name": "Japanimation",
       "programmes": [
-        {
-          "title": ".hack//SIGN",
-          "start": "2026-11-26T10:24:06-06:00",
-          "stop": "2026-11-26T10:48:44-06:00",
-          "episode_title": "Despair",
-          "description": "Subaru still can't find Tsukasa, though not for want of trying. Her only hope now is that someone knows his secret place. Meanwhile, Bear has uncovered the identity of the man they saw in the mystrious castle: he is Harold Huick, the creator of The World."
-        },
         {
           "title": ".hack//SIGN",
           "start": "2026-11-26T10:48:44-06:00",
@@ -377,6 +376,13 @@ window.GUIDE_DATA = {
           "stop": "2026-11-26T16:47:25-06:00",
           "episode_title": "Rivals x For x Survival",
           "description": "With the navigators' help, Gon, Kurapika and Leorio arrive at Zaban City, the venue of the exam. The navigator leads them to a small restaurant, which is revealed to be the front for the venue. Gon's group is led to an elevator disguised as a back room, which leads a hundred floors underground. Below, they meet the rest of the participants and given their numbers. There they meet Tonpa, a regular participant who claims to have tried and failed 35 times in the exam."
+        },
+        {
+          "title": "Hunter x Hunter",
+          "start": "2026-11-26T16:47:25-06:00",
+          "stop": "2026-11-26T17:11:55-06:00",
+          "episode_title": "Hope x And x Ambition",
+          "description": "During the first test, a number of participants fall out from fatigue after running for at least forty kilometers. Leorio almost gives up until he is encouraged by Gon, who waits for him. Killua, a participant, is introduced and he is curious of Gon's personality when he discovers that the boy is the same age as him. Kurapika and Leorio talk about the reason for being a hunter, with Kurapika wanting to take down the Phantom Troupe as his clan was massacred by them for their precious scarlet eyes, which manifest when the Kurta uses their heightened sense. Leorio aims to be a hunter for money, for purely altruistic reasons, as his childhood friend died of an illness without the funds to save him. He wishes to be a doctor so he can give his patients free treatment. Finally, the participants reach the end of the tunnel they are in and up to the surface to the Numere Wetlands, also known as Swindlers' Swamp."
         }
       ],
       "logo": "logos/32.png"
@@ -386,12 +392,6 @@ window.GUIDE_DATA = {
       "number": 33,
       "name": "Anime Cinema",
       "programmes": [
-        {
-          "title": "PSYCHO-PASS: The Movie",
-          "start": "2026-11-26T09:03:25-06:00",
-          "stop": "2026-11-26T10:58:00-06:00",
-          "description": "In this sequel to Psycho-Pass TV show, Inspector Tsunemori is sent to a neighboring war-torn nation, where the Sibyl System is being introduced as an experiment, to find Shinya Kogami, her former enforcer who went rogue three years ago."
-        },
         {
           "title": "Heaven's Lost Property the Movie: The Angeloid of Clockwork",
           "start": "2026-11-26T10:58:00-06:00",
@@ -409,6 +409,12 @@ window.GUIDE_DATA = {
           "start": "2026-11-26T14:41:22-06:00",
           "stop": "2026-11-26T16:56:25-06:00",
           "description": "The film is a compilation of the first season, featuring new scenes and remastered sound effects. The story follows Nagate Tanikaze, who has spent his entire life living deep beneath Sidonia’s surface. While searching for food, he ventures above ground for the first time and discovers humanity’s ongoing struggle to survive against the Gauna."
+        },
+        {
+          "title": "Appleseed XIII: Tartaros",
+          "start": "2026-11-26T16:56:25-06:00",
+          "stop": "2026-11-26T18:21:53-06:00",
+          "description": "Get the high-voltage thrill ride of Appleseed XIII the series with none of the filler in the first of two action-packed movies that cut down the story to what you want most: bullets, explosions, and total mayhem! In the years after a devastating global war, Deunan and her cyborg partner protect the idyllic city of Olympus as elite members of the paramilitary force ES.W.A.T."
         }
       ],
       "logo": "logos/33.png"
@@ -418,13 +424,6 @@ window.GUIDE_DATA = {
       "number": 45,
       "name": "Mobile Suit Network",
       "programmes": [
-        {
-          "title": "Gundam Build Fighters",
-          "start": "2026-11-26T10:28:13-06:00",
-          "stop": "2026-11-26T10:53:14-06:00",
-          "episode_title": "Dark Matter",
-          "description": "In the final round of the tournament, Meijin Kawaguchi the 3rd unveils the true form of his Gundam Amazing Exia. However, he brings forth a disturbing aura in the arena reminiscent of his predecessor."
-        },
         {
           "title": "Mobile Suit Gundam SEED",
           "start": "2026-11-26T10:53:14-06:00",
@@ -530,12 +529,6 @@ window.GUIDE_DATA = {
       "name": "Gundam Theater",
       "programmes": [
         {
-          "title": "MOBILE SUIT GUNDAM HATHAWAY The Sorcery of Nymph Circe",
-          "start": "2026-11-26T09:09:07-06:00",
-          "stop": "2026-11-26T10:57:38-06:00",
-          "description": "Hathaway Noa's fight against the Earth Federation continues, culminating in a terrorist attack on Adelaide's government conference. Gigi Andalucia remains crucial, her influence embodying the \"witch\" figure."
-        },
-        {
           "title": "Mobile Suit Gundam F91",
           "start": "2026-11-26T10:57:38-06:00",
           "stop": "2026-11-26T12:58:47-06:00",
@@ -634,6 +627,13 @@ window.GUIDE_DATA = {
           "start": "2026-11-26T15:47:38-06:00",
           "stop": "2026-11-26T16:58:09-06:00",
           "description": "During the One Year War of U.C. 0079, the Earth Federation and Principality of Zeon engage in a fierce battle at the \"Thunderbolt Sector\", a shoal zone in the former Colony Side 4 \"Moore\". After successfully infiltrating Zeon's sniper field, ace Federation pilot and jazz enthusiast Io Fleming is given control of the latest Gundam prototype."
+        },
+        {
+          "title": "Mobile Suit Gundam 0080: War in the Pocket",
+          "start": "2026-11-26T16:58:09-06:00",
+          "stop": "2026-11-26T17:26:25-06:00",
+          "episode_title": "And At the End of the Rainbow?",
+          "description": "Al holds on to Garcia's truck as it drives through the city."
         }
       ],
       "logo": "logos/47.png"
@@ -643,13 +643,6 @@ window.GUIDE_DATA = {
       "number": 48,
       "name": "Cosmic Era",
       "programmes": [
-        {
-          "title": "Mobile Suit Gundam Seed Destiny",
-          "start": "2026-11-26T10:34:20-06:00",
-          "stop": "2026-11-26T10:59:09-06:00",
-          "episode_title": "Eve of Chaos",
-          "description": "Kira survives, against all odds, as Shinn and Ahtrun have a falling out."
-        },
         {
           "title": "Mobile Suit Gundam Seed Destiny",
           "start": "2026-11-26T10:59:09-06:00",
@@ -849,6 +842,13 @@ window.GUIDE_DATA = {
           "stop": "2026-11-26T16:50:27-06:00",
           "episode_title": "Infinite Possibilities - Daedalus Demands (1)",
           "description": "Crichton must seek out an old friend who has gained too much knowledge about wormholes."
+        },
+        {
+          "title": "Farscape",
+          "start": "2026-11-26T16:50:27-06:00",
+          "stop": "2026-11-26T17:37:21-06:00",
+          "episode_title": "Infinite Possibilities - Icarus Abides (2)",
+          "description": "Jack (The Ancient) unlocks the wormhole knowledge in Crichton's mind so together they can build a device to destroy the Scarran dreadnought."
         }
       ],
       "logo": "logos/64.png"
@@ -858,13 +858,6 @@ window.GUIDE_DATA = {
       "number": 65,
       "name": "Stargate Command",
       "programmes": [
-        {
-          "title": "Stargate SG-1",
-          "start": "2026-11-26T10:06:33-06:00",
-          "stop": "2026-11-26T10:51:39-06:00",
-          "episode_title": "Bloodlines",
-          "description": "Teal'c returns to Chulak to stop his people from implanting his son with a larval Goa'uld."
-        },
         {
           "title": "Stargate SG-1",
           "start": "2026-11-26T10:51:39-06:00",
@@ -1067,6 +1060,13 @@ window.GUIDE_DATA = {
           "stop": "2026-11-26T16:55:44-06:00",
           "episode_title": "Inventors vs. Ex-Child Actors",
           "description": "Washed-up child actors go head-to-head with the keen minds of the inventors on this show. Also, overhearing one ex-child actor's catch phrase, Vic and Kenny go crazy-go-nuts. Games include: Get Over It; Sinkers and Floaters; Door Jam; Le Tour de Grand Prix; Log Drop"
+        },
+        {
+          "title": "Warehouse 13",
+          "start": "2026-11-26T16:55:44-06:00",
+          "stop": "2026-11-26T17:40:46-06:00",
+          "episode_title": "Magnetism",
+          "description": "Pete and Myka are sent to investigate a small town where the inhabitants' minds are being altered making them act as they please. Meanwhile, Artie is confused by the energy flows going on in the warehouse and he seeks help from Leena who may know more about what is going on."
         }
       ],
       "logo": "logos/72.png"
