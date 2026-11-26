@@ -1,25 +1,18 @@
 {
-  "generated_at": "2026-11-26T12:16:25.002407-06:00",
+  "generated_at": "2026-11-26T12:31:24.828061-06:00",
   "timezone": "America/Chicago",
   "source": "tunarr-xmltv",
   "window_hours": 6,
-  "window_start": "2026-11-26T12:16:25.002407-06:00",
-  "window_end": "2026-11-26T18:16:25.002407-06:00",
+  "window_start": "2026-11-26T12:31:24.828061-06:00",
+  "window_end": "2026-11-26T18:31:24.828061-06:00",
   "channel_count": 15,
-  "programme_count": 142,
+  "programme_count": 144,
   "channels": [
     {
       "id": "C2.50.tunarr.com",
       "number": 2,
       "name": "Syndication",
       "programmes": [
-        {
-          "title": "The Office (US)",
-          "start": "2026-11-26T12:01:31-06:00",
-          "stop": "2026-11-26T12:24:02-06:00",
-          "episode_title": "Did I Stutter?",
-          "description": "Pam is sporting a new look at work with her glasses. She admits she spent the night at a \"friend's\" house and forgot her contact solution. Michael makes sure to point out that the glasses make her look ugly, and if she wants to be hot, the glasses need to come off."
-        },
         {
           "title": "The Office (US)",
           "start": "2026-11-26T12:24:02-06:00",
@@ -108,6 +101,13 @@
           "stop": "2026-11-26T18:17:36-06:00",
           "episode_title": "Time Out of Joint",
           "description": "The Clock King plots against Mayor Hill after he steals an invention that allows him to travel at super speed."
+        },
+        {
+          "title": "The Expanse",
+          "start": "2026-11-26T18:17:36-06:00",
+          "stop": "2026-11-26T19:01:07-06:00",
+          "episode_title": "IFF",
+          "description": "The Rocinante answers an unexpected distress signal. Bobbie and Avasarala find themselves being hunted by a mysterious captor. UN Secretary-General Sorrento-Gillis brings in a colleague from his past to lend an ear during this crucial time of war."
         }
       ],
       "logo": "logos/2.png"
@@ -289,13 +289,6 @@
       "programmes": [
         {
           "title": "Sakamoto Days",
-          "start": "2026-11-26T12:05:06-06:00",
-          "stop": "2026-11-26T12:31:06-06:00",
-          "episode_title": "The Legendary Hit Man",
-          "description": "Sakamoto enjoys a quiet life in retirement with his family. But one day, an old colleague demands he return to the assassin world — or face consequences."
-        },
-        {
-          "title": "Sakamoto Days",
           "start": "2026-11-26T12:31:06-06:00",
           "stop": "2026-11-26T12:57:04-06:00",
           "episode_title": "Vs. Son Hee and Bacho",
@@ -436,6 +429,12 @@
           "start": "2026-11-26T16:56:25-06:00",
           "stop": "2026-11-26T18:21:53-06:00",
           "description": "Get the high-voltage thrill ride of Appleseed XIII the series with none of the filler in the first of two action-packed movies that cut down the story to what you want most: bullets, explosions, and total mayhem! In the years after a devastating global war, Deunan and her cyborg partner protect the idyllic city of Olympus as elite members of the paramilitary force ES.W.A.T."
+        },
+        {
+          "title": "Attack on Titan: The Roar of Awakening",
+          "start": "2026-11-26T18:21:53-06:00",
+          "stop": "2026-11-26T20:23:23-06:00",
+          "description": "Eren Yeager and others of the 104th Training Corps have just become full members of the Survey Corps. As they ready themselves to face the Titans once again, their preparations are interrupted by the invasion of Wall Rose."
         }
       ],
       "logo": "logos/33.png"
@@ -662,6 +661,13 @@
           "stop": "2026-11-26T18:20:20-06:00",
           "episode_title": "Over the River and Through the Woods",
           "description": "Al sneaks through the conduit back to Bernie and tells him he got pictures of a Federation mobile suit."
+        },
+        {
+          "title": "Mobile Suit Gundam",
+          "start": "2026-11-26T18:20:20-06:00",
+          "stop": "2026-11-26T18:46:00-06:00",
+          "episode_title": "A Fateful Encounter",
+          "description": "Inside Side Six, Amuro meets a beautiful girl named Lalah Sune and tensions run high when a Zanzibar ship led by Char Aznable docks next to the White Base."
         }
       ],
       "logo": "logos/47.png"
@@ -861,6 +867,13 @@
           "stop": "2026-11-26T18:23:02-06:00",
           "episode_title": "The Blessing Way (2)",
           "description": "Scully finds her career with the FBI in jeopardy as Mulder is still missing and the Cigarette Smoking Man is pursuing the stolen files. The Navajo elders find Mulder's body in a cave and perform an ancient ceremony to call the spirit back to the empty vessel."
+        },
+        {
+          "title": "The X-Files",
+          "start": "2026-11-26T18:23:02-06:00",
+          "stop": "2026-11-26T19:08:52-06:00",
+          "episode_title": "Paper Clip (3)",
+          "description": "A.D. Skinner and Scully are at a standoff when Mulder bursts in and discovers that Skinner has the digital tape. Reunited, Mulder and Scully travel to a secret vault inside a mine and find an elaborate filing system of medical records which reveals that Mulder's sister may not have been the first choice for abduction. Meanwhile, Skinner deals with the Cigarette-Smoking Man for their safety."
         }
       ],
       "logo": "logos/64.png"
@@ -870,13 +883,6 @@
       "number": 65,
       "name": "Stargate Command",
       "programmes": [
-        {
-          "title": "Stargate Atlantis",
-          "start": "2026-11-26T11:36:46-06:00",
-          "stop": "2026-11-26T12:19:38-06:00",
-          "episode_title": "Hide and Seek",
-          "description": "Rodney can't remove an Ancient device that makes him invincible but prevents him from eating or drinking. Meanwhile, there are power malfunctions throughout the city and one of the Athosians mentions seeing a shadow."
-        },
         {
           "title": "Stargate Atlantis",
           "start": "2026-11-26T12:19:38-06:00",
@@ -996,6 +1002,13 @@
           "stop": "2026-11-26T18:19:31-06:00",
           "episode_title": "The Naked Time",
           "description": "An alien virus strips the enterprise crew of their inhibitions, causing chaos as each crew member is overcome by hidden emotions. Meanwhile, the Enterprise is being pulled inexorably into a nearby planet's gravity well."
+        },
+        {
+          "title": "Star Trek: Deep Space Nine",
+          "start": "2026-11-26T18:19:31-06:00",
+          "stop": "2026-11-26T19:05:41-06:00",
+          "episode_title": "Tears of the Prophets",
+          "description": "Stardate: Unknown. When Sisko is picked to head up an attack on the Cardassian homeworld, the Prophets appear to him in a vision, warning him of impending doom if he leaves the station."
         }
       ],
       "logo": "logos/66.png"
@@ -1005,13 +1018,6 @@
       "number": 72,
       "name": "Comedy",
       "programmes": [
-        {
-          "title": "The IT Crowd",
-          "start": "2026-11-26T11:59:10-06:00",
-          "stop": "2026-11-26T12:23:39-06:00",
-          "episode_title": "The Red Door",
-          "description": "Moss puts a picture of his head on his cup to make sure it doesn't get lost. Curious about the red door behind Roy's desk, Jen ignores the boys' warnings never to open it, and goes in. She finds the vampiric Richmond inside."
-        },
         {
           "title": "The Office (US)",
           "start": "2026-11-26T12:23:39-06:00",
@@ -1073,6 +1079,12 @@
           "stop": "2026-11-26T18:25:27-06:00",
           "episode_title": "Claudia",
           "description": "A woman kidnaps Artie and insists that he help her recover her brother... who was lost in an artifact-related experiment 12 years ago."
+        },
+        {
+          "title": "Elf",
+          "start": "2026-11-26T18:25:27-06:00",
+          "stop": "2026-11-26T20:03:02-06:00",
+          "description": "When young Buddy falls into Santa's gift sack on Christmas Eve, he's transported back to the North Pole and raised as a toy-making elf by Santa's helpers. But as he grows into adulthood, he can't shake the nagging feeling that he doesn't belong. Buddy vows to visit Manhattan and find his real dad, a workaholic."
         }
       ],
       "logo": "logos/72.png"
