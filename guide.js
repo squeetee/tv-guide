@@ -1,25 +1,18 @@
 window.GUIDE_DATA = {
-  "generated_at": "2026-11-25T22:31:24.707497-06:00",
+  "generated_at": "2026-11-25T22:46:24.722683-06:00",
   "timezone": "America/Chicago",
   "source": "tunarr-xmltv",
   "window_hours": 6,
-  "window_start": "2026-11-25T22:31:24.707497-06:00",
-  "window_end": "2026-11-26T04:31:24.707497-06:00",
+  "window_start": "2026-11-25T22:46:24.722683-06:00",
+  "window_end": "2026-11-26T04:46:24.722683-06:00",
   "channel_count": 15,
-  "programme_count": 144,
+  "programme_count": 140,
   "channels": [
     {
       "id": "C2.50.tunarr.com",
       "number": 2,
       "name": "Syndication",
       "programmes": [
-        {
-          "title": "MXC",
-          "start": "2026-11-25T21:50:56-06:00",
-          "stop": "2026-11-25T22:33:36-06:00",
-          "episode_title": "MXC Almost Live",
-          "description": "In this one hour special episode, MXC games are played by college students from the University of Central Florida and various other Orlando-area colleges at Universal Studios in Florida."
-        },
         {
           "title": "MXC",
           "start": "2026-11-25T22:33:36-06:00",
@@ -85,12 +78,6 @@ window.GUIDE_DATA = {
       "name": "The Movie Channel",
       "programmes": [
         {
-          "title": "Draft Day",
-          "start": "2026-11-25T20:48:45-06:00",
-          "stop": "2026-11-25T22:39:40-06:00",
-          "description": "At the NFL Draft, General Manager Sonny Weaver has the opportunity to rebuild his team when he trades for the number one pick. He must decide what he's willing to sacrifice on a life-changing day for a few hundred young men with NFL dreams."
-        },
-        {
           "title": "The Twilight Saga: Breaking Dawn - Part 1",
           "start": "2026-11-25T22:39:40-06:00",
           "stop": "2026-11-26T00:37:42-06:00",
@@ -122,13 +109,6 @@ window.GUIDE_DATA = {
       "number": 11,
       "name": "Kidz!",
       "programmes": [
-        {
-          "title": "Batman: The Animated Series",
-          "start": "2026-11-25T22:13:37-06:00",
-          "stop": "2026-11-25T22:36:51-06:00",
-          "episode_title": "I've Got Batman in My Basement",
-          "description": "After the Penguin sprays Batman with nerve gas, a 12-year-old boy rescues the unconscious hero and hides him in his basement."
-        },
         {
           "title": "Batman: The Animated Series",
           "start": "2026-11-25T22:36:51-06:00",
@@ -246,13 +226,6 @@ window.GUIDE_DATA = {
       "number": 32,
       "name": "Japanimation",
       "programmes": [
-        {
-          "title": "Super Dimension Fortress Macross",
-          "start": "2026-11-25T22:17:43-06:00",
-          "stop": "2026-11-25T22:43:57-06:00",
-          "episode_title": "Paradise Lost",
-          "description": "After the catastrophic events in the previous encounter with the Zentradi, the UN orders the Macross to leave Earth in order to give the UN Spacy more time to formulate a defense plan against the aliens. Returning once more to Britai's ship, the macronized Zentradi spies bring back 'samples' of culture to their dumbfounded comrades."
-        },
         {
           "title": "Super Dimension Fortress Macross",
           "start": "2026-11-25T22:43:57-06:00",
@@ -503,6 +476,13 @@ window.GUIDE_DATA = {
           "stop": "2026-11-26T04:42:42-06:00",
           "episode_title": "Re-Entry to Earth",
           "description": "Bright Noa is instructed to take the White Base to a military base on Earth, but first they have to take on Char Aznable's forces near the atmospheric entry point."
+        },
+        {
+          "title": "Mobile Suit Zeta Gundam",
+          "start": "2026-11-26T04:42:42-06:00",
+          "stop": "2026-11-26T05:07:49-06:00",
+          "episode_title": "Forever Four",
+          "description": "Kamille infiltrates the base and finds Four. Jerid finds them and follows but ends up being overpowered by Kamille. Amuro and Char continue to attack the base while Jerid steals a Mobile Suit. Four is being controlled to protect Jamitov's shuttle, and Kamille tries to defeat Four in the Psyco Gundam as Jerid continues his pursuit. Four got killed by Jerid while attempting to save Kamille."
         }
       ],
       "logo": "logos/45.png"
@@ -535,6 +515,12 @@ window.GUIDE_DATA = {
           "start": "2026-11-26T03:01:17-06:00",
           "stop": "2026-11-26T04:37:37-06:00",
           "description": "Hathaway Noa, still haunted by his past actions, joins a terrorist organization called Mufti and adopts the alias \"Mufti Nabiyy Erin\". Mufti is fighting a terrorist campaign against the Earth Federation government."
+        },
+        {
+          "title": "Mobile Suit Gundam: The 08th MS Team - Miller's Report",
+          "start": "2026-11-26T04:37:37-06:00",
+          "stop": "2026-11-26T05:29:55-06:00",
+          "description": "In a future war, a young battle robot pilot suspected of being a spy must face court martial. Meanwhile, the home village of a friend of his is threatened by enemy forces."
         }
       ],
       "logo": "logos/46.png"
@@ -544,13 +530,6 @@ window.GUIDE_DATA = {
       "number": 47,
       "name": "Universal Century",
       "programmes": [
-        {
-          "title": "Mobile Suit Gundam",
-          "start": "2026-11-25T22:20:24-06:00",
-          "stop": "2026-11-25T22:46:05-06:00",
-          "episode_title": "Ramba Ral's Attack",
-          "description": "A mobile suit squadron led by Ramba Ral and his Gouf attack White Base while Amuro and the Gundam return just in time to help."
-        },
         {
           "title": "Mobile Suit Gundam",
           "start": "2026-11-25T22:46:05-06:00",
@@ -659,13 +638,6 @@ window.GUIDE_DATA = {
       "programmes": [
         {
           "title": "Mobile Suit Gundam Seed Destiny",
-          "start": "2026-11-25T22:09:09-06:00",
-          "stop": "2026-11-25T22:33:55-06:00",
-          "episode_title": "Land of Confusion",
-          "description": "As a last ditch effort, the Mireva uses is Tanhäuser to break up the remaining chunk of Junius-7. Unfortunatey, several of the pieces fall to Earth destroying several of Earth's cities. The battle-damaged Minerva makes its way to Orb to re-supply and to drop Cagalli off."
-        },
-        {
-          "title": "Mobile Suit Gundam Seed Destiny",
           "start": "2026-11-25T22:33:55-06:00",
           "stop": "2026-11-25T22:58:42-06:00",
           "episode_title": "Junction",
@@ -767,6 +739,13 @@ window.GUIDE_DATA = {
           "start": "2026-11-26T04:20:41-06:00",
           "stop": "2026-11-26T04:45:27-06:00",
           "episode_title": "Sword of the Blue Skies",
+          "description": "Cagalli's attempts to stop the Orb fleet fails, and a battle breaks out between the Minerva, the Archangel, and the joint Orb-Earth Alliance fleet."
+        },
+        {
+          "title": "Mobile Suit Gundam Seed Destiny",
+          "start": "2026-11-26T04:45:27-06:00",
+          "stop": "2026-11-26T05:10:14-06:00",
+          "episode_title": "The Shadows of War",
           "description": "Cagalli's attempts to stop the Orb fleet fails, and a battle breaks out between the Minerva, the Archangel, and the joint Orb-Earth Alliance fleet."
         }
       ],
@@ -1028,13 +1007,6 @@ window.GUIDE_DATA = {
       "number": 72,
       "name": "Comedy",
       "programmes": [
-        {
-          "title": "Barry",
-          "start": "2026-11-25T22:11:02-06:00",
-          "stop": "2026-11-25T22:42:18-06:00",
-          "episode_title": "Chapter One: Make Your Mark",
-          "description": "Barry, a disillusioned hit man, is sent to Los Angeles to kill an aspiring actor who is having an affair with a Chechen mob leader's wife; after following his target to an acting class, Barry becomes inspired to begin a new life with the students."
-        },
         {
           "title": "Barry",
           "start": "2026-11-25T22:42:18-06:00",
