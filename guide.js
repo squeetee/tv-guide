@@ -1,10 +1,10 @@
 window.GUIDE_DATA = {
-  "generated_at": "2026-11-26T08:16:27.342045-06:00",
+  "generated_at": "2026-11-26T08:31:27.407419-06:00",
   "timezone": "America/Chicago",
   "source": "tunarr-xmltv",
   "window_hours": 6,
-  "window_start": "2026-11-26T08:16:27.342045-06:00",
-  "window_end": "2026-11-26T14:16:27.342045-06:00",
+  "window_start": "2026-11-26T08:31:27.407419-06:00",
+  "window_end": "2026-11-26T14:31:27.407419-06:00",
   "channel_count": 15,
   "programme_count": 142,
   "channels": [
@@ -265,12 +265,6 @@ window.GUIDE_DATA = {
       "programmes": [
         {
           "title": "Dragon Ball Super",
-          "start": "2026-11-26T07:55:13-06:00",
-          "stop": "2026-11-26T08:19:29-06:00",
-          "episode_title": "Episode 14"
-        },
-        {
-          "title": "Dragon Ball Super",
           "start": "2026-11-26T08:19:29-06:00",
           "stop": "2026-11-26T08:43:46-06:00",
           "episode_title": "Episode 15"
@@ -374,6 +368,12 @@ window.GUIDE_DATA = {
           "start": "2026-11-26T13:52:41-06:00",
           "stop": "2026-11-26T14:17:43-06:00",
           "episode_title": "Sakura Becomes Insane"
+        },
+        {
+          "title": "Hyper Police",
+          "start": "2026-11-26T14:17:43-06:00",
+          "stop": "2026-11-26T14:42:42-06:00",
+          "episode_title": "The Day of Catastrophe"
         }
       ],
       "logo": "logos/32.png"
@@ -536,6 +536,13 @@ window.GUIDE_DATA = {
           "stop": "2026-11-26T14:19:21-06:00",
           "episode_title": "The Boy Who Calls the Wind",
           "description": "Fumina Hoshino, president of the Seiho Academy's Gunpla Battle Club, is flustered. Since she is currently the Battle Club's only member, it won't be able to enter the Gunpla Battle Japanese Under-19 Championship, which requires teams of three. Then Fumina meets a transfer student named Sekai Kamiki, a master of the Jigen Haoh school of martial arts. She immediately recruits him for the Battle Club. Sekai, using a Dom that he unexpectedly discovers in the club room, is taken in by the appeal of Gunpla Battle. Then Daiki Miyaga, the president of the Plastic Model Club who has been trying to recruit Fumina, appears and proposes a battle. Even though it's his first time, Sekai uses his Jigen Haoh martial arts to crush Miyaga's machine. But then the gifted young builder Yuuma Kousaka, Fumina's childhood friend, interrupts with his Lightning Gundam!"
+        },
+        {
+          "title": "Mobile Suit Gundam: The Witch from Mercury",
+          "start": "2026-11-26T14:19:21-06:00",
+          "stop": "2026-11-26T14:44:07-06:00",
+          "episode_title": "Unrelenting Tenderness",
+          "description": "Piloting the Calibarn, Suletta confronts Ericht head-on. Guel squares off against Lauda, who is burning with bitter hatred for Miorine. And amid the chaos of battle, a rocket carrying Miorine and the others makes its way to Quiet Zero."
         }
       ],
       "logo": "logos/45.png"
@@ -577,12 +584,6 @@ window.GUIDE_DATA = {
       "number": 47,
       "name": "Universal Century",
       "programmes": [
-        {
-          "title": "Mobile Suit Gundam: The 08th MS Team - Miller's Report",
-          "start": "2026-11-26T07:24:17-06:00",
-          "stop": "2026-11-26T08:16:35-06:00",
-          "description": "In a future war, a young battle robot pilot suspected of being a spy must face court martial. Meanwhile, the home village of a friend of his is threatened by enemy forces."
-        },
         {
           "title": "Mobile Suit Gundam",
           "start": "2026-11-26T08:16:35-06:00",
@@ -651,6 +652,13 @@ window.GUIDE_DATA = {
           "stop": "2026-11-26T14:28:07-06:00",
           "episode_title": "How Many Miles to the Battlefield?",
           "description": "On the colony of Side 6, 11-year-old Alfred Izuruha messes around in school with his friends during lunch. As Al walks home, he bumps into his old friend Christina MacKenzie, who had moved to Earth years before."
+        },
+        {
+          "title": "Mobile Suit Gundam",
+          "start": "2026-11-26T14:28:07-06:00",
+          "stop": "2026-11-26T14:53:47-06:00",
+          "episode_title": "A Decoy in Space",
+          "description": "White Base and the Gundam confront the cruiser Zanzibar, led by Char, and a mobile armor called Bigro in low earth orbit."
         }
       ],
       "logo": "logos/47.png"
@@ -660,13 +668,6 @@ window.GUIDE_DATA = {
       "number": 48,
       "name": "Cosmic Era",
       "programmes": [
-        {
-          "title": "Mobile Suit Gundam Seed Destiny",
-          "start": "2026-11-26T08:03:53-06:00",
-          "stop": "2026-11-26T08:28:42-06:00",
-          "episode_title": "The Endless Night",
-          "description": "Rey and Shinn are arrested, but are given pardon by Chairman Durandal. Stella is given a new Mobile Suit, the Destroy."
-        },
         {
           "title": "Mobile Suit Gundam SEED C.E. 73: Stargazer",
           "start": "2026-11-26T08:28:42-06:00",
@@ -757,6 +758,13 @@ window.GUIDE_DATA = {
           "stop": "2026-11-26T14:17:38-06:00",
           "episode_title": "Lacus Times Two",
           "description": "The real Lacus on television states that there is someone who has the same face, voice and name as herself in the PLANTs, and the Minerva returns to space."
+        },
+        {
+          "title": "Mobile Suit Gundam Seed Destiny",
+          "start": "2026-11-26T14:17:38-06:00",
+          "stop": "2026-11-26T14:42:25-06:00",
+          "episode_title": "Prelude to Revolution",
+          "description": "After the attack on the PLANTs by the Requiem, the Orb forces begin their preparations to leave Earth. ZAFT begins their assault on Requiem and the Minerva is sent to the front lines."
         }
       ],
       "logo": "logos/48.png"
@@ -804,13 +812,6 @@ window.GUIDE_DATA = {
       "number": 64,
       "name": "Sci-Fi",
       "programmes": [
-        {
-          "title": "Stargate SG-1",
-          "start": "2026-11-26T07:35:23-06:00",
-          "stop": "2026-11-26T08:19:52-06:00",
-          "episode_title": "Morpheus",
-          "description": "SG-1 investigates a problem off-world and soon finds that they have become victims themselves: they cannot stay awake. Meanwhile, Vala Mal Doran undergoes an evaluation on Earth, hoping to join SG-1."
-        },
         {
           "title": "Star Trek: Deep Space Nine",
           "start": "2026-11-26T08:19:52-06:00",
