@@ -1,24 +1,18 @@
 {
-  "generated_at": "2026-11-26T12:01:27.325771-06:00",
+  "generated_at": "2026-11-26T12:16:25.002407-06:00",
   "timezone": "America/Chicago",
   "source": "tunarr-xmltv",
   "window_hours": 6,
-  "window_start": "2026-11-26T12:01:27.325771-06:00",
-  "window_end": "2026-11-26T18:01:27.325771-06:00",
+  "window_start": "2026-11-26T12:16:25.002407-06:00",
+  "window_end": "2026-11-26T18:16:25.002407-06:00",
   "channel_count": 15,
-  "programme_count": 145,
+  "programme_count": 142,
   "channels": [
     {
       "id": "C2.50.tunarr.com",
       "number": 2,
       "name": "Syndication",
       "programmes": [
-        {
-          "title": "Looney Tunes",
-          "start": "2026-11-26T11:50:47-06:00",
-          "stop": "2026-11-26T12:01:31-06:00",
-          "episode_title": "Episode 7"
-        },
         {
           "title": "The Office (US)",
           "start": "2026-11-26T12:01:31-06:00",
@@ -294,13 +288,6 @@
       "name": "Japanimation",
       "programmes": [
         {
-          "title": "Dragon Ball Z",
-          "start": "2026-11-26T11:40:01-06:00",
-          "stop": "2026-11-26T12:05:06-06:00",
-          "episode_title": "Vegeta's Pride",
-          "description": "Evil Vegeta gives Goku an ultimatum: fight - or watch him annihilate more innocent lives! Goku vows to settle the score between them once and for all, but the Supreme Kai steps between the Saiyans with a bold declaration!"
-        },
-        {
           "title": "Sakamoto Days",
           "start": "2026-11-26T12:05:06-06:00",
           "stop": "2026-11-26T12:31:06-06:00",
@@ -410,6 +397,13 @@
           "stop": "2026-11-26T18:13:17-06:00",
           "episode_title": "The Most Wanted List",
           "description": "After finding themselves as public enemy number one on the merchant planet, Imecka, Goku, Pan, and Trunks attempt a daring rescue mission to salvage their ship. Without it they may be stuck on the planet forever! Casting all fear aside, the Saiyans try a direct approach...and find Don Kee's army locked and loaded!"
+        },
+        {
+          "title": "Dragon Ball GT",
+          "start": "2026-11-26T18:13:17-06:00",
+          "stop": "2026-11-26T18:33:25-06:00",
+          "episode_title": "Goku vs. Ledgic",
+          "description": "While hiding from the authorities, Goku, Pan, and Trunks become moved by the injustices that the Imeckans suffer under the oppressive Don Kee. They decide to confront The Don, and head straight for a showdown at the Royal Palace. It seems like an easy victory until Ledgic appears from the shadows!"
         }
       ],
       "logo": "logos/32.png"
@@ -451,13 +445,6 @@
       "number": 45,
       "name": "Mobile Suit Network",
       "programmes": [
-        {
-          "title": "Mobile Suit Gundam Seed Destiny",
-          "start": "2026-11-26T11:49:48-06:00",
-          "stop": "2026-11-26T12:14:36-06:00",
-          "episode_title": "Athrun on the Run",
-          "description": "Athrun, after being framed a traitor, escapes with Meyrin Hawke."
-        },
         {
           "title": "Mobile Suit Gundam Seed Destiny",
           "start": "2026-11-26T12:14:36-06:00",
@@ -539,6 +526,13 @@
           "stop": "2026-11-26T18:15:38-06:00",
           "episode_title": "The Dreaded Mucell",
           "description": "Flit recovers a Vagan intact cockpit from their previous battle and Dique's team finds that its pilot was using a special helmet to artificially stimulate his X-Rounder abilities. Against orders, Asemu steals the helmet believing it would give him the chance to get on par with Zeheart's skills, but the side effects of wearing it in combat puts his life in danger."
+        },
+        {
+          "title": "Mobile Suit Gundam AGE",
+          "start": "2026-11-26T18:15:38-06:00",
+          "stop": "2026-11-26T18:40:47-06:00",
+          "episode_title": "Earth is Eden",
+          "description": "The Vagans launch an attack on the Industrial colony of Nortram, planning to seize it and make use of its resources to spearhead their invasion of Earth, but once again the Federation Forces stand in their way, deploying their newest weapon against them. Decil once more disobeys Zehart's orders and leaves by himself seeking to confront Flit, but when he ends up against Asemu and Woolf together instead, tragedy strikes in both sides of the conflict."
         }
       ],
       "logo": "logos/45.png"
@@ -571,6 +565,12 @@
           "start": "2026-11-26T15:49:05-06:00",
           "stop": "2026-11-26T18:09:38-06:00",
           "description": "In the year Universal Century 0079, humans have colonized the area of space lying in between the Earth and the moon. However, the ambitious Zabi family, rulers of the Duchy of Zeon, the grouping of colonies furthest from the earth, has sparked a war."
+        },
+        {
+          "title": "Mobile Suit Gundam Thunderbolt: Bandit Flower",
+          "start": "2026-11-26T18:09:38-06:00",
+          "stop": "2026-11-26T19:40:24-06:00",
+          "description": "Eight months after the One Year War, the Earth Federation attempts to secure and destroy the Psycho Zaku from the hands of a cult called South Seas Alliance."
         }
       ],
       "logo": "logos/46.png"
@@ -580,12 +580,6 @@
       "number": 47,
       "name": "Universal Century",
       "programmes": [
-        {
-          "title": "Mobile Suit Gundam II: Soldiers of Sorrow",
-          "start": "2026-11-26T09:59:16-06:00",
-          "stop": "2026-11-26T12:14:07-06:00",
-          "description": "After attacks by Char and Garma, White Base crew battle Zeon forces through Asia, Europe, Atlantic on way to Federation HQ. Crewmembers like Amuro, Bright, Kai, Sayla, Mirai, Fraw, Hayato overcome fears, losses to survive."
-        },
         {
           "title": "Mobile Suit Gundam MS IGLOO",
           "start": "2026-11-26T12:14:07-06:00",
@@ -677,13 +671,6 @@
       "number": 48,
       "name": "Cosmic Era",
       "programmes": [
-        {
-          "title": "Mobile Suit Gundam Seed Destiny",
-          "start": "2026-11-26T11:48:47-06:00",
-          "stop": "2026-11-26T12:13:37-06:00",
-          "episode_title": "A New Flag",
-          "description": "ZAFT and its allies attack Heaven's Base."
-        },
         {
           "title": "Mobile Suit Gundam Seed Destiny",
           "start": "2026-11-26T12:13:37-06:00",
@@ -821,13 +808,6 @@
       "programmes": [
         {
           "title": "The Expanse",
-          "start": "2026-11-26T11:26:27-06:00",
-          "stop": "2026-11-26T12:14:27-06:00",
-          "episode_title": "Strange Dogs",
-          "description": "The Rocinante crew make a startling discovery on an asteroid. Avasarala and Bobbie contend with the devastation on Earth. Drummer and her family must make a heartbreaking decision. On Ceres, Marco and Filip's struggles turn inward."
-        },
-        {
-          "title": "The Expanse",
           "start": "2026-11-26T12:14:27-06:00",
           "stop": "2026-11-26T13:00:32-06:00",
           "episode_title": "Azure Dragon",
@@ -952,6 +932,13 @@
           "stop": "2026-11-26T18:12:27-06:00",
           "episode_title": "Suspicion",
           "description": "After a series of run-ins with the Wraith, the team begins to suspect their Athosian allies of having a spy in their midst."
+        },
+        {
+          "title": "Stargate Atlantis",
+          "start": "2026-11-26T18:12:27-06:00",
+          "stop": "2026-11-26T18:55:14-06:00",
+          "episode_title": "Childhood's End",
+          "description": "Sheppard and the team visit a world where no one is over 24 years old -- because of a ritual suicide practice they believe keeps the Wraith at bay."
         }
       ],
       "logo": "logos/65.png"
@@ -961,13 +948,6 @@
       "number": 66,
       "name": "Starfleet",
       "programmes": [
-        {
-          "title": "Star Trek: Voyager",
-          "start": "2026-11-26T11:14:47-06:00",
-          "stop": "2026-11-26T12:01:40-06:00",
-          "episode_title": "Deadlock",
-          "description": "Stardate: 49548.7. An accident in a plasma cloud duplicates Voyager after they are attacked by the Vidiians. During the aftermath, the ship is severely damaged, Ensign Wildman's baby dies and Harry Kim is sucked into space through a hull breach."
-        },
         {
           "title": "Star Trek: Voyager",
           "start": "2026-11-26T12:01:40-06:00",
