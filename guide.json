@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-11-26T17:31:24.937052-06:00",
+  "generated_at": "2026-11-26T17:46:25.060636-06:00",
   "timezone": "America/Chicago",
   "source": "tunarr-xmltv",
   "window_hours": 6,
-  "window_start": "2026-11-26T17:31:24.937052-06:00",
-  "window_end": "2026-11-26T23:31:24.937052-06:00",
+  "window_start": "2026-11-26T17:46:25.060636-06:00",
+  "window_end": "2026-11-26T23:46:25.060636-06:00",
   "channel_count": 15,
   "programme_count": 129,
   "channels": [
@@ -13,13 +13,6 @@
       "number": 2,
       "name": "Syndication",
       "programmes": [
-        {
-          "title": "Justice League",
-          "start": "2026-11-26T17:08:58-06:00",
-          "stop": "2026-11-26T17:33:12-06:00",
-          "episode_title": "Hearts and Minds (2)",
-          "description": "Despero's followers attack and John is forced to use a gun when his ring becomes useless due to Despero's mental tampering. While John, Katma, and Hawkgirl are captured, J'onn, Kilowog, and Flash must try to deactivate the mystic flames and deprive Despero of his power."
-        },
         {
           "title": "Batman: The Animated Series",
           "start": "2026-11-26T17:33:12-06:00",
@@ -89,6 +82,13 @@
           "stop": "2026-11-26T23:42:45-06:00",
           "episode_title": "Resurrection Day",
           "description": "Jamie is driven to a dark place while grappling with the consequences of his actions, Malcolm threatens Beth, and Monica and Tate move to the ranch with Kayce."
+        },
+        {
+          "title": "Defiance",
+          "start": "2026-11-26T23:42:45-06:00",
+          "stop": "2026-11-27T00:26:25-06:00",
+          "episode_title": "Slouching Towards Bethlehem",
+          "description": "Nolan must stop a terrorist from destroying New York, but his biggest obstacle may be….Amanda?"
         }
       ],
       "logo": "logos/2.png"
@@ -130,13 +130,6 @@
       "number": 11,
       "name": "Kidz!",
       "programmes": [
-        {
-          "title": "Star Wars: The Clone Wars",
-          "start": "2026-11-26T17:11:57-06:00",
-          "stop": "2026-11-26T17:35:27-06:00",
-          "episode_title": "Bombad Jedi",
-          "description": "Padmé travels to Rodia to meet with old family friend Onaconda Farr about the lack of food rations. Unfortunately Farr has just made a deal with the Separatists. Padmé is imprisoned, leaving it up to Jar Jar Binks and C-3PO to rescue her."
-        },
         {
           "title": "Star Wars: The Clone Wars",
           "start": "2026-11-26T17:35:27-06:00",
@@ -193,6 +186,13 @@
           "start": "2026-11-26T22:25:30-06:00",
           "stop": "2026-11-26T23:42:36-06:00",
           "description": "When a greedy outlaw schemes to take possession of the \"Patch Of Heaven\" dairy farm, three determined cows, a karate-kicking stallion and a colorful corral of critters join forces to save their home. The stakes are sky-high as this unlikely animal alliance risk their hides and match wits with a mysterious band of bad guys."
+        },
+        {
+          "title": "Justice League",
+          "start": "2026-11-26T23:42:36-06:00",
+          "stop": "2026-11-27T00:06:48-06:00",
+          "episode_title": "A Better World (2)",
+          "description": "The Justice League must escape from their imprisonment at the hands of the Justice Lords and defeat their counterparts with the help of an unlikely ally."
         }
       ],
       "logo": "logos/11.png"
@@ -228,12 +228,6 @@
       "number": 32,
       "name": "Japanimation",
       "programmes": [
-        {
-          "title": "Dragon Ball",
-          "start": "2026-11-26T17:11:55-06:00",
-          "stop": "2026-11-26T17:32:24-06:00",
-          "episode_title": "Episode 14"
-        },
         {
           "title": "Dragon Ball",
           "start": "2026-11-26T17:32:24-06:00",
@@ -364,12 +358,6 @@
       "number": 45,
       "name": "Mobile Suit Network",
       "programmes": [
-        {
-          "title": "SD Gundam Sangokuden Brave Battle Warriors",
-          "start": "2026-11-26T17:24:48-06:00",
-          "stop": "2026-11-26T17:37:38-06:00",
-          "episode_title": "Mirage of Terror"
-        },
         {
           "title": "SD Gundam Sangokuden Brave Battle Warriors",
           "start": "2026-11-26T17:37:38-06:00",
@@ -617,6 +605,13 @@
           "stop": "2026-11-26T23:35:45-06:00",
           "episode_title": "RX-78-2 Gundam",
           "description": "Universal Century: Amuro Ray, waiting to start in the final battle of A Baoa Qu, sits in his RX-78-2 Gundam while the other forces are already fighting. He recalls many of the battles he has fought until now before launching."
+        },
+        {
+          "title": "Mobile Suit Gundam",
+          "start": "2026-11-26T23:35:45-06:00",
+          "stop": "2026-11-27T00:01:26-06:00",
+          "episode_title": "Space Fortress: A Baoa Qu",
+          "description": "Federation forces, including White Base, proceed to invade the Fortress of A Baoa Qu despite losing half of their combined fleet caused by Zeon's Solar Ray; Amuro and Char -now piloting the Zeong- engage in battle again."
         }
       ],
       "logo": "logos/47.png"
@@ -741,13 +736,6 @@
       "number": 64,
       "name": "Sci-Fi",
       "programmes": [
-        {
-          "title": "Farscape",
-          "start": "2026-11-26T16:50:27-06:00",
-          "stop": "2026-11-26T17:37:21-06:00",
-          "episode_title": "Infinite Possibilities - Icarus Abides (2)",
-          "description": "Jack (The Ancient) unlocks the wormhole knowledge in Crichton's mind so together they can build a device to destroy the Scarran dreadnought."
-        },
         {
           "title": "The X-Files",
           "start": "2026-11-26T17:37:21-06:00",
@@ -874,6 +862,13 @@
           "stop": "2026-11-26T23:39:34-06:00",
           "episode_title": "The Answer",
           "description": "The team arrive on Octasar where a Dr. Carrie Mason of the SGC is working with a local scientist, Dr. Bri'sal, who is working on a project of universal telepathy as part of a scientific conference and believes the Tlak'khan can help him - they're playing him, naturally, since Bri'sal's fellow scientists don't support his project. Stacey overhears them while the rest of the team convinces Mason they're not traitors. Mason doesn't believe them and when the project succeeds the Tlak'khan take control. The team launches an attack but the mind-controlled scientists are forced to attack them, but Mason grabs Da'kyll's device, freeing everyone and forcing the Tlak'khan to retreat."
+        },
+        {
+          "title": "Stargate Infinity",
+          "start": "2026-11-26T23:39:34-06:00",
+          "stop": "2026-11-27T00:01:45-06:00",
+          "episode_title": "The Look",
+          "description": "The team arrive on a resort-type planet where the locals are obsessed with fashion accessories to the point of endangering themselves. They befriend Rikell and the women and Harrison help her to gather some ferns to make a fashion statement and run afoul of the local wildlife, while a mercenary attacks the team up above and grabs Draga. The others get clear with Harrison's scientific knowledge and catch up to rescue Draga. The team gets enough of the ferns from the merchant that helped out the mercenary to let Rikell make an outfit but she realizes she doesn't need a fancy outfit."
         }
       ],
       "logo": "logos/65.png"
@@ -923,6 +918,13 @@
           "stop": "2026-11-26T23:40:52-06:00",
           "episode_title": "Resolutions",
           "description": "Stardate: 49690.1. When Captain Janeway and Chakotay contract an incurable virus they are left on a planet that shield them from its effects. While Janeway searches for a cure, she begins to form a deeper relationship with her first officer. Onboard Voyager, Tuvok, who is now in command, faces a near mutiny."
+        },
+        {
+          "title": "Star Trek: Voyager",
+          "start": "2026-11-26T23:40:52-06:00",
+          "stop": "2026-11-27T00:27:43-06:00",
+          "episode_title": "Basics (1)",
+          "description": "Stardate: Unknown. Voyager receives a distress signal from Seska, who claims that Maje Cullah is going to take her baby away from her, a baby she says is Chakotay's. Chakotay is skeptical, but can't take the risk of abandoning his child, should it really prove to be his. Janeway authorises a mission to rescue Chakotay's child and the ship moves deep into Kazon Nistrim territory. However: was Seska for real, or is this all an elaborate trap?"
         }
       ],
       "logo": "logos/66.png"
@@ -932,13 +934,6 @@
       "number": 72,
       "name": "Comedy",
       "programmes": [
-        {
-          "title": "Warehouse 13",
-          "start": "2026-11-26T16:55:44-06:00",
-          "stop": "2026-11-26T17:40:46-06:00",
-          "episode_title": "Magnetism",
-          "description": "Pete and Myka are sent to investigate a small town where the inhabitants' minds are being altered making them act as they please. Meanwhile, Artie is confused by the energy flows going on in the warehouse and he seeks help from Leena who may know more about what is going on."
-        },
         {
           "title": "Warehouse 13",
           "start": "2026-11-26T17:40:46-06:00",
@@ -992,6 +987,13 @@
           "stop": "2026-11-26T23:34:43-06:00",
           "episode_title": "Halloween",
           "description": "Corporate demands a Halloween layoff, leaving Michael in a two-headed costume dodging decisions while Dwight and Jim's résumé battle, and Creed's survival instincts, turn the spooky day into real dread."
+        },
+        {
+          "title": "The Office (US)",
+          "start": "2026-11-26T23:34:43-06:00",
+          "stop": "2026-11-26T23:57:35-06:00",
+          "episode_title": "The Fight",
+          "description": "When Dwight embarrasses Michael by punching him in the stomach at work, Jim organizes a lunchtime rematch at Dwight's Dojo. Meanwhile, Pam becomes annoyed at Jim when he gets too physical with her, Ryan updates the emergency contact information on a secret mission, and Michael tantalizes Ryan when the boss gets a hold of Ryan's cell phone number."
         }
       ],
       "logo": "logos/72.png"
