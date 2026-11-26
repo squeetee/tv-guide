@@ -64,7 +64,7 @@ a { color: var(--sq-accent); }
   letter-spacing: 0.01em;
 }
 
-/* Full 12-hour guide only (body.guide-full). Compact widget is unaffected. */
+/* Full 6-hour guide only (body.guide-full). Compact widget is unaffected. */
 body.guide-full {
   font-size: 17px;
   line-height: 1.45;

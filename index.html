@@ -198,7 +198,7 @@
       border-radius: 50%;
       background: var(--sq-accent);
     }
-    :root { --ch-w: 210px; --px-min: 2.4px; --row-h: 92px; }
+    :root { --ch-w: 210px; --px-min: 4.8px; --row-h: 92px; }
     @media (max-width: 480px) {
       body { padding: 12px; }
       h1 { font-size: 26px; }
@@ -248,6 +248,40 @@
     function isPublicLogo(value) {
       return typeof value === "string" && /^logos\/\d+\.(png|jpe?g|gif|webp)$/i.test(value);
     }
+    function mergeProgrammes(programmes) {
+      const items = (programmes || []).slice().sort(function (a, b) {
+        return parseTs(a.start) - parseTs(b.start);
+      });
+      const merged = [];
+      items.forEach(function (p) {
+        const last = merged[merged.length - 1];
+        const gap = last ? minutesBetween(parseTs(last.stop), parseTs(p.start)) : 99;
+        if (last && last.title === p.title && gap >= -0.25 && gap <= 1) {
+          last.stop = p.stop;
+          last.parts.push(p);
+        } else {
+          merged.push({ title: p.title, start: p.start, stop: p.stop, parts: [p] });
+        }
+      });
+      return merged;
+    }
+    function episodeLabel(p) {
+      return ((p && p.episode_title) || "").trim();
+    }
+    function mergedTooltip(block) {
+      const parts = block.parts || [];
+      const when = formatClock(parseTs(block.start)) + " – " + formatClock(parseTs(block.stop));
+      if (parts.length <= 1) {
+        const ep = episodeLabel(parts[0] || {});
+        return block.title + (ep ? " — " + ep : "") + " (" + when + ")";
+      }
+      const eps = parts.map(episodeLabel).filter(Boolean);
+      let detail = parts.length + " episodes";
+      if (eps.length) {
+        detail += ": " + eps[0] + (eps.length > 1 ? " – " + eps[eps.length - 1] : "");
+      }
+      return block.title + " — " + detail + " (" + when + ")";
+    }
 
     function render(data) {
       const root = document.getElementById("root");
@@ -259,7 +293,7 @@
       const end = parseTs(data.window_end);
       const now = new Date();
       const totalMin = Math.max(minutesBetween(start, end), 1);
-      const pxMin = parseFloat(getComputedStyle(document.documentElement).getPropertyValue("--px-min")) || 2.4;
+      const pxMin = parseFloat(getComputedStyle(document.documentElement).getPropertyValue("--px-min")) || 4.8;
       const width = totalMin * pxMin;
       const gap = 2;
 
@@ -281,7 +315,7 @@
       }
 
       const rows = data.channels.map(function (ch) {
-        const blocks = (ch.programmes || []).map(function (p) {
+        const blocks = mergeProgrammes(ch.programmes).map(function (p) {
           const pStart = parseTs(p.start);
           const pStop = parseTs(p.stop);
           const leftMin = Math.max(0, minutesBetween(start, pStart));
@@ -295,15 +329,20 @@
           let cls = "prog" + (isNow ? " now" : "");
           if (widthPx < 28) cls += " tiny";
           else if (widthPx < 72) cls += " tight";
-          const episode = (p.episode_title && widthPx >= 28)
-            ? '<div class="e">' + esc(p.episode_title) + "</div>" : "";
+          const parts = p.parts || [];
+          let episodeHtml = "";
+          if (widthPx >= 28) {
+            if (parts.length > 1) {
+              episodeHtml = '<div class="e">' + esc(parts.length + " episodes") + "</div>";
+            } else if (episodeLabel(parts[0] || p)) {
+              episodeHtml = '<div class="e">' + esc(episodeLabel(parts[0] || p)) + "</div>";
+            }
+          }
           const when = widthPx >= 28
             ? '<div class="when">' + formatClock(pStart) + " – " + formatClock(pStop) + "</div>" : "";
-          const tip = p.title + (p.episode_title ? " — " + p.episode_title : "") +
-            " (" + formatClock(pStart) + " – " + formatClock(pStop) + ")";
-          return '<div class="' + cls + '" title="' + esc(tip) + '" style="left:' +
+          return '<div class="' + cls + '" title="' + esc(mergedTooltip(p)) + '" style="left:' +
             leftPx + "px;width:" + widthPx + 'px">' +
-            '<div class="t">' + esc(p.title) + "</div>" + episode + when + "</div>";
+            '<div class="t">' + esc(p.title) + "</div>" + episodeHtml + when + "</div>";
         }).join("");
         const num = ch.number == null ? "" : String(ch.number);
         const logoImg = isPublicLogo(ch.logo)

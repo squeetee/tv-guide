@@ -1,12 +1,12 @@
 window.GUIDE_DATA = {
-  "generated_at": "2026-11-25T21:01:24.668757-06:00",
+  "generated_at": "2026-11-25T21:02:19.786509-06:00",
   "timezone": "America/Chicago",
   "source": "tunarr-xmltv",
-  "window_hours": 12,
-  "window_start": "2026-11-25T21:01:24.668757-06:00",
-  "window_end": "2026-11-26T09:01:24.668757-06:00",
+  "window_hours": 6,
+  "window_start": "2026-11-25T21:02:19.786509-06:00",
+  "window_end": "2026-11-26T03:02:19.786509-06:00",
   "channel_count": 15,
-  "programme_count": 259,
+  "programme_count": 151,
   "channels": [
     {
       "id": "C2.50.tunarr.com",
@@ -66,54 +66,6 @@ window.GUIDE_DATA = {
           "start": "2026-11-26T02:17:08-06:00",
           "stop": "2026-11-26T03:22:33-06:00",
           "episode_title": "The Eleventh Hour"
-        },
-        {
-          "title": "Doctor Who (2005)",
-          "start": "2026-11-26T03:22:33-06:00",
-          "stop": "2026-11-26T04:05:12-06:00",
-          "episode_title": "Victory of the Daleks"
-        },
-        {
-          "title": "Farscape",
-          "start": "2026-11-26T04:05:12-06:00",
-          "stop": "2026-11-26T04:52:07-06:00",
-          "episode_title": "A Prefect Murder"
-        },
-        {
-          "title": "Farscape",
-          "start": "2026-11-26T04:52:07-06:00",
-          "stop": "2026-11-26T05:39:02-06:00",
-          "episode_title": "Coup By Clam"
-        },
-        {
-          "title": "Star Trek: Enterprise",
-          "start": "2026-11-26T05:39:02-06:00",
-          "stop": "2026-11-26T06:20:29-06:00",
-          "episode_title": "The Seventh"
-        },
-        {
-          "title": "Star Trek: Enterprise",
-          "start": "2026-11-26T06:20:29-06:00",
-          "stop": "2026-11-26T07:01:57-06:00",
-          "episode_title": "The Communicator"
-        },
-        {
-          "title": "Looney Tunes",
-          "start": "2026-11-26T07:01:57-06:00",
-          "stop": "2026-11-26T07:06:13-06:00",
-          "episode_title": "Episode 4"
-        },
-        {
-          "title": "Looney Tunes",
-          "start": "2026-11-26T07:06:13-06:00",
-          "stop": "2026-11-26T07:24:02-06:00",
-          "episode_title": "Episode 5"
-        },
-        {
-          "title": "Star Trek: The Next Generation",
-          "start": "2026-11-26T07:24:02-06:00",
-          "stop": "2026-11-26T08:07:05-06:00",
-          "episode_title": "Rascals"
         }
       ],
       "logo": "logos/2.png"
@@ -142,26 +94,6 @@ window.GUIDE_DATA = {
           "title": "National Lampoon's Animal House",
           "start": "2026-11-26T01:55:44-06:00",
           "stop": "2026-11-26T03:45:25-06:00"
-        },
-        {
-          "title": "Mean Girls",
-          "start": "2026-11-26T03:45:25-06:00",
-          "stop": "2026-11-26T05:23:12-06:00"
-        },
-        {
-          "title": "101 Dalmatians 2: Patch's London Adventure",
-          "start": "2026-11-26T05:23:12-06:00",
-          "stop": "2026-11-26T06:34:53-06:00"
-        },
-        {
-          "title": "Lady and the Tramp II: Scamp's Adventure",
-          "start": "2026-11-26T06:34:53-06:00",
-          "stop": "2026-11-26T07:42:00-06:00"
-        },
-        {
-          "title": "No Code of Conduct",
-          "start": "2026-11-26T07:42:00-06:00",
-          "stop": "2026-11-26T09:12:05-06:00"
         }
       ],
       "logo": "logos/3.png"
@@ -270,57 +202,6 @@ window.GUIDE_DATA = {
           "title": "Halloweentown",
           "start": "2026-11-26T02:44:51-06:00",
           "stop": "2026-11-26T04:09:59-06:00"
-        },
-        {
-          "title": "Cinderella",
-          "start": "2026-11-26T04:09:59-06:00",
-          "stop": "2026-11-26T05:25:58-06:00"
-        },
-        {
-          "title": "Looney Tunes",
-          "start": "2026-11-26T05:25:58-06:00",
-          "stop": "2026-11-26T05:34:57-06:00",
-          "episode_title": "Episode 5"
-        },
-        {
-          "title": "Looney Tunes",
-          "start": "2026-11-26T05:34:57-06:00",
-          "stop": "2026-11-26T05:44:02-06:00",
-          "episode_title": "Episode 6"
-        },
-        {
-          "title": "Swat Kats: The Radical Squadron",
-          "start": "2026-11-26T05:44:02-06:00",
-          "stop": "2026-11-26T06:07:15-06:00",
-          "episode_title": "Metal Urgency"
-        },
-        {
-          "title": "Swat Kats: The Radical Squadron",
-          "start": "2026-11-26T06:07:15-06:00",
-          "stop": "2026-11-26T06:30:10-06:00",
-          "episode_title": "The Ci-Kat-A"
-        },
-        {
-          "title": "Kim Possible: So the Drama",
-          "start": "2026-11-26T06:30:10-06:00",
-          "stop": "2026-11-26T07:42:05-06:00"
-        },
-        {
-          "title": "Looney Tunes",
-          "start": "2026-11-26T07:42:05-06:00",
-          "stop": "2026-11-26T07:49:42-06:00",
-          "episode_title": "Episode 7"
-        },
-        {
-          "title": "Looney Tunes",
-          "start": "2026-11-26T07:49:42-06:00",
-          "stop": "2026-11-26T07:57:57-06:00",
-          "episode_title": "Episode 8"
-        },
-        {
-          "title": "Casper",
-          "start": "2026-11-26T07:57:57-06:00",
-          "stop": "2026-11-26T09:38:06-06:00"
         }
       ],
       "logo": "logos/11.png"
@@ -354,23 +235,6 @@ window.GUIDE_DATA = {
           "title": "Godzilla",
           "start": "2026-11-26T02:27:09-06:00",
           "stop": "2026-11-26T04:46:46-06:00"
-        },
-        {
-          "title": "Band of Brothers",
-          "start": "2026-11-26T04:46:46-06:00",
-          "stop": "2026-11-26T05:49:56-06:00",
-          "episode_title": "Points"
-        },
-        {
-          "title": "Band of Brothers",
-          "start": "2026-11-26T05:49:56-06:00",
-          "stop": "2026-11-26T07:04:04-06:00",
-          "episode_title": "Currahee"
-        },
-        {
-          "title": "Skyfall",
-          "start": "2026-11-26T07:04:04-06:00",
-          "stop": "2026-11-26T09:27:14-06:00"
         }
       ],
       "logo": "logos/28.png"
@@ -481,90 +345,6 @@ window.GUIDE_DATA = {
           "start": "2026-11-26T02:37:48-06:00",
           "stop": "2026-11-26T03:02:46-06:00",
           "episode_title": "First Adjournment (Episode 9.5)"
-        },
-        {
-          "title": "Last Exile",
-          "start": "2026-11-26T03:02:46-06:00",
-          "stop": "2026-11-26T03:28:03-06:00",
-          "episode_title": "First Move"
-        },
-        {
-          "title": "Legend of the Galactic Heroes",
-          "start": "2026-11-26T03:28:03-06:00",
-          "stop": "2026-11-26T03:55:58-06:00",
-          "episode_title": "The Winter Rose Garden Edict"
-        },
-        {
-          "title": "Legend of the Galactic Heroes",
-          "start": "2026-11-26T03:55:58-06:00",
-          "stop": "2026-11-26T04:23:56-06:00",
-          "episode_title": "The Long Road Ahead"
-        },
-        {
-          "title": "Dragon Ball Z",
-          "start": "2026-11-26T04:23:56-06:00",
-          "stop": "2026-11-26T04:49:01-06:00",
-          "episode_title": "Pay to Win"
-        },
-        {
-          "title": "Dragon Ball Z",
-          "start": "2026-11-26T04:49:01-06:00",
-          "stop": "2026-11-26T05:14:06-06:00",
-          "episode_title": "Heart of a Villain"
-        },
-        {
-          "title": "Ingoku Danchi: Deviant's Apartment Complex",
-          "start": "2026-11-26T05:14:06-06:00",
-          "stop": "2026-11-26T05:18:35-06:00",
-          "episode_title": "Watanabe the Kidnapper"
-        },
-        {
-          "title": "Ingoku Danchi: Deviant's Apartment Complex",
-          "start": "2026-11-26T05:18:35-06:00",
-          "stop": "2026-11-26T05:23:04-06:00",
-          "episode_title": "Ichinose the Circulator"
-        },
-        {
-          "title": "Code Geass: Lelouch of the Rebellion",
-          "start": "2026-11-26T05:23:04-06:00",
-          "stop": "2026-11-26T05:48:07-06:00",
-          "episode_title": "One Million Miracles"
-        },
-        {
-          "title": "Code Geass: Lelouch of the Rebellion",
-          "start": "2026-11-26T05:48:07-06:00",
-          "stop": "2026-11-26T06:13:09-06:00",
-          "episode_title": "A Bride in the Vermilion Forbidden City"
-        },
-        {
-          "title": "His and Her Circumstances",
-          "start": "2026-11-26T06:13:09-06:00",
-          "stop": "2026-11-26T06:38:08-06:00",
-          "episode_title": "Yuki's Trouble"
-        },
-        {
-          "title": "His and Her Circumstances",
-          "start": "2026-11-26T06:38:08-06:00",
-          "stop": "2026-11-26T07:03:06-06:00",
-          "episode_title": "Their Secret"
-        },
-        {
-          "title": "Outlaw Star",
-          "start": "2026-11-26T07:03:06-06:00",
-          "stop": "2026-11-26T07:29:03-06:00",
-          "episode_title": "The Beast Girl Ready to Pounce!"
-        },
-        {
-          "title": "Outlaw Star",
-          "start": "2026-11-26T07:29:03-06:00",
-          "stop": "2026-11-26T07:55:09-06:00",
-          "episode_title": "The Beautiful Assassin"
-        },
-        {
-          "title": "Dragon Ball Super",
-          "start": "2026-11-26T07:55:09-06:00",
-          "stop": "2026-11-26T08:18:31-06:00",
-          "episode_title": "Episode 14"
         }
       ],
       "logo": "logos/32.png"
@@ -598,26 +378,6 @@ window.GUIDE_DATA = {
           "title": "Appleseed XIII: Ouranos",
           "start": "2026-11-26T01:42:23-06:00",
           "stop": "2026-11-26T03:07:39-06:00"
-        },
-        {
-          "title": "Odekake Kozame Movie",
-          "start": "2026-11-26T03:07:39-06:00",
-          "stop": "2026-11-26T04:20:39-06:00"
-        },
-        {
-          "title": "Your Name.",
-          "start": "2026-11-26T04:20:39-06:00",
-          "stop": "2026-11-26T06:08:09-06:00"
-        },
-        {
-          "title": "Tenchi Muyo! In Love",
-          "start": "2026-11-26T06:08:09-06:00",
-          "stop": "2026-11-26T07:43:25-06:00"
-        },
-        {
-          "title": "Martian Successor Nadesico: The Motion Picture - Prince of Darkness",
-          "start": "2026-11-26T07:43:25-06:00",
-          "stop": "2026-11-26T09:02:31-06:00"
         }
       ],
       "logo": "logos/33.png"
@@ -716,78 +476,6 @@ window.GUIDE_DATA = {
           "start": "2026-11-26T02:39:14-06:00",
           "stop": "2026-11-26T03:51:22-06:00",
           "episode_title": "Operation Meteor I: Odd Numbers"
-        },
-        {
-          "title": "Mobile Suit Gundam",
-          "start": "2026-11-26T03:51:22-06:00",
-          "stop": "2026-11-26T04:17:02-06:00",
-          "episode_title": "Escape From Luna II"
-        },
-        {
-          "title": "Mobile Suit Gundam",
-          "start": "2026-11-26T04:17:02-06:00",
-          "stop": "2026-11-26T04:42:42-06:00",
-          "episode_title": "Re-Entry to Earth"
-        },
-        {
-          "title": "Mobile Suit Zeta Gundam",
-          "start": "2026-11-26T04:42:42-06:00",
-          "stop": "2026-11-26T05:07:49-06:00",
-          "episode_title": "Forever Four"
-        },
-        {
-          "title": "Mobile Suit Zeta Gundam",
-          "start": "2026-11-26T05:07:49-06:00",
-          "stop": "2026-11-26T05:32:57-06:00",
-          "episode_title": "The Day of Dakar"
-        },
-        {
-          "title": "Mobile Suit Gundam Seed Destiny",
-          "start": "2026-11-26T05:32:57-06:00",
-          "stop": "2026-11-26T05:57:46-06:00",
-          "episode_title": "Nightmare"
-        },
-        {
-          "title": "Mobile Suit Gundam Seed Destiny",
-          "start": "2026-11-26T05:57:46-06:00",
-          "stop": "2026-11-26T06:22:35-06:00",
-          "episode_title": "Eve of Chaos"
-        },
-        {
-          "title": "Gundam Seed MSV Astray",
-          "start": "2026-11-26T06:22:35-06:00",
-          "stop": "2026-11-26T06:29:11-06:00",
-          "episode_title": "Episode 1"
-        },
-        {
-          "title": "Gundam Seed MSV Astray",
-          "start": "2026-11-26T06:29:11-06:00",
-          "stop": "2026-11-26T06:35:18-06:00",
-          "episode_title": "Episode 2"
-        },
-        {
-          "title": "Gundam Build Divers",
-          "start": "2026-11-26T06:35:18-06:00",
-          "stop": "2026-11-26T07:00:54-06:00",
-          "episode_title": "Your Feelings"
-        },
-        {
-          "title": "Gundam Build Divers",
-          "start": "2026-11-26T07:00:54-06:00",
-          "stop": "2026-11-26T07:26:30-06:00",
-          "episode_title": "Devoted Heart"
-        },
-        {
-          "title": "Mobile Suit Gundam SEED",
-          "start": "2026-11-26T07:26:30-06:00",
-          "stop": "2026-11-26T07:51:16-06:00",
-          "episode_title": "What Stands in the Way"
-        },
-        {
-          "title": "Mobile Suit Gundam SEED",
-          "start": "2026-11-26T07:51:16-06:00",
-          "stop": "2026-11-26T08:15:09-06:00",
-          "episode_title": "Spiral of Encounters"
         }
       ],
       "logo": "logos/45.png"
@@ -826,36 +514,6 @@ window.GUIDE_DATA = {
           "title": "Mobile Suit Gundam Hathaway",
           "start": "2026-11-26T03:01:17-06:00",
           "stop": "2026-11-26T04:37:37-06:00"
-        },
-        {
-          "title": "Mobile Suit Gundam: The 08th MS Team - Miller's Report",
-          "start": "2026-11-26T04:37:37-06:00",
-          "stop": "2026-11-26T05:29:55-06:00"
-        },
-        {
-          "title": "30th Gundam Perfect Mission",
-          "start": "2026-11-26T05:29:55-06:00",
-          "stop": "2026-11-26T05:33:02-06:00"
-        },
-        {
-          "title": "Gundam Wing: The Endless Waltz",
-          "start": "2026-11-26T05:33:02-06:00",
-          "stop": "2026-11-26T07:04:18-06:00"
-        },
-        {
-          "title": "All That Gundam",
-          "start": "2026-11-26T07:04:18-06:00",
-          "stop": "2026-11-26T07:06:18-06:00"
-        },
-        {
-          "title": "Mobile Suit Gundam: Twilight AXIS Remain of the Red",
-          "start": "2026-11-26T07:06:18-06:00",
-          "stop": "2026-11-26T07:33:46-06:00"
-        },
-        {
-          "title": "Mobile Suit Zeta Gundam - A New Translation I: Heirs to the Stars",
-          "start": "2026-11-26T07:33:46-06:00",
-          "stop": "2026-11-26T09:08:13-06:00"
         }
       ],
       "logo": "logos/46.png"
@@ -953,71 +611,6 @@ window.GUIDE_DATA = {
           "start": "2026-11-26T02:40:44-06:00",
           "stop": "2026-11-26T03:06:36-06:00",
           "episode_title": "Haunted Forest"
-        },
-        {
-          "title": "Gundam: Requiem for Vengeance",
-          "start": "2026-11-26T03:06:36-06:00",
-          "stop": "2026-11-26T03:32:24-06:00",
-          "episode_title": "Broken"
-        },
-        {
-          "title": "Gundam: Requiem for Vengeance",
-          "start": "2026-11-26T03:32:24-06:00",
-          "stop": "2026-11-26T03:58:09-06:00",
-          "episode_title": "Junkyard"
-        },
-        {
-          "title": "Gundam: Requiem for Vengeance",
-          "start": "2026-11-26T03:58:09-06:00",
-          "stop": "2026-11-26T04:23:48-06:00",
-          "episode_title": "Night Caller"
-        },
-        {
-          "title": "Gundam: Requiem for Vengeance",
-          "start": "2026-11-26T04:23:48-06:00",
-          "stop": "2026-11-26T04:47:57-06:00",
-          "episode_title": "The River"
-        },
-        {
-          "title": "Gundam: Requiem for Vengeance",
-          "start": "2026-11-26T04:47:57-06:00",
-          "stop": "2026-11-26T05:12:20-06:00",
-          "episode_title": "Convoy to Oblivion"
-        },
-        {
-          "title": "Mobile Suit Gundam MS IGLOO",
-          "start": "2026-11-26T05:12:20-06:00",
-          "stop": "2026-11-26T05:41:32-06:00",
-          "episode_title": "Odessa, Iron Storm!"
-        },
-        {
-          "title": "Mobile Suit Gundam",
-          "start": "2026-11-26T05:41:32-06:00",
-          "stop": "2026-11-26T06:07:12-06:00",
-          "episode_title": "The Battle of Odessa"
-        },
-        {
-          "title": "Mobile Suit Gundam: The 08th MS Team",
-          "start": "2026-11-26T06:07:12-06:00",
-          "stop": "2026-11-26T06:32:54-06:00",
-          "episode_title": "Reunion"
-        },
-        {
-          "title": "Mobile Suit Gundam",
-          "start": "2026-11-26T06:32:54-06:00",
-          "stop": "2026-11-26T06:58:34-06:00",
-          "episode_title": "Char Returns"
-        },
-        {
-          "title": "Mobile Suit Gundam: The 08th MS Team",
-          "start": "2026-11-26T06:58:34-06:00",
-          "stop": "2026-11-26T07:24:17-06:00",
-          "episode_title": "Duty and Ideals"
-        },
-        {
-          "title": "Mobile Suit Gundam: The 08th MS Team - Miller's Report",
-          "start": "2026-11-26T07:24:17-06:00",
-          "stop": "2026-11-26T08:15:41-06:00"
         }
       ],
       "logo": "logos/47.png"
@@ -1116,78 +709,6 @@ window.GUIDE_DATA = {
           "start": "2026-11-26T02:41:37-06:00",
           "stop": "2026-11-26T03:06:23-06:00",
           "episode_title": "Attack the Lohengrin!"
-        },
-        {
-          "title": "Mobile Suit Gundam Seed Destiny",
-          "start": "2026-11-26T03:06:23-06:00",
-          "stop": "2026-11-26T03:31:09-06:00",
-          "episode_title": "The Hidden Truth"
-        },
-        {
-          "title": "Mobile Suit Gundam Seed Destiny",
-          "start": "2026-11-26T03:31:09-06:00",
-          "stop": "2026-11-26T03:55:55-06:00",
-          "episode_title": "Past"
-        },
-        {
-          "title": "Mobile Suit Gundam Seed Destiny",
-          "start": "2026-11-26T03:55:55-06:00",
-          "stop": "2026-11-26T04:20:41-06:00",
-          "episode_title": "Wandering Eyes"
-        },
-        {
-          "title": "Mobile Suit Gundam Seed Destiny",
-          "start": "2026-11-26T04:20:41-06:00",
-          "stop": "2026-11-26T04:45:27-06:00",
-          "episode_title": "Sword of the Blue Skies"
-        },
-        {
-          "title": "Mobile Suit Gundam Seed Destiny",
-          "start": "2026-11-26T04:45:27-06:00",
-          "stop": "2026-11-26T05:10:14-06:00",
-          "episode_title": "The Shadows of War"
-        },
-        {
-          "title": "Mobile Suit Gundam Seed Destiny",
-          "start": "2026-11-26T05:10:14-06:00",
-          "stop": "2026-11-26T05:35:00-06:00",
-          "episode_title": "Differing Views"
-        },
-        {
-          "title": "Mobile Suit Gundam Seed Destiny",
-          "start": "2026-11-26T05:35:00-06:00",
-          "stop": "2026-11-26T05:59:49-06:00",
-          "episode_title": "The Place of Sin"
-        },
-        {
-          "title": "Mobile Suit Gundam Seed Destiny",
-          "start": "2026-11-26T05:59:49-06:00",
-          "stop": "2026-11-26T06:24:37-06:00",
-          "episode_title": "The Promise"
-        },
-        {
-          "title": "Mobile Suit Gundam Seed Destiny",
-          "start": "2026-11-26T06:24:37-06:00",
-          "stop": "2026-11-26T06:49:26-06:00",
-          "episode_title": "Unfulfilled Feelings"
-        },
-        {
-          "title": "Mobile Suit Gundam Seed Destiny",
-          "start": "2026-11-26T06:49:26-06:00",
-          "stop": "2026-11-26T07:14:16-06:00",
-          "episode_title": "Survivors and Sacrifices"
-        },
-        {
-          "title": "Mobile Suit Gundam Seed Destiny",
-          "start": "2026-11-26T07:14:16-06:00",
-          "stop": "2026-11-26T07:39:04-06:00",
-          "episode_title": "Fates"
-        },
-        {
-          "title": "Mobile Suit Gundam Seed Destiny",
-          "start": "2026-11-26T07:39:04-06:00",
-          "stop": "2026-11-26T08:02:59-06:00",
-          "episode_title": "A Fleeting Dream"
         }
       ],
       "logo": "logos/48.png"
@@ -1221,21 +742,6 @@ window.GUIDE_DATA = {
           "title": "Gremlins",
           "start": "2026-11-26T02:39:05-06:00",
           "stop": "2026-11-26T04:26:14-06:00"
-        },
-        {
-          "title": "The Exorcism of Hannah Stevenson",
-          "start": "2026-11-26T04:26:14-06:00",
-          "stop": "2026-11-26T05:40:50-06:00"
-        },
-        {
-          "title": "Backrooms",
-          "start": "2026-11-26T05:40:50-06:00",
-          "stop": "2026-11-26T07:32:13-06:00"
-        },
-        {
-          "title": "The Box",
-          "start": "2026-11-26T07:32:13-06:00",
-          "stop": "2026-11-26T08:51:49-06:00"
         }
       ],
       "logo": "logos/56.png"
@@ -1298,42 +804,6 @@ window.GUIDE_DATA = {
           "start": "2026-11-26T02:49:10-06:00",
           "stop": "2026-11-26T03:35:21-06:00",
           "episode_title": "Anasazi (1)"
-        },
-        {
-          "title": "Star Trek: Deep Space Nine",
-          "start": "2026-11-26T03:35:21-06:00",
-          "stop": "2026-11-26T04:21:44-06:00",
-          "episode_title": "Accession"
-        },
-        {
-          "title": "Star Trek: Deep Space Nine",
-          "start": "2026-11-26T04:21:44-06:00",
-          "stop": "2026-11-26T05:08:02-06:00",
-          "episode_title": "Rules of Engagement"
-        },
-        {
-          "title": "Star Trek",
-          "start": "2026-11-26T05:08:02-06:00",
-          "stop": "2026-11-26T05:59:27-06:00",
-          "episode_title": "Errand of Mercy"
-        },
-        {
-          "title": "Star Trek",
-          "start": "2026-11-26T05:59:27-06:00",
-          "stop": "2026-11-26T06:50:55-06:00",
-          "episode_title": "The Alternative Factor"
-        },
-        {
-          "title": "Stargate SG-1",
-          "start": "2026-11-26T06:50:55-06:00",
-          "stop": "2026-11-26T07:35:23-06:00",
-          "episode_title": "Flesh and Blood"
-        },
-        {
-          "title": "Stargate SG-1",
-          "start": "2026-11-26T07:35:23-06:00",
-          "stop": "2026-11-26T08:18:58-06:00",
-          "episode_title": "Morpheus"
         }
       ],
       "logo": "logos/64.png"
@@ -1396,42 +866,6 @@ window.GUIDE_DATA = {
           "start": "2026-11-26T02:45:07-06:00",
           "stop": "2026-11-26T03:30:13-06:00",
           "episode_title": "The Nox"
-        },
-        {
-          "title": "Stargate SG-1",
-          "start": "2026-11-26T03:30:13-06:00",
-          "stop": "2026-11-26T04:15:20-06:00",
-          "episode_title": "Brief Candle"
-        },
-        {
-          "title": "Stargate Atlantis",
-          "start": "2026-11-26T04:15:20-06:00",
-          "stop": "2026-11-26T05:00:43-06:00",
-          "episode_title": "Vegas"
-        },
-        {
-          "title": "Stargate Atlantis",
-          "start": "2026-11-26T05:00:43-06:00",
-          "stop": "2026-11-26T05:45:31-06:00",
-          "episode_title": "Enemy at the Gate"
-        },
-        {
-          "title": "Stargate SG-1",
-          "start": "2026-11-26T05:45:31-06:00",
-          "stop": "2026-11-26T06:30:38-06:00",
-          "episode_title": "Thor's Hammer"
-        },
-        {
-          "title": "Stargate SG-1",
-          "start": "2026-11-26T06:30:38-06:00",
-          "stop": "2026-11-26T07:15:44-06:00",
-          "episode_title": "The Torment of Tantalus"
-        },
-        {
-          "title": "Stargate Atlantis",
-          "start": "2026-11-26T07:15:44-06:00",
-          "stop": "2026-11-26T08:40:14-06:00",
-          "episode_title": "Rising (1)"
         }
       ],
       "logo": "logos/65.png"
@@ -1494,42 +928,6 @@ window.GUIDE_DATA = {
           "start": "2026-11-26T02:57:07-06:00",
           "stop": "2026-11-26T03:43:16-06:00",
           "episode_title": "Profit and Lace"
-        },
-        {
-          "title": "Star Trek: Voyager",
-          "start": "2026-11-26T03:43:16-06:00",
-          "stop": "2026-11-26T04:30:01-06:00",
-          "episode_title": "Dreadnought"
-        },
-        {
-          "title": "Star Trek: Voyager",
-          "start": "2026-11-26T04:30:01-06:00",
-          "stop": "2026-11-26T05:16:50-06:00",
-          "episode_title": "Death Wish"
-        },
-        {
-          "title": "Star Trek: The Next Generation",
-          "start": "2026-11-26T05:16:50-06:00",
-          "stop": "2026-11-26T06:00:18-06:00",
-          "episode_title": "Bloodlines"
-        },
-        {
-          "title": "Star Trek: The Next Generation",
-          "start": "2026-11-26T06:00:18-06:00",
-          "stop": "2026-11-26T06:43:26-06:00",
-          "episode_title": "Emergence"
-        },
-        {
-          "title": "Star Trek: Enterprise",
-          "start": "2026-11-26T06:43:26-06:00",
-          "stop": "2026-11-26T07:26:08-06:00",
-          "episode_title": "The Aenar (3)"
-        },
-        {
-          "title": "Star Trek: Enterprise",
-          "start": "2026-11-26T07:26:08-06:00",
-          "stop": "2026-11-26T08:07:55-06:00",
-          "episode_title": "Affliction (1)"
         }
       ],
       "logo": "logos/66.png"
@@ -1602,29 +1000,6 @@ window.GUIDE_DATA = {
           "title": "Screamboat",
           "start": "2026-11-26T02:07:03-06:00",
           "stop": "2026-11-26T03:49:30-06:00"
-        },
-        {
-          "title": "Barry",
-          "start": "2026-11-26T03:49:30-06:00",
-          "stop": "2026-11-26T04:20:43-06:00",
-          "episode_title": "Chapter Three: Make the Unsafe Choice"
-        },
-        {
-          "title": "Barry",
-          "start": "2026-11-26T04:20:43-06:00",
-          "stop": "2026-11-26T04:50:31-06:00",
-          "episode_title": "Chapter Four: Commit ... to YOU"
-        },
-        {
-          "title": "Guardians of the Galaxy: Vol. 2",
-          "start": "2026-11-26T04:50:31-06:00",
-          "stop": "2026-11-26T07:07:12-06:00"
-        },
-        {
-          "title": "Warehouse 13",
-          "start": "2026-11-26T07:07:12-06:00",
-          "stop": "2026-11-26T08:34:56-06:00",
-          "episode_title": "Pilot"
         }
       ],
       "logo": "logos/72.png"
