@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-26T12:31:24.828061-06:00",
+  "generated_at": "2026-11-26T12:46:24.967940-06:00",
   "timezone": "America/Chicago",
   "source": "tunarr-xmltv",
   "window_hours": 6,
-  "window_start": "2026-11-26T12:31:24.828061-06:00",
-  "window_end": "2026-11-26T18:31:24.828061-06:00",
+  "window_start": "2026-11-26T12:46:24.967940-06:00",
+  "window_end": "2026-11-26T18:46:24.967940-06:00",
   "channel_count": 15,
-  "programme_count": 144,
+  "programme_count": 141,
   "channels": [
     {
       "id": "C2.50.tunarr.com",
@@ -155,12 +155,6 @@
       "number": 11,
       "name": "Kidz!",
       "programmes": [
-        {
-          "title": "Cinderella II: Dreams Come True",
-          "start": "2026-11-26T11:30:58-06:00",
-          "stop": "2026-11-26T12:42:19-06:00",
-          "description": "Jaq and Gus create a storybook based on three events that happened after the first film. The stories include Cinderella's opposition to the court's strict etiquette, Jaq's becoming human for a day, and Anastasia's redemption through love."
-        },
         {
           "title": "Batman: The Animated Series",
           "start": "2026-11-26T12:42:19-06:00",
@@ -397,6 +391,13 @@
           "stop": "2026-11-26T18:33:25-06:00",
           "episode_title": "Goku vs. Ledgic",
           "description": "While hiding from the authorities, Goku, Pan, and Trunks become moved by the injustices that the Imeckans suffer under the oppressive Don Kee. They decide to confront The Don, and head straight for a showdown at the Royal Palace. It seems like an easy victory until Ledgic appears from the shadows!"
+        },
+        {
+          "title": "Psycho-Pass",
+          "start": "2026-11-26T18:33:25-06:00",
+          "stop": "2026-11-26T19:20:12-06:00",
+          "episode_title": "Nobody Knows Your Face",
+          "description": "The CID’s hunt for Kimihiko Hayama’s killer leads them to another murder with the same modus operandi. Now it’s up to the CID to figure out how to track down the killer’s real identity and get justice for the victims."
         }
       ],
       "logo": "logos/32.png"
@@ -406,12 +407,6 @@
       "number": 33,
       "name": "Anime Cinema",
       "programmes": [
-        {
-          "title": "Heaven's Lost Property the Movie: The Angeloid of Clockwork",
-          "start": "2026-11-26T10:58:00-06:00",
-          "stop": "2026-11-26T12:35:59-06:00",
-          "description": "Hiyori is a sweet shy wallflower who is infatuated with Tomoki. She joins the New World Discovery Club in order to get closer to her crush, but Tomoki's love of peace and quiet leads him to try and scare Hiyori away with his usual perverted antics. Hiyori remains committed to her cause until a tragic accident changes everything. It seems Hiyori has a mysterious connection to the Angeloids."
-        },
         {
           "title": "Akira",
           "start": "2026-11-26T12:35:59-06:00",
@@ -444,13 +439,6 @@
       "number": 45,
       "name": "Mobile Suit Network",
       "programmes": [
-        {
-          "title": "Mobile Suit Gundam Seed Destiny",
-          "start": "2026-11-26T12:14:36-06:00",
-          "stop": "2026-11-26T12:39:26-06:00",
-          "episode_title": "Thunder in the Dark",
-          "description": "With Athrun's Gouf destroyed, Ledonir Kisaka rescues them, bringing them to the Archangel."
-        },
         {
           "title": "After War Gundam X",
           "start": "2026-11-26T12:39:26-06:00",
@@ -532,6 +520,13 @@
           "stop": "2026-11-26T18:40:47-06:00",
           "episode_title": "Earth is Eden",
           "description": "The Vagans launch an attack on the Industrial colony of Nortram, planning to seize it and make use of its resources to spearhead their invasion of Earth, but once again the Federation Forces stand in their way, deploying their newest weapon against them. Decil once more disobeys Zehart's orders and leaves by himself seeking to confront Flit, but when he ends up against Asemu and Woolf together instead, tragedy strikes in both sides of the conflict."
+        },
+        {
+          "title": "Mobile Suit Gundam ZZ",
+          "start": "2026-11-26T18:40:47-06:00",
+          "stop": "2026-11-26T19:05:54-06:00",
+          "episode_title": "Crybaby Cecilia, Part 2",
+          "description": "Torres agonizes over the knowledge that his old friend Cecilia is a spy for Gottn. Amidst the confusion of Chara's escape, Cecilia escapes on her own and goes to Gottn. Giving him phony information, she gets a ticket for an emigration ship. But the trunk supposedly containing her payment has a bomb set inside..."
         }
       ],
       "logo": "logos/45.png"
@@ -579,13 +574,6 @@
       "number": 47,
       "name": "Universal Century",
       "programmes": [
-        {
-          "title": "Mobile Suit Gundam MS IGLOO",
-          "start": "2026-11-26T12:14:07-06:00",
-          "stop": "2026-11-26T12:43:32-06:00",
-          "episode_title": "I Saw The Ocean In Jaburo's Skies",
-          "description": "(U.C. 0079.12.03 - 0079.12.07) With Zeon losing their foothold on Earth, the 603rd is given a new project — to infiltrate a prototype weapon into the Federation airspace and attack Federation warships launching from Jaburo. Ensign Werner Holbein, an arrogant naval officer who boasts a proud maritime family tradition, is assigned to the Jotunheim to pilot the mobile diver unit Ze'Gok. However, the testing goes well below expectation, as both Holbein's test drop ends in failure after unable to score any hit with the Ze'Gok. On the third and final drop, Holbein manages to destroy a handful of Federation ships with a direct reentry/free descent before letting loose the attached \"Kuhblume\" beam scatter cannon. Before he could celebrate, two Core Booster II fighters arrived and shot down both the Ze'Gok and the retrieving Gaw carrier, killing Holbein in the process."
-        },
         {
           "title": "Mobile Suit Gundam: The 08th MS Team",
           "start": "2026-11-26T12:43:32-06:00",
@@ -668,6 +656,13 @@
           "stop": "2026-11-26T18:46:00-06:00",
           "episode_title": "A Fateful Encounter",
           "description": "Inside Side Six, Amuro meets a beautiful girl named Lalah Sune and tensions run high when a Zanzibar ship led by Char Aznable docks next to the White Base."
+        },
+        {
+          "title": "Mobile Suit Gundam 0080: War in the Pocket",
+          "start": "2026-11-26T18:46:00-06:00",
+          "stop": "2026-11-26T19:14:16-06:00",
+          "episode_title": "Say It Ain't So, Bernie!",
+          "description": "Killing is informed that Operation Rubicon has failed and that the Gundam is still in Side 6."
         }
       ],
       "logo": "logos/47.png"
@@ -677,13 +672,6 @@
       "number": 48,
       "name": "Cosmic Era",
       "programmes": [
-        {
-          "title": "Mobile Suit Gundam Seed Destiny",
-          "start": "2026-11-26T12:13:37-06:00",
-          "stop": "2026-11-26T12:38:24-06:00",
-          "episode_title": "Kira of the Skies",
-          "description": "After a trip to the Mendel Colony, Lacus and the Eternal's location is discovered by ZAFT. Just when it looks bleak for the Eternal, Kira comes to the rescue."
-        },
         {
           "title": "Mobile Suit Gundam Seed Destiny",
           "start": "2026-11-26T12:38:24-06:00",
@@ -1018,13 +1006,6 @@
       "number": 72,
       "name": "Comedy",
       "programmes": [
-        {
-          "title": "The Office (US)",
-          "start": "2026-11-26T12:23:39-06:00",
-          "stop": "2026-11-26T12:45:30-06:00",
-          "episode_title": "The Dundies",
-          "description": "It's time for the \"Dundies\", Dunder Mifflin's annual awards banquet (held at the neighborhood Chili's), and the staff must endure the excruciating performance of their inept emcee, boss Michael Scott."
-        },
         {
           "title": "The Office (US)",
           "start": "2026-11-26T12:45:30-06:00",
