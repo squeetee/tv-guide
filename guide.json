@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-25T21:31:24.702903-06:00",
+  "generated_at": "2026-11-25T21:46:24.679351-06:00",
   "timezone": "America/Chicago",
   "source": "tunarr-xmltv",
   "window_hours": 6,
-  "window_start": "2026-11-25T21:31:24.702903-06:00",
-  "window_end": "2026-11-26T03:31:24.702903-06:00",
+  "window_start": "2026-11-25T21:46:24.679351-06:00",
+  "window_end": "2026-11-26T03:46:24.679351-06:00",
   "channel_count": 15,
-  "programme_count": 145,
+  "programme_count": 142,
   "channels": [
     {
       "id": "C2.50.tunarr.com",
@@ -94,6 +94,11 @@
           "title": "National Lampoon's Animal House",
           "start": "2026-11-26T01:55:44-06:00",
           "stop": "2026-11-26T03:45:25-06:00"
+        },
+        {
+          "title": "Mean Girls",
+          "start": "2026-11-26T03:45:25-06:00",
+          "stop": "2026-11-26T05:23:12-06:00"
         }
       ],
       "logo": "logos/3.png"
@@ -103,12 +108,6 @@
       "number": 11,
       "name": "Kidz!",
       "programmes": [
-        {
-          "title": "Voltron: Legendary Defender",
-          "start": "2026-11-25T21:07:45-06:00",
-          "stop": "2026-11-25T21:32:20-06:00",
-          "episode_title": "Code of Honor"
-        },
         {
           "title": "Voltron: Legendary Defender",
           "start": "2026-11-25T21:32:20-06:00",
@@ -205,11 +204,6 @@
       "number": 28,
       "name": "Adrenaline",
       "programmes": [
-        {
-          "title": "Thunderball",
-          "start": "2026-11-25T19:32:26-06:00",
-          "stop": "2026-11-25T21:43:43-06:00"
-        },
         {
           "title": "Hot Shots!",
           "start": "2026-11-25T21:43:43-06:00",
@@ -468,11 +462,6 @@
       "name": "Gundam Theater",
       "programmes": [
         {
-          "title": "A Boy With Gundam Road to 50 Prologue",
-          "start": "2026-11-25T21:27:34-06:00",
-          "stop": "2026-11-25T21:34:14-06:00"
-        },
-        {
           "title": "Turn A Gundam II: Moonlight Butterfly",
           "start": "2026-11-25T21:34:14-06:00",
           "stop": "2026-11-25T23:41:48-06:00"
@@ -583,6 +572,12 @@
           "start": "2026-11-26T03:06:36-06:00",
           "stop": "2026-11-26T03:32:24-06:00",
           "episode_title": "Broken"
+        },
+        {
+          "title": "Gundam: Requiem for Vengeance",
+          "start": "2026-11-26T03:32:24-06:00",
+          "stop": "2026-11-26T03:58:09-06:00",
+          "episode_title": "Junkyard"
         }
       ],
       "logo": "logos/47.png"
@@ -592,12 +587,6 @@
       "number": 48,
       "name": "Cosmic Era",
       "programmes": [
-        {
-          "title": "Mobile Suit Gundam Seed Destiny",
-          "start": "2026-11-25T21:19:37-06:00",
-          "stop": "2026-11-25T21:44:23-06:00",
-          "episode_title": "Scars That Won't Heal"
-        },
         {
           "title": "Mobile Suit Gundam Seed Destiny",
           "start": "2026-11-25T21:44:23-06:00",
@@ -697,11 +686,6 @@
       "name": "Fright Night",
       "programmes": [
         {
-          "title": "Return to Return to Nuke 'Em High Aka Vol. 2",
-          "start": "2026-11-25T20:13:09-06:00",
-          "stop": "2026-11-25T21:38:51-06:00"
-        },
-        {
           "title": "The Fear of Darkness",
           "start": "2026-11-25T21:38:51-06:00",
           "stop": "2026-11-25T23:11:35-06:00"
@@ -776,6 +760,12 @@
           "start": "2026-11-26T02:49:10-06:00",
           "stop": "2026-11-26T03:35:21-06:00",
           "episode_title": "Anasazi (1)"
+        },
+        {
+          "title": "Star Trek: Deep Space Nine",
+          "start": "2026-11-26T03:35:21-06:00",
+          "stop": "2026-11-26T04:21:44-06:00",
+          "episode_title": "Accession"
         }
       ],
       "logo": "logos/64.png"
@@ -785,12 +775,6 @@
       "number": 65,
       "name": "Stargate Command",
       "programmes": [
-        {
-          "title": "Stargate SG-1",
-          "start": "2026-11-25T20:53:54-06:00",
-          "stop": "2026-11-25T21:39:01-06:00",
-          "episode_title": "Emancipation"
-        },
         {
           "title": "Stargate SG-1",
           "start": "2026-11-25T21:39:01-06:00",
@@ -900,6 +884,12 @@
           "start": "2026-11-26T02:57:07-06:00",
           "stop": "2026-11-26T03:43:16-06:00",
           "episode_title": "Profit and Lace"
+        },
+        {
+          "title": "Star Trek: Voyager",
+          "start": "2026-11-26T03:43:16-06:00",
+          "stop": "2026-11-26T04:30:01-06:00",
+          "episode_title": "Dreadnought"
         }
       ],
       "logo": "logos/66.png"
@@ -909,12 +899,6 @@
       "number": 72,
       "name": "Comedy",
       "programmes": [
-        {
-          "title": "Coupling",
-          "start": "2026-11-25T21:10:50-06:00",
-          "stop": "2026-11-25T21:41:05-06:00",
-          "episode_title": "Flushed"
-        },
         {
           "title": "Coupling",
           "start": "2026-11-25T21:41:05-06:00",
