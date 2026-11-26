@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-11-26T13:01:24.941009-06:00",
+  "generated_at": "2026-11-26T13:16:24.931294-06:00",
   "timezone": "America/Chicago",
   "source": "tunarr-xmltv",
   "window_hours": 6,
-  "window_start": "2026-11-26T13:01:24.941009-06:00",
-  "window_end": "2026-11-26T19:01:24.941009-06:00",
+  "window_start": "2026-11-26T13:16:24.931294-06:00",
+  "window_end": "2026-11-26T19:16:24.931294-06:00",
   "channel_count": 15,
   "programme_count": 138,
   "channels": [
@@ -13,13 +13,6 @@
       "number": 2,
       "name": "Syndication",
       "programmes": [
-        {
-          "title": "Star Wars: The Clone Wars",
-          "start": "2026-11-26T12:47:16-06:00",
-          "stop": "2026-11-26T13:10:47-06:00",
-          "episode_title": "Gungan Attack",
-          "description": "Anakin Skywalker and the rest of his Jedi team have been overrun by the Separatist surprise attacks led by Riff Tamson while Prince Lee-Char and Ahsoka must evade capture on their own. Unable to summon more Republic aid, Yoda calls upon the help of the powerful and amphibious Gungan Grand Army, but whether they will be enough to stop the Separatist siege is uncertain. An incensed Tamson doubles his efforts in tracking down Prince Lee-Char, unleashing the reinforcements given to him by Count Dooku in an assault that churns the oceans."
-        },
         {
           "title": "Star Wars: The Clone Wars",
           "start": "2026-11-26T13:10:47-06:00",
@@ -140,6 +133,12 @@
           "start": "2026-11-26T17:01:56-06:00",
           "stop": "2026-11-26T19:13:31-06:00",
           "description": "For Ted, prom night went about as bad as it’s possible for any night to go. Thirteen years later, he finally gets another chance with his old prom date, only to run up against other suitors including the sleazy detective he hired to find her."
+        },
+        {
+          "title": "The Love Bug",
+          "start": "2026-11-26T19:13:31-06:00",
+          "stop": "2026-11-26T20:57:39-06:00",
+          "description": "Down-on-his-luck race car driver Jim Douglas teams up with a little VW Bug that has a mind of it's own, not realizing Herbie's worth until a sneaky rival plots to steal him."
         }
       ],
       "logo": "logos/3.png"
@@ -149,13 +148,6 @@
       "number": 11,
       "name": "Kidz!",
       "programmes": [
-        {
-          "title": "Batman: The Animated Series",
-          "start": "2026-11-26T12:42:19-06:00",
-          "stop": "2026-11-26T13:05:41-06:00",
-          "episode_title": "Prophecy of Doom",
-          "description": "Bruce begins to worry when all of his wealthy friends join the same brotherhood group run by Nostromos, a so-called psychic."
-        },
         {
           "title": "Batman: The Animated Series",
           "start": "2026-11-26T13:05:41-06:00",
@@ -240,6 +232,12 @@
           "start": "2026-11-26T17:58:57-06:00",
           "stop": "2026-11-26T19:03:00-06:00",
           "description": "Three tales of Christmas past about Donald's nephews reliving the day on repeat, Max Goof's belief in Santa being challenged, and Mickey and Minnie making ends meet."
+        },
+        {
+          "title": "Winnie the Pooh: A Very Merry Pooh Year",
+          "start": "2026-11-26T19:03:00-06:00",
+          "stop": "2026-11-26T20:05:05-06:00",
+          "description": "It's Christmastime in the Hundred Acre Wood and all of the gang is getting ready with presents and decorations. The gang makes a list of what they want for Christmas and send it to Santa Claus - except that Pooh forgot to ask for something. So he heads out to retrieve the letter and get it to Santa by Christmas...which happens to be tomorrow!"
         }
       ],
       "logo": "logos/11.png"
@@ -266,6 +264,12 @@
           "start": "2026-11-26T15:33:46-06:00",
           "stop": "2026-11-26T19:09:28-06:00",
           "description": "In the second part of the Tolkien trilogy, Frodo Baggins and the other members of the Fellowship continue on their sacred quest to destroy the One Ring--but on separate paths. Their destinies lie at two towers--Orthanc Tower in Isengard, where the corrupt wizard Saruman awaits, and Sauron's fortress at Barad-dur, deep within the dark lands of Mordor."
+        },
+        {
+          "title": "It's a Mad, Mad, Mad, Mad World",
+          "start": "2026-11-26T19:09:28-06:00",
+          "stop": "2026-11-26T21:53:49-06:00",
+          "description": "Several different motorists witness a single car crash in the California desert and, after the driver's dying words indicate the location of a hidden stash of loot, turn against each other in a mad dash across the state to get to it."
         }
       ],
       "logo": "logos/28.png"
@@ -428,13 +432,6 @@
       "programmes": [
         {
           "title": "After War Gundam X",
-          "start": "2026-11-26T12:39:26-06:00",
-          "stop": "2026-11-26T13:04:18-06:00",
-          "episode_title": "You Men Are Our Star of Hope!",
-          "description": "After escaping from Zonda Epta and evading the New UNE Navy, the Freeden lands in a country in southern Asia called the People's Republic of Estard and are approached by its leader and generals to join with them in their fight against the New UNE military. At first declining the offer, the crew changes their mind after they survive and witness the aftermath of a large carpet bombing raid carried out by the New UNE on civilian areas."
-        },
-        {
-          "title": "After War Gundam X",
           "start": "2026-11-26T13:04:18-06:00",
           "stop": "2026-11-26T13:29:10-06:00",
           "episode_title": "Don't Say a Word",
@@ -514,6 +511,13 @@
           "stop": "2026-11-26T19:05:54-06:00",
           "episode_title": "Crybaby Cecilia, Part 2",
           "description": "Torres agonizes over the knowledge that his old friend Cecilia is a spy for Gottn. Amidst the confusion of Chara's escape, Cecilia escapes on her own and goes to Gottn. Giving him phony information, she gets a ticket for an emigration ship. But the trunk supposedly containing her payment has a bomb set inside..."
+        },
+        {
+          "title": "Mobile Suit Gundam ZZ",
+          "start": "2026-11-26T19:05:54-06:00",
+          "stop": "2026-11-26T19:31:01-06:00",
+          "episode_title": "Judau, Launch!",
+          "description": "The attack on Earth by Haman Karn's Neo Zeon fleet is now in full swing. To rescue Leina, Judau attaches bombs to the Double Zeta and then launches into battle on his own. Alone, Judau pursues the battleship Sadalahn. Haman, sensing his Newtype potential, invites him aboard."
         }
       ],
       "logo": "logos/45.png"
@@ -555,13 +559,6 @@
       "number": 47,
       "name": "Universal Century",
       "programmes": [
-        {
-          "title": "Mobile Suit Gundam: The 08th MS Team",
-          "start": "2026-11-26T12:43:32-06:00",
-          "stop": "2026-11-26T13:09:16-06:00",
-          "episode_title": "Front Line",
-          "description": "The Federation Forces, having learned that the Apsalus was created to destroy Jaburo, begin searching for the development base. Shiro and the 08th MS Team descend into enemy territory to aid the search, only to encounter retreating Zeons."
-        },
         {
           "title": "Mobile Suit Gundam: The 08th MS Team",
           "start": "2026-11-26T13:09:16-06:00",
@@ -644,6 +641,13 @@
           "stop": "2026-11-26T19:14:16-06:00",
           "episode_title": "Say It Ain't So, Bernie!",
           "description": "Killing is informed that Operation Rubicon has failed and that the Gundam is still in Side 6."
+        },
+        {
+          "title": "Mobile Suit Gundam",
+          "start": "2026-11-26T19:14:16-06:00",
+          "stop": "2026-11-26T19:39:56-06:00",
+          "episode_title": "The Glory of Solomon",
+          "description": "A massive Federation combined space fleet attacks the Principality of Zeon's Fortress of Solomon, commanded by Dozle Zabi."
         }
       ],
       "logo": "logos/47.png"
@@ -653,13 +657,6 @@
       "number": 48,
       "name": "Cosmic Era",
       "programmes": [
-        {
-          "title": "Mobile Suit Gundam Seed Destiny",
-          "start": "2026-11-26T12:38:24-06:00",
-          "stop": "2026-11-26T13:03:12-06:00",
-          "episode_title": "Legacy of Gold",
-          "description": "Cagallia, regaining control of Orb, is given the golden mobile suit, the ORB-01 Akatsuki."
-        },
         {
           "title": "Mobile Suit Gundam Seed Destiny",
           "start": "2026-11-26T13:03:12-06:00",
@@ -842,6 +839,13 @@
           "stop": "2026-11-26T19:08:52-06:00",
           "episode_title": "Paper Clip (3)",
           "description": "A.D. Skinner and Scully are at a standoff when Mulder bursts in and discovers that Skinner has the digital tape. Reunited, Mulder and Scully travel to a secret vault inside a mine and find an elaborate filing system of medical records which reveals that Mulder's sister may not have been the first choice for abduction. Meanwhile, Skinner deals with the Cigarette-Smoking Man for their safety."
+        },
+        {
+          "title": "Eureka",
+          "start": "2026-11-26T19:08:52-06:00",
+          "stop": "2026-11-26T19:53:26-06:00",
+          "episode_title": "Invincible",
+          "description": "An unpredictable researcher accidentally unleashes a dangerous artifact which was previously hidden by Nathan Stark."
         }
       ],
       "logo": "logos/64.png"
@@ -851,13 +855,6 @@
       "number": 65,
       "name": "Stargate Command",
       "programmes": [
-        {
-          "title": "Stargate Atlantis",
-          "start": "2026-11-26T12:19:38-06:00",
-          "stop": "2026-11-26T13:02:27-06:00",
-          "episode_title": "Thirty Eight Minutes",
-          "description": "A Jumper gets stuck in a Stargate when it was carrying Sheppard, Teyla, Ford and Rodney, making it impossible to pass through it. The fact that Major Sheppard is deadly injured and the Stargate will get closed in thirty eight minutes (which would mean their death) makes necessary to find out quickly a way to fit in the Stargate and escape."
-        },
         {
           "title": "Stargate SG-1",
           "start": "2026-11-26T13:02:27-06:00",
@@ -977,6 +974,13 @@
           "stop": "2026-11-26T19:05:41-06:00",
           "episode_title": "Tears of the Prophets",
           "description": "Stardate: Unknown. When Sisko is picked to head up an attack on the Cardassian homeworld, the Prophets appear to him in a vision, warning him of impending doom if he leaves the station."
+        },
+        {
+          "title": "Star Trek: Deep Space Nine",
+          "start": "2026-11-26T19:05:41-06:00",
+          "stop": "2026-11-26T19:51:41-06:00",
+          "episode_title": "Image in the Sand",
+          "description": "Having returned to Earth a couple of months ago, Sisko waits for the Prophets to instruct him on what to do next. When he receives one, he begins searching for the woman behind the face in the sand in his vision. Meanwhile, back on DS9, Kira deals with a promotion and handling the decisions surrounding her command, and finding herself wishing for the return of Sisko. And Worf deals with the loss of his wife, Jadzia Dax."
         }
       ],
       "logo": "logos/66.png"
@@ -986,13 +990,6 @@
       "number": 72,
       "name": "Comedy",
       "programmes": [
-        {
-          "title": "The Office (US)",
-          "start": "2026-11-26T12:45:30-06:00",
-          "stop": "2026-11-26T13:08:02-06:00",
-          "episode_title": "Sexual Harassment",
-          "description": "Just as corporate tells Toby, one of the workers at the Scranton branch, to give a seminar on sexual harassment issues, Michael receives a visit from his obnoxious sales-rep friend Todd Packer. The two chauvinistic friends try to prove that the office is not in need of harassment counseling, but only wind up making the situation worse, causing yet another zany day at the office."
-        },
         {
           "title": "Ghostbusters: Afterlife",
           "start": "2026-11-26T13:08:02-06:00",
