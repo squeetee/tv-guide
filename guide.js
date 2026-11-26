@@ -1,12 +1,12 @@
 window.GUIDE_DATA = {
-  "generated_at": "2026-11-26T02:31:24.906164-06:00",
+  "generated_at": "2026-11-26T02:46:24.911645-06:00",
   "timezone": "America/Chicago",
   "source": "tunarr-xmltv",
   "window_hours": 6,
-  "window_start": "2026-11-26T02:31:24.906164-06:00",
-  "window_end": "2026-11-26T08:31:24.906164-06:00",
+  "window_start": "2026-11-26T02:46:24.911645-06:00",
+  "window_end": "2026-11-26T08:46:24.911645-06:00",
   "channel_count": 15,
-  "programme_count": 143,
+  "programme_count": 139,
   "channels": [
     {
       "id": "C2.50.tunarr.com",
@@ -128,18 +128,6 @@ window.GUIDE_DATA = {
       "name": "Kidz!",
       "programmes": [
         {
-          "title": "Looney Tunes",
-          "start": "2026-11-26T02:26:48-06:00",
-          "stop": "2026-11-26T02:35:56-06:00",
-          "episode_title": "Episode 3"
-        },
-        {
-          "title": "Looney Tunes",
-          "start": "2026-11-26T02:35:56-06:00",
-          "stop": "2026-11-26T02:44:51-06:00",
-          "episode_title": "Episode 4"
-        },
-        {
           "title": "Halloweentown",
           "start": "2026-11-26T02:44:51-06:00",
           "stop": "2026-11-26T04:09:59-06:00",
@@ -243,20 +231,6 @@ window.GUIDE_DATA = {
       "number": 32,
       "name": "Japanimation",
       "programmes": [
-        {
-          "title": "I Can't Understand What My Husband Is Saying",
-          "start": "2026-11-26T02:28:53-06:00",
-          "stop": "2026-11-26T02:33:21-06:00",
-          "episode_title": "Slathering Honey on the Best Pancakes Ever",
-          "description": "Now then, the world's greatest is right before your eyes."
-        },
-        {
-          "title": "I Can't Understand What My Husband Is Saying",
-          "start": "2026-11-26T02:33:21-06:00",
-          "stop": "2026-11-26T02:37:48-06:00",
-          "episode_title": "The Child Who Is So Close Yet So Far Away",
-          "description": "I'm emailing Takashi to see if he's okay."
-        },
         {
           "title": "Last Exile",
           "start": "2026-11-26T02:37:48-06:00",
@@ -366,6 +340,13 @@ window.GUIDE_DATA = {
           "start": "2026-11-26T08:19:25-06:00",
           "stop": "2026-11-26T08:43:41-06:00",
           "episode_title": "Episode 15"
+        },
+        {
+          "title": "KOWLOON GENERIC ROMANCE",
+          "start": "2026-11-26T08:43:41-06:00",
+          "stop": "2026-11-26T09:08:17-06:00",
+          "episode_title": "Episode 12",
+          "description": "Miyuki gives up on his revenge, and Reiko learns the true cause of death of Kujirai B from talking to Yulong."
         }
       ],
       "logo": "logos/32.png"
@@ -413,13 +394,6 @@ window.GUIDE_DATA = {
       "number": 45,
       "name": "Mobile Suit Network",
       "programmes": [
-        {
-          "title": "Mobile Suit Gundam Wing",
-          "start": "2026-11-26T02:14:51-06:00",
-          "stop": "2026-11-26T02:39:14-06:00",
-          "episode_title": "The Final Victor",
-          "description": "As Heero and Zechs come to the end of their final duel, the battleship Libra and Peacemillion descend upon the earth threatening to engulf the world in a never ending winter.... Meanwhile Trowa helps out the wounded Quatre, and Duo delivers the \"lords of plague\" to peacemillion, in the hopes of averting the tradgedy of the battleships plunge."
-        },
         {
           "title": "Mobile Suit Gundam Wing",
           "start": "2026-11-26T02:39:14-06:00",
@@ -515,6 +489,13 @@ window.GUIDE_DATA = {
           "stop": "2026-11-26T08:40:59-06:00",
           "episode_title": "Motorad, Take-Off!",
           "description": "Marbet and Oliver help train Odelo and Tomache to become mobile suit pilots, while the League Militaire finds out that BESPA forces are hiding on the moon near Saint Josef. To prevent a battle from breaking out, Shakti goes out on her own to find the Motorad fleet and try to persuade Cronicle to not attack the Earth."
+        },
+        {
+          "title": "Mobile Suit Victory Gundam",
+          "start": "2026-11-26T08:40:59-06:00",
+          "stop": "2026-11-26T09:05:56-06:00",
+          "episode_title": "Pressing Doggorla",
+          "description": "The Motorad fleet stops at the Marilyn so the Adrestia can be repaired. Hoping to attack BESPA while they are vulnerable, the League Militaire launches an attack against the enemy fleet, but BESPA manages a stout defense with the mobile armor Doggorla. Despite their inexperience as mobile suit pilots, Odelo and Tomache are sent out to fight."
         }
       ],
       "logo": "logos/45.png"
@@ -580,13 +561,6 @@ window.GUIDE_DATA = {
       "number": 47,
       "name": "Universal Century",
       "programmes": [
-        {
-          "title": "Mobile Suit Gundam",
-          "start": "2026-11-26T02:15:04-06:00",
-          "stop": "2026-11-26T02:40:44-06:00",
-          "episode_title": "Black Tri-Star",
-          "description": "A mole inside the Federation tips off Zeon HQ, who then send the Black Tri-Stars special team ordered to destroy the White Base and her prototype mobile suits."
-        },
         {
           "title": "Gundam: Requiem for Vengeance",
           "start": "2026-11-26T02:40:44-06:00",
@@ -676,6 +650,13 @@ window.GUIDE_DATA = {
           "stop": "2026-11-26T08:42:15-06:00",
           "episode_title": "A Spy on Board",
           "description": "Kai Shiden develops a friendship with Miharu Ratokie, a local girl, while Char prepares a second amphibious attack on the Federation at Belfast."
+        },
+        {
+          "title": "Mobile Suit Gundam",
+          "start": "2026-11-26T08:42:15-06:00",
+          "stop": "2026-11-26T09:07:56-06:00",
+          "episode_title": "Across the Atlantic Ocean",
+          "description": "Thanks to intelligence acquired from Miharu, Flanagan Boone and his Mad Angler squadron attack the White Base en route to Jaburo headquarters in South America."
         }
       ],
       "logo": "logos/47.png"
@@ -685,13 +666,6 @@ window.GUIDE_DATA = {
       "number": 48,
       "name": "Cosmic Era",
       "programmes": [
-        {
-          "title": "Mobile Suit Gundam Seed Destiny",
-          "start": "2026-11-26T02:16:51-06:00",
-          "stop": "2026-11-26T02:41:37-06:00",
-          "episode_title": "The Soldier's Life",
-          "description": "The Minerva lands at ZAFT's Mahamul base, receiving details of its next assignment."
-        },
         {
           "title": "Mobile Suit Gundam Seed Destiny",
           "start": "2026-11-26T02:41:37-06:00",
@@ -806,12 +780,6 @@ window.GUIDE_DATA = {
       "name": "Fright Night",
       "programmes": [
         {
-          "title": "Gremlins 2: The New Batch",
-          "start": "2026-11-26T00:51:44-06:00",
-          "stop": "2026-11-26T02:39:05-06:00",
-          "description": "Young sweethearts Billy and Kate move to the Big Apple, land jobs in a high-tech office park and soon reunite with the friendly and lovable Gizmo. But a series of accidents creates a whole new generation of Gremlins. The situation worsens when the devilish green creatures invade a top-secret laboratory and develop genetically altered powers, making them even harder to destroy!"
-        },
-        {
           "title": "Gremlins",
           "start": "2026-11-26T02:39:05-06:00",
           "stop": "2026-11-26T04:26:14-06:00",
@@ -915,13 +883,6 @@ window.GUIDE_DATA = {
       "name": "Stargate Command",
       "programmes": [
         {
-          "title": "Stargate Atlantis",
-          "start": "2026-11-26T02:02:26-06:00",
-          "stop": "2026-11-26T02:45:07-06:00",
-          "episode_title": "Identity",
-          "description": "Dr. Jennifer Keller's body is inadvertently taken over by a cunning thief, Neeva Casol. While Neeva tries to escape Atlantis, Keller finds herself imprisoned with a death sentence on another planet, forcing the team into a race against time to return Keller to her original body before she is put to death."
-        },
-        {
           "title": "Stargate SG-1",
           "start": "2026-11-26T02:45:07-06:00",
           "stop": "2026-11-26T03:30:13-06:00",
@@ -969,6 +930,13 @@ window.GUIDE_DATA = {
           "stop": "2026-11-26T08:41:08-06:00",
           "episode_title": "Rising (1)",
           "description": "Dr. Elizabeth Weir leads an expedition to find the Ancients' lost city of Atlantis, a journey that brings her and a carefully selected crew of Earth's best and brightest to the Pegasus galaxy, where they embark on the adventure of a lifetime, and awaken among the stars an enemy none of them could have predicted, endangering themselves and the native people of Pegasus alike."
+        },
+        {
+          "title": "Stargate Atlantis",
+          "start": "2026-11-26T08:41:08-06:00",
+          "stop": "2026-11-26T10:06:33-06:00",
+          "episode_title": "Rising (2)",
+          "description": "Sheppard tries to convince Weir to mount a rescue mission to free Colonel Sumner, Teyla, and the others captured by the Wraith."
         }
       ],
       "logo": "logos/65.png"
@@ -1081,6 +1049,13 @@ window.GUIDE_DATA = {
           "stop": "2026-11-26T08:35:50-06:00",
           "episode_title": "Pilot",
           "description": "After preparing a museum in D.C. for presidential visit, 2 Secret Service agents are transferred to an isolated warehouse 13 in South Dakota, where Artie sends them to Iowa to collect a supernatural artifact from a law school student."
+        },
+        {
+          "title": "Warehouse 13",
+          "start": "2026-11-26T08:35:50-06:00",
+          "stop": "2026-11-26T09:21:19-06:00",
+          "episode_title": "Resonance",
+          "description": "Pete and Myka are after a team of bank robbers who have a distinctive weapon. Meanwhile, Artie examines the security breach at the warehouse."
         }
       ],
       "logo": "logos/72.png"
