@@ -1,12 +1,12 @@
 window.GUIDE_DATA = {
-  "generated_at": "2026-11-25T21:16:24.688148-06:00",
+  "generated_at": "2026-11-25T21:31:24.702903-06:00",
   "timezone": "America/Chicago",
   "source": "tunarr-xmltv",
   "window_hours": 6,
-  "window_start": "2026-11-25T21:16:24.688148-06:00",
-  "window_end": "2026-11-26T03:16:24.688148-06:00",
+  "window_start": "2026-11-25T21:31:24.702903-06:00",
+  "window_end": "2026-11-26T03:31:24.702903-06:00",
   "channel_count": 15,
-  "programme_count": 150,
+  "programme_count": 145,
   "channels": [
     {
       "id": "C2.50.tunarr.com",
@@ -60,6 +60,12 @@ window.GUIDE_DATA = {
           "start": "2026-11-26T02:17:08-06:00",
           "stop": "2026-11-26T03:22:33-06:00",
           "episode_title": "The Eleventh Hour"
+        },
+        {
+          "title": "Doctor Who (2005)",
+          "start": "2026-11-26T03:22:33-06:00",
+          "stop": "2026-11-26T04:05:12-06:00",
+          "episode_title": "Victory of the Daleks"
         }
       ],
       "logo": "logos/2.png"
@@ -233,12 +239,6 @@ window.GUIDE_DATA = {
       "name": "Japanimation",
       "programmes": [
         {
-          "title": "Dragon Ball Z",
-          "start": "2026-11-25T21:02:33-06:00",
-          "stop": "2026-11-25T21:27:38-06:00",
-          "episode_title": "Eighteen Unmasks"
-        },
-        {
           "title": "Great Teacher Onizuka",
           "start": "2026-11-25T21:27:38-06:00",
           "stop": "2026-11-25T21:52:41-06:00",
@@ -333,6 +333,12 @@ window.GUIDE_DATA = {
           "start": "2026-11-26T03:02:46-06:00",
           "stop": "2026-11-26T03:28:03-06:00",
           "episode_title": "First Move"
+        },
+        {
+          "title": "Legend of the Galactic Heroes",
+          "start": "2026-11-26T03:28:03-06:00",
+          "stop": "2026-11-26T03:55:58-06:00",
+          "episode_title": "The Winter Rose Garden Edict"
         }
       ],
       "logo": "logos/32.png"
@@ -342,11 +348,6 @@ window.GUIDE_DATA = {
       "number": 33,
       "name": "Anime Cinema",
       "programmes": [
-        {
-          "title": "Macross 7: The Galaxy Is Calling Me!",
-          "start": "2026-11-25T20:55:22-06:00",
-          "stop": "2026-11-25T21:29:12-06:00"
-        },
         {
           "title": "Ghost in the Shell",
           "start": "2026-11-25T21:29:12-06:00",
@@ -380,18 +381,6 @@ window.GUIDE_DATA = {
       "number": 45,
       "name": "Mobile Suit Network",
       "programmes": [
-        {
-          "title": "SD Gundam Force",
-          "start": "2026-11-25T20:57:13-06:00",
-          "stop": "2026-11-25T21:21:32-06:00",
-          "episode_title": "Episode 44"
-        },
-        {
-          "title": "Mobile Suit Gundam",
-          "start": "2026-11-25T21:21:32-06:00",
-          "stop": "2026-11-25T21:26:47-06:00",
-          "episode_title": "Episode 12"
-        },
         {
           "title": "Mobile Suit Gundam",
           "start": "2026-11-25T21:26:47-06:00",
@@ -479,11 +468,6 @@ window.GUIDE_DATA = {
       "name": "Gundam Theater",
       "programmes": [
         {
-          "title": "Mobile Suit Gundam 00 The Movie: -A Wakening of the Trailblazer-",
-          "start": "2026-11-25T19:25:57-06:00",
-          "stop": "2026-11-25T21:27:34-06:00"
-        },
-        {
           "title": "A Boy With Gundam Road to 50 Prologue",
           "start": "2026-11-25T21:27:34-06:00",
           "stop": "2026-11-25T21:34:14-06:00"
@@ -516,12 +500,6 @@ window.GUIDE_DATA = {
       "number": 47,
       "name": "Universal Century",
       "programmes": [
-        {
-          "title": "Mobile Suit Gundam",
-          "start": "2026-11-25T21:03:24-06:00",
-          "stop": "2026-11-25T21:29:04-06:00",
-          "episode_title": "Sayla's Agony"
-        },
         {
           "title": "Mobile Suit Gundam",
           "start": "2026-11-25T21:29:04-06:00",
@@ -616,12 +594,6 @@ window.GUIDE_DATA = {
       "programmes": [
         {
           "title": "Mobile Suit Gundam Seed Destiny",
-          "start": "2026-11-25T20:54:51-06:00",
-          "stop": "2026-11-25T21:19:37-06:00",
-          "episode_title": "Stardust Battlefield"
-        },
-        {
-          "title": "Mobile Suit Gundam Seed Destiny",
           "start": "2026-11-25T21:19:37-06:00",
           "stop": "2026-11-25T21:44:23-06:00",
           "episode_title": "Scars That Won't Heal"
@@ -709,6 +681,12 @@ window.GUIDE_DATA = {
           "start": "2026-11-26T03:06:23-06:00",
           "stop": "2026-11-26T03:31:09-06:00",
           "episode_title": "The Hidden Truth"
+        },
+        {
+          "title": "Mobile Suit Gundam Seed Destiny",
+          "start": "2026-11-26T03:31:09-06:00",
+          "stop": "2026-11-26T03:55:55-06:00",
+          "episode_title": "Past"
         }
       ],
       "logo": "logos/48.png"
@@ -751,12 +729,6 @@ window.GUIDE_DATA = {
       "number": 64,
       "name": "Sci-Fi",
       "programmes": [
-        {
-          "title": "The X-Files",
-          "start": "2026-11-25T20:35:24-06:00",
-          "stop": "2026-11-25T21:20:49-06:00",
-          "episode_title": "Soft Light"
-        },
         {
           "title": "Severance",
           "start": "2026-11-25T21:20:49-06:00",
@@ -866,6 +838,12 @@ window.GUIDE_DATA = {
           "start": "2026-11-26T02:45:07-06:00",
           "stop": "2026-11-26T03:30:13-06:00",
           "episode_title": "The Nox"
+        },
+        {
+          "title": "Stargate SG-1",
+          "start": "2026-11-26T03:30:13-06:00",
+          "stop": "2026-11-26T04:15:20-06:00",
+          "episode_title": "Brief Candle"
         }
       ],
       "logo": "logos/65.png"
@@ -875,12 +853,6 @@ window.GUIDE_DATA = {
       "number": 66,
       "name": "Starfleet",
       "programmes": [
-        {
-          "title": "Star Trek: The Next Generation",
-          "start": "2026-11-25T20:37:32-06:00",
-          "stop": "2026-11-25T21:21:00-06:00",
-          "episode_title": "Firstborn"
-        },
         {
           "title": "Star Trek: Voyager",
           "start": "2026-11-25T21:21:00-06:00",
