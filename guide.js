@@ -1,12 +1,12 @@
 window.GUIDE_DATA = {
-  "generated_at": "2026-11-26T09:16:27.428018-06:00",
+  "generated_at": "2026-11-26T09:31:27.859578-06:00",
   "timezone": "America/Chicago",
   "source": "tunarr-xmltv",
   "window_hours": 6,
-  "window_start": "2026-11-26T09:16:27.428018-06:00",
-  "window_end": "2026-11-26T15:16:27.428018-06:00",
+  "window_start": "2026-11-26T09:31:27.859578-06:00",
+  "window_end": "2026-11-26T15:31:27.859578-06:00",
   "channel_count": 15,
-  "programme_count": 142,
+  "programme_count": 143,
   "channels": [
     {
       "id": "C2.50.tunarr.com",
@@ -99,6 +99,13 @@ window.GUIDE_DATA = {
           "stop": "2026-11-26T15:17:35-06:00",
           "episode_title": "Ethon",
           "description": "A contact within the Rand Protectorate comes to Earth with news that the Ori have given his people a superweapon to use against the Caledonian Federation in exchange for their conversion to Origin. SG-1 plans to turn the people from their newfound religion and destroy the superweapon."
+        },
+        {
+          "title": "Andromeda",
+          "start": "2026-11-26T15:17:35-06:00",
+          "stop": "2026-11-26T16:01:24-06:00",
+          "episode_title": "The Knight, Death, and the Devil",
+          "description": "Andromeda gets word of a fleet of Highguard ships in Tartarus. Dylan, Rommie and Tyr go after Ryan, an AI with knowledge of the location. But Ryan has a history with the fleet, which creates difficulties when they finally locate the fleet. Beka, Harper, and Trance, work on get more worlds to join the Commonwealth."
         }
       ],
       "logo": "logos/2.png"
@@ -131,6 +138,12 @@ window.GUIDE_DATA = {
           "start": "2026-11-26T14:13:37-06:00",
           "stop": "2026-11-26T15:22:35-06:00",
           "description": "A concise adaptation of Kenneth Grahame's \"The Wind in the Willows\" about Mr. Toad's motor mania, followed by a short retelling of Washington Irving's \"The Legend of Sleepy Hollow\" concerning schoolmaster Ichabod Crane."
+        },
+        {
+          "title": "Star Wars: The Clone Wars",
+          "start": "2026-11-26T15:22:35-06:00",
+          "stop": "2026-11-26T17:01:56-06:00",
+          "description": "As the Clone Wars sweep the galaxy, Anakin Skywalker and his new Padawan, Ahsoka Tano, embark on a mission to rescue the kidnapped son of Jabba the Hutt. However, the renegade Count Dooku is determined to ensure that they fail."
         }
       ],
       "logo": "logos/3.png"
@@ -224,12 +237,6 @@ window.GUIDE_DATA = {
       "number": 28,
       "name": "Adrenaline",
       "programmes": [
-        {
-          "title": "Skyfall",
-          "start": "2026-11-26T07:04:04-06:00",
-          "stop": "2026-11-26T09:28:08-06:00",
-          "description": "When Bond's latest assignment goes gravely wrong, agents around the world are exposed and MI6 headquarters is attacked. While M faces challenges to her authority and position from Gareth Mallory, the new Chairman of the Intelligence and Security Committee, it's up to Bond, aided only by field agent Eve, to locate the mastermind behind the attack."
-        },
         {
           "title": "Big Trouble in Little China",
           "start": "2026-11-26T09:28:08-06:00",
@@ -409,13 +416,6 @@ window.GUIDE_DATA = {
       "number": 45,
       "name": "Mobile Suit Network",
       "programmes": [
-        {
-          "title": "Mobile Suit Zeta Gundam",
-          "start": "2026-11-26T09:05:56-06:00",
-          "stop": "2026-11-26T09:31:03-06:00",
-          "episode_title": "Reccoa's Shadow",
-          "description": "Jerid continues his pursuit as Char, Kamille, and Amuro plan their return to space. Yazan attacks the Argama in space while Reccoa, now on the Alexandria views the battle and helps the mobile suits pilots escape the AEUG."
-        },
         {
           "title": "Mobile Suit Zeta Gundam",
           "start": "2026-11-26T09:31:03-06:00",
@@ -646,6 +646,13 @@ window.GUIDE_DATA = {
           "stop": "2026-11-26T15:21:58-06:00",
           "episode_title": "Reflections in a Brown Eye",
           "description": "Al takes pictures of the damaged Zaku and sees the pilot pointing a gun at him."
+        },
+        {
+          "title": "Mobile Suit Gundam",
+          "start": "2026-11-26T15:21:58-06:00",
+          "stop": "2026-11-26T15:47:38-06:00",
+          "episode_title": "Breakthrough",
+          "description": "A task force of Musai cruisers and Rick Doms led by Dren attempt to destroy the White Base as it heads towards the neutral colony of Side Six."
         }
       ],
       "logo": "logos/47.png"
@@ -655,13 +662,6 @@ window.GUIDE_DATA = {
       "number": 48,
       "name": "Cosmic Era",
       "programmes": [
-        {
-          "title": "Mobile Suit Gundam SEED C.E. 73: Stargazer",
-          "start": "2026-11-26T08:28:42-06:00",
-          "stop": "2026-11-26T09:19:51-06:00",
-          "episode_title": "Stage 01",
-          "description": "The world is thrown into chaos after the Break the World incident during the Second Bloody Valentine War. A ZGMF-1017 GINN attacks a city where DSSD members Selene McGriff and Edmond Du Clos are in and causes massive damage until it is stopped by a linear tank commanded by Edmond, who is mortally wounded in his attack. Meanwhile Selene and another DSSD member, Sol Ryuune L’ange, leave for space while Phantom Pain deploys its pilots to fight ZAFT mobile suits that attack an Earth Alliance base."
-        },
         {
           "title": "Mobile Suit Gundam Seed Destiny",
           "start": "2026-11-26T09:19:51-06:00",
@@ -798,6 +798,12 @@ window.GUIDE_DATA = {
           "start": "2026-11-26T13:52:20-06:00",
           "stop": "2026-11-26T15:24:00-06:00",
           "description": "A woman who is researching alien abductions for her new book begins to receive reports of a nocturnal attacker whose description matches that of Santa Claus. She enlists the help of a scholar of mythology to see if there is a darker side to the story of Santa Claus, and what she discovers is more horrifying than anything that she could have imagined."
+        },
+        {
+          "title": "The Thing",
+          "start": "2026-11-26T15:24:00-06:00",
+          "stop": "2026-11-26T17:13:28-06:00",
+          "description": "A research team in Antarctica is hunted by a shape-shifting alien that assumes the appearance of its victims."
         }
       ],
       "logo": "logos/56.png"
@@ -862,6 +868,13 @@ window.GUIDE_DATA = {
           "stop": "2026-11-26T15:18:58-06:00",
           "episode_title": "Before I Forget",
           "description": "Jack shoots Henry after trying to arrest a mysterious man. Twenty-four hours earlier we meet Henry's two college friends who may be involved in Jack's memory loss. Everytime Jack and company come close to solving the case of what they forgot, their memory is wiped out again. Meanwhile, Jack must try to remember his daughter's play."
+        },
+        {
+          "title": "Eureka",
+          "start": "2026-11-26T15:18:58-06:00",
+          "stop": "2026-11-26T16:03:32-06:00",
+          "episode_title": "Alienated",
+          "description": "Spencer is apparently abducted by aliens and then returned to earth the next day inside a crop circle. Also, the town is visited by the congressman whose committee is responsible for its government funding."
         }
       ],
       "logo": "logos/64.png"
@@ -1006,13 +1019,6 @@ window.GUIDE_DATA = {
       "number": 72,
       "name": "Comedy",
       "programmes": [
-        {
-          "title": "Warehouse 13",
-          "start": "2026-11-26T08:35:50-06:00",
-          "stop": "2026-11-26T09:21:19-06:00",
-          "episode_title": "Resonance",
-          "description": "Pete and Myka are after a team of bank robbers who have a distinctive weapon. Meanwhile, Artie examines the security breach at the warehouse."
-        },
         {
           "title": "MXC",
           "start": "2026-11-26T09:21:19-06:00",
