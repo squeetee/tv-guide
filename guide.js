@@ -1,12 +1,12 @@
 window.GUIDE_DATA = {
-  "generated_at": "2026-11-25T23:46:24.806147-06:00",
+  "generated_at": "2026-11-26T00:01:25.113669-06:00",
   "timezone": "America/Chicago",
   "source": "tunarr-xmltv",
   "window_hours": 6,
-  "window_start": "2026-11-25T23:46:24.806147-06:00",
-  "window_end": "2026-11-26T05:46:24.806147-06:00",
+  "window_start": "2026-11-26T00:01:25.113669-06:00",
+  "window_end": "2026-11-26T06:01:25.113669-06:00",
   "channel_count": 15,
-  "programme_count": 141,
+  "programme_count": 142,
   "channels": [
     {
       "id": "C2.50.tunarr.com",
@@ -117,12 +117,6 @@ window.GUIDE_DATA = {
       "programmes": [
         {
           "title": "Looney Tunes",
-          "start": "2026-11-25T23:46:16-06:00",
-          "stop": "2026-11-25T23:54:05-06:00",
-          "episode_title": "Episode 1"
-        },
-        {
-          "title": "Looney Tunes",
           "start": "2026-11-25T23:54:05-06:00",
           "stop": "2026-11-26T00:02:42-06:00",
           "episode_title": "Episode 2"
@@ -222,6 +216,13 @@ window.GUIDE_DATA = {
           "stop": "2026-11-26T05:49:56-06:00",
           "episode_title": "Points",
           "description": "As the Germans surrender, it appears that that the hard days for Easy Company are over as they are stationed in Austria. But they soon learn that those solders without enough service points will be sent to fight in Japan."
+        },
+        {
+          "title": "Band of Brothers",
+          "start": "2026-11-26T05:49:56-06:00",
+          "stop": "2026-11-26T07:04:04-06:00",
+          "episode_title": "Currahee",
+          "description": "Easy Company is introduced to Captain Sobel, who has the group undergo hard and unfair training. As a result, Sobel comes into conflict with his men, including Richard Winters, his executive officer. The company is shipped to England to prepare for D-Day."
         }
       ],
       "logo": "logos/28.png"
@@ -231,12 +232,6 @@ window.GUIDE_DATA = {
       "number": 32,
       "name": "Japanimation",
       "programmes": [
-        {
-          "title": "Dragon Ball Super",
-          "start": "2026-11-25T23:34:28-06:00",
-          "stop": "2026-11-25T23:58:45-06:00",
-          "episode_title": "Episode 13"
-        },
         {
           "title": "Full Metal Panic!",
           "start": "2026-11-25T23:58:45-06:00",
@@ -355,6 +350,13 @@ window.GUIDE_DATA = {
           "stop": "2026-11-26T05:48:07-06:00",
           "episode_title": "One Million Miracles",
           "description": "The Black Knights question Lelouch's decision, and the Britannian Army remains wary of his intentions. In a private conversation with Suzaku, Gino Weinberg, Anya Alstreim, Lloyd Apslund, Cécile Croomy, and Miss Romeyer, Zero requests he be exiled from Area 11 in exchange for delivering one million participants. The Britannians think he is abandoning them to ensure his own safety, and accept. At the opening ceremony, Zero asks Suzaku what it means to be Japanese, to which the Knight of Seven replies it is a shared heart. When every participating Eleven dresses as Zero on cue, Suzaku has no choice but to exile all one million \"Zeroes\", unwilling to start another massacre in the face of their peaceful resistance."
+        },
+        {
+          "title": "Code Geass: Lelouch of the Rebellion",
+          "start": "2026-11-26T05:48:07-06:00",
+          "stop": "2026-11-26T06:13:09-06:00",
+          "episode_title": "A Bride in the Vermilion Forbidden City",
+          "description": "Lelouch learns the Chinese Empress, Tianzi, is being forced into a political marriage to First Prince Odysseus eu Britannia. The wedding is orchestrated by the High Eunuchs, who will become nobles of Britannia in exchange for turning over half their land to Second Prince Schneizel el Britannia."
         }
       ],
       "logo": "logos/32.png"
@@ -490,6 +492,13 @@ window.GUIDE_DATA = {
           "stop": "2026-11-26T05:57:46-06:00",
           "episode_title": "Nightmare",
           "description": "The Archangel returns to Orb, and Shinn sees a chance to enact revenge upon the Freedom"
+        },
+        {
+          "title": "Mobile Suit Gundam Seed Destiny",
+          "start": "2026-11-26T05:57:46-06:00",
+          "stop": "2026-11-26T06:22:35-06:00",
+          "episode_title": "Eve of Chaos",
+          "description": "Kira survives, against all odds, as Shinn and Ahtrun have a falling out."
         }
       ],
       "logo": "logos/45.png"
@@ -658,13 +667,6 @@ window.GUIDE_DATA = {
       "programmes": [
         {
           "title": "Mobile Suit Gundam Seed Destiny",
-          "start": "2026-11-25T23:23:28-06:00",
-          "stop": "2026-11-25T23:48:14-06:00",
-          "episode_title": "A Father's Spell",
-          "description": "As Athrun meets with Durandel, the Durandel a Lacus impostor rallies the citizens of the PLANT's look away from war and look towards peace. Later, Durandel offers Athrun a chance to pilot one of ZAFT's newest mobile suits, the ZGMF-X23S Savior."
-        },
-        {
-          "title": "Mobile Suit Gundam Seed Destiny",
           "start": "2026-11-25T23:48:14-06:00",
           "stop": "2026-11-26T00:13:00-06:00",
           "episode_title": "The Chosen Path",
@@ -767,6 +769,13 @@ window.GUIDE_DATA = {
           "stop": "2026-11-26T05:59:49-06:00",
           "episode_title": "The Place of Sin",
           "description": "Startling truths await ZAFT forces at an abandoned lab."
+        },
+        {
+          "title": "Mobile Suit Gundam Seed Destiny",
+          "start": "2026-11-26T05:59:49-06:00",
+          "stop": "2026-11-26T06:24:37-06:00",
+          "episode_title": "The Promise",
+          "description": "Shinn rushes an injured Stella aboard the Minerva, learning her startling truth in the process. Lacus returns to the PLANTs to gain a full view of the situation."
         }
       ],
       "logo": "logos/48.png"
@@ -869,6 +878,13 @@ window.GUIDE_DATA = {
           "stop": "2026-11-26T05:59:27-06:00",
           "episode_title": "Errand of Mercy",
           "description": "The Federation and the Klingon Empire teeter on the brink of war as Kirk investigates Organia, a humble planet, inhabited by pacifists, that is unwittingly caught in the middle."
+        },
+        {
+          "title": "Star Trek",
+          "start": "2026-11-26T05:59:27-06:00",
+          "stop": "2026-11-26T06:50:55-06:00",
+          "episode_title": "The Alternative Factor",
+          "description": "Kirk and Spock encounter an alien named Lazarus who claims to be from an anti-matter universe."
         }
       ],
       "logo": "logos/64.png"
@@ -878,13 +894,6 @@ window.GUIDE_DATA = {
       "number": 65,
       "name": "Stargate Command",
       "programmes": [
-        {
-          "title": "Stargate Atlantis",
-          "start": "2026-11-25T23:06:50-06:00",
-          "stop": "2026-11-25T23:49:31-06:00",
-          "episode_title": "Brain Storm",
-          "description": "Rodney finally invites Jennifer on a date; to attend a science conference with him. But petty jealousies arise at the conference that have to be suppressed when a proposed solution for global warming has potentially lethal side effects."
-        },
         {
           "title": "Stargate SG-1",
           "start": "2026-11-25T23:49:31-06:00",
@@ -1011,6 +1020,13 @@ window.GUIDE_DATA = {
           "stop": "2026-11-26T06:00:18-06:00",
           "episode_title": "Bloodlines",
           "description": "Stardate: 47829.1. Picard tries to save his newly-discovered son from the retaliation of a vengeful Ferengi whose only son was killed by Picard during the Battle of Maxia many years before."
+        },
+        {
+          "title": "Star Trek: The Next Generation",
+          "start": "2026-11-26T06:00:18-06:00",
+          "stop": "2026-11-26T06:43:26-06:00",
+          "episode_title": "Emergence",
+          "description": "Strange images begin appearing throughout the ship's decks and holodecks. Data and the rest of the crew begin to investigate only to discover that the ship's computer itself is exhibiting the strange behavior as it begins to become self-aware."
         }
       ],
       "logo": "logos/66.png"
@@ -1020,13 +1036,6 @@ window.GUIDE_DATA = {
       "number": 72,
       "name": "Comedy",
       "programmes": [
-        {
-          "title": "The Office (US)",
-          "start": "2026-11-25T23:32:28-06:00",
-          "stop": "2026-11-25T23:55:51-06:00",
-          "episode_title": "Hot Girl",
-          "description": "When a purse saleswoman enters the office to sell her purses, she gets declined, but when Michael lays his eyes upon her, he decides she can stay at the office and sell her purses to the workers there. But not only Michael has his eyes on her, other employees and Jim look to share a date with her too."
-        },
         {
           "title": "The Dog Who Saved Christmas",
           "start": "2026-11-25T23:55:51-06:00",
