@@ -1,12 +1,12 @@
 window.GUIDE_DATA = {
-  "generated_at": "2026-11-26T04:31:41.237088-06:00",
+  "generated_at": "2026-11-26T04:47:39.568250-06:00",
   "timezone": "America/Chicago",
   "source": "tunarr-xmltv",
   "window_hours": 6,
-  "window_start": "2026-11-26T04:31:41.237088-06:00",
-  "window_end": "2026-11-26T10:31:41.237088-06:00",
+  "window_start": "2026-11-26T04:47:39.568250-06:00",
+  "window_end": "2026-11-26T10:47:39.568250-06:00",
   "channel_count": 15,
-  "programme_count": 145,
+  "programme_count": 143,
   "channels": [
     {
       "id": "C2.50.tunarr.com",
@@ -224,12 +224,6 @@ window.GUIDE_DATA = {
       "name": "Adrenaline",
       "programmes": [
         {
-          "title": "Godzilla",
-          "start": "2026-11-26T02:27:09-06:00",
-          "stop": "2026-11-26T04:46:46-06:00",
-          "description": "French nuclear tests irradiate an iguana into a giant monster that viciously attacks freighter ships in the Pacific Ocean. A team of experts, including Niko Tatopoulos, conclude that the oversized reptile is the culprit. Before long, the giant lizard is loose in Manhattan as the US military races to destroy the monster before it reproduces and it's spawn takes over the world."
-        },
-        {
           "title": "Band of Brothers",
           "start": "2026-11-26T04:46:46-06:00",
           "stop": "2026-11-26T05:49:56-06:00",
@@ -421,13 +415,6 @@ window.GUIDE_DATA = {
       "name": "Mobile Suit Network",
       "programmes": [
         {
-          "title": "Mobile Suit Gundam",
-          "start": "2026-11-26T04:17:02-06:00",
-          "stop": "2026-11-26T04:42:42-06:00",
-          "episode_title": "Re-Entry to Earth",
-          "description": "Bright Noa is instructed to take the White Base to a military base on Earth, but first they have to take on Char Aznable's forces near the atmospheric entry point."
-        },
-        {
           "title": "Mobile Suit Zeta Gundam",
           "start": "2026-11-26T04:42:42-06:00",
           "stop": "2026-11-26T05:07:49-06:00",
@@ -557,12 +544,6 @@ window.GUIDE_DATA = {
       "number": 46,
       "name": "Gundam Theater",
       "programmes": [
-        {
-          "title": "Mobile Suit Gundam Hathaway",
-          "start": "2026-11-26T03:01:17-06:00",
-          "stop": "2026-11-26T04:37:37-06:00",
-          "description": "Hathaway Noa, still haunted by his past actions, joins a terrorist organization called Mufti and adopts the alias \"Mufti Nabiyy Erin\". Mufti is fighting a terrorist campaign against the Earth Federation government."
-        },
         {
           "title": "Mobile Suit Gundam: The 08th MS Team - Miller's Report",
           "start": "2026-11-26T04:37:37-06:00",
@@ -712,13 +693,6 @@ window.GUIDE_DATA = {
       "programmes": [
         {
           "title": "Mobile Suit Gundam Seed Destiny",
-          "start": "2026-11-26T04:20:41-06:00",
-          "stop": "2026-11-26T04:45:27-06:00",
-          "episode_title": "Sword of the Blue Skies",
-          "description": "Cagalli's attempts to stop the Orb fleet fails, and a battle breaks out between the Minerva, the Archangel, and the joint Orb-Earth Alliance fleet."
-        },
-        {
-          "title": "Mobile Suit Gundam Seed Destiny",
           "start": "2026-11-26T04:45:27-06:00",
           "stop": "2026-11-26T05:10:14-06:00",
           "episode_title": "The Shadows of War",
@@ -807,6 +781,13 @@ window.GUIDE_DATA = {
           "stop": "2026-11-26T10:34:20-06:00",
           "episode_title": "Nightmare",
           "description": "The Archangel returns to Orb, and Shinn sees a chance to enact revenge upon the Freedom"
+        },
+        {
+          "title": "Mobile Suit Gundam Seed Destiny",
+          "start": "2026-11-26T10:34:20-06:00",
+          "stop": "2026-11-26T10:59:09-06:00",
+          "episode_title": "Eve of Chaos",
+          "description": "Kira survives, against all odds, as Shinn and Ahtrun have a falling out."
         }
       ],
       "logo": "logos/48.png"
@@ -909,6 +890,13 @@ window.GUIDE_DATA = {
           "stop": "2026-11-26T10:39:32-06:00",
           "episode_title": "Meltdown",
           "description": "Talyn gets the urge to fly into a sun. While in its vicinity Stark is contacted by an alien woman who is being held against her will."
+        },
+        {
+          "title": "Farscape",
+          "start": "2026-11-26T10:39:32-06:00",
+          "stop": "2026-11-26T11:26:27-06:00",
+          "episode_title": "Scratch 'n Sniff",
+          "description": "Crichton, D'Argo, Jool and Chiana are forced to take a holiday by Pilot as he is fed up with their constant bickering."
         }
       ],
       "logo": "logos/64.png"
