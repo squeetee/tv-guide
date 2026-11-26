@@ -1,10 +1,10 @@
 window.GUIDE_DATA = {
-  "generated_at": "2026-11-26T15:31:25.149815-06:00",
+  "generated_at": "2026-11-26T15:46:24.952387-06:00",
   "timezone": "America/Chicago",
   "source": "tunarr-xmltv",
   "window_hours": 6,
-  "window_start": "2026-11-26T15:31:25.149815-06:00",
-  "window_end": "2026-11-26T21:31:25.149815-06:00",
+  "window_start": "2026-11-26T15:46:24.952387-06:00",
+  "window_end": "2026-11-26T21:46:24.952387-06:00",
   "channel_count": 15,
   "programme_count": 132,
   "channels": [
@@ -89,6 +89,13 @@ window.GUIDE_DATA = {
           "stop": "2026-11-26T21:41:19-06:00",
           "episode_title": "The Face of Evil",
           "description": "The team arrives on an ice planet and intervenes in a fight between the Tlak'khan and the native Ursons. They win the day for the natives but begin to suspect all isn't as it seems. Seattle follows a young Tlak'khan to a hidden city while Gus interrogates the prisoners who it turns out are farmer/refugees. The team realizes the Ursons are in the wrong and turn against them to help the Tlak'khan farmers."
+        },
+        {
+          "title": "Stargate Infinity",
+          "start": "2026-11-26T21:41:19-06:00",
+          "stop": "2026-11-26T22:03:31-06:00",
+          "episode_title": "The Key",
+          "description": "The team arrives on a civilized high-tech planet, Rokari, where they determine a comet is heading for the world they're on with only 60 hours to spare. The local government, the Commonality, don't believe their warning and state they have outgrown written and recorded language. The team break out a member of an underground resistance that distributes writing and leads them to a hidden library with info on how to use the planet's defense system. Harrison manages to figure out the language and the team activates the defense system, the Commonality sees the value of writing and everything turns out well."
         }
       ],
       "logo": "logos/2.png"
@@ -229,12 +236,6 @@ window.GUIDE_DATA = {
       "name": "Adrenaline",
       "programmes": [
         {
-          "title": "U.S. Marshals",
-          "start": "2026-11-26T13:21:45-06:00",
-          "stop": "2026-11-26T15:33:46-06:00",
-          "description": "U.S. Marshal Sam Gerard is accompanying a plane load of convicts from Chicago to New York. The plane crashes spectacularly, and Mark Sheridan escapes. But when Diplomatic Security Agent John Royce is assigned to help Gerard recapture Sheridan, it becomes clear that Sheridan is more than just another murderer."
-        },
-        {
           "title": "The Lord of the Rings: The Two Towers",
           "start": "2026-11-26T15:33:46-06:00",
           "stop": "2026-11-26T19:09:28-06:00",
@@ -254,13 +255,6 @@ window.GUIDE_DATA = {
       "number": 32,
       "name": "Japanimation",
       "programmes": [
-        {
-          "title": "Code Geass: Lelouch of the Rebellion",
-          "start": "2026-11-26T15:07:44-06:00",
-          "stop": "2026-11-26T15:32:47-06:00",
-          "episode_title": "Power of Passion",
-          "description": "The Black Knights continue their fight against the Chinese, but the battle takes a turn for the worse when the Britannians back the Eunuchs. They no longer care about the empress' wellbeing, meaning Zero may have lost his bargaining chip and the battle."
-        },
         {
           "title": "FLCL",
           "start": "2026-11-26T15:32:47-06:00",
@@ -356,6 +350,13 @@ window.GUIDE_DATA = {
           "stop": "2026-11-26T21:43:29-06:00",
           "episode_title": "The Red Hot Runaway Express - A Magic Tool Left Behind by the Great Wizard?",
           "description": "Under the desert sun, Death the Kid and the Thompsons fight Fisher King for a Magic Tool that’s kept a train running for a century. When Death the Kid learns who made the device, it stops him in his tracks."
+        },
+        {
+          "title": "Crest of the Stars",
+          "start": "2026-11-26T21:43:29-06:00",
+          "stop": "2026-11-26T22:39:23-06:00",
+          "episode_title": "Crest of the Stars: Birth",
+          "description": "This starts off with Dubus and Plakia on their honeymoon. While traveling around in space, they come across an abandoned ship. Ever curious and stubborn, Dubus convinces Plakia to help explore the ship. They soon come to realize that the ship may have been drifting in space for many years as soon as they reach the bridge. Instead of possibly an empty chair, the skeletal remains of an abh of royal descent (having some sort of jewel on it's forhead) is still sitting in the chair. They return to their own ship heading home to inform others of their findings. A few years later, a child is born unto Dubus and Plakia, Abriel Nei Dubrusk Paryunu Lafiel. They both agree not to reveal who Lafiel's mother is so she would wholeheartedly try to make her mother proud. Now is the beginning of Lafiel's adventure. For the beginning, click on Crest of the Stars."
         }
       ],
       "logo": "logos/32.png"
@@ -478,6 +479,13 @@ window.GUIDE_DATA = {
           "stop": "2026-11-26T21:45:33-06:00",
           "episode_title": "The Shooting Star She Saw",
           "description": "In an effort to end many years of tyrannical rule, five pilots and their Gundams are dispatched to Earth to begin Operation Meteor. Four land without incident, but one is intercepted and his mission is compromised."
+        },
+        {
+          "title": "Mobile Suit Gundam",
+          "start": "2026-11-26T21:45:33-06:00",
+          "stop": "2026-11-26T22:11:12-06:00",
+          "episode_title": "Garma Strikes",
+          "description": "White Base arrives on Zeon territory due to Char Aznable's strategy; Garma Zabi, eager to impress his sister Kycilia and his friend Char, decides to attack White Base."
         }
       ],
       "logo": "logos/45.png"
@@ -625,13 +633,6 @@ window.GUIDE_DATA = {
       "programmes": [
         {
           "title": "Mobile Suit Gundam Seed Destiny",
-          "start": "2026-11-26T15:07:12-06:00",
-          "stop": "2026-11-26T15:32:01-06:00",
-          "episode_title": "Meer",
-          "description": "Athrun, Kira, Lacus, and Meyrin read Meer's diary, learning why she aided Durandal."
-        },
-        {
-          "title": "Mobile Suit Gundam Seed Destiny",
           "start": "2026-11-26T15:32:01-06:00",
           "stop": "2026-11-26T15:56:48-06:00",
           "episode_title": "To a New World",
@@ -696,6 +697,13 @@ window.GUIDE_DATA = {
           "stop": "2026-11-26T21:43:01-06:00",
           "episode_title": "Silent Run",
           "description": "Kira discovers a malfunctioning lifeboat and brings it aboard the Archangel. Everyone is surprised to find Flay Allster as one of the rescued civilians. The Archangel decides to head for the Eurasian Federation military satellite Artemis to seek help. Rau Le Creuset follows and plans an attack on the Archangel. Kira decides to continue piloting the Strike and his friends volunteer to become members of the Archangel crew as his support."
+        },
+        {
+          "title": "Mobile Suit Gundam SEED",
+          "start": "2026-11-26T21:43:01-06:00",
+          "stop": "2026-11-26T22:07:47-06:00",
+          "episode_title": "Phase Shift Down",
+          "description": "Mu La Flaga and Kira launch a counteroffensive against the ZAFT ship Vesalius. The Strike's Phase Shift Armor runs out of power in the middle of the battle and Athrun uses this moment to grab the Strike so he can take Kira with him, but Kira frees himself with Mu's help."
         }
       ],
       "logo": "logos/48.png"
@@ -942,13 +950,6 @@ window.GUIDE_DATA = {
       "number": 72,
       "name": "Comedy",
       "programmes": [
-        {
-          "title": "Barry",
-          "start": "2026-11-26T15:12:53-06:00",
-          "stop": "2026-11-26T15:43:04-06:00",
-          "episode_title": "Chapter Five: Do Your Job",
-          "description": "Barry looks to hit the reset button with Sally, but a scene from Macbeth triggers a reaction that pushes them farther apart. Moss moves to interrogate members of Gene's acting class after a shooting video surfaces. Barry finds himself in a quandary after having to team up with a reckless new acquaintance named Taylor in a dangerous mission to wipe out a group of Bolivians."
-        },
         {
           "title": "Barry",
           "start": "2026-11-26T15:43:04-06:00",
