@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-26T15:01:24.977046-06:00",
+  "generated_at": "2026-11-26T15:16:24.950430-06:00",
   "timezone": "America/Chicago",
   "source": "tunarr-xmltv",
   "window_hours": 6,
-  "window_start": "2026-11-26T15:01:24.977046-06:00",
-  "window_end": "2026-11-26T21:01:24.977046-06:00",
+  "window_start": "2026-11-26T15:16:24.950430-06:00",
+  "window_end": "2026-11-26T21:16:24.950430-06:00",
   "channel_count": 15,
-  "programme_count": 133,
+  "programme_count": 130,
   "channels": [
     {
       "id": "C2.50.tunarr.com",
@@ -219,6 +219,12 @@
           "start": "2026-11-26T21:00:00-06:00",
           "stop": "2026-11-26T21:08:37-06:00",
           "episode_title": "Episode 8"
+        },
+        {
+          "title": "Barbie in 'A Christmas Carol'",
+          "start": "2026-11-26T21:08:37-06:00",
+          "stop": "2026-11-26T22:25:30-06:00",
+          "description": "On Christmas Eve, Kelly is reluctant to go to a Christmas Eve ball, so Barbie tells her the story of Eden Starling, a glamorous singing diva in the Victorian England and the owner of a theatre house. However, Eden is self-centered and loves only herself. She is frequently accompanied by her snooty cat, Chuzzlewit. She does not believe in Christmas and orders all her employees to work on Christmas."
         }
       ],
       "logo": "logos/11.png"
@@ -254,13 +260,6 @@
       "number": 32,
       "name": "Japanimation",
       "programmes": [
-        {
-          "title": "Code Geass: Lelouch of the Rebellion",
-          "start": "2026-11-26T14:42:42-06:00",
-          "stop": "2026-11-26T15:07:44-06:00",
-          "episode_title": "When Shen Hu Wins Glory",
-          "description": "Lelouch successfully escapes with Empress Tianzi and the Black Knights attempt to unite with their Indian allies. Desperate to recover the Empress, the Eunuchs agree to forgive Li Xingke if he rescues her. To that end, he is granted use of the powerful Shenhu. Kallen intercepts him with the Guren Flight-Enabled Version, but its power runs out and she is taken hostage. Lelouch swears to rescue her, despite Diethard Reid's suggestion to retreat. Xingke demonstrates his skill as a strategist, forcing the Black Knights to retreat to a mountainside monument constructed as the tomb for the former Tianzi, hoping the Federation would be hesitant to attack. The Eunuchs turn on Xingke and his troops, having enlisted the aid of the Britannian forces. Meanwhile, another Lelouch is present at the Ashford Academy."
-        },
         {
           "title": "Code Geass: Lelouch of the Rebellion",
           "start": "2026-11-26T15:07:44-06:00",
@@ -398,13 +397,6 @@
       "name": "Mobile Suit Network",
       "programmes": [
         {
-          "title": "Mobile Suit Gundam: The Witch from Mercury",
-          "start": "2026-11-26T14:44:07-06:00",
-          "stop": "2026-11-26T15:08:53-06:00",
-          "episode_title": "May All Blessings Find Their Way to You, I'm Wishing It",
-          "description": "Relationships that end and others that are formed anew. Sadness and joy. Violence and wishing for peace. Space intermingles everything as a younger generation finds its way in a world where what is right is only a matter of perspective."
-        },
-        {
           "title": "Mobile Suit Gundam Wing",
           "start": "2026-11-26T15:08:53-06:00",
           "stop": "2026-11-26T16:24:52-06:00",
@@ -510,6 +502,12 @@
           "start": "2026-11-26T19:40:24-06:00",
           "stop": "2026-11-26T21:02:20-06:00",
           "description": "In a war between Zeon and Earth Federation, a stolen prototype Gundam vanishes. Years later, a girl with mysterious abilities finds herself piloting a new Gundam in underground mech battles while searching for answers about her powers."
+        },
+        {
+          "title": "Mobile Suit Gundam SEED FREEDOM",
+          "start": "2026-11-26T21:02:20-06:00",
+          "stop": "2026-11-26T23:08:43-06:00",
+          "description": "In C.E.75, the fighting still continues. There are independence movements, and aggression by Blue Cosmos... In order to calm the situation, a global peace monitoring agency called COMPASS is established, with Lacus as its first president. As members of COMPASS, Kira and his comrades intervene into various regional battles. Then a newly established nation called Foundation proposes a joint operation against a Blue Cosmos stronghold."
         }
       ],
       "logo": "logos/46.png"
@@ -617,13 +615,6 @@
       "number": 48,
       "name": "Cosmic Era",
       "programmes": [
-        {
-          "title": "Mobile Suit Gundam Seed Destiny",
-          "start": "2026-11-26T14:42:25-06:00",
-          "stop": "2026-11-26T15:07:12-06:00",
-          "episode_title": "The Song of Truth",
-          "description": "While gathering intelligence under the guise of a shopping trip at Copernicus City, Lacus receives a message from Meer, who is afraid of being killed. Though Athrun and Meyrin insists it is a trap, Lacus decides to meet Meer anyway."
-        },
         {
           "title": "Mobile Suit Gundam Seed Destiny",
           "start": "2026-11-26T15:07:12-06:00",
@@ -810,13 +801,6 @@
       "programmes": [
         {
           "title": "Stargate Universe",
-          "start": "2026-11-26T14:32:40-06:00",
-          "stop": "2026-11-26T15:15:49-06:00",
-          "episode_title": "Deliverance (2)",
-          "description": "Locked in a battle with a Drone Command Ship, the Destiny is surprised by the arrival of the Aliens that abducted Rush and Chloe."
-        },
-        {
-          "title": "Stargate Universe",
           "start": "2026-11-26T15:15:49-06:00",
           "stop": "2026-11-26T15:59:26-06:00",
           "episode_title": "Twin Destinies",
@@ -870,6 +854,13 @@
           "stop": "2026-11-26T21:04:34-06:00",
           "episode_title": "Poisoning the Well",
           "description": "The team finds a world whose people are on the brink of a discovery that may make them immune to the Wraith feeding."
+        },
+        {
+          "title": "Stargate Atlantis",
+          "start": "2026-11-26T21:04:34-06:00",
+          "stop": "2026-11-26T21:47:10-06:00",
+          "episode_title": "Underground",
+          "description": "Efforts to open trade relations with a species called the Genii turn sour when the team discovers their new \"allies\" have ulterior motives."
         }
       ],
       "logo": "logos/65.png"
@@ -879,13 +870,6 @@
       "number": 66,
       "name": "Starfleet",
       "programmes": [
-        {
-          "title": "Star Trek: The Next Generation",
-          "start": "2026-11-26T13:31:55-06:00",
-          "stop": "2026-11-26T15:03:14-06:00",
-          "episode_title": "All Good Things...",
-          "description": "Stardate: 47988.0. Shortly after Picard is diagnosed with a long-term, potentially debilitating brain disorder, he starts experiencing bizarre shifts into three main time periods: 25 years into the future, a few days before the Enterprise-D is sent on its mission to Farpoint station, and the present. Picard realizes that Q is behind these shifts through time. Stardate: 47988.1. After his encounter with Q, Picard assembles the senior staff, and wonders if Q is actually giving him a chance to save humanity by showing him that the spatial anomaly also exists in the past. As they talk, the ship reaches the Neutral Zone, then Picard returns to the future, where Beverly's ship is also on the edge of the Neutral Zone. He convinces a reluctant Worf to accompany the group into Klingon territory, and then travels to the past, where he orders the crew into the Devron system."
-        },
         {
           "title": "Star Trek: Voyager",
           "start": "2026-11-26T15:03:14-06:00",
@@ -942,12 +926,6 @@
       "number": 72,
       "name": "Comedy",
       "programmes": [
-        {
-          "title": "Ghostbusters: Afterlife",
-          "start": "2026-11-26T13:08:02-06:00",
-          "stop": "2026-11-26T15:12:53-06:00",
-          "description": "When single mom Callie and her two kids Trevor and Phoebe arrive in a small Oklahoma town, they begin to discover their connection to the original Ghostbusters and the secret legacy their grandfather left behind."
-        },
         {
           "title": "Barry",
           "start": "2026-11-26T15:12:53-06:00",
