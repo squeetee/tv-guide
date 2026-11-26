@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-26T10:01:25.874026-06:00",
+  "generated_at": "2026-11-26T10:16:25.813778-06:00",
   "timezone": "America/Chicago",
   "source": "tunarr-xmltv",
   "window_hours": 6,
-  "window_start": "2026-11-26T10:01:25.874026-06:00",
-  "window_end": "2026-11-26T16:01:25.874026-06:00",
+  "window_start": "2026-11-26T10:16:25.813778-06:00",
+  "window_end": "2026-11-26T16:16:25.813778-06:00",
   "channel_count": 15,
-  "programme_count": 139,
+  "programme_count": 138,
   "channels": [
     {
       "id": "C2.50.tunarr.com",
@@ -210,6 +210,13 @@
           "start": "2026-11-26T14:33:59-06:00",
           "stop": "2026-11-26T16:06:24-06:00",
           "description": "When Santa Claus decides to retire and pass on his magic bag of Christmas surprises to a new Saint Nick, he enlists the aid of a hilarious assortment of characters. A perky teen runaway and hapless taxi driver Ernest P. Worrell must convince a skeptical kiddie-show host to take over the post of Father Christmas."
+        },
+        {
+          "title": "Voltron: Legendary Defender",
+          "start": "2026-11-26T16:06:24-06:00",
+          "stop": "2026-11-26T16:30:58-06:00",
+          "episode_title": "Black Site",
+          "description": "An internal struggle for power erupts within the Galra. Pidge returns to the castle with some precious cargo. The team gets a cow."
         }
       ],
       "logo": "logos/11.png"
@@ -404,12 +411,6 @@
       "number": 45,
       "name": "Mobile Suit Network",
       "programmes": [
-        {
-          "title": "Mobile Suit Gundam-san",
-          "start": "2026-11-26T09:59:41-06:00",
-          "stop": "2026-11-26T10:03:12-06:00",
-          "episode_title": "He Likes People with Moles"
-        },
         {
           "title": "Gundam Build Fighters",
           "start": "2026-11-26T10:03:12-06:00",
@@ -637,13 +638,6 @@
       "programmes": [
         {
           "title": "Mobile Suit Gundam Seed Destiny",
-          "start": "2026-11-26T09:44:42-06:00",
-          "stop": "2026-11-26T10:09:31-06:00",
-          "episode_title": "The World Revealed",
-          "description": "Shinn swears vengeance against the Freedom, as the Earth Sphere is thrown into chaos with Durandal's announcement."
-        },
-        {
-          "title": "Mobile Suit Gundam Seed Destiny",
           "start": "2026-11-26T10:09:31-06:00",
           "stop": "2026-11-26T10:34:20-06:00",
           "episode_title": "Nightmare",
@@ -842,6 +836,13 @@
           "stop": "2026-11-26T16:03:32-06:00",
           "episode_title": "Alienated",
           "description": "Spencer is apparently abducted by aliens and then returned to earth the next day inside a crop circle. Also, the town is visited by the congressman whose committee is responsible for its government funding."
+        },
+        {
+          "title": "Farscape",
+          "start": "2026-11-26T16:03:32-06:00",
+          "stop": "2026-11-26T16:50:27-06:00",
+          "episode_title": "Infinite Possibilities - Daedalus Demands (1)",
+          "description": "Crichton must seek out an old friend who has gained too much knowledge about wormholes."
         }
       ],
       "logo": "logos/64.png"
@@ -851,13 +852,6 @@
       "number": 65,
       "name": "Stargate Command",
       "programmes": [
-        {
-          "title": "Stargate Atlantis",
-          "start": "2026-11-26T08:41:08-06:00",
-          "stop": "2026-11-26T10:06:33-06:00",
-          "episode_title": "Rising (2)",
-          "description": "Sheppard tries to convince Weir to mount a rescue mission to free Colonel Sumner, Teyla, and the others captured by the Wraith."
-        },
         {
           "title": "Stargate SG-1",
           "start": "2026-11-26T10:06:33-06:00",
@@ -994,13 +988,6 @@
       "name": "Comedy",
       "programmes": [
         {
-          "title": "MXC",
-          "start": "2026-11-26T09:42:15-06:00",
-          "stop": "2026-11-26T10:03:10-06:00",
-          "episode_title": "Cops vs. Cons",
-          "description": "The good guys challenge the bad guys in this battle. Also, Kenny dresses up as a cop with an attitude and Vic gets into the mind of a criminal. Games include: Dope on a Rope; Prison Break; Hand Job; Bunk Buddies; Legal Maze; Yankin' It"
-        },
-        {
           "title": "Christmas Do-Over",
           "start": "2026-11-26T10:03:10-06:00",
           "stop": "2026-11-26T11:33:47-06:00",
@@ -1053,6 +1040,13 @@
           "stop": "2026-11-26T16:13:54-06:00",
           "episode_title": "Chapter Six: Listen with Your Ears, React with Your Face",
           "description": "Barry tries to fly solo at a remote airstrip, but Taylor still wants in; Vacha looks to exact revenge on the man who killed his brother, despite Pazar's hands-off orders; Moss tries to end her association with Gene, but finds herself drawn to his classroom at a critical juncture; Sally lobbies for a major acting challenge."
+        },
+        {
+          "title": "MXC",
+          "start": "2026-11-26T16:13:54-06:00",
+          "stop": "2026-11-26T16:34:49-06:00",
+          "episode_title": "The Couples Show",
+          "description": "Romance is in the air with a very special couples only show. Vic, Kenny, and the Captain discuss the ins and outs of love and relationships. Games include: Plank Spankers; Romantic Rotating Surfboard of Death; Hot Steaming Bowl of Love; The Sticky Stuff of Love; Brass Balls of Love"
         }
       ],
       "logo": "logos/72.png"
