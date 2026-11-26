@@ -1,10 +1,10 @@
 window.GUIDE_DATA = {
-  "generated_at": "2026-11-25T21:46:24.679351-06:00",
+  "generated_at": "2026-11-25T21:47:34.596068-06:00",
   "timezone": "America/Chicago",
   "source": "tunarr-xmltv",
   "window_hours": 6,
-  "window_start": "2026-11-25T21:46:24.679351-06:00",
-  "window_end": "2026-11-26T03:46:24.679351-06:00",
+  "window_start": "2026-11-25T21:47:34.596068-06:00",
+  "window_end": "2026-11-26T03:47:34.596068-06:00",
   "channel_count": 15,
   "programme_count": 142,
   "channels": [
@@ -23,49 +23,57 @@ window.GUIDE_DATA = {
           "title": "MXC",
           "start": "2026-11-25T21:50:56-06:00",
           "stop": "2026-11-25T22:33:36-06:00",
-          "episode_title": "MXC Almost Live"
+          "episode_title": "MXC Almost Live",
+          "description": "In this one hour special episode, MXC games are played by college students from the University of Central Florida and various other Orlando-area colleges at Universal Studios in Florida."
         },
         {
           "title": "MXC",
           "start": "2026-11-25T22:33:36-06:00",
           "stop": "2026-11-25T22:54:01-06:00",
-          "episode_title": "Republicans vs. Democrats vs. Third Party"
+          "episode_title": "Republicans vs. Democrats vs. Third Party",
+          "description": "MXC presents their first ever three-way... battle in honor of the Presidential electoral college entitled \"Squeeze Out The Vote 2004\" where it's the Republicans against the Democrats against the Third Party. Forget the backstabbing and name-calling because this time, the mud-slinging's for real! Games include: Rock the Moat; Dark Horse Race; Pork the Barrel; The Rotating Surfboard of Political Suicide; Mudslingers; Log Jam"
         },
         {
           "title": "Star Trek: Deep Space Nine",
           "start": "2026-11-25T22:54:01-06:00",
           "stop": "2026-11-25T23:40:24-06:00",
-          "episode_title": "In Purgatory's Shadow (1)"
+          "episode_title": "In Purgatory's Shadow (1)",
+          "description": "Stardate: Unknown. A coded message from the Gamma Quadrant leads Garak to believe his mentor, Enabran Tain, is still alive. He and Worf seek him out, only to discover something much worse: a Dominion invasion fleet poised to attack the Alpha Quadrant."
         },
         {
           "title": "Star Trek: Deep Space Nine",
           "start": "2026-11-25T23:40:24-06:00",
           "stop": "2026-11-26T00:26:46-06:00",
-          "episode_title": "By Inferno's Light (2)"
+          "episode_title": "By Inferno's Light (2)",
+          "description": "Stardate: 50564.2. The station readies for a Dominion attack. Worf and Garak meet some unexpected friends in a Dominion Prison camp."
         },
         {
           "title": "Homeland",
           "start": "2026-11-26T00:26:46-06:00",
           "stop": "2026-11-26T01:25:25-06:00",
-          "episode_title": "A False Glimmer"
+          "episode_title": "A False Glimmer",
+          "description": "Alison's real loyalties are officially uncovered. Jonas tells Carrie there is no way they will ever get back together. Quinn undergoes surgery. Saul makes Carrie a job offer, but she says she's not CIA material any more. Otto makes Carrie a different kind of offer."
         },
         {
           "title": "Homeland",
           "start": "2026-11-26T01:25:25-06:00",
           "stop": "2026-11-26T02:17:08-06:00",
-          "episode_title": "Fair Game"
+          "episode_title": "Fair Game",
+          "description": "Carrie returns home to the US with Franny to work as an advocate for Muslim Americans. Dar and Saul brief President-elect Keane. Quinn struggles with his new circumstances."
         },
         {
           "title": "Doctor Who (2005)",
           "start": "2026-11-26T02:17:08-06:00",
           "stop": "2026-11-26T03:22:33-06:00",
-          "episode_title": "The Eleventh Hour"
+          "episode_title": "The Eleventh Hour",
+          "description": "The Doctor has regenerated into a brand new man, but danger strikes before he can even recover. With the TARDIS wrecked, and the sonic screwdriver destroyed, the new Doctor has just 20 minutes to save the whole world - and only Amy Pond to help him."
         },
         {
           "title": "Doctor Who (2005)",
           "start": "2026-11-26T03:22:33-06:00",
           "stop": "2026-11-26T04:05:12-06:00",
-          "episode_title": "Victory of the Daleks"
+          "episode_title": "Victory of the Daleks",
+          "description": "The Doctor has been summoned by old friend Winston Churchill, but in the Cabinet War Rooms far below the streets of blitz-torn London, it's his oldest enemy he finds waiting for him, as the time-travelling adventures continue. The Daleks are back – but can Winston Churchill be in league with them?"
         }
       ],
       "logo": "logos/2.png"
@@ -78,27 +86,32 @@ window.GUIDE_DATA = {
         {
           "title": "Draft Day",
           "start": "2026-11-25T20:48:45-06:00",
-          "stop": "2026-11-25T22:39:40-06:00"
+          "stop": "2026-11-25T22:39:40-06:00",
+          "description": "At the NFL Draft, General Manager Sonny Weaver has the opportunity to rebuild his team when he trades for the number one pick. He must decide what he's willing to sacrifice on a life-changing day for a few hundred young men with NFL dreams."
         },
         {
           "title": "The Twilight Saga: Breaking Dawn - Part 1",
           "start": "2026-11-25T22:39:40-06:00",
-          "stop": "2026-11-26T00:37:42-06:00"
+          "stop": "2026-11-26T00:37:42-06:00",
+          "description": "Bella and Edward celebrate their wedding, but, after their honeymoon on Isle Esme, things take a turn for the worse when Bella realizes she is pregnant. As the baby grows at an abnormally fast rate and causes many health problems to Bella, Edward and the wolf pack fear that she may give birth to an immortal child. But the Cullens will do everything they can to ensure that both Bella and the unborn child remain safe."
         },
         {
           "title": "The Rescuers Down Under",
           "start": "2026-11-26T00:37:42-06:00",
-          "stop": "2026-11-26T01:55:44-06:00"
+          "stop": "2026-11-26T01:55:44-06:00",
+          "description": "A lawless poacher wants to capture a majestic and rare golden eagle, so he kidnaps the boy who knows where to find the bird. Not to worry -- the Rescue Aid Society's top agents, heroic mice Miss Bianca and Bernard, fly to Australia to save the day. Accompanying the fearless duo are bumbling albatross Wilbur and local field operative Jake the Kangaroo Rat."
         },
         {
           "title": "National Lampoon's Animal House",
           "start": "2026-11-26T01:55:44-06:00",
-          "stop": "2026-11-26T03:45:25-06:00"
+          "stop": "2026-11-26T03:45:25-06:00",
+          "description": "Faber College has one frat house so disreputable that it will take anyone. It has a second one full of rich young Anglo-Saxon men who are so sanctimonious that nobody can stand them except Dean Vernon Wormer, who enlists the help of the second frat to drive the boys of Delta House off the campus. The dean's plan comes into play just before the Homecoming parade to end all parades for all time."
         },
         {
           "title": "Mean Girls",
           "start": "2026-11-26T03:45:25-06:00",
-          "stop": "2026-11-26T05:23:12-06:00"
+          "stop": "2026-11-26T05:23:12-06:00",
+          "description": "Lindsay Lohan stars as Cady Heron, a 16 year old homeschooled girl who not only makes the mistake of falling for Aaron Samuels (Jonathan Bennett), the ex-boyfriend of queenbee Regina George (Rachel McAdams), but also unintentionally joins The Plastics, led by Regina herself. Join Cady as she learns that high school life can and will be really tough."
         }
       ],
       "logo": "logos/3.png"
@@ -112,7 +125,8 @@ window.GUIDE_DATA = {
           "title": "Voltron: Legendary Defender",
           "start": "2026-11-25T21:32:20-06:00",
           "stop": "2026-11-25T21:56:54-06:00",
-          "episode_title": "Reunion"
+          "episode_title": "Reunion",
+          "description": "Pidge gets information that prompts her to embark on an important solo mission to the far reaches of the universe."
         },
         {
           "title": "Looney Tunes",
@@ -130,25 +144,29 @@ window.GUIDE_DATA = {
           "title": "Batman: The Animated Series",
           "start": "2026-11-25T22:13:37-06:00",
           "stop": "2026-11-25T22:36:51-06:00",
-          "episode_title": "I've Got Batman in My Basement"
+          "episode_title": "I've Got Batman in My Basement",
+          "description": "After the Penguin sprays Batman with nerve gas, a 12-year-old boy rescues the unconscious hero and hides him in his basement."
         },
         {
           "title": "Batman: The Animated Series",
           "start": "2026-11-25T22:36:51-06:00",
           "stop": "2026-11-25T23:00:15-06:00",
-          "episode_title": "Vendetta"
+          "episode_title": "Vendetta",
+          "description": "Batman suspects that an imprisoned Detective Bullock may be innocent after he is arrested for murder. The real murderer turns out to be Killer Croc, who framed Bullock to get revenge."
         },
         {
           "title": "Star Wars Rebels",
           "start": "2026-11-25T23:00:15-06:00",
           "stop": "2026-11-25T23:23:16-06:00",
-          "episode_title": "Double Agent Droid"
+          "episode_title": "Double Agent Droid",
+          "description": "Chopper and AP-5 team up to infiltrate an Imperial station to steal needed codes, but an Imperial specialist turns the droids against the crew to cause chaos."
         },
         {
           "title": "Star Wars Rebels",
           "start": "2026-11-25T23:23:16-06:00",
           "stop": "2026-11-25T23:46:16-06:00",
-          "episode_title": "Twin Suns"
+          "episode_title": "Twin Suns",
+          "description": "Reacting to a vision of Maul, Ezra defies Hera and Kanan to travel to a remote planet in hopes of stopping the former Sith lord from carrying out his plans."
         },
         {
           "title": "Looney Tunes",
@@ -166,18 +184,21 @@ window.GUIDE_DATA = {
           "title": "Justice League",
           "start": "2026-11-26T00:02:42-06:00",
           "stop": "2026-11-26T00:26:22-06:00",
-          "episode_title": "Maid of Honor (2)"
+          "episode_title": "Maid of Honor (2)",
+          "description": "Batman and Wonder Woman move against Kasnia to prevent Vandal Savage from terrorizing the world with his orbital rail gun."
         },
         {
           "title": "Justice League",
           "start": "2026-11-26T00:26:22-06:00",
           "stop": "2026-11-26T00:50:08-06:00",
-          "episode_title": "Hearts and Minds (1)"
+          "episode_title": "Hearts and Minds (1)",
+          "description": "John Stewart leaves on a mission to help his fellow Green Lanterns overthrow a intergalactic dictator with strange powers."
         },
         {
           "title": "The Polar Express",
           "start": "2026-11-26T00:50:08-06:00",
-          "stop": "2026-11-26T02:26:48-06:00"
+          "stop": "2026-11-26T02:26:48-06:00",
+          "description": "This is the story of a young hero boy who boards on a powerful magical train that's headed to the North Pole and Santa Claus' home on Christmas Eve night. During this ride, he embarks on a journey of self-discovery which shows him that the wonder of life never fades for those who believe."
         },
         {
           "title": "Looney Tunes",
@@ -194,7 +215,8 @@ window.GUIDE_DATA = {
         {
           "title": "Halloweentown",
           "start": "2026-11-26T02:44:51-06:00",
-          "stop": "2026-11-26T04:09:59-06:00"
+          "stop": "2026-11-26T04:09:59-06:00",
+          "description": "On her 13th birthday, Marnie learns she's a witch, discovers a secret portal, and is transported to Halloweentown — a magical place where ghosts and ghouls, witches and werewolves live apart from the human world. But she soon finds herself battling wicked warlocks, evil curses, and endless surprises."
         }
       ],
       "logo": "logos/11.png"
@@ -207,22 +229,26 @@ window.GUIDE_DATA = {
         {
           "title": "Hot Shots!",
           "start": "2026-11-25T21:43:43-06:00",
-          "stop": "2026-11-25T23:05:54-06:00"
+          "stop": "2026-11-25T23:05:54-06:00",
+          "description": "Topper Harley, a top gun fighter pilot, is recalled to serve on the SS Essess. Topper's mission is to destroy Saddam Hussein's nuclear plants. Unfortunately, Topper is psychologically imbalanced and is sure to crack under pressure."
         },
         {
           "title": "Rambo: Last Blood",
           "start": "2026-11-25T23:05:54-06:00",
-          "stop": "2026-11-26T00:47:33-06:00"
+          "stop": "2026-11-26T00:47:33-06:00",
+          "description": "Almost four decades after they drew first blood, Sylvester Stallone is back as one of the greatest action heroes of all time, John Rambo. Now, Rambo must confront his past and unearth his ruthless combat skills to exact revenge in a final mission. A deadly journey of vengeance, RAMBO: LAST BLOOD marks the last chapter of the legendary series."
         },
         {
           "title": "20,000 Leagues Under the Sea",
           "start": "2026-11-26T00:47:33-06:00",
-          "stop": "2026-11-26T02:27:09-06:00"
+          "stop": "2026-11-26T02:27:09-06:00",
+          "description": "Captain Nemo has built a fantastic submarine for his mission of revenge. He has traveled over 20,000 leagues in search of Charles Denver - a man who caused the death of Princess Daaker. Seeing what he had done, Denver took the daughter to his yacht and sailed away."
         },
         {
           "title": "Godzilla",
           "start": "2026-11-26T02:27:09-06:00",
-          "stop": "2026-11-26T04:46:46-06:00"
+          "stop": "2026-11-26T04:46:46-06:00",
+          "description": "French nuclear tests irradiate an iguana into a giant monster that viciously attacks freighter ships in the Pacific Ocean. A team of experts, including Niko Tatopoulos, conclude that the oversized reptile is the culprit. Before long, the giant lizard is loose in Manhattan as the US military races to destroy the monster before it reproduces and it's spawn takes over the world."
         }
       ],
       "logo": "logos/28.png"
@@ -236,25 +262,29 @@ window.GUIDE_DATA = {
           "title": "Great Teacher Onizuka",
           "start": "2026-11-25T21:27:38-06:00",
           "stop": "2026-11-25T21:52:41-06:00",
-          "episode_title": "Matters of the Heart"
+          "episode_title": "Matters of the Heart",
+          "description": "Since Yoshikawa helped me in the sea, Kyoko's appearance has been strange. Yoshikawa appears in a dream, and his eyes are anxious. Around that time, the vice-principal, who was dying in the sea, was struck by the kind heart of the girl student who came all the way to visit him, and once again decided to return to his original intentions."
         },
         {
           "title": "Great Teacher Onizuka",
           "start": "2026-11-25T21:52:41-06:00",
           "stop": "2026-11-25T22:17:43-06:00",
-          "episode_title": "Confessions"
+          "episode_title": "Confessions",
+          "description": "As a special event to decorate the last night of the trip to Okinawa, Onizuka proposes a pair of men and women, \"Swimsuit liver test and stunning\". Moreover, the pair is Onizuka's dogma and prejudice. Naturally, Kyoko will pair with Yoshikawa due to Onizuka's strategy (?). Kyoko begins to try herself alone in a dark place and gradually becomes obedient to her own heart. However, on the way, the two are entwined by the Yankees for some reason."
         },
         {
           "title": "Super Dimension Fortress Macross",
           "start": "2026-11-25T22:17:43-06:00",
           "stop": "2026-11-25T22:43:57-06:00",
-          "episode_title": "Paradise Lost"
+          "episode_title": "Paradise Lost",
+          "description": "After the catastrophic events in the previous encounter with the Zentradi, the UN orders the Macross to leave Earth in order to give the UN Spacy more time to formulate a defense plan against the aliens. Returning once more to Britai's ship, the macronized Zentradi spies bring back 'samples' of culture to their dumbfounded comrades."
         },
         {
           "title": "Super Dimension Fortress Macross",
           "start": "2026-11-25T22:43:57-06:00",
           "stop": "2026-11-25T23:10:11-06:00",
-          "episode_title": "Micro Cosmos"
+          "episode_title": "Micro Cosmos",
+          "description": "Milia is now aboard the Macross as a spy and marvels at human culture. The premiere of Minmay's film Shao Pi Long (Little White Dragon) takes place. A Zentradi attack prompts another transformation to combat mode, and Hikaru and Misa end up being trapped within the walls of the ship, where they end up learning more about each other. Milia continues to search for the miclone pilot who defeated her."
         },
         {
           "title": "Dragon Ball Super",
@@ -272,67 +302,78 @@ window.GUIDE_DATA = {
           "title": "Full Metal Panic!",
           "start": "2026-11-25T23:58:45-06:00",
           "stop": "2026-11-26T00:23:46-06:00",
-          "episode_title": "Hostility Passing-By"
+          "episode_title": "Hostility Passing-By",
+          "description": "After Sousuke causes a lunchtime riot, he and Kaname must man the bread counter and serve the students."
         },
         {
           "title": "Full Metal Panic!",
           "start": "2026-11-26T00:23:46-06:00",
           "stop": "2026-11-26T00:48:47-06:00",
-          "episode_title": "Full Metal Panic! The Second Raid Episode 00"
+          "episode_title": "Full Metal Panic! The Second Raid Episode 00",
+          "description": "Sousuke, Kurz, and Melissa are deployed to the Republic of Manistan in Central Asia to eradicate a growing civil war between rebels and the Manistani military."
         },
         {
           "title": "Code Geass: Lelouch of the Rebellion",
           "start": "2026-11-26T00:48:47-06:00",
           "stop": "2026-11-26T01:13:49-06:00",
-          "episode_title": "Surprise Attack over the Pacific"
+          "episode_title": "Surprise Attack over the Pacific",
+          "description": "Rolo uses his Geass on Suzaku so Lelouch can converse with Nunnally without revealing that his memories have returned. Lelouch and the Black Knights attempt to capture Nunnally as she is transported to Japan."
         },
         {
           "title": "Code Geass: Lelouch of the Rebellion",
           "start": "2026-11-26T01:13:49-06:00",
           "stop": "2026-11-26T01:38:52-06:00",
-          "episode_title": "The Abandoned Mask"
+          "episode_title": "The Abandoned Mask",
+          "description": "Nunnally is sworn in as the new Viceroy of Area 11, and reveals her intention to restore the Specially Administrated Zone of Japan. Knowing he cannot go against his sister's wishes, Lelouch slips into a state of depression. Before he relinquishes himself to Refrain, Kallen steps in, reminding him his duty as Zero to realize the dream he gave to the Japanese. An evesdropping Rolo emerges, attempting to persuade Lelouch to abandon his identity as Zero and return to being a high school student. Meanwhile, the Black Knights are under attack by a Britannian naval fleet, led by Suzaku. A glimmer of hope is revealed to Lelouch after he sees fireworks setting off at Ashford Academy. Rushing to the battlefield, he successfully leads the Black Knights to defeat the entire naval fleet and surprise Suzaku by appearing as Zero, announcing his intention to accept Nunnally's offer to join the Specially Administrated Zone of Japan."
         },
         {
           "title": "Last Exile",
           "start": "2026-11-26T01:38:52-06:00",
           "stop": "2026-11-26T02:03:57-06:00",
-          "episode_title": "Grand Master"
+          "episode_title": "Grand Master",
+          "description": "Fam and Giselle reach the furthest depths of the Grand Exile. There, they find Luscinia, holding a sleeping Sārā."
         },
         {
           "title": "Last Exile",
           "start": "2026-11-26T02:03:57-06:00",
           "stop": "2026-11-26T02:28:53-06:00",
-          "episode_title": "Before the First Takeoff Special"
+          "episode_title": "Before the First Takeoff Special",
+          "description": "Last Exile: Fam, the Silver Wing, the second anime series in Gonzo's Last Exile franchise, will air a special on October 7, one week before the premiere of the actual anime itself. The special program will outline the world of the anime through talk segments with the staff and cast."
         },
         {
           "title": "I Can't Understand What My Husband Is Saying",
           "start": "2026-11-26T02:28:53-06:00",
           "stop": "2026-11-26T02:33:21-06:00",
-          "episode_title": "Slathering Honey on the Best Pancakes Ever"
+          "episode_title": "Slathering Honey on the Best Pancakes Ever",
+          "description": "Now then, the world's greatest is right before your eyes."
         },
         {
           "title": "I Can't Understand What My Husband Is Saying",
           "start": "2026-11-26T02:33:21-06:00",
           "stop": "2026-11-26T02:37:48-06:00",
-          "episode_title": "The Child Who Is So Close Yet So Far Away"
+          "episode_title": "The Child Who Is So Close Yet So Far Away",
+          "description": "I'm emailing Takashi to see if he's okay."
         },
         {
           "title": "Last Exile",
           "start": "2026-11-26T02:37:48-06:00",
           "stop": "2026-11-26T03:02:46-06:00",
-          "episode_title": "First Adjournment (Episode 9.5)"
+          "episode_title": "First Adjournment (Episode 9.5)",
+          "description": "A recap episode told by Giselle and Millia, both of whom are writing a letter to Atamora at Kortoffel."
         },
         {
           "title": "Last Exile",
           "start": "2026-11-26T03:02:46-06:00",
           "stop": "2026-11-26T03:28:03-06:00",
-          "episode_title": "First Move"
+          "episode_title": "First Move",
+          "description": "Claus and Lavie are childhood friends whose fathers were also friends who died attempting to cross the \"Grand Rapids.\" Not long after that happened Claus's mother passed away, and the two kids teach themselves how to fly their inherited \"Vanship,\" doing various courier jobs for income. While still quite young they become a master flying team and take a job that embroils them in an epic war for dominance of the planet."
         },
         {
           "title": "Legend of the Galactic Heroes",
           "start": "2026-11-26T03:28:03-06:00",
           "stop": "2026-11-26T03:55:58-06:00",
-          "episode_title": "The Winter Rose Garden Edict"
+          "episode_title": "The Winter Rose Garden Edict",
+          "description": "The news of Fleet Admiral Bucock's death reaches Iserlohn. The Yang declares a mourning period for Bucock. Lebello is assassinated by his subordinates. The Alliance government surrenders unconditionally. On February 9th, Reinhard lands on Heinessen. The Imperial soldiers discover low level bureaucrats unwilling to surrender public documents, records, or property to the Empire. Reinhard commends on how the Alliance perished precisely because such remarkable government servants were kept below positions of governance. Reinhard disgusted over treachery, then declares death upon Lebello's killers. February 20th, 800 S.C. / 2 N.I.C.: The 273 history of the Free Planets Alliance ended."
         }
       ],
       "logo": "logos/32.png"
@@ -345,27 +386,32 @@ window.GUIDE_DATA = {
         {
           "title": "Ghost in the Shell",
           "start": "2026-11-25T21:29:12-06:00",
-          "stop": "2026-11-25T22:53:00-06:00"
+          "stop": "2026-11-25T22:53:00-06:00",
+          "description": "In the year 2029, the barriers of our world have been broken down by the net and by cybernetics, but this brings new vulnerability to humans in the form of brain-hacking. When a highly-wanted hacker known as 'The Puppetmaster' begins involving them in politics, Section 9, a group of cybernetically enhanced cops, are called in to investigate and stop the Puppetmaster."
         },
         {
           "title": "Attack on Titan: Chronicle",
           "start": "2026-11-25T22:53:00-06:00",
-          "stop": "2026-11-26T00:54:07-06:00"
+          "stop": "2026-11-26T00:54:07-06:00",
+          "description": "A recap of the popular anime series Shingeki no Kyojin from seasons 1-3."
         },
         {
           "title": "Dragon Ball: Curse of the Blood Rubies",
           "start": "2026-11-26T00:54:07-06:00",
-          "stop": "2026-11-26T01:42:23-06:00"
+          "stop": "2026-11-26T01:42:23-06:00",
+          "description": "The great King Gurumes is searching for the Dragon Balls in order to put a stop to his endless hunger. A young girl named Pansy who lives in the nearby village has had enough of the treachery and decides to seek Muten Rōshi for assistance. Can our heroes save the village and put a stop to the Gurumes Army?"
         },
         {
           "title": "Appleseed XIII: Ouranos",
           "start": "2026-11-26T01:42:23-06:00",
-          "stop": "2026-11-26T03:07:39-06:00"
+          "stop": "2026-11-26T03:07:39-06:00",
+          "description": "The action continues in the second Appleseed XIII movie that cuts the anime series down to what you want most: bullets, explosions, and total mayhem! When terrorists begin assassinating bioroids, Deunan might be the only person able to protect the future."
         },
         {
           "title": "Odekake Kozame Movie",
           "start": "2026-11-26T03:07:39-06:00",
-          "stop": "2026-11-26T04:20:39-06:00"
+          "stop": "2026-11-26T04:20:39-06:00",
+          "description": "Little Shark arrives at Yagyo Station and encounters Sora, a girl sitting sadly on a bench. Sora tells him she's transferring to a high school in the city and is worried she might be all alone. Little Shark encourages her, showing her a magazine with pictures of the fun city life and telling her she'll surely make new friends there. After parting ways with Sora, Little Shark starts walking and his eyes are drawn to a glittering poster of the city. At that moment, a shark-shaped cloud passes over him. As if drawn by the cloud, Little Shark boards a train bound for the city. Shining neon lights, a scramble crossing where people come and go, a crowded train swaying with many people. Little Shark's little grand adventure begins in the city."
         }
       ],
       "logo": "logos/33.png"
@@ -379,31 +425,36 @@ window.GUIDE_DATA = {
           "title": "Mobile Suit Gundam",
           "start": "2026-11-25T21:26:47-06:00",
           "stop": "2026-11-25T21:52:26-06:00",
-          "episode_title": "Gundam Rising"
+          "episode_title": "Gundam Rising",
+          "description": "Civilian Amuro Ray is forced to pilot a prototype Federation mobile suit when enemy Zeon mobile suits attack his home space colony ."
         },
         {
           "title": "Mobile Suit Gundam 0083: Stardust Memory",
           "start": "2026-11-25T21:52:26-06:00",
           "stop": "2026-11-25T22:18:51-06:00",
-          "episode_title": "Colliding War Zones"
+          "episode_title": "Colliding War Zones",
+          "description": "Gato retreats after the nuclear strike destroys two-thirds of the Federation's fleet, but runs into Kou. As Nina breaks down watching them fight, both of their mobile suits take heavy damage and the pilots flee before they explode. Meanwhile, Cima's fleet hijacks two colonies in transport and later blow off one mirror each from them. When the Albion crew is informed of the colonyjack, Nina correctly theorizes that the colonies will crash into each other, with one in direct course for the Moon. She also reveals the existence of a third Gundam built under the GDP."
         },
         {
           "title": "Mobile Suit Gundam 0083: Stardust Memory",
           "start": "2026-11-25T22:18:51-06:00",
           "stop": "2026-11-25T22:48:08-06:00",
-          "episode_title": "La Vie En Rose"
+          "episode_title": "La Vie En Rose",
+          "description": "The Albion arrives at Anaheim Electronics' La Vie En Rose research ship to get the GP03 Dendrobium Stamen, where they are met by designer Lucette Auduvie and Federation officer Nakaha Nakato. Almost immediately, Nakato tells the crew that the GDP has been suspended and they are all confined to the Albion until further notice. Lucette shows Kou the GP03's diagrams and later sacrifices her life to stop Nakato killing Kou as he takes over the GP03 with the Albion crew's help and leave La Vie En Rose. Meanwhile, the Federation command expresses indifference at the upcoming Zeon colony drop on the Moon. The Konpeitoh survivors mobilize and try to stop it, but run out of fuel when Cima maneuvers to have Von Braun City's laser station activate the colony's engines to redirect it toward Earth. Gato also meets up with the Axis Advance Fleet, where he gets the massive Neue Ziel mobile armor and tries it against a small Federation patrol."
         },
         {
           "title": "Gundam Build Real",
           "start": "2026-11-25T22:48:08-06:00",
           "stop": "2026-11-25T23:13:53-06:00",
-          "episode_title": "Episode 6: Gunpla is Freedom"
+          "episode_title": "Episode 6: Gunpla is Freedom",
+          "description": "Team BRIGHT continues to win in the regional tournament. However, a reporter's thoughtless words shake Takumi's confidence. MONSTRE, the rival team their former teammate Sota joined, makes it to the final championship round. BRIGHT's next victory will make a showdown with Sota inevitable, and Takumi begins to have a breakdown from the pressure. In the middle of the semi-final round, something strange happens to Takumi..."
         },
         {
           "title": "Gundam Build Real",
           "start": "2026-11-25T23:13:53-06:00",
           "stop": "2026-11-25T23:39:38-06:00",
-          "episode_title": "Episode 1: Reunion"
+          "episode_title": "Episode 1: Reunion",
+          "description": "Our protagonist Hiro created Team BRIGHT along with his friends when they were in elementary school. The team attracted much attention, especially armament specialist Sota, but their Gunpla (the 78) disappeared on the day before the tournament, leading them to quarrel and split up. Now, four years later, the former group record-keeper Imaizumi sends the other members a video and they meet at their old school. However, Imaizumi isn't there, and Hiro and his friends find something else instead..."
         },
         {
           "title": "SD Gundam Force",
@@ -421,37 +472,43 @@ window.GUIDE_DATA = {
           "title": "Mobile Suit Gundam",
           "start": "2026-11-26T00:28:15-06:00",
           "stop": "2026-11-26T00:53:55-06:00",
-          "episode_title": "Destroy Gundam!"
+          "episode_title": "Destroy Gundam!",
+          "description": "In order to evacuate Side Seven, Amuro Ray and the Gundam duel Char Aznable and his custom Zaku out in space."
         },
         {
           "title": "Mobile Suit Gundam",
           "start": "2026-11-26T00:53:55-06:00",
           "stop": "2026-11-26T01:19:34-06:00",
-          "episode_title": "Vote to Attack"
+          "episode_title": "Vote to Attack",
+          "description": "In order to improve their chances of eluding Char Aznable's pursuit of White Base, the crew has to vote whether to attack a Zeon supply ship or not."
         },
         {
           "title": "Mobile Suit Gundam 0080: War in the Pocket",
           "start": "2026-11-26T01:19:34-06:00",
           "stop": "2026-11-26T01:47:42-06:00",
-          "episode_title": "War In the Pocket"
+          "episode_title": "War In the Pocket",
+          "description": "Al and Bernie repair the damaged Zaku to fight the Alex Gundam."
         },
         {
           "title": "Mobile Suit Gundam 0080: War in the Pocket",
           "start": "2026-11-26T01:47:42-06:00",
           "stop": "2026-11-26T02:14:51-06:00",
-          "episode_title": "How Many Miles to the Battlefield?"
+          "episode_title": "How Many Miles to the Battlefield?",
+          "description": "On the colony of Side 6, 11-year-old Alfred Izuruha messes around in school with his friends during lunch. As Al walks home, he bumps into his old friend Christina MacKenzie, who had moved to Earth years before."
         },
         {
           "title": "Mobile Suit Gundam Wing",
           "start": "2026-11-26T02:14:51-06:00",
           "stop": "2026-11-26T02:39:14-06:00",
-          "episode_title": "The Final Victor"
+          "episode_title": "The Final Victor",
+          "description": "As Heero and Zechs come to the end of their final duel, the battleship Libra and Peacemillion descend upon the earth threatening to engulf the world in a never ending winter.... Meanwhile Trowa helps out the wounded Quatre, and Duo delivers the \"lords of plague\" to peacemillion, in the hopes of averting the tradgedy of the battleships plunge."
         },
         {
           "title": "Mobile Suit Gundam Wing",
           "start": "2026-11-26T02:39:14-06:00",
           "stop": "2026-11-26T03:51:22-06:00",
-          "episode_title": "Operation Meteor I: Odd Numbers"
+          "episode_title": "Operation Meteor I: Odd Numbers",
+          "description": "Feature-length episode recapping events from the Gundam Wing TV series from the point of view of Heero, Trowa and Wufei. The episode also features brief amounts of new footage of the characters after the events of the TV series."
         }
       ],
       "logo": "logos/45.png"
@@ -464,22 +521,26 @@ window.GUIDE_DATA = {
         {
           "title": "Turn A Gundam II: Moonlight Butterfly",
           "start": "2026-11-25T21:34:14-06:00",
-          "stop": "2026-11-25T23:41:48-06:00"
+          "stop": "2026-11-25T23:41:48-06:00",
+          "description": "Following the events of the first movie, the Militia finishes restoration work on its excavated spaceship and travels to the moon to deal with Gym Ghingnham and Agrippa Maintainer, who along with Dianna Soreil form a governing triumvirate over the Moonrace. On the moon, the political situation rapidly evolves as new deals are made, setting the stage for a decisive final battle to determine the relationship between the people of Earth and the technologically advanced Moonrace."
         },
         {
           "title": "Mobile Suit Gundam Narrative",
           "start": "2026-11-25T23:41:48-06:00",
-          "stop": "2026-11-26T01:11:39-06:00"
+          "stop": "2026-11-26T01:11:39-06:00",
+          "description": "The Federation and Neo-Zeon collaborate to capture a rogue suit."
         },
         {
           "title": "Mobile Suit Gundam: Cucuruz Doan's Island",
           "start": "2026-11-26T01:11:39-06:00",
-          "stop": "2026-11-26T03:01:17-06:00"
+          "stop": "2026-11-26T03:01:17-06:00",
+          "description": "After Jaburo, the EFF plan an operation to capture Odessa, headquarters of Zeon's Attack Force. White Base heads to Belfast to resupply. However, White Base receives new orders; to head to an island known as the \"Island of No Return\"."
         },
         {
           "title": "Mobile Suit Gundam Hathaway",
           "start": "2026-11-26T03:01:17-06:00",
-          "stop": "2026-11-26T04:37:37-06:00"
+          "stop": "2026-11-26T04:37:37-06:00",
+          "description": "Hathaway Noa, still haunted by his past actions, joins a terrorist organization called Mufti and adopts the alias \"Mufti Nabiyy Erin\". Mufti is fighting a terrorist campaign against the Earth Federation government."
         }
       ],
       "logo": "logos/46.png"
@@ -493,91 +554,106 @@ window.GUIDE_DATA = {
           "title": "Mobile Suit Gundam",
           "start": "2026-11-25T21:29:04-06:00",
           "stop": "2026-11-25T21:54:45-06:00",
-          "episode_title": "Amuro Deserts"
+          "episode_title": "Amuro Deserts",
+          "description": "Bright Noa decides to relieve Amuro as pilot of the Gundam after a tactical blunder made by the latter on the field of battle nearly results in defeat."
         },
         {
           "title": "Mobile Suit Gundam",
           "start": "2026-11-25T21:54:45-06:00",
           "stop": "2026-11-25T22:20:24-06:00",
-          "episode_title": "Zeon's Secret Mine"
+          "episode_title": "Zeon's Secret Mine",
+          "description": "The crew of White Base searches for the Amuro and the Gundam; Amuro hopes to end the war by attacking a mine believed to be the main source of iron ore for the Zeon war industry."
         },
         {
           "title": "Mobile Suit Gundam",
           "start": "2026-11-25T22:20:24-06:00",
           "stop": "2026-11-25T22:46:05-06:00",
-          "episode_title": "Ramba Ral's Attack"
+          "episode_title": "Ramba Ral's Attack",
+          "description": "A mobile suit squadron led by Ramba Ral and his Gouf attack White Base while Amuro and the Gundam return just in time to help."
         },
         {
           "title": "Mobile Suit Gundam",
           "start": "2026-11-25T22:46:05-06:00",
           "stop": "2026-11-25T23:11:44-06:00",
-          "episode_title": "Hand to Hand Combat"
+          "episode_title": "Hand to Hand Combat",
+          "description": "An all-out battle breaks out inside White Base as Ramba Ral and his soldiers infiltrate the ship in the hopes of capturing or destroying it."
         },
         {
           "title": "Mobile Suit Gundam",
           "start": "2026-11-25T23:11:44-06:00",
           "stop": "2026-11-25T23:37:24-06:00",
-          "episode_title": "Sorrow and Hatred"
+          "episode_title": "Sorrow and Hatred",
+          "description": "Crowley Hamon spearheads one last suicidal attack on White Base with what remains of the troops once led by Ramba Ral."
         },
         {
           "title": "Mobile Suit Gundam",
           "start": "2026-11-25T23:37:24-06:00",
           "stop": "2026-11-26T00:03:03-06:00",
-          "episode_title": "The Trap of M'Quve"
+          "episode_title": "The Trap of M'Quve",
+          "description": "As Operation Odessa nears, Colonel M'Quve lures the White Base into a trap while Bright Noa is unable to captain the ship."
         },
         {
           "title": "Mobile Suit Gundam MS IGLOO",
           "start": "2026-11-26T00:03:03-06:00",
           "stop": "2026-11-26T00:31:55-06:00",
-          "episode_title": "The Illusion That Lingers Over the Orbit"
+          "episode_title": "The Illusion That Lingers Over the Orbit",
+          "description": "(U.C. 0079.10.24 - 0079.11.10) Upon news of a powerful new Federation mobile suit, Zeon propagandizes the Zudah, a mobile suit claimed to be superior to the Federation prototype. The 603rd is put in charge of testing the prototype with the help of a distinguished Zimmad test pilot Maj. Jean-Luc Duvall. However, the testing soon goes wrong after a fellow test pilot is killed when his Zudah lost control and disintegrated during combat simulation. To add salt to insult, the Jotunheim crew is shock to learn that the Federation already knows the Zudah's shameful background — it is nothing but a repainted version of the failed project that previously lost the bid to Zaku I due to a lethal design flaw. The Zudah is doomed to lose all honor and become a ghost fighter."
         },
         {
           "title": "Mobile Suit Gundam: The 08th MS Team",
           "start": "2026-11-26T00:31:55-06:00",
           "stop": "2026-11-26T00:57:45-06:00",
-          "episode_title": "The Demon Overhead"
+          "episode_title": "The Demon Overhead",
+          "description": "Every team that Sanders has ever belonged to has been wiped out on its third mission, and now it's the turn of the 08th MS Team. The worried Sanders asks Shiro to transfer him, but then Zeon's new mobile armor Apsalus appears."
         },
         {
           "title": "Mobile Suit Gundam: The 08th MS Team",
           "start": "2026-11-26T00:57:45-06:00",
           "stop": "2026-11-26T01:23:35-06:00",
-          "episode_title": "The Broken Order to Stand By"
+          "episode_title": "The Broken Order to Stand By",
+          "description": "The musician Eledore learns that he will be making his major-label debut. In high spirits, he drags Michel along to a nearby village to celebrate. But when they reach the bar, the pair find gun-toting Zeon soldiers waiting for them."
         },
         {
           "title": "Mobile Suit Gundam",
           "start": "2026-11-26T01:23:35-06:00",
           "stop": "2026-11-26T01:49:14-06:00",
-          "episode_title": "Matilda's Rescue"
+          "episode_title": "Matilda's Rescue",
+          "description": "Lieutenant Matilda's supply corps is attacked by Zeon Goufs when they attempt to send upgrade modules for the Gundam and supply and repair parts for White Base."
         },
         {
           "title": "Mobile Suit Gundam: The 08th MS Team",
           "start": "2026-11-26T01:49:14-06:00",
           "stop": "2026-11-26T02:15:04-06:00",
-          "episode_title": "Battle Line in the Burning Sand"
+          "episode_title": "Battle Line in the Burning Sand",
+          "description": "Having discovered the Apsalus's testing ground, the 08th MS Team lie in wait for an ambush, preparing for the encounter with combat simulations. The team members' frustrations mount as the Apsalus fails to appear, until they finally come to blows."
         },
         {
           "title": "Mobile Suit Gundam",
           "start": "2026-11-26T02:15:04-06:00",
           "stop": "2026-11-26T02:40:44-06:00",
-          "episode_title": "Black Tri-Star"
+          "episode_title": "Black Tri-Star",
+          "description": "A mole inside the Federation tips off Zeon HQ, who then send the Black Tri-Stars special team ordered to destroy the White Base and her prototype mobile suits."
         },
         {
           "title": "Gundam: Requiem for Vengeance",
           "start": "2026-11-26T02:40:44-06:00",
           "stop": "2026-11-26T03:06:36-06:00",
-          "episode_title": "Haunted Forest"
+          "episode_title": "Haunted Forest",
+          "description": "The Red Wolf Squadron joins the battle on the European front to reclaim Cluj-Napoca. Later, Captain Solari notices something amiss."
         },
         {
           "title": "Gundam: Requiem for Vengeance",
           "start": "2026-11-26T03:06:36-06:00",
           "stop": "2026-11-26T03:32:24-06:00",
-          "episode_title": "Broken"
+          "episode_title": "Broken",
+          "description": "With the battle lost, an injured Captain Solari retreats with Dr. Kasuga and Lieutenant Lesean. They regroup with an infantry unit and plan an escape."
         },
         {
           "title": "Gundam: Requiem for Vengeance",
           "start": "2026-11-26T03:32:24-06:00",
           "stop": "2026-11-26T03:58:09-06:00",
-          "episode_title": "Junkyard"
+          "episode_title": "Junkyard",
+          "description": "Awakening from a nightmare, Captain Solari finds the base in ruins. She later rallies weary mechanics to assemble Zaku II units from spare parts."
         }
       ],
       "logo": "logos/47.png"
@@ -591,91 +667,106 @@ window.GUIDE_DATA = {
           "title": "Mobile Suit Gundam Seed Destiny",
           "start": "2026-11-25T21:44:23-06:00",
           "stop": "2026-11-25T22:09:09-06:00",
-          "episode_title": "The End of the World"
+          "episode_title": "The End of the World",
+          "description": "The battle on Junius-7 instifies, as the Gaia, Chaos \u0026 Abyss make the Joule team's attempt at the destroying the falling colony much more difficult."
         },
         {
           "title": "Mobile Suit Gundam Seed Destiny",
           "start": "2026-11-25T22:09:09-06:00",
           "stop": "2026-11-25T22:33:55-06:00",
-          "episode_title": "Land of Confusion"
+          "episode_title": "Land of Confusion",
+          "description": "As a last ditch effort, the Mireva uses is Tanhäuser to break up the remaining chunk of Junius-7. Unfortunatey, several of the pieces fall to Earth destroying several of Earth's cities. The battle-damaged Minerva makes its way to Orb to re-supply and to drop Cagalli off."
         },
         {
           "title": "Mobile Suit Gundam Seed Destiny",
           "start": "2026-11-25T22:33:55-06:00",
           "stop": "2026-11-25T22:58:42-06:00",
-          "episode_title": "Junction"
+          "episode_title": "Junction",
+          "description": "The Minerva arrives at Orb. While the crew enjoys some downtime. Cagalli learns some unsettling information about the future of Orb. While Athrun decides to return to PLANT once more and meet with Gilbert Durandal."
         },
         {
           "title": "Mobile Suit Gundam Seed Destiny",
           "start": "2026-11-25T22:58:42-06:00",
           "stop": "2026-11-25T23:23:28-06:00",
-          "episode_title": "Bared Fangs"
+          "episode_title": "Bared Fangs",
+          "description": "Eager for retaliation, the Atlantic Federation declares war on ZAFT (who they blame for the Junius-7 drop). In defense of the oncoming nuclear onslaught, ZAFT unleashes its newest weapon, the Neutron Stampeder, against the Atlantic Federation forces."
         },
         {
           "title": "Mobile Suit Gundam Seed Destiny",
           "start": "2026-11-25T23:23:28-06:00",
           "stop": "2026-11-25T23:48:14-06:00",
-          "episode_title": "A Father's Spell"
+          "episode_title": "A Father's Spell",
+          "description": "As Athrun meets with Durandel, the Durandel a Lacus impostor rallies the citizens of the PLANT's look away from war and look towards peace. Later, Durandel offers Athrun a chance to pilot one of ZAFT's newest mobile suits, the ZGMF-X23S Savior."
         },
         {
           "title": "Mobile Suit Gundam Seed Destiny",
           "start": "2026-11-25T23:48:14-06:00",
           "stop": "2026-11-26T00:13:00-06:00",
-          "episode_title": "The Chosen Path"
+          "episode_title": "The Chosen Path",
+          "description": "Orb decides to ally itself with the Atlantic Federation, much to Cagalli's dismay. While about the PLANTs, Athrun receives some help making his decision from some old comrades."
         },
         {
           "title": "Mobile Suit Gundam Seed Destiny",
           "start": "2026-11-26T00:13:00-06:00",
           "stop": "2026-11-26T00:37:46-06:00",
-          "episode_title": "Blood in the Water"
+          "episode_title": "Blood in the Water",
+          "description": "After departing Orb, the Minerva is thrown into battle against an Atlantic Federation fleet. Due to their new alliance with the Federation, Orb quickly sets up a barricade of ships preventing the Minerva from retreating back to the safety of Orb territory."
         },
         {
           "title": "Mobile Suit Gundam Seed Destiny",
           "start": "2026-11-26T00:37:46-06:00",
           "stop": "2026-11-26T01:02:32-06:00",
-          "episode_title": "Resurrected Wings"
+          "episode_title": "Resurrected Wings",
+          "description": "As the Minerva's crew congratulates Shinn on a job well done, Kira is forced to take the Freedom out into battle once again."
         },
         {
           "title": "Mobile Suit Gundam Seed Destiny",
           "start": "2026-11-26T01:02:32-06:00",
           "stop": "2026-11-26T01:27:18-06:00",
-          "episode_title": "Flight to Tomorrow"
+          "episode_title": "Flight to Tomorrow",
+          "description": "Kira, Lacus, and the remnants of the Archangel crew, embark on their old vessel and depart, and Cagalli faces a choice in her engagement to Yuna."
         },
         {
           "title": "Mobile Suit Gundam Seed Destiny",
           "start": "2026-11-26T01:27:18-06:00",
           "stop": "2026-11-26T01:52:04-06:00",
-          "episode_title": "Return to the Battlefield"
+          "episode_title": "Return to the Battlefield",
+          "description": "Athrun, now a member of the independent ZAFT task force, FAITH, returns to the Minerva, delivering its new mission to her captain, Talia."
         },
         {
           "title": "Mobile Suit Gundam Seed Destiny",
           "start": "2026-11-26T01:52:04-06:00",
           "stop": "2026-11-26T02:16:51-06:00",
-          "episode_title": "Struggle in the Indian Ocean"
+          "episode_title": "Struggle in the Indian Ocean",
+          "description": "The Minerva engages Neo Roanoke, and the three stolen Mobile Suits, in a battle over the Indian Ocean."
         },
         {
           "title": "Mobile Suit Gundam Seed Destiny",
           "start": "2026-11-26T02:16:51-06:00",
           "stop": "2026-11-26T02:41:37-06:00",
-          "episode_title": "The Soldier's Life"
+          "episode_title": "The Soldier's Life",
+          "description": "The Minerva lands at ZAFT's Mahamul base, receiving details of its next assignment."
         },
         {
           "title": "Mobile Suit Gundam Seed Destiny",
           "start": "2026-11-26T02:41:37-06:00",
           "stop": "2026-11-26T03:06:23-06:00",
-          "episode_title": "Attack the Lohengrin!"
+          "episode_title": "Attack the Lohengrin!",
+          "description": "The Minerva must destroy a fixed positron cannon emplacement to break through to Gibraltar. They are lent aid by a young resistance fighter, Conille."
         },
         {
           "title": "Mobile Suit Gundam Seed Destiny",
           "start": "2026-11-26T03:06:23-06:00",
           "stop": "2026-11-26T03:31:09-06:00",
-          "episode_title": "The Hidden Truth"
+          "episode_title": "The Hidden Truth",
+          "description": "Shinn narrates a series of flashbacks covering the events that have transpired in Gundam SEED and SEED Destiny."
         },
         {
           "title": "Mobile Suit Gundam Seed Destiny",
           "start": "2026-11-26T03:31:09-06:00",
           "stop": "2026-11-26T03:55:55-06:00",
-          "episode_title": "Past"
+          "episode_title": "Past",
+          "description": "After a misunderstanding between Athrun, Lunamaria and Meer, Shinn takes advantage of his shore leave by exploring the countryside."
         }
       ],
       "logo": "logos/48.png"
@@ -688,22 +779,26 @@ window.GUIDE_DATA = {
         {
           "title": "The Fear of Darkness",
           "start": "2026-11-25T21:38:51-06:00",
-          "stop": "2026-11-25T23:11:35-06:00"
+          "stop": "2026-11-25T23:11:35-06:00",
+          "description": "A brilliant young psychiatrist is forced to confront the dark creature that dwells deep within her own unconscious when she investigates the supernatural disappearance of a university student."
         },
         {
           "title": "Horrors of Malformed Men",
           "start": "2026-11-25T23:11:35-06:00",
-          "stop": "2026-11-26T00:51:44-06:00"
+          "stop": "2026-11-26T00:51:44-06:00",
+          "description": "After escaping from an insane asylum, a medical student assumes the identity of a mysterious dead man, who appeared to be his doppelganger, and gets lured to a sinister island ruled by a mad scientist and his malformed men."
         },
         {
           "title": "Gremlins 2: The New Batch",
           "start": "2026-11-26T00:51:44-06:00",
-          "stop": "2026-11-26T02:39:05-06:00"
+          "stop": "2026-11-26T02:39:05-06:00",
+          "description": "Young sweethearts Billy and Kate move to the Big Apple, land jobs in a high-tech office park and soon reunite with the friendly and lovable Gizmo. But a series of accidents creates a whole new generation of Gremlins. The situation worsens when the devilish green creatures invade a top-secret laboratory and develop genetically altered powers, making them even harder to destroy!"
         },
         {
           "title": "Gremlins",
           "start": "2026-11-26T02:39:05-06:00",
-          "stop": "2026-11-26T04:26:14-06:00"
+          "stop": "2026-11-26T04:26:14-06:00",
+          "description": "After receiving an exotic small animal as a Christmas gift, a young man inadvertently breaks three important rules concerning his new pet, which unleashes a horde of malevolently mischievous creatures on a small town."
         }
       ],
       "logo": "logos/56.png"
@@ -717,55 +812,64 @@ window.GUIDE_DATA = {
           "title": "Severance",
           "start": "2026-11-25T21:20:49-06:00",
           "stop": "2026-11-25T22:08:19-06:00",
-          "episode_title": "The You You Are"
+          "episode_title": "The You You Are",
+          "description": "Irving finds an intriguing book at work. Helly aggressively pursues a meeting with her Outie. Mark attends a funeral with Ms. Selvig."
         },
         {
           "title": "Severance",
           "start": "2026-11-25T22:08:19-06:00",
           "stop": "2026-11-25T22:52:52-06:00",
-          "episode_title": "The Grim Barbarity of Optics and Design"
+          "episode_title": "The Grim Barbarity of Optics and Design",
+          "description": "Irving and Dylan confront Burt about his lies. Mark and Helly discover a strange new department."
         },
         {
           "title": "Warehouse 13",
           "start": "2026-11-25T22:52:52-06:00",
           "stop": "2026-11-25T23:37:04-06:00",
-          "episode_title": "Runaway"
+          "episode_title": "Runaway",
+          "description": "When a volcanic event at an Arkansas State Prison allows two inmates to escape, Pete, Myka and Steve must partner with a U.S. Marshal to track down the fugitives."
         },
         {
           "title": "Warehouse 13",
           "start": "2026-11-25T23:37:04-06:00",
           "stop": "2026-11-26T00:21:15-06:00",
-          "episode_title": "What Matters Most"
+          "episode_title": "What Matters Most",
+          "description": "Someone in a gated community is using an artifact to extract vengeance and Myka and Pete go to investigate. Meanwhile, Artie and Claudia help a teen suffering from dangerous visions, and Steven and Abigail clean up the warehouse."
         },
         {
           "title": "Star Trek",
           "start": "2026-11-26T00:21:15-06:00",
           "stop": "2026-11-26T01:12:35-06:00",
-          "episode_title": "This Side of Paradise"
+          "episode_title": "This Side of Paradise",
+          "description": "The Enterprise crew try to rescue colonists from deadly radiation, but instead encounter strange alien spores that seem to offer paradise."
         },
         {
           "title": "Star Trek",
           "start": "2026-11-26T01:12:35-06:00",
           "stop": "2026-11-26T02:03:59-06:00",
-          "episode_title": "The Devil in the Dark"
+          "episode_title": "The Devil in the Dark",
+          "description": "Kirk investigates a series of grisly murders on a mining planet that are the work of a seemingly hostile alien creature."
         },
         {
           "title": "The X-Files",
           "start": "2026-11-26T02:03:59-06:00",
           "stop": "2026-11-26T02:49:10-06:00",
-          "episode_title": "Our Town"
+          "episode_title": "Our Town",
+          "description": "After several disappearances in a small town, Mulder and Scully investigate and find hundreds of human bones in the river. They discover that the man behind the town's main source of wealth, a chicken processing plant, has found a way to prolong his life through cannibalism."
         },
         {
           "title": "The X-Files",
           "start": "2026-11-26T02:49:10-06:00",
           "stop": "2026-11-26T03:35:21-06:00",
-          "episode_title": "Anasazi (1)"
+          "episode_title": "Anasazi (1)",
+          "description": "Mulder receives an encrypted computer disk containing the defense department's top secret files on extraterrestrial life and becomes a target. Scully takes him to a Navajo family that unearthed a buried secret to decipher the disk."
         },
         {
           "title": "Star Trek: Deep Space Nine",
           "start": "2026-11-26T03:35:21-06:00",
           "stop": "2026-11-26T04:21:44-06:00",
-          "episode_title": "Accession"
+          "episode_title": "Accession",
+          "description": "Stardate: Unknown. A man claiming to be the emissary comes through the wormhole. Sisko is happy to give up his position. Meanwhile Keiko returns and O'Brien stops spending time with Bashir."
         }
       ],
       "logo": "logos/64.png"
@@ -779,55 +883,64 @@ window.GUIDE_DATA = {
           "title": "Stargate SG-1",
           "start": "2026-11-25T21:39:01-06:00",
           "stop": "2026-11-25T22:24:08-06:00",
-          "episode_title": "The Broca Divide"
+          "episode_title": "The Broca Divide",
+          "description": "Members of SG-1 become infected with an alien virus that turns them into primitive beings. Dr. Fraiser must find a cure to save the team and the alien population from whom it was contracted."
         },
         {
           "title": "Stargate Atlantis",
           "start": "2026-11-25T22:24:08-06:00",
           "stop": "2026-11-25T23:06:50-06:00",
-          "episode_title": "Remnants"
+          "episode_title": "Remnants",
+          "description": "While being evaluated by the International Oversight Advisory, Richard Woolsey meets a beautiful scientist new to Atlantis, who is not what she appears. Meanwhile, Lt. Colonel John Sheppard is captured and tortured by an enemy he thought he'd killed several years ago: his sworn enemy, Genii Commander Acastus Kolya."
         },
         {
           "title": "Stargate Atlantis",
           "start": "2026-11-25T23:06:50-06:00",
           "stop": "2026-11-25T23:49:31-06:00",
-          "episode_title": "Brain Storm"
+          "episode_title": "Brain Storm",
+          "description": "Rodney finally invites Jennifer on a date; to attend a science conference with him. But petty jealousies arise at the conference that have to be suppressed when a proposed solution for global warming has potentially lethal side effects."
         },
         {
           "title": "Stargate SG-1",
           "start": "2026-11-25T23:49:31-06:00",
           "stop": "2026-11-26T00:34:38-06:00",
-          "episode_title": "The First Commandment"
+          "episode_title": "The First Commandment",
+          "description": "SG-1 must stop a renegade Stargate commander, who has gone mad and set himself up as a god on an alien planet."
         },
         {
           "title": "Stargate SG-1",
           "start": "2026-11-26T00:34:38-06:00",
           "stop": "2026-11-26T01:19:44-06:00",
-          "episode_title": "Cold Lazarus"
+          "episode_title": "Cold Lazarus",
+          "description": "When Jack is injured unintentionally by a crystal alien, the alien duplicates Jack's form and out of fear of retribution tries to heal Jack. He returns to Earth in place of Jack, while Jack is still unconscious on the planet, to find the one thing he feels will accomplish this; the one thing that cannot be found again. Meanwhile, the 'real' Jack has returned and is trying to convince SGC that he is who he says he is."
         },
         {
           "title": "Stargate Atlantis",
           "start": "2026-11-26T01:19:44-06:00",
           "stop": "2026-11-26T02:02:26-06:00",
-          "episode_title": "Infection"
+          "episode_title": "Infection",
+          "description": "After a Wraith Hive Ship shows up over Atlantis transmitting a distress call, Lt. Colonel John Sheppard's team discovers that its crew has been stricken with a disease they helped create."
         },
         {
           "title": "Stargate Atlantis",
           "start": "2026-11-26T02:02:26-06:00",
           "stop": "2026-11-26T02:45:07-06:00",
-          "episode_title": "Identity"
+          "episode_title": "Identity",
+          "description": "Dr. Jennifer Keller's body is inadvertently taken over by a cunning thief, Neeva Casol. While Neeva tries to escape Atlantis, Keller finds herself imprisoned with a death sentence on another planet, forcing the team into a race against time to return Keller to her original body before she is put to death."
         },
         {
           "title": "Stargate SG-1",
           "start": "2026-11-26T02:45:07-06:00",
           "stop": "2026-11-26T03:30:13-06:00",
-          "episode_title": "The Nox"
+          "episode_title": "The Nox",
+          "description": "With the Stargate program in danger of being terminated, the team is under pressure to find new technology. Visiting a planet where they believe there is a creature that possesses the secret of invisibility, they encounter Apophis and his guards. Both sides receiving mortal wounds, they are aided by the planet's inhabitants, the Nox, a gentle people with a very large secret."
         },
         {
           "title": "Stargate SG-1",
           "start": "2026-11-26T03:30:13-06:00",
           "stop": "2026-11-26T04:15:20-06:00",
-          "episode_title": "Brief Candle"
+          "episode_title": "Brief Candle",
+          "description": "SG-1 discovers a race of attractive people who age extremely rapidly. The situation becomes personal when O'Neill begins to suffer from the same accelerated aging, and must live out the rest of his life on the planet."
         }
       ],
       "logo": "logos/65.png"
@@ -841,55 +954,64 @@ window.GUIDE_DATA = {
           "title": "Star Trek: Voyager",
           "start": "2026-11-25T21:21:00-06:00",
           "stop": "2026-11-25T22:07:49-06:00",
-          "episode_title": "Prototype"
+          "episode_title": "Prototype",
+          "description": "Voyager finds an automated life-form adrift in space. When B'Elanna Torres reactivates it, the unit realizes she may be able to help build more of its kind. The robot kidnaps Torres and gives her an ultimatum: build a working prototype or Voyager will be destroyed."
         },
         {
           "title": "Star Trek: Voyager",
           "start": "2026-11-25T22:07:49-06:00",
           "stop": "2026-11-25T22:54:38-06:00",
-          "episode_title": "Alliances"
+          "episode_title": "Alliances",
+          "description": "Finding themselves the underdog of the Delta Quadrant, Voyager attempts to form an alliance with select Kazon sects. Janeway also inducts the Trabe, a race once made up of tyrants who oppressed the Kazon but now are scattered and vulnerable. When the groups gather for talks, Janeway suspects the Trabe may not be as frail as they claim."
         },
         {
           "title": "Star Trek",
           "start": "2026-11-25T22:54:38-06:00",
           "stop": "2026-11-25T23:45:58-06:00",
-          "episode_title": "The Man Trap"
+          "episode_title": "The Man Trap",
+          "description": "Doctor Leonard “Bones” McCoy meets a former girlfriend when the enterprise brings supplies to a remote archaeological survey group. Still attractive to McCoy, the woman's current appearance hides a dark and deadly secret."
         },
         {
           "title": "Star Trek",
           "start": "2026-11-25T23:45:58-06:00",
           "stop": "2026-11-26T00:37:17-06:00",
-          "episode_title": "Charlie X"
+          "episode_title": "Charlie X",
+          "description": "Raised from boyhood by non-corporeal beings, 17 year old Charles Evans is picked up and transferred to the Enterprise. On board the ship, the teenager proves dangerously unable to wield his enormous psionic powers with maturity."
         },
         {
           "title": "Star Trek: Voyager",
           "start": "2026-11-26T00:37:17-06:00",
           "stop": "2026-11-26T01:24:07-06:00",
-          "episode_title": "Threshold"
+          "episode_title": "Threshold",
+          "description": "Stardate: Unknown. After finding a type of dilithium that can survive at a higher temperatures, Tom Paris comes up with the ingenious idea of attempting to cross the transwarp threshold in an attempt to find a way to get home faster."
         },
         {
           "title": "Star Trek: Voyager",
           "start": "2026-11-26T01:24:07-06:00",
           "stop": "2026-11-26T02:10:54-06:00",
-          "episode_title": "Meld"
+          "episode_title": "Meld",
+          "description": "Stardate: Unknown. In order to help out Lon Suder, a psychopath who killed a crewmember, Tuvok performs a mind meld. Soon after, he begins showing violent tendencies, which develop until he loses control."
         },
         {
           "title": "Star Trek: Deep Space Nine",
           "start": "2026-11-26T02:10:54-06:00",
           "stop": "2026-11-26T02:57:07-06:00",
-          "episode_title": "Valiant"
+          "episode_title": "Valiant",
+          "description": "Stardate: 51825.4. Jake and Nog's runabout comes under attack from the Jem'Hadar. They are rescued by the Valiant, a ship manned by Red Squad, a elite group of young Starfleet cadets."
         },
         {
           "title": "Star Trek: Deep Space Nine",
           "start": "2026-11-26T02:57:07-06:00",
           "stop": "2026-11-26T03:43:16-06:00",
-          "episode_title": "Profit and Lace"
+          "episode_title": "Profit and Lace",
+          "description": "Stardate: Unknown. Quark's mother and the Grand Nagus show up on DS9, announcing a new amendment to the Bill of Opportunities he has instituted on the home planet of Ferenganar, and then follows up with the announcement, that, due to the new amendment, chaos has followed and he has been deposed."
         },
         {
           "title": "Star Trek: Voyager",
           "start": "2026-11-26T03:43:16-06:00",
           "stop": "2026-11-26T04:30:01-06:00",
-          "episode_title": "Dreadnought"
+          "episode_title": "Dreadnought",
+          "description": "Voyager comes across a ship that has been destroyed. Upon investigation they discover that B'Elanna Torres is responsible. Dreadnought is a self-guided missile created by the Cardassians to destroy the Maquis; however, the bomb failed to go off, allowing B'Elanna to get inside and re-program it to do the Maquis' bidding. Meanwhile, Tom shows signs of escalating dissatisfaction at serving aboard Voyager."
         }
       ],
       "logo": "logos/66.png"
@@ -903,53 +1025,62 @@ window.GUIDE_DATA = {
           "title": "Coupling",
           "start": "2026-11-25T21:41:05-06:00",
           "stop": "2026-11-25T22:11:02-06:00",
-          "episode_title": "Size Matters"
+          "episode_title": "Size Matters",
+          "description": "Susan invites Steve for a date at home, and offers to cook. Jeff warns him about 'The Sock Gap', and Patrick alerts him to her collection of remote controls. Somehow everyone's conversation seems to revolve around Patrick's size, and Jeff is asked by several people to accompany him to the toilet to check."
         },
         {
           "title": "Barry",
           "start": "2026-11-25T22:11:02-06:00",
           "stop": "2026-11-25T22:42:18-06:00",
-          "episode_title": "Chapter One: Make Your Mark"
+          "episode_title": "Chapter One: Make Your Mark",
+          "description": "Barry, a disillusioned hit man, is sent to Los Angeles to kill an aspiring actor who is having an affair with a Chechen mob leader's wife; after following his target to an acting class, Barry becomes inspired to begin a new life with the students."
         },
         {
           "title": "Barry",
           "start": "2026-11-25T22:42:18-06:00",
           "stop": "2026-11-25T23:09:06-06:00",
-          "episode_title": "Chapter Two: Use It"
+          "episode_title": "Chapter Two: Use It",
+          "description": "In the wake of some shocking news, Gene encourages his class to channel their feelings into their work. Resolved to quit his job and put the past behind him, Barry tries not to get pulled back in by Fuches and the Chechens. Sally tries to crack the nut that is Barry."
         },
         {
           "title": "The Office (US)",
           "start": "2026-11-25T23:09:06-06:00",
           "stop": "2026-11-25T23:32:28-06:00",
-          "episode_title": "Basketball"
+          "episode_title": "Basketball",
+          "description": "The office staff play a basketball game against the warehouse workers in which Jim shows off to impress Pam and upstage her fiancee who is on the opposing team."
         },
         {
           "title": "The Office (US)",
           "start": "2026-11-25T23:32:28-06:00",
           "stop": "2026-11-25T23:55:51-06:00",
-          "episode_title": "Hot Girl"
+          "episode_title": "Hot Girl",
+          "description": "When a purse saleswoman enters the office to sell her purses, she gets declined, but when Michael lays his eyes upon her, he decides she can stay at the office and sell her purses to the workers there. But not only Michael has his eyes on her, other employees and Jim look to share a date with her too."
         },
         {
           "title": "The Dog Who Saved Christmas",
           "start": "2026-11-25T23:55:51-06:00",
-          "stop": "2026-11-26T01:25:13-06:00"
+          "stop": "2026-11-26T01:25:13-06:00",
+          "description": "Zeus, a Labrador Retriever and a former police dog, has lost his bark after his barking ended up blowing off a five-year investigation and his partner can't shoot straight again and ends up at the pound. He is adopted by a father as both an early Christmas present and as a guard dog for the house, but the mom remains hesitant."
         },
         {
           "title": "MXC",
           "start": "2026-11-26T01:25:13-06:00",
           "stop": "2026-11-26T01:46:08-06:00",
-          "episode_title": "Meat Handlers vs. Cartoon Voice Actors"
+          "episode_title": "Meat Handlers vs. Cartoon Voice Actors",
+          "description": "The rivalry between the cartoon voice actors and America's meat handlers is finally settled. Plus, Vic gives Kenny advice on being a TV announcer. Games include: Sinkers and Floaters; Log Drop; Wall Buggers; Boulder Dash"
         },
         {
           "title": "MXC",
           "start": "2026-11-26T01:46:08-06:00",
           "stop": "2026-11-26T02:07:03-06:00",
-          "episode_title": "Donors vs. Addicts"
+          "episode_title": "Donors vs. Addicts",
+          "description": "Those who take part in twelve step programs challenge those who gave a little bit of themselves in this edition of MXC, and the good captain talks about \"tough love\". Games include: Mud Buttlers; Dash to Death; Rotating Surfboard of Death; Brass Balls; Pole Riders"
         },
         {
           "title": "Screamboat",
           "start": "2026-11-26T02:07:03-06:00",
-          "stop": "2026-11-26T03:49:30-06:00"
+          "stop": "2026-11-26T03:49:30-06:00",
+          "description": "A seemingly routine late-night ferry ride in New York City descends into chaos when an ordinary mouse undergoes a terrifying transformation. This mutated creature unleashes a reign of terror upon the unsuspecting passengers, forcing them to fight for their survival. As the body count rises, the remaining survivors must band together to find a way to escape the deadly vessel and confront the monstrous threat."
         }
       ],
       "logo": "logos/72.png"

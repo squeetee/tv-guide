@@ -157,27 +157,29 @@
     }
     .prog.tiny.now { box-shadow: inset 0 0 0 1px var(--sq-accent); }
     .prog.tiny .e, .prog.tiny .when { display: none; }
+    .prog .t,
+    .prog .e,
+    .prog .when {
+      display: block;
+      min-width: 0;
+      max-width: 100%;
+      width: 100%;
+      overflow: hidden;
+      text-overflow: ellipsis;
+      white-space: nowrap;
+    }
     .prog .t {
       font-family: var(--sq-font-display);
       font-weight: 700;
       font-size: 16px;
-      white-space: nowrap;
-      overflow: hidden;
-      text-overflow: ellipsis;
     }
     .prog .e {
       color: var(--sq-text-muted);
       font-size: 15px;
-      white-space: nowrap;
-      overflow: hidden;
-      text-overflow: ellipsis;
     }
     .prog .when {
       color: var(--sq-text-muted);
       font-size: 14px;
-      white-space: nowrap;
-      overflow: hidden;
-      text-overflow: ellipsis;
     }
     .nowline {
       position: absolute;
@@ -248,39 +250,17 @@
     function isPublicLogo(value) {
       return typeof value === "string" && /^logos\/\d+\.(png|jpe?g|gif|webp)$/i.test(value);
     }
-    function mergeProgrammes(programmes) {
-      const items = (programmes || []).slice().sort(function (a, b) {
-        return parseTs(a.start) - parseTs(b.start);
-      });
-      const merged = [];
-      items.forEach(function (p) {
-        const last = merged[merged.length - 1];
-        const gap = last ? minutesBetween(parseTs(last.stop), parseTs(p.start)) : 99;
-        if (last && last.title === p.title && gap >= -0.25 && gap <= 1) {
-          last.stop = p.stop;
-          last.parts.push(p);
-        } else {
-          merged.push({ title: p.title, start: p.start, stop: p.stop, parts: [p] });
-        }
-      });
-      return merged;
-    }
     function episodeLabel(p) {
       return ((p && p.episode_title) || "").trim();
     }
-    function mergedTooltip(block) {
-      const parts = block.parts || [];
-      const when = formatClock(parseTs(block.start)) + " – " + formatClock(parseTs(block.stop));
-      if (parts.length <= 1) {
-        const ep = episodeLabel(parts[0] || {});
-        return block.title + (ep ? " — " + ep : "") + " (" + when + ")";
-      }
-      const eps = parts.map(episodeLabel).filter(Boolean);
-      let detail = parts.length + " episodes";
-      if (eps.length) {
-        detail += ": " + eps[0] + (eps.length > 1 ? " – " + eps[eps.length - 1] : "");
-      }
-      return block.title + " — " + detail + " (" + when + ")";
+    function programmeTooltip(p, pStart, pStop) {
+      const lines = [p.title || "Untitled"];
+      const ep = episodeLabel(p);
+      if (ep) lines.push(ep);
+      lines.push(formatClock(pStart) + " – " + formatClock(pStop) + " CT");
+      const desc = ((p && (p.description || p.desc)) || "").trim();
+      if (desc) lines.push(desc);
+      return lines.join("\n");
     }
 
     function render(data) {
@@ -315,7 +295,7 @@
       }
 
       const rows = data.channels.map(function (ch) {
-        const blocks = mergeProgrammes(ch.programmes).map(function (p) {
+        const blocks = (ch.programmes || []).map(function (p) {
           const pStart = parseTs(p.start);
           const pStop = parseTs(p.stop);
           const leftMin = Math.max(0, minutesBetween(start, pStart));
@@ -329,18 +309,12 @@
           let cls = "prog" + (isNow ? " now" : "");
           if (widthPx < 28) cls += " tiny";
           else if (widthPx < 72) cls += " tight";
-          const parts = p.parts || [];
-          let episodeHtml = "";
-          if (widthPx >= 28) {
-            if (parts.length > 1) {
-              episodeHtml = '<div class="e">' + esc(parts.length + " episodes") + "</div>";
-            } else if (episodeLabel(parts[0] || p)) {
-              episodeHtml = '<div class="e">' + esc(episodeLabel(parts[0] || p)) + "</div>";
-            }
-          }
+          const ep = episodeLabel(p);
+          const episodeHtml = (ep && widthPx >= 28)
+            ? '<div class="e">' + esc(ep) + "</div>" : "";
           const when = widthPx >= 28
             ? '<div class="when">' + formatClock(pStart) + " – " + formatClock(pStop) + "</div>" : "";
-          return '<div class="' + cls + '" title="' + esc(mergedTooltip(p)) + '" style="left:' +
+          return '<div class="' + cls + '" title="' + esc(programmeTooltip(p, pStart, pStop)) + '" style="left:' +
             leftPx + "px;width:" + widthPx + 'px">' +
             '<div class="t">' + esc(p.title) + "</div>" + episodeHtml + when + "</div>";
         }).join("");
