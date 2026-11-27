@@ -1,25 +1,18 @@
 {
-  "generated_at": "2026-11-26T23:32:11.157401-06:00",
+  "generated_at": "2026-11-26T23:46:24.726266-06:00",
   "timezone": "America/Chicago",
   "source": "tunarr-xmltv",
   "window_hours": 6,
-  "window_start": "2026-11-26T23:32:11.157401-06:00",
-  "window_end": "2026-11-27T05:32:11.157401-06:00",
+  "window_start": "2026-11-26T23:46:24.726266-06:00",
+  "window_end": "2026-11-27T05:46:24.726266-06:00",
   "channel_count": 15,
-  "programme_count": 123,
+  "programme_count": 124,
   "channels": [
     {
       "id": "C2.50.tunarr.com",
       "number": 2,
       "name": "Syndication",
       "programmes": [
-        {
-          "title": "Yellowstone (2018)",
-          "start": "2026-11-26T22:53:35-06:00",
-          "stop": "2026-11-26T23:42:45-06:00",
-          "episode_title": "Resurrection Day",
-          "description": "Jamie is driven to a dark place while grappling with the consequences of his actions, Malcolm threatens Beth, and Monica and Tate move to the ranch with Kayce."
-        },
         {
           "title": "Defiance",
           "start": "2026-11-26T23:42:45-06:00",
@@ -75,6 +68,13 @@
           "stop": "2026-11-27T05:43:43-06:00",
           "episode_title": "Chain of Command (1)",
           "description": "Picard is replaced as captain of the Enterprise so he, Lt. Worf and Dr. Crusher go on a top-secret mission into Cardassian space. Meanwhile, his replacement, Captain Jellico, meets his new command with some resistance from the crew."
+        },
+        {
+          "title": "Stargate SG-1",
+          "start": "2026-11-27T05:43:43-06:00",
+          "stop": "2026-11-27T06:26:24-06:00",
+          "episode_title": "Off the Grid",
+          "description": "While investigating the source of an addictive corn-like crop, SG-1 becomes involved in a firefight. They are forced to fall back to the gate, but as Daniel is dialing, both the Stargate and the DHD are beamed away."
         }
       ],
       "logo": "logos/2.png"
@@ -116,12 +116,6 @@
       "number": 11,
       "name": "Kidz!",
       "programmes": [
-        {
-          "title": "Home on the Range",
-          "start": "2026-11-26T22:25:30-06:00",
-          "stop": "2026-11-26T23:42:36-06:00",
-          "description": "When a greedy outlaw schemes to take possession of the \"Patch Of Heaven\" dairy farm, three determined cows, a karate-kicking stallion and a colorful corral of critters join forces to save their home. The stakes are sky-high as this unlikely animal alliance risk their hides and match wits with a mysterious band of bad guys."
-        },
         {
           "title": "Justice League",
           "start": "2026-11-26T23:42:36-06:00",
@@ -288,6 +282,13 @@
           "stop": "2026-11-27T05:35:19-06:00",
           "episode_title": "Prepared for Death",
           "description": "Guts and Casca try to fight their way back to the Hawks while the enemy army they were fighting from before try to stop them."
+        },
+        {
+          "title": "Great Teacher Onizuka",
+          "start": "2026-11-27T05:35:19-06:00",
+          "stop": "2026-11-27T06:00:24-06:00",
+          "episode_title": "Old Wounds Revisited",
+          "description": "Last year's 2nd year and 4th group teacher \"Noboru Saito\" stabbed his chest and was hospitalized. Saito is the person who created the cause of the current 3rd grade and 4th class teacher bullying. At the same time as the incident, Ya stopped coming to school. Kikuchi and Murai are suspicious that \"Maybe Masa stabbed Saito?\""
         }
       ],
       "logo": "logos/32.png"
@@ -439,6 +440,13 @@
           "stop": "2026-11-27T05:42:05-06:00",
           "episode_title": "Winds of War",
           "description": "A cease fire is declared between Zeon and Federation forces when the refugees aboard White Base decide to jump ship."
+        },
+        {
+          "title": "Mobile Suit Gundam",
+          "start": "2026-11-27T05:42:05-06:00",
+          "stop": "2026-11-27T06:07:45-06:00",
+          "episode_title": "Fly, Gundam!",
+          "description": "Amuro feels unwilling to pilot the Gundam anymore, while Garma Zabi is planning to personally lead an attack on White Base."
         }
       ],
       "logo": "logos/45.png"
@@ -465,6 +473,12 @@
           "start": "2026-11-27T03:30:57-06:00",
           "stop": "2026-11-27T05:45:48-06:00",
           "description": "After attacks by Char and Garma, White Base crew battle Zeon forces through Asia, Europe, Atlantic on way to Federation HQ. Crewmembers like Amuro, Bright, Kai, Sayla, Mirai, Fraw, Hayato overcome fears, losses to survive."
+        },
+        {
+          "title": "Mobile Suit Gundam: Iron-Blooded Orphans - Urdr-Hunt: Path of the Little Challenger",
+          "start": "2026-11-27T05:45:48-06:00",
+          "stop": "2026-11-27T06:50:14-06:00",
+          "description": "In P.D.323, Gjallarhorn's intervention in Arbrau led to mobile suit conflict. Mars' Tekkadan youth resolved it. On Venus, now a penal colony, Wistario Afam learns of this as a girl appears offering to guide him in the Urz Hunt race."
         }
       ],
       "logo": "logos/46.png"
@@ -474,13 +488,6 @@
       "number": 47,
       "name": "Universal Century",
       "programmes": [
-        {
-          "title": "Gundam Evolve",
-          "start": "2026-11-26T23:28:45-06:00",
-          "stop": "2026-11-26T23:35:45-06:00",
-          "episode_title": "RX-78-2 Gundam",
-          "description": "Universal Century: Amuro Ray, waiting to start in the final battle of A Baoa Qu, sits in his RX-78-2 Gundam while the other forces are already fighting. He recalls many of the battles he has fought until now before launching."
-        },
         {
           "title": "Mobile Suit Gundam",
           "start": "2026-11-26T23:35:45-06:00",
@@ -647,6 +654,13 @@
           "stop": "2026-11-27T05:33:37-06:00",
           "episode_title": "War for Two",
           "description": "Cagalli is surprised to find Athrun on the same deserted island. She attacks him, but she is overpowered and captured. When everything settles down, the two discuss the war and the reason why they are fighting. At sunrise, they are rescued by their respective comrades."
+        },
+        {
+          "title": "Mobile Suit Gundam SEED",
+          "start": "2026-11-27T05:33:37-06:00",
+          "stop": "2026-11-27T05:58:23-06:00",
+          "episode_title": "The Land of Peace",
+          "description": "The Archangel is attacked by the Zala Team which consists of the Le Creuset Team members. They take heavy damage, but when they enter the waters of the neutral nation of Orb, ZAFT is chased away and is told that the Archangel has been chased away. The Zala Team sneaks into Orb with the belief that Orb's official statement is false."
         }
       ],
       "logo": "logos/48.png"
@@ -775,13 +789,6 @@
       "programmes": [
         {
           "title": "Stargate Infinity",
-          "start": "2026-11-26T23:17:23-06:00",
-          "stop": "2026-11-26T23:39:34-06:00",
-          "episode_title": "The Answer",
-          "description": "The team arrive on Octasar where a Dr. Carrie Mason of the SGC is working with a local scientist, Dr. Bri'sal, who is working on a project of universal telepathy as part of a scientific conference and believes the Tlak'khan can help him - they're playing him, naturally, since Bri'sal's fellow scientists don't support his project. Stacey overhears them while the rest of the team convinces Mason they're not traitors. Mason doesn't believe them and when the project succeeds the Tlak'khan take control. The team launches an attack but the mind-controlled scientists are forced to attack them, but Mason grabs Da'kyll's device, freeing everyone and forcing the Tlak'khan to retreat."
-        },
-        {
-          "title": "Stargate Infinity",
           "start": "2026-11-26T23:39:34-06:00",
           "stop": "2026-11-27T00:01:45-06:00",
           "episode_title": "The Look",
@@ -853,13 +860,6 @@
       "programmes": [
         {
           "title": "Star Trek: Voyager",
-          "start": "2026-11-26T22:54:03-06:00",
-          "stop": "2026-11-26T23:40:52-06:00",
-          "episode_title": "Resolutions",
-          "description": "Stardate: 49690.1. When Captain Janeway and Chakotay contract an incurable virus they are left on a planet that shield them from its effects. While Janeway searches for a cure, she begins to form a deeper relationship with her first officer. Onboard Voyager, Tuvok, who is now in command, faces a near mutiny."
-        },
-        {
-          "title": "Star Trek: Voyager",
           "start": "2026-11-26T23:40:52-06:00",
           "stop": "2026-11-27T00:27:43-06:00",
           "episode_title": "Basics (1)",
@@ -898,6 +898,12 @@
           "stop": "2026-11-27T05:33:10-06:00",
           "episode_title": "Flashback",
           "description": "Stardate: 50126.4. After falling ill to what appears to be a repressed memory Tuvok must perform a mind-meld with Captain Janeway in order to survive. The meld takes them back to when Tuvok was a junior science officer aboard the U.S.S. Excelsior under the command of Captain Hikaru Sulu."
+        },
+        {
+          "title": "Star Trek: The Motion Picture",
+          "start": "2026-11-27T05:33:10-06:00",
+          "stop": "2026-11-27T07:46:05-06:00",
+          "description": "When an alien spacecraft of enormous power is spotted approaching Earth, Admiral James T. Kirk resumes command of the overhauled USS Enterprise in order to intercept it."
         }
       ],
       "logo": "logos/66.png"
@@ -907,13 +913,6 @@
       "number": 72,
       "name": "Comedy",
       "programmes": [
-        {
-          "title": "The Office (US)",
-          "start": "2026-11-26T23:11:49-06:00",
-          "stop": "2026-11-26T23:34:43-06:00",
-          "episode_title": "Halloween",
-          "description": "Corporate demands a Halloween layoff, leaving Michael in a two-headed costume dodging decisions while Dwight and Jim's résumé battle, and Creed's survival instincts, turn the spooky day into real dread."
-        },
         {
           "title": "The Office (US)",
           "start": "2026-11-26T23:34:43-06:00",
@@ -953,6 +952,13 @@
           "stop": "2026-11-27T05:33:33-06:00",
           "episode_title": "The Client",
           "description": "At a Chili's dinner with a potential client, Michael's antics, Jan's professionalism, and an impromptu \"Baby Back Ribs\" duet unexpectedly close the deal, while Dwight and Kevin read Jim's top-secret document."
+        },
+        {
+          "title": "The Office (US)",
+          "start": "2026-11-27T05:33:33-06:00",
+          "stop": "2026-11-27T05:56:37-06:00",
+          "episode_title": "Performance Review",
+          "description": "Michael expects praise but receives month-old evaluation notes; his whirlwind performance review includes Dwight's compliments, Jan's disapproval, and a parking-lot rant that leaves Pam and Jim hopelessly amused."
         }
       ],
       "logo": "logos/72.png"
