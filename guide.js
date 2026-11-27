@@ -1,12 +1,12 @@
 window.GUIDE_DATA = {
-  "generated_at": "2026-11-26T22:16:24.749936-06:00",
+  "generated_at": "2026-11-26T22:31:24.822433-06:00",
   "timezone": "America/Chicago",
   "source": "tunarr-xmltv",
   "window_hours": 6,
-  "window_start": "2026-11-26T22:16:24.749936-06:00",
-  "window_end": "2026-11-27T04:16:24.749936-06:00",
+  "window_start": "2026-11-26T22:31:24.822433-06:00",
+  "window_end": "2026-11-27T04:31:24.822433-06:00",
   "channel_count": 15,
-  "programme_count": 125,
+  "programme_count": 126,
   "channels": [
     {
       "id": "C2.50.tunarr.com",
@@ -68,6 +68,13 @@ window.GUIDE_DATA = {
           "stop": "2026-11-27T04:16:37-06:00",
           "episode_title": "Living Witness",
           "description": "Stardate: Unknown. 700 years into the future the Doctor must defend the crew of Voyager and set history straight when an alien race claims that the Warship Voyager was responsible for war crimes commited against their race."
+        },
+        {
+          "title": "Star Trek: The Next Generation",
+          "start": "2026-11-27T04:16:37-06:00",
+          "stop": "2026-11-27T05:00:18-06:00",
+          "episode_title": "The Quality of Life",
+          "description": "When Geordi is assigned to survey a new mining development with Dr. Farallon, who invented an experimental mining technology, she uses a new sophisticated robot called an Exocomp to repair a power grid."
         }
       ],
       "logo": "logos/2.png"
@@ -77,12 +84,6 @@ window.GUIDE_DATA = {
       "number": 3,
       "name": "The Movie Channel",
       "programmes": [
-        {
-          "title": "Space Jam",
-          "start": "2026-11-26T20:57:39-06:00",
-          "stop": "2026-11-26T22:25:53-06:00",
-          "description": "In a desperate attempt to win a basketball match and earn their freedom, the Looney Tunes seek the aid of retired NBA star Michael Jordan."
-        },
         {
           "title": "Starship Troopers",
           "start": "2026-11-26T22:25:53-06:00",
@@ -115,12 +116,6 @@ window.GUIDE_DATA = {
       "number": 11,
       "name": "Kidz!",
       "programmes": [
-        {
-          "title": "Barbie in 'A Christmas Carol'",
-          "start": "2026-11-26T21:08:37-06:00",
-          "stop": "2026-11-26T22:25:30-06:00",
-          "description": "On Christmas Eve, Kelly is reluctant to go to a Christmas Eve ball, so Barbie tells her the story of Eden Starling, a glamorous singing diva in the Victorian England and the owner of a theatre house. However, Eden is self-centered and loves only herself. She is frequently accompanied by her snooty cat, Chuzzlewit. She does not believe in Christmas and orders all her employees to work on Christmas."
-        },
         {
           "title": "Home on the Range",
           "start": "2026-11-26T22:25:30-06:00",
@@ -433,6 +428,13 @@ window.GUIDE_DATA = {
           "stop": "2026-11-27T04:26:05-06:00",
           "episode_title": "Moment of Choice",
           "description": "Thanks to the efforts of Hiroto and the Build Divers, Masaki Shido has been successfully rescued. Hiroto, Kazami, Parviz, and May gather at The Gundam Base to pay a visit to the awakened Masaki. Suddenly, they hear the roar of a motorcycle engine. The rider is someone they never expected."
+        },
+        {
+          "title": "Mobile Suit Gundam 00",
+          "start": "2026-11-27T04:26:05-06:00",
+          "stop": "2026-11-27T04:51:15-06:00",
+          "episode_title": "Pure Distortion",
+          "description": "Tieria is shocked at the sudden appearance of his lookalike Regene Regetta. He is further disturbed by Regene's revelations about the Innovators."
         }
       ],
       "logo": "logos/45.png"
@@ -474,13 +476,6 @@ window.GUIDE_DATA = {
       "number": 47,
       "name": "Universal Century",
       "programmes": [
-        {
-          "title": "Mobile Suit Gundam",
-          "start": "2026-11-26T21:56:05-06:00",
-          "stop": "2026-11-26T22:21:45-06:00",
-          "episode_title": "The Newtype: Challia Bull",
-          "description": "Gihren Zabi sends Char a Newtype to pilot the new Braw Bro; Amuro's own Newtype abilities are growing as he senses the presence of Lalah."
-        },
         {
           "title": "Gundam Evolve",
           "start": "2026-11-26T22:21:45-06:00",
@@ -668,6 +663,13 @@ window.GUIDE_DATA = {
           "stop": "2026-11-27T04:19:19-06:00",
           "episode_title": "Beyond the Clouds of Sand",
           "description": "A battle between the Lesseps and the Desert Dawn commences. Kira and the Desert Tiger fight a battle where they realize the pain of having an enemy who is not an abstraction. With the Strike's power almost depleted, Kira has no choice but to destroy Andrew's TMF/A-803 LaGOWE or die himself."
+        },
+        {
+          "title": "Mobile Suit Gundam SEED",
+          "start": "2026-11-27T04:19:19-06:00",
+          "stop": "2026-11-27T04:44:05-06:00",
+          "episode_title": "The Sea Dyed Red",
+          "description": "The Archangel crew crosses the Red Sea to head towards the neutral Orb Union with Cagalli and Ledonir Kisaka on board. With the previous battle weighing heavily on him, Kira talks to Cagalli about his reasons for fighting, making Flay jealous. They are attacked by ZAFT air and underwater type mobile suits, but Kira and Mu manage to take them out."
         }
       ],
       "logo": "logos/48.png"
@@ -772,6 +774,13 @@ window.GUIDE_DATA = {
           "stop": "2026-11-27T04:23:00-06:00",
           "episode_title": "For the Cause",
           "description": "Stardate: Unknown. Sisko must face betrayal when evidence surfaces that Kasidy is smuggling for the Maquis. Meanwhile Garak makes acquaintance with Ziyal."
+        },
+        {
+          "title": "Star Trek: Voyager",
+          "start": "2026-11-27T04:23:00-06:00",
+          "stop": "2026-11-27T05:09:50-06:00",
+          "episode_title": "Once Upon a Time",
+          "description": "Stardate: Unknown. While Voyager searches for the crew of the crashed Delta Flyer carrying Tuvok, Paris and Ensign Wildman, Neelix must keep Naomi occupied. When it is discovered that Samantha is badly injured, he must decide how much he should tell her daughter."
         }
       ],
       "logo": "logos/64.png"
@@ -850,6 +859,13 @@ window.GUIDE_DATA = {
           "stop": "2026-11-27T04:24:17-06:00",
           "episode_title": "The Hunt",
           "description": "An alien creature attacks an exploration team from Destiny, taking two crew members captive."
+        },
+        {
+          "title": "Stargate SG-1",
+          "start": "2026-11-27T04:24:17-06:00",
+          "stop": "2026-11-27T05:09:23-06:00",
+          "episode_title": "Within the Serpent's Grasp (2)",
+          "description": "SG-1 escapes through the Stargate before it is shut down, and learns that Daniel's alternate reality vision is true: Apophis is moving to attack Earth from above. The team must stop Apophis and his son, Klorel, who inhabits the body of their friend Skaara."
         }
       ],
       "logo": "logos/65.png"
@@ -915,13 +931,6 @@ window.GUIDE_DATA = {
       "number": 72,
       "name": "Comedy",
       "programmes": [
-        {
-          "title": "Dirk Gently's Holistic Detective Agency",
-          "start": "2026-11-26T21:46:27-06:00",
-          "stop": "2026-11-26T22:29:08-06:00",
-          "episode_title": "Rogue Wall Enthusiasts",
-          "description": "Digging into Patrick Spring's past, Farah and Dirk discover the first really big clue into his murder. Todd goes to the police only to learn he has no safe harbor left and Amanda must deal with a looming presence in her life."
-        },
         {
           "title": "Dirk Gently's Holistic Detective Agency",
           "start": "2026-11-26T22:29:08-06:00",
