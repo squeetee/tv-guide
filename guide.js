@@ -1,25 +1,18 @@
 window.GUIDE_DATA = {
-  "generated_at": "2026-11-26T19:31:25.808155-06:00",
+  "generated_at": "2026-11-26T19:46:29.330767-06:00",
   "timezone": "America/Chicago",
   "source": "tunarr-xmltv",
   "window_hours": 6,
-  "window_start": "2026-11-26T19:31:25.808155-06:00",
-  "window_end": "2026-11-27T01:31:25.808155-06:00",
+  "window_start": "2026-11-26T19:46:29.330767-06:00",
+  "window_end": "2026-11-27T01:46:29.330767-06:00",
   "channel_count": 15,
-  "programme_count": 134,
+  "programme_count": 132,
   "channels": [
     {
       "id": "C2.50.tunarr.com",
       "number": 2,
       "name": "Syndication",
       "programmes": [
-        {
-          "title": "The Expanse",
-          "start": "2026-11-26T19:01:07-06:00",
-          "stop": "2026-11-26T19:46:25-06:00",
-          "episode_title": "Assured Destruction",
-          "description": "As Earth strategizes a costly ploy to gain advantage in the war against Mars, Anna struggles to convince Sorrento-Gillis to do the right thing. Avasarala and Bobbie seek refuge aboard the Rocinante."
-        },
         {
           "title": "Star Trek: Deep Space Nine",
           "start": "2026-11-26T19:46:25-06:00",
@@ -304,6 +297,12 @@ window.GUIDE_DATA = {
           "stop": "2026-11-27T01:39:53-06:00",
           "episode_title": "Scoop Chase",
           "description": "The Knight Sabers seem to have all under control, until \"ace reporter\" Lisa Vanette threatens to reveal the true identities of the girls. Plus, GENOM's got some brand new, specially created Boomers, with weapons aimed directly at the Sabers."
+        },
+        {
+          "title": "Bubblegum Crisis",
+          "start": "2026-11-27T01:39:53-06:00",
+          "stop": "2026-11-27T02:27:28-06:00",
+          "episode_title": "Episode 1"
         }
       ],
       "logo": "logos/32.png"
@@ -458,12 +457,6 @@ window.GUIDE_DATA = {
       "name": "Gundam Theater",
       "programmes": [
         {
-          "title": "Mobile Suit Gundam Thunderbolt: Bandit Flower",
-          "start": "2026-11-26T18:09:38-06:00",
-          "stop": "2026-11-26T19:40:24-06:00",
-          "description": "Eight months after the One Year War, the Earth Federation attempts to secure and destroy the Psycho Zaku from the hands of a cult called South Seas Alliance."
-        },
-        {
           "title": "Mobile Suit Gundam GQuuuuuuX -Beginning-",
           "start": "2026-11-26T19:40:24-06:00",
           "stop": "2026-11-26T21:02:20-06:00",
@@ -495,13 +488,6 @@ window.GUIDE_DATA = {
       "number": 47,
       "name": "Universal Century",
       "programmes": [
-        {
-          "title": "Mobile Suit Gundam",
-          "start": "2026-11-26T19:14:16-06:00",
-          "stop": "2026-11-26T19:39:56-06:00",
-          "episode_title": "The Glory of Solomon",
-          "description": "A massive Federation combined space fleet attacks the Principality of Zeon's Fortress of Solomon, commanded by Dozle Zabi."
-        },
         {
           "title": "Mobile Suit Gundam",
           "start": "2026-11-26T19:39:56-06:00",
@@ -831,13 +817,6 @@ window.GUIDE_DATA = {
       "programmes": [
         {
           "title": "Stargate Universe",
-          "start": "2026-11-26T18:55:14-06:00",
-          "stop": "2026-11-26T19:38:30-06:00",
-          "episode_title": "Alliances",
-          "description": "Camille and Sgt. Greer are trapped when Homeworld Command comes under attack."
-        },
-        {
-          "title": "Stargate Universe",
           "start": "2026-11-26T19:38:30-06:00",
           "stop": "2026-11-26T20:21:44-06:00",
           "episode_title": "Hope",
@@ -1029,6 +1008,13 @@ window.GUIDE_DATA = {
           "start": "2026-11-26T23:57:35-06:00",
           "stop": "2026-11-27T01:45:56-06:00",
           "description": "A young maiden in a land called Andalasia, who is prepared to be wed, is sent away to New York City by an evil Queen, where she falls in love with a lawyer."
+        },
+        {
+          "title": "Eureka",
+          "start": "2026-11-27T01:45:56-06:00",
+          "stop": "2026-11-27T03:11:03-06:00",
+          "episode_title": "Pilot",
+          "description": "An accident leads a U.S. Marshal and a teenage girl to a peculiar town populated by scientists and their families where 10-year-old boys are in 11th grade, the local diner doesn't believe in menus, and E=MC² was just the beginning. Just as the Marshal starts to get settled into the swing of things, a local scientist develops a bomb that seems to appear anywhere and eats all the matter around it."
         }
       ],
       "logo": "logos/72.png"
