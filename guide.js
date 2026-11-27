@@ -1,12 +1,12 @@
 window.GUIDE_DATA = {
-  "generated_at": "2026-11-26T23:46:24.726266-06:00",
+  "generated_at": "2026-11-27T00:01:26.465231-06:00",
   "timezone": "America/Chicago",
   "source": "tunarr-xmltv",
   "window_hours": 6,
-  "window_start": "2026-11-26T23:46:24.726266-06:00",
-  "window_end": "2026-11-27T05:46:24.726266-06:00",
+  "window_start": "2026-11-27T00:01:26.465231-06:00",
+  "window_end": "2026-11-27T06:01:26.465231-06:00",
   "channel_count": 15,
-  "programme_count": 124,
+  "programme_count": 122,
   "channels": [
     {
       "id": "C2.50.tunarr.com",
@@ -177,12 +177,6 @@ window.GUIDE_DATA = {
       "name": "Adrenaline",
       "programmes": [
         {
-          "title": "Thor: The Dark World",
-          "start": "2026-11-26T21:53:49-06:00",
-          "stop": "2026-11-26T23:46:52-06:00",
-          "description": "Thor fights to restore order across the cosmos… but an ancient race led by the vengeful Malekith returns to plunge the universe back into darkness. Faced with an enemy that even Odin and Asgard cannot withstand, Thor must embark on his most perilous and personal journey yet, one that will reunite him with Jane Foster and force him to sacrifice everything to save us all."
-        },
-        {
           "title": "Independence Day",
           "start": "2026-11-26T23:46:52-06:00",
           "stop": "2026-11-27T02:21:19-06:00",
@@ -199,6 +193,12 @@ window.GUIDE_DATA = {
           "start": "2026-11-27T04:37:13-06:00",
           "stop": "2026-11-27T05:46:53-06:00",
           "description": "The villains of \"Kim Possible\" are on display in this four-episode compilation titled Kim Possible: The Villain Files. The episodes are edited together so that there is only one set of opening credits at the beginning and one at the end. Though the shows play in succession like a film rather than being presented as four standalone episodes."
+        },
+        {
+          "title": "Captain America: Civil War",
+          "start": "2026-11-27T05:46:53-06:00",
+          "stop": "2026-11-27T08:15:29-06:00",
+          "description": "Following the events of Age of Ultron, the collective governments of the world pass an act designed to regulate all superhuman activity. This polarizes opinion amongst the Avengers, causing two factions to side with Iron Man or Captain America, which causes an epic battle between former allies."
         }
       ],
       "logo": "logos/28.png"
@@ -208,13 +208,6 @@ window.GUIDE_DATA = {
       "number": 32,
       "name": "Japanimation",
       "programmes": [
-        {
-          "title": "Shuffle!",
-          "start": "2026-11-26T23:30:46-06:00",
-          "stop": "2026-11-26T23:56:10-06:00",
-          "episode_title": "Revealed Truth",
-          "description": "After Asa collapses once more, she's rushed to the hospital, though the doctors cannot do much to improve her condition. Asa's mother Ama reveals to Rin a deep dark secret about her past."
-        },
         {
           "title": "Outlaw Star",
           "start": "2026-11-26T23:56:10-06:00",
@@ -289,6 +282,13 @@ window.GUIDE_DATA = {
           "stop": "2026-11-27T06:00:24-06:00",
           "episode_title": "Old Wounds Revisited",
           "description": "Last year's 2nd year and 4th group teacher \"Noboru Saito\" stabbed his chest and was hospitalized. Saito is the person who created the cause of the current 3rd grade and 4th class teacher bullying. At the same time as the incident, Ya stopped coming to school. Kikuchi and Murai are suspicious that \"Maybe Masa stabbed Saito?\""
+        },
+        {
+          "title": "Great Teacher Onizuka",
+          "start": "2026-11-27T06:00:24-06:00",
+          "stop": "2026-11-27T06:26:37-06:00",
+          "episode_title": "Onizuka's Final Battle",
+          "description": "Without any solid evidence, the battle between Onizuka, the students of the 3rd grade and 4th grade, and the teachers of Seirin Gakuen began against the domineering board of education who decided that the criminal of the Saito teacher stab injury case was elegant. .. Onizuka, who bets his life as a teacher and pursues the board of education with a flashy performance, makes a ridiculous remark about the incident this time."
         }
       ],
       "logo": "logos/32.png"
@@ -298,12 +298,6 @@ window.GUIDE_DATA = {
       "number": 33,
       "name": "Anime Cinema",
       "programmes": [
-        {
-          "title": "Scarlet",
-          "start": "2026-11-26T21:57:08-06:00",
-          "stop": "2026-11-26T23:49:20-06:00",
-          "description": "A medieval princess on a quest to avenge her father's death awakens in a realm between life and death, where she encounters an idealistic young man from the present day who shows her the possibility of a future free of bitterness and rage."
-        },
         {
           "title": "Neon Genesis Evangelion: Death and Rebirth",
           "start": "2026-11-26T23:49:20-06:00",
@@ -336,13 +330,6 @@ window.GUIDE_DATA = {
       "number": 45,
       "name": "Mobile Suit Network",
       "programmes": [
-        {
-          "title": "Mobile Suit Victory Gundam",
-          "start": "2026-11-26T23:26:40-06:00",
-          "stop": "2026-11-26T23:51:36-06:00",
-          "episode_title": "Sea Dwellers",
-          "description": "BESPA launches Operation: Earth Cleansing in preparation of Queen Maria's arrival to Earth. Cronicle's fleet destroys a Federation-controlled city on the coast and the Shrike Team tries to stop the advancing forces."
-        },
         {
           "title": "Mobile Suit Victory Gundam",
           "start": "2026-11-26T23:51:36-06:00",
@@ -490,13 +477,6 @@ window.GUIDE_DATA = {
       "programmes": [
         {
           "title": "Mobile Suit Gundam",
-          "start": "2026-11-26T23:35:45-06:00",
-          "stop": "2026-11-27T00:01:26-06:00",
-          "episode_title": "Space Fortress: A Baoa Qu",
-          "description": "Federation forces, including White Base, proceed to invade the Fortress of A Baoa Qu despite losing half of their combined fleet caused by Zeon's Solar Ray; Amuro and Char -now piloting the Zeong- engage in battle again."
-        },
-        {
-          "title": "Mobile Suit Gundam",
           "start": "2026-11-27T00:01:26-06:00",
           "stop": "2026-11-27T00:26:36-06:00",
           "episode_title": "Escape",
@@ -541,6 +521,13 @@ window.GUIDE_DATA = {
           "stop": "2026-11-27T05:52:00-06:00",
           "episode_title": "Gundamjack",
           "description": "In the prologue (set during the Battle of A Baoa Qu in December U.C.0079), Zeon ace pilot Anavel Gato returns from combat to find Admiral Aiguille Delaz telling him of the deaths of Gihren Zabi and Kycilia Zabi, as the Zeon forces surrender. Despite the shock defeat, both men retreat and plan the return of Zeon. In October U.C.0083, the Federation space carrier Albion delivers two Gundam Development Project (GDP) prototypes, the RX-78 GP01 Zephyranthes and the GP02A Physalis, to the Torrington Base in Australia for ground testing under the aegis of Anaheim Electronics engineer Nina Purpleton. Because of lax security, a Zeon mole helps Gato infiltrate the base and hijack the GP02 just after its nuclear weapon is loaded in the middle of the night. Having witnessed Gato activate the mobile suit, Ensign Kou Uraki takes over the Zephyranthes and prepares to face him just as Zeon forces assault the base."
+        },
+        {
+          "title": "Mobile Suit Gundam 0083: Stardust Memory",
+          "start": "2026-11-27T05:52:00-06:00",
+          "stop": "2026-11-27T06:20:08-06:00",
+          "episode_title": "Endless Pursuit",
+          "description": "Kou, his friend Chuck Keith, and veterans South Burning and Dick Allen follow Gato through the outback in an attempt to recapture the Physalis. Zeon forces ambush them and kill Allen as Gato awaits a Komusai shuttle for extraction. Kou destroys the shuttle but it is actually a diversion - Gato escapes on a submarine that provided covering fire during the Torrington base attack."
         }
       ],
       "logo": "logos/47.png"
@@ -550,13 +537,6 @@ window.GUIDE_DATA = {
       "number": 48,
       "name": "Cosmic Era",
       "programmes": [
-        {
-          "title": "Mobile Suit Gundam SEED",
-          "start": "2026-11-26T23:22:06-06:00",
-          "stop": "2026-11-26T23:46:52-06:00",
-          "episode_title": "The Fading Light",
-          "description": "The Archangel is to meet with the 8th fleet but is attacked by the Le Creuset Team. Flay witnesses the death of her father when Kira fails to protect the escort ships. In desperation, the Archangel reveals Lacus is on board the ship, causing the attackers to withdraw."
-        },
         {
           "title": "Mobile Suit Gundam SEED",
           "start": "2026-11-26T23:46:52-06:00",
@@ -661,6 +641,13 @@ window.GUIDE_DATA = {
           "stop": "2026-11-27T05:58:23-06:00",
           "episode_title": "The Land of Peace",
           "description": "The Archangel is attacked by the Zala Team which consists of the Le Creuset Team members. They take heavy damage, but when they enter the waters of the neutral nation of Orb, ZAFT is chased away and is told that the Archangel has been chased away. The Zala Team sneaks into Orb with the belief that Orb's official statement is false."
+        },
+        {
+          "title": "Mobile Suit Gundam SEED",
+          "start": "2026-11-27T05:58:23-06:00",
+          "stop": "2026-11-27T06:23:09-06:00",
+          "episode_title": "Endless Rondo",
+          "description": "Senior Engineer Erica Simmons of Morgenroete reviews the Strike's combat logs and theorizes that Kira might be superior than any other Coordinator and speculates on the \"SEED factor\" theory. She shows Kira the mobile suits that Orb is developing and asks him to develop a mobile suit operating system that can be used by Naturals."
         }
       ],
       "logo": "logos/48.png"
@@ -670,12 +657,6 @@ window.GUIDE_DATA = {
       "number": 56,
       "name": "Fright Night",
       "programmes": [
-        {
-          "title": "Kill Giggles",
-          "start": "2026-11-26T22:12:36-06:00",
-          "stop": "2026-11-26T23:46:51-06:00",
-          "description": "Tommy wasn't born a psychopath, but one horrifying thing has led him to pursue a lifelong killing spree. Tommy is triggered by those monsters in makeup… clowns. His hunt is not confined to a single jester and he won't stop until he has killed every clown on earth. When he falls for Eve, life takes a wonderful turn and life seems worth living again – until he discovers his new girlfriend's father is the most terrifying clown of all."
-        },
         {
           "title": "Crystal Lake",
           "start": "2026-11-26T23:46:51-06:00",
@@ -716,13 +697,6 @@ window.GUIDE_DATA = {
       "number": 64,
       "name": "Sci-Fi",
       "programmes": [
-        {
-          "title": "Star Trek",
-          "start": "2026-11-26T23:02:21-06:00",
-          "stop": "2026-11-26T23:53:45-06:00",
-          "episode_title": "Operation: Annihilate!",
-          "description": "Kirk and the Enterprise must combat parasitic aliens threatening the lives of millions."
-        },
         {
           "title": "Doctor Who (2005)",
           "start": "2026-11-26T23:53:45-06:00",
@@ -778,6 +752,13 @@ window.GUIDE_DATA = {
           "stop": "2026-11-27T05:56:44-06:00",
           "episode_title": "Timeless",
           "description": "A miscalculation by Ensign Kim causes a fatal crash during Voyager's first test with slipstream travel. Fifteen years in the future, survivors Chakotay, Kim and The Doctor attempt to send a message back in time to prevent the tragedy."
+        },
+        {
+          "title": "The X-Files",
+          "start": "2026-11-27T05:56:44-06:00",
+          "stop": "2026-11-27T06:41:49-06:00",
+          "episode_title": "D.P.O.",
+          "description": "Five male teenagers in Connerville, Oklahoma were reported to have been struck by lightning, and one of them has survived. The most recent death draws Mulder and Scully in, and at the confrontation of local law enforcement, they must solve the case before they, too, are fried."
         }
       ],
       "logo": "logos/64.png"
@@ -849,6 +830,13 @@ window.GUIDE_DATA = {
           "stop": "2026-11-27T05:52:43-06:00",
           "episode_title": "The Serpent's Lair (3)",
           "description": "With SG-1 trapped on Klorel's ship, it seems that Earth is doomed as the Pyramid Ships prepare to destroy Earth."
+        },
+        {
+          "title": "Stargate Atlantis",
+          "start": "2026-11-27T05:52:43-06:00",
+          "stop": "2026-11-27T06:35:10-06:00",
+          "episode_title": "The Eye (2)",
+          "description": "Major Sheppard plays a dangerous game of cat and mouse with soldiers who have seized control of Atlantis and taken Weir and McKay hostage."
         }
       ],
       "logo": "logos/65.png"
@@ -914,13 +902,6 @@ window.GUIDE_DATA = {
       "name": "Comedy",
       "programmes": [
         {
-          "title": "The Office (US)",
-          "start": "2026-11-26T23:34:43-06:00",
-          "stop": "2026-11-26T23:57:35-06:00",
-          "episode_title": "The Fight",
-          "description": "When Dwight embarrasses Michael by punching him in the stomach at work, Jim organizes a lunchtime rematch at Dwight's Dojo. Meanwhile, Pam becomes annoyed at Jim when he gets too physical with her, Ryan updates the emergency contact information on a secret mission, and Michael tantalizes Ryan when the boss gets a hold of Ryan's cell phone number."
-        },
-        {
           "title": "Enchanted",
           "start": "2026-11-26T23:57:35-06:00",
           "stop": "2026-11-27T01:45:56-06:00",
@@ -959,6 +940,12 @@ window.GUIDE_DATA = {
           "stop": "2026-11-27T05:56:37-06:00",
           "episode_title": "Performance Review",
           "description": "Michael expects praise but receives month-old evaluation notes; his whirlwind performance review includes Dwight's compliments, Jan's disapproval, and a parking-lot rant that leaves Pam and Jim hopelessly amused."
+        },
+        {
+          "title": "The Devil Wears Prada",
+          "start": "2026-11-27T05:56:37-06:00",
+          "stop": "2026-11-27T07:46:55-06:00",
+          "description": "A young woman from the Midwest gets more than she bargained for when she moves to New York to become a writer and ends up as the assistant to the tyrannical, larger-than-life editor-in-chief of a major fashion magazine."
         }
       ],
       "logo": "logos/72.png"
