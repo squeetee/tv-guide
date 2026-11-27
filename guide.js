@@ -1,10 +1,10 @@
 window.GUIDE_DATA = {
-  "generated_at": "2026-11-26T18:16:24.990060-06:00",
+  "generated_at": "2026-11-26T18:31:25.250218-06:00",
   "timezone": "America/Chicago",
   "source": "tunarr-xmltv",
   "window_hours": 6,
-  "window_start": "2026-11-26T18:16:24.990060-06:00",
-  "window_end": "2026-11-27T00:16:24.990060-06:00",
+  "window_start": "2026-11-26T18:31:25.250218-06:00",
+  "window_end": "2026-11-27T00:31:25.250218-06:00",
   "channel_count": 15,
   "programme_count": 131,
   "channels": [
@@ -13,13 +13,6 @@ window.GUIDE_DATA = {
       "number": 2,
       "name": "Syndication",
       "programmes": [
-        {
-          "title": "Batman: The Animated Series",
-          "start": "2026-11-26T17:55:21-06:00",
-          "stop": "2026-11-26T18:17:36-06:00",
-          "episode_title": "Time Out of Joint",
-          "description": "The Clock King plots against Mayor Hill after he steals an invention that allows him to travel at super speed."
-        },
         {
           "title": "The Expanse",
           "start": "2026-11-26T18:17:36-06:00",
@@ -82,6 +75,13 @@ window.GUIDE_DATA = {
           "stop": "2026-11-27T00:26:25-06:00",
           "episode_title": "Slouching Towards Bethlehem",
           "description": "Nolan must stop a terrorist from destroying New York, but his biggest obstacle may be….Amanda?"
+        },
+        {
+          "title": "Defiance",
+          "start": "2026-11-27T00:26:25-06:00",
+          "stop": "2026-11-27T01:09:15-06:00",
+          "episode_title": "Painted From Memory",
+          "description": "Kenya’s earth-shattering return continues sending shock waves through Defiance as Stahma tries to reconcile Kenya’s reappearance, while Doc Yewll works to keep her own dark secret hidden."
         }
       ],
       "logo": "logos/2.png"
@@ -186,6 +186,12 @@ window.GUIDE_DATA = {
           "stop": "2026-11-27T00:30:23-06:00",
           "episode_title": "Eclipsed (1)",
           "description": "A strange gemstone possesses all who touch it, turning them to evil...including Wonder Woman."
+        },
+        {
+          "title": "Toy Story",
+          "start": "2026-11-27T00:30:23-06:00",
+          "stop": "2026-11-27T01:48:37-06:00",
+          "description": "A cowboy doll is profoundly jealous when a new spaceman action figure supplants him as the top toy in a boy's bedroom. When circumstances separate them from their owner, the duo have to put aside their differences to return to him."
         }
       ],
       "logo": "logos/11.png"
@@ -310,6 +316,13 @@ window.GUIDE_DATA = {
           "stop": "2026-11-27T00:22:37-06:00",
           "episode_title": "Creeping Evil",
           "description": "After being back on Sentinel only a few days, Gene and Jim are forced to find methods to raise money to upgrade and repair the Outlaw Star, not to mention other outstanding debts. During the job hunt, they are attacked by pirates."
+        },
+        {
+          "title": "Outlaw Star",
+          "start": "2026-11-27T00:22:37-06:00",
+          "stop": "2026-11-27T00:48:40-06:00",
+          "episode_title": "Forced Departure",
+          "description": "Poisoned by the Kei Pirates, Gene’s life is on the line when they offer an antidote in exchange for the Outlaw Star. Refusing the trade, Melfina seeks a way to heal him before they face the Kei Pirates forces!"
         }
       ],
       "logo": "logos/32.png"
@@ -319,12 +332,6 @@ window.GUIDE_DATA = {
       "number": 33,
       "name": "Anime Cinema",
       "programmes": [
-        {
-          "title": "Appleseed XIII: Tartaros",
-          "start": "2026-11-26T16:56:25-06:00",
-          "stop": "2026-11-26T18:21:53-06:00",
-          "description": "Get the high-voltage thrill ride of Appleseed XIII the series with none of the filler in the first of two action-packed movies that cut down the story to what you want most: bullets, explosions, and total mayhem! In the years after a devastating global war, Deunan and her cyborg partner protect the idyllic city of Olympus as elite members of the paramilitary force ES.W.A.T."
-        },
         {
           "title": "Attack on Titan: The Roar of Awakening",
           "start": "2026-11-26T18:21:53-06:00",
@@ -447,6 +454,13 @@ window.GUIDE_DATA = {
           "stop": "2026-11-27T00:16:33-06:00",
           "episode_title": "Operation: Giant Roller",
           "description": "Goze escapes from the Reinforce Junior with the crew intentionally letting him go. Goze heads back to the Adrestria with his Zollidia and the V2, with Odelo hiding in the Zollida and Uso in the Gundam."
+        },
+        {
+          "title": "Mobile Fighter G Gundam",
+          "start": "2026-11-27T00:16:33-06:00",
+          "stop": "2026-11-27T00:41:27-06:00",
+          "episode_title": "Fight, Domon! Earth is the Ring",
+          "description": "Domon returns to the Neo Japan space colony. There he undergoes a virtual reality simulation to determine if he is the right choice for Neo Japan's Gundam Fighter."
         }
       ],
       "logo": "logos/45.png"
@@ -488,13 +502,6 @@ window.GUIDE_DATA = {
       "number": 47,
       "name": "Universal Century",
       "programmes": [
-        {
-          "title": "Mobile Suit Gundam 0080: War in the Pocket",
-          "start": "2026-11-26T17:52:05-06:00",
-          "stop": "2026-11-26T18:20:20-06:00",
-          "episode_title": "Over the River and Through the Woods",
-          "description": "Al sneaks through the conduit back to Bernie and tells him he got pictures of a Federation mobile suit."
-        },
         {
           "title": "Mobile Suit Gundam",
           "start": "2026-11-26T18:20:20-06:00",
@@ -599,6 +606,12 @@ window.GUIDE_DATA = {
           "stop": "2026-11-27T00:26:36-06:00",
           "episode_title": "Escape",
           "description": "The Battle of A Baoa Qu reaches a critical point; White Base is deep within enemy territory, Amuro and Char's relentless duel continues, and Kycilia Zabi struggles in command."
+        },
+        {
+          "title": "Mobile Suit Gundam III: Encounters in Space",
+          "start": "2026-11-27T00:26:36-06:00",
+          "stop": "2026-11-27T02:48:03-06:00",
+          "description": "Amuro Ray and the rest of the White Base crew, now denominated the 13th Autonomous Corps, return to outer space to support the rest of the Earth Federation forces for the decisive battle against the Duchy of Zeon's forces."
         }
       ],
       "logo": "logos/47.png"
@@ -738,13 +751,6 @@ window.GUIDE_DATA = {
       "number": 64,
       "name": "Sci-Fi",
       "programmes": [
-        {
-          "title": "The X-Files",
-          "start": "2026-11-26T17:37:21-06:00",
-          "stop": "2026-11-26T18:23:02-06:00",
-          "episode_title": "The Blessing Way (2)",
-          "description": "Scully finds her career with the FBI in jeopardy as Mulder is still missing and the Cigarette Smoking Man is pursuing the stolen files. The Navajo elders find Mulder's body in a cave and perform an ancient ceremony to call the spirit back to the empty vessel."
-        },
         {
           "title": "The X-Files",
           "start": "2026-11-26T18:23:02-06:00",
@@ -888,13 +894,6 @@ window.GUIDE_DATA = {
       "name": "Starfleet",
       "programmes": [
         {
-          "title": "Star Trek",
-          "start": "2026-11-26T17:28:11-06:00",
-          "stop": "2026-11-26T18:19:31-06:00",
-          "episode_title": "The Naked Time",
-          "description": "An alien virus strips the enterprise crew of their inhibitions, causing chaos as each crew member is overcome by hidden emotions. Meanwhile, the Enterprise is being pulled inexorably into a nearby planet's gravity well."
-        },
-        {
           "title": "Star Trek: Deep Space Nine",
           "start": "2026-11-26T18:19:31-06:00",
           "stop": "2026-11-26T19:05:41-06:00",
@@ -934,6 +933,13 @@ window.GUIDE_DATA = {
           "stop": "2026-11-27T00:27:43-06:00",
           "episode_title": "Basics (1)",
           "description": "Stardate: Unknown. Voyager receives a distress signal from Seska, who claims that Maje Cullah is going to take her baby away from her, a baby she says is Chakotay's. Chakotay is skeptical, but can't take the risk of abandoning his child, should it really prove to be his. Janeway authorises a mission to rescue Chakotay's child and the ship moves deep into Kazon Nistrim territory. However: was Seska for real, or is this all an elaborate trap?"
+        },
+        {
+          "title": "Star Trek: Deep Space Nine",
+          "start": "2026-11-27T00:27:43-06:00",
+          "stop": "2026-11-27T01:13:45-06:00",
+          "episode_title": "Shadows and Symbols",
+          "description": "Stardate: 52152.6. As Sisko searches for the Orb of the Emissary, Kira prepares a blockade opposing the Romulans near the Bajoran moon Durna. Meanwhile, Worf and Martok lead a suicide mission in Jadzia's name."
         }
       ],
       "logo": "logos/66.png"
@@ -943,13 +949,6 @@ window.GUIDE_DATA = {
       "number": 72,
       "name": "Comedy",
       "programmes": [
-        {
-          "title": "Warehouse 13",
-          "start": "2026-11-26T17:40:46-06:00",
-          "stop": "2026-11-26T18:25:27-06:00",
-          "episode_title": "Claudia",
-          "description": "A woman kidnaps Artie and insists that he help her recover her brother... who was lost in an artifact-related experiment 12 years ago."
-        },
         {
           "title": "Elf",
           "start": "2026-11-26T18:25:27-06:00",
