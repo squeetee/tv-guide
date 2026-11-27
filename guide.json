@@ -1,25 +1,18 @@
 {
-  "generated_at": "2026-11-26T17:46:25.060636-06:00",
+  "generated_at": "2026-11-26T18:01:25.042097-06:00",
   "timezone": "America/Chicago",
   "source": "tunarr-xmltv",
   "window_hours": 6,
-  "window_start": "2026-11-26T17:46:25.060636-06:00",
-  "window_end": "2026-11-26T23:46:25.060636-06:00",
+  "window_start": "2026-11-26T18:01:25.042097-06:00",
+  "window_end": "2026-11-27T00:01:25.042097-06:00",
   "channel_count": 15,
-  "programme_count": 129,
+  "programme_count": 131,
   "channels": [
     {
       "id": "C2.50.tunarr.com",
       "number": 2,
       "name": "Syndication",
       "programmes": [
-        {
-          "title": "Batman: The Animated Series",
-          "start": "2026-11-26T17:33:12-06:00",
-          "stop": "2026-11-26T17:55:21-06:00",
-          "episode_title": "Baby-Doll",
-          "description": "Baby-Doll, a former child star, pours out her frustrations on her TV family by kidnapping them and holding them hostage."
-        },
         {
           "title": "Batman: The Animated Series",
           "start": "2026-11-26T17:55:21-06:00",
@@ -131,13 +124,6 @@
       "name": "Kidz!",
       "programmes": [
         {
-          "title": "Star Wars: The Clone Wars",
-          "start": "2026-11-26T17:35:27-06:00",
-          "stop": "2026-11-26T17:58:57-06:00",
-          "episode_title": "Cloak of Darkness",
-          "description": "Ahsoka and Jedi Master Luminara escort the captured notorious Separatist leader Nute Gunray to Coruscant so he can stand trial for his crimes. However, they are unaware that Count Dooku has sent his assassin, Asajj Ventress, to free their captive. With the help of Senate Commandos, the Jedi have to thwart Ventress's efforts to free their prisoner, despite the traitorous plans of Senate Guard Captain Argyus."
-        },
-        {
           "title": "Mickey's Once Upon a Christmas",
           "start": "2026-11-26T17:58:57-06:00",
           "stop": "2026-11-26T19:03:00-06:00",
@@ -219,6 +205,12 @@
           "start": "2026-11-26T21:53:49-06:00",
           "stop": "2026-11-26T23:46:52-06:00",
           "description": "Thor fights to restore order across the cosmos… but an ancient race led by the vengeful Malekith returns to plunge the universe back into darkness. Faced with an enemy that even Odin and Asgard cannot withstand, Thor must embark on his most perilous and personal journey yet, one that will reunite him with Jane Foster and force him to sacrifice everything to save us all."
+        },
+        {
+          "title": "Independence Day",
+          "start": "2026-11-26T23:46:52-06:00",
+          "stop": "2026-11-27T02:21:19-06:00",
+          "description": "Strange phenomena surface around the globe. The skies ignite. Terror races through the world's major cities. As these extraordinary events unfold, it becomes increasingly clear that a force of incredible magnitude has arrived. Its mission: total annihilation over the Fourth of July weekend. The last hope to stop the destruction is an unlikely group of people united by fate and unimaginable circumstances."
         }
       ],
       "logo": "logos/28.png"
@@ -228,12 +220,6 @@
       "number": 32,
       "name": "Japanimation",
       "programmes": [
-        {
-          "title": "Dragon Ball",
-          "start": "2026-11-26T17:32:24-06:00",
-          "stop": "2026-11-26T17:53:04-06:00",
-          "episode_title": "Episode 15"
-        },
         {
           "title": "Dragon Ball GT",
           "start": "2026-11-26T17:53:04-06:00",
@@ -317,6 +303,13 @@
           "stop": "2026-11-26T23:56:10-06:00",
           "episode_title": "Revealed Truth",
           "description": "After Asa collapses once more, she's rushed to the hospital, though the doctors cannot do much to improve her condition. Asa's mother Ama reveals to Rin a deep dark secret about her past."
+        },
+        {
+          "title": "Outlaw Star",
+          "start": "2026-11-26T23:56:10-06:00",
+          "stop": "2026-11-27T00:22:37-06:00",
+          "episode_title": "Creeping Evil",
+          "description": "After being back on Sentinel only a few days, Gene and Jim are forced to find methods to raise money to upgrade and repair the Outlaw Star, not to mention other outstanding debts. During the job hunt, they are attacked by pirates."
         }
       ],
       "logo": "logos/32.png"
@@ -349,6 +342,12 @@
           "start": "2026-11-26T21:57:38-06:00",
           "stop": "2026-11-26T23:49:50-06:00",
           "description": "A medieval princess on a quest to avenge her father's death awakens in a realm between life and death, where she encounters an idealistic young man from the present day who shows her the possibility of a future free of bitterness and rage."
+        },
+        {
+          "title": "Neon Genesis Evangelion: Death and Rebirth",
+          "start": "2026-11-26T23:49:50-06:00",
+          "stop": "2026-11-27T01:31:13-06:00",
+          "description": "Originally a collection of clips from the Neon Genesis Evangelion TV series, Death was created as a precursor to the re-worked ending of the series. Rebirth was intended as that re-worked ending, but after production overruns Rebirth became only the first half of the first part of The End of Evangelion, with some minor differences."
         }
       ],
       "logo": "logos/33.png"
@@ -358,12 +357,6 @@
       "number": 45,
       "name": "Mobile Suit Network",
       "programmes": [
-        {
-          "title": "SD Gundam Sangokuden Brave Battle Warriors",
-          "start": "2026-11-26T17:37:38-06:00",
-          "stop": "2026-11-26T17:50:29-06:00",
-          "episode_title": "A New World"
-        },
         {
           "title": "Mobile Suit Gundam AGE",
           "start": "2026-11-26T17:50:29-06:00",
@@ -454,6 +447,13 @@
           "stop": "2026-11-26T23:51:36-06:00",
           "episode_title": "Sea Dwellers",
           "description": "BESPA launches Operation: Earth Cleansing in preparation of Queen Maria's arrival to Earth. Cronicle's fleet destroys a Federation-controlled city on the coast and the Shrike Team tries to stop the advancing forces."
+        },
+        {
+          "title": "Mobile Suit Victory Gundam",
+          "start": "2026-11-26T23:51:36-06:00",
+          "stop": "2026-11-27T00:16:33-06:00",
+          "episode_title": "Operation: Giant Roller",
+          "description": "Goze escapes from the Reinforce Junior with the crew intentionally letting him go. Goze heads back to the Adrestria with his Zollidia and the V2, with Odelo hiding in the Zollida and Uso in the Gundam."
         }
       ],
       "logo": "logos/45.png"
@@ -501,13 +501,6 @@
       "number": 47,
       "name": "Universal Century",
       "programmes": [
-        {
-          "title": "Mobile Suit Gundam",
-          "start": "2026-11-26T17:26:25-06:00",
-          "stop": "2026-11-26T17:52:05-06:00",
-          "episode_title": "Farewell in Side Six",
-          "description": "In need of repairs, the White Base is attacked outside the neutral Side Six by a fleet led by Captain Coskon."
-        },
         {
           "title": "Mobile Suit Gundam 0080: War in the Pocket",
           "start": "2026-11-26T17:52:05-06:00",
@@ -622,12 +615,6 @@
       "name": "Cosmic Era",
       "programmes": [
         {
-          "title": "Mobile Suit Gundam Seed Destiny",
-          "start": "2026-11-26T17:10:40-06:00",
-          "stop": "2026-11-26T17:57:37-06:00",
-          "episode_title": "Episode 1"
-        },
-        {
           "title": "Mobile Suit Gundam SEED FREEDOM",
           "start": "2026-11-26T17:57:37-06:00",
           "stop": "2026-11-26T20:04:00-06:00",
@@ -695,6 +682,13 @@
           "stop": "2026-11-26T23:46:52-06:00",
           "episode_title": "The Fading Light",
           "description": "The Archangel is to meet with the 8th fleet but is attacked by the Le Creuset Team. Flay witnesses the death of her father when Kira fails to protect the escort ships. In desperation, the Archangel reveals Lacus is on board the ship, causing the attackers to withdraw."
+        },
+        {
+          "title": "Mobile Suit Gundam SEED",
+          "start": "2026-11-26T23:46:52-06:00",
+          "stop": "2026-11-27T00:11:38-06:00",
+          "episode_title": "Separate Ways",
+          "description": "With everything that has happened, Kira becomes depressed. He is comforted by Lacus, who is strolling around the ship without permission. Kira returns Lacus to Athrun against orders, but refuses Athrun's invitation to change sides."
         }
       ],
       "logo": "logos/48.png"
@@ -727,6 +721,13 @@
           "start": "2026-11-26T22:12:36-06:00",
           "stop": "2026-11-26T23:46:51-06:00",
           "description": "Tommy wasn't born a psychopath, but one horrifying thing has led him to pursue a lifelong killing spree. Tommy is triggered by those monsters in makeup… clowns. His hunt is not confined to a single jester and he won't stop until he has killed every clown on earth. When he falls for Eve, life takes a wonderful turn and life seems worth living again – until he discovers his new girlfriend's father is the most terrifying clown of all."
+        },
+        {
+          "title": "Crystal Lake",
+          "start": "2026-11-26T23:46:51-06:00",
+          "stop": "2026-11-27T00:32:35-06:00",
+          "episode_title": "Kill Them, Mommy",
+          "description": "Pam refuses to believe her son is dead, even as a massacre at the camp brings state investigators to Crystal Lake. With Grace in danger and a shadow moving through the woods, Pam searches for Jason while buried secrets close in."
         }
       ],
       "logo": "logos/56.png"
@@ -791,6 +792,13 @@
           "stop": "2026-11-26T23:53:45-06:00",
           "episode_title": "Operation: Annihilate!",
           "description": "Kirk and the Enterprise must combat parasitic aliens threatening the lives of millions."
+        },
+        {
+          "title": "Doctor Who (2005)",
+          "start": "2026-11-26T23:53:45-06:00",
+          "stop": "2026-11-27T00:39:10-06:00",
+          "episode_title": "Tooth and Claw",
+          "description": "Landing in 1879, Scotland, the Tenth Doctor and Rose meet Queen Victoria, travelling with her to spend the night at the Torchwood Estate. However, a group of warrior monks have sinister plans for the monarch, and the full moon is about to summon a creature out of legend."
         }
       ],
       "logo": "logos/64.png"
@@ -994,6 +1002,12 @@
           "stop": "2026-11-26T23:57:35-06:00",
           "episode_title": "The Fight",
           "description": "When Dwight embarrasses Michael by punching him in the stomach at work, Jim organizes a lunchtime rematch at Dwight's Dojo. Meanwhile, Pam becomes annoyed at Jim when he gets too physical with her, Ryan updates the emergency contact information on a secret mission, and Michael tantalizes Ryan when the boss gets a hold of Ryan's cell phone number."
+        },
+        {
+          "title": "Enchanted",
+          "start": "2026-11-26T23:57:35-06:00",
+          "stop": "2026-11-27T01:45:56-06:00",
+          "description": "A young maiden in a land called Andalasia, who is prepared to be wed, is sent away to New York City by an evil Queen, where she falls in love with a lawyer."
         }
       ],
       "logo": "logos/72.png"
