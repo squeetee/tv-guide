@@ -1,25 +1,18 @@
 window.GUIDE_DATA = {
-  "generated_at": "2026-11-26T18:46:25.160994-06:00",
+  "generated_at": "2026-11-26T19:01:25.034030-06:00",
   "timezone": "America/Chicago",
   "source": "tunarr-xmltv",
   "window_hours": 6,
-  "window_start": "2026-11-26T18:46:25.160994-06:00",
-  "window_end": "2026-11-27T00:46:25.160994-06:00",
+  "window_start": "2026-11-26T19:01:25.034030-06:00",
+  "window_end": "2026-11-27T01:01:25.034030-06:00",
   "channel_count": 15,
-  "programme_count": 134,
+  "programme_count": 133,
   "channels": [
     {
       "id": "C2.50.tunarr.com",
       "number": 2,
       "name": "Syndication",
       "programmes": [
-        {
-          "title": "The Expanse",
-          "start": "2026-11-26T18:17:36-06:00",
-          "stop": "2026-11-26T19:01:07-06:00",
-          "episode_title": "IFF",
-          "description": "The Rocinante answers an unexpected distress signal. Bobbie and Avasarala find themselves being hunted by a mysterious captor. UN Secretary-General Sorrento-Gillis brings in a colleague from his past to lend an ear during this crucial time of war."
-        },
         {
           "title": "The Expanse",
           "start": "2026-11-26T19:01:07-06:00",
@@ -322,6 +315,13 @@ window.GUIDE_DATA = {
           "stop": "2026-11-27T00:48:40-06:00",
           "episode_title": "Forced Departure",
           "description": "Poisoned by the Kei Pirates, Gene’s life is on the line when they offer an antidote in exchange for the Outlaw Star. Refusing the trade, Melfina seeks a way to heal him before they face the Kei Pirates forces!"
+        },
+        {
+          "title": "Bubblegum Crisis",
+          "start": "2026-11-27T00:48:40-06:00",
+          "stop": "2026-11-27T01:39:53-06:00",
+          "episode_title": "Scoop Chase",
+          "description": "The Knight Sabers seem to have all under control, until \"ace reporter\" Lisa Vanette threatens to reveal the true identities of the girls. Plus, GENOM's got some brand new, specially created Boomers, with weapons aimed directly at the Sabers."
         }
       ],
       "logo": "logos/32.png"
@@ -702,6 +702,13 @@ window.GUIDE_DATA = {
           "stop": "2026-11-27T01:01:10-06:00",
           "episode_title": "Flay's Decision",
           "description": "Kira and his friends are given permission to leave the Archangel, but after overcoming the initial shock of her father's death, Flay decides to enlist in the Earth Alliance Forces, prompting Sai Argyle, Kuzzey Buskirk, Miriallia Haw, and Tolle Koenig to do the same. Kira stays on board the as well to continue protecting his friends. The Duel is upgraded with an Assault Shroud."
+        },
+        {
+          "title": "Mobile Suit Gundam SEED",
+          "start": "2026-11-27T01:01:10-06:00",
+          "stop": "2026-11-27T01:25:56-06:00",
+          "episode_title": "Stars Falling in Space",
+          "description": "Le Creuset attacks once again as the Archangel and the 8th Fleet approaches Earth. The Archangel is able to descend to Earth, but not without the loss of the entire 8th Fleet. Yzak Joule, the pilot of the Duel, vents his frustration by destroying a spacecraft carrying Heliopolis refugees that Kira had rescued previously."
         }
       ],
       "logo": "logos/48.png"
@@ -711,12 +718,6 @@ window.GUIDE_DATA = {
       "number": 56,
       "name": "Fright Night",
       "programmes": [
-        {
-          "title": "Young Frankenstein",
-          "start": "2026-11-26T17:13:28-06:00",
-          "stop": "2026-11-26T19:00:03-06:00",
-          "description": "An American grandson of the infamous scientist, struggling to prove that his grandfather was not as insane as people believe, is invited to Transylvania, where he discovers the process that reanimates a dead body."
-        },
         {
           "title": "The Devil's Child",
           "start": "2026-11-26T19:00:03-06:00",
@@ -828,13 +829,6 @@ window.GUIDE_DATA = {
       "number": 65,
       "name": "Stargate Command",
       "programmes": [
-        {
-          "title": "Stargate Atlantis",
-          "start": "2026-11-26T18:12:27-06:00",
-          "stop": "2026-11-26T18:55:14-06:00",
-          "episode_title": "Childhood's End",
-          "description": "Sheppard and the team visit a world where no one is over 24 years old -- because of a ritual suicide practice they believe keeps the Wraith at bay."
-        },
         {
           "title": "Stargate Universe",
           "start": "2026-11-26T18:55:14-06:00",
