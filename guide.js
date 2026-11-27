@@ -1,25 +1,18 @@
 window.GUIDE_DATA = {
-  "generated_at": "2026-11-26T21:16:24.738441-06:00",
+  "generated_at": "2026-11-26T21:31:24.793480-06:00",
   "timezone": "America/Chicago",
   "source": "tunarr-xmltv",
   "window_hours": 6,
-  "window_start": "2026-11-26T21:16:24.738441-06:00",
-  "window_end": "2026-11-27T03:16:24.738441-06:00",
+  "window_start": "2026-11-26T21:31:24.793480-06:00",
+  "window_end": "2026-11-27T03:31:24.793480-06:00",
   "channel_count": 15,
-  "programme_count": 128,
+  "programme_count": 126,
   "channels": [
     {
       "id": "C2.50.tunarr.com",
       "number": 2,
       "name": "Syndication",
       "programmes": [
-        {
-          "title": "Star Trek: Deep Space Nine",
-          "start": "2026-11-26T20:32:48-06:00",
-          "stop": "2026-11-26T21:19:08-06:00",
-          "episode_title": "A Simple Investigation",
-          "description": "Odo helps a woman hiding on the station from organized criminals, but quickly develops a personal interest in the case."
-        },
         {
           "title": "Stargate Infinity",
           "start": "2026-11-26T21:19:08-06:00",
@@ -82,6 +75,13 @@ window.GUIDE_DATA = {
           "stop": "2026-11-27T03:29:46-06:00",
           "episode_title": "Unforgettable",
           "description": "An unrecognized alien woman, requesting asylum, states she was aboard Voyager recently where she and Chakotay fell in love. She claims the members of her closed society want to keep themselves concealed from other races and have ways to erase knowledge of them from other species. The woman, once an agent assigned to return fugitives to her homeworld, is now hunted by her former colleagues for revealing her race's secrets."
+        },
+        {
+          "title": "Star Trek: Voyager",
+          "start": "2026-11-27T03:29:46-06:00",
+          "stop": "2026-11-27T04:16:37-06:00",
+          "episode_title": "Living Witness",
+          "description": "Stardate: Unknown. 700 years into the future the Doctor must defend the crew of Voyager and set history straight when an alien race claims that the Warship Voyager was responsible for war crimes commited against their race."
         }
       ],
       "logo": "logos/2.png"
@@ -210,13 +210,6 @@ window.GUIDE_DATA = {
       "programmes": [
         {
           "title": "Soul Eater",
-          "start": "2026-11-26T20:54:27-06:00",
-          "stop": "2026-11-26T21:18:58-06:00",
-          "episode_title": "Medusa's Revival! A Spider and Snake's Fateful Reunion?",
-          "description": "Dr. Stein’s trying to whip the Meisters and Weapons into shape for their eventual fight against Arachne. They’ll definitely need to toughen up - Arachne isn’t the only witch who’s back on the scene."
-        },
-        {
-          "title": "Soul Eater",
           "start": "2026-11-26T21:18:58-06:00",
           "stop": "2026-11-26T21:43:29-06:00",
           "episode_title": "The Red Hot Runaway Express - A Magic Tool Left Behind by the Great Wizard?",
@@ -290,6 +283,12 @@ window.GUIDE_DATA = {
           "stop": "2026-11-27T03:16:46-06:00",
           "episode_title": "Kuwabara: A Promise Between Men",
           "description": "Kuwabara was tormented by his rival's death. The loser in all 156 of his brawls against Yusuke , he's now lost any chance he ever had of evening the score! But with Yusuke out of the way, Kuwabara is the new kid to beat... which means he's making plenty of enemies. Yusuke isn't fond of this classmate, but if he wants to win back his life, he will need to give him a ghostly hand."
+        },
+        {
+          "title": "Magical Girl Pretty Sammy",
+          "start": "2026-11-27T03:16:46-06:00",
+          "stop": "2026-11-27T03:57:02-06:00",
+          "description": "Sasami has been chosen by candidate queen Tsunami as champion of justice \"Magical Girl Pretty Sammy\" with Ryo-Ohki as her guide. Meanwhile Tsunami's jealous sister Ramia has her brother Rumiya turn Sasami's best friend Misao into the chaotic \"Pixy Misa\". Pixy's first attack is to intensify a love triangle between Ryoko and Ayeka for Tenchi's affection by turning the two quarrelling girls into love-love monsters. With Tenchi's help, Pretty Sammy is able to dispel the love-love curse from the girls."
         }
       ],
       "logo": "logos/32.png"
@@ -337,13 +336,6 @@ window.GUIDE_DATA = {
       "number": 45,
       "name": "Mobile Suit Network",
       "programmes": [
-        {
-          "title": "Mobile Suit Gundam Wing",
-          "start": "2026-11-26T20:21:13-06:00",
-          "stop": "2026-11-26T21:20:39-06:00",
-          "episode_title": "Operation Meteor II: Even Numbers II",
-          "description": "Feature-length episode recapping events from the Gundam Wing TV series.from the point of view of Duo and Quatre. The episode also features brief amounts of new footage of the characters after the events of the TV series."
-        },
         {
           "title": "Mobile Suit Gundam Wing",
           "start": "2026-11-26T21:20:39-06:00",
@@ -474,6 +466,12 @@ window.GUIDE_DATA = {
           "start": "2026-11-27T01:30:10-06:00",
           "stop": "2026-11-27T03:30:57-06:00",
           "description": "Amuro and Char, two best mobile suit (robotic weapons) pilots who fought together against Titans after the Zeon's independence war, must face each other in a fateful duel where the Neo Zeon, led by Char, attempts to drop a gigantic asteroid and its nuclear weapons to Earth in order to cause Nuclear Winter to wipe out the Earth inhabitants."
+        },
+        {
+          "title": "Mobile Suit Gundam II: Soldiers of Sorrow",
+          "start": "2026-11-27T03:30:57-06:00",
+          "stop": "2026-11-27T05:45:48-06:00",
+          "description": "After attacks by Char and Garma, White Base crew battle Zeon forces through Asia, Europe, Atlantic on way to Federation HQ. Crewmembers like Amuro, Bright, Kai, Sayla, Mirai, Fraw, Hayato overcome fears, losses to survive."
         }
       ],
       "logo": "logos/46.png"
@@ -483,13 +481,6 @@ window.GUIDE_DATA = {
       "number": 47,
       "name": "Universal Century",
       "programmes": [
-        {
-          "title": "Mobile Suit Gundam",
-          "start": "2026-11-26T20:59:23-06:00",
-          "stop": "2026-11-26T21:25:03-06:00",
-          "episode_title": "Char and Sayla",
-          "description": "Char Aznable's Gelgoog takes over M'Quve on engaging the Gundam while the White Base enters the Texas colony and sends Sayla Mass and Job John to search for Amuro."
-        },
         {
           "title": "Mobile Suit Gundam MS IGLOO",
           "start": "2026-11-26T21:25:03-06:00",
@@ -558,6 +549,13 @@ window.GUIDE_DATA = {
           "stop": "2026-11-27T03:17:00-06:00",
           "episode_title": "The Soul Returns to Thunder",
           "description": "(U.C. 0079.12.31 - 0080.01.01) Just as Gihren Zabi proudly announces to his troops the decimation of the Federation fleet by the Solar Ray, the 603rd received its latest prototype weapon — the massive Big-Rang mobile armor. When the Federation launches a large-scale desperate attack on A Baoa Qu from two directions, the Kuspen Combat Battalion is assigned to defend the E field, and Oliver (to his shock) is ordered to pilot the Big-Rang. When the Jotunheim encounters a vanguard detachment of the Federation fleet, Oliver manages to inflict heavy casualty on the Federation forces with the help of Monique and Kuspen. Although the Big-Rang pushes back the first wave of attack, vengeful Federation soldiers eventually overwhelms and destroys the mobile armor, as well as killing Kuspen. As the retreating Jotunheim mourns the loss of their friends, a small group of survivor mobile suits approaches, among them an alive Oliver held by Monique's heavily damaged Zudah."
+        },
+        {
+          "title": "Mobile Suit Gundam: The 08th MS Team",
+          "start": "2026-11-27T03:17:00-06:00",
+          "stop": "2026-11-27T03:44:52-06:00",
+          "episode_title": "Last Resort",
+          "description": "With the end of the war, Michel has retired from the Federation Forces, and he sets off with Kiki to find out whether Shiro and Aina are alive or dead. In the jungle, they are captured by a group of mysterious children, who give them shocking news."
         }
       ],
       "logo": "logos/47.png"
@@ -567,13 +565,6 @@ window.GUIDE_DATA = {
       "number": 48,
       "name": "Cosmic Era",
       "programmes": [
-        {
-          "title": "Mobile Suit Gundam SEED",
-          "start": "2026-11-26T20:53:32-06:00",
-          "stop": "2026-11-26T21:18:18-06:00",
-          "episode_title": "Collapsing Land",
-          "description": "Lt. Murrue Ramius takes over as captain of the Archangel and Kira and his friends are detained for seeing top secret military weapons. Rau Le Creuset is determined to capture the Strike after seeing how well it moved and sends out mobile suits to retrieve it. Disobeying orders, Athrun also dispatches so he could confirm if Kira is the one piloting the Strike, but when he finds his answer, Heliopolis crumbles as it sustains too much damage."
-        },
         {
           "title": "Mobile Suit Gundam SEED",
           "start": "2026-11-26T21:18:18-06:00",
@@ -678,6 +669,13 @@ window.GUIDE_DATA = {
           "stop": "2026-11-27T03:29:47-06:00",
           "episode_title": "Fangs of the Enemy",
           "description": "Kira and Cagalli are sent into a nearby ZAFT controlled city to gather supplies with Natarle and the Desert Dawn. The two teenagers get caught in an attack by the Blue Cosmos, and when Kira saves a man who happens to be Andrew Waltfeld, they are invited to the ZAFT base. There, Andrew reveals that he knows Kira is the pilot of the Strike and a Coordinator, but lets them leave safely."
+        },
+        {
+          "title": "Mobile Suit Gundam SEED",
+          "start": "2026-11-27T03:29:47-06:00",
+          "stop": "2026-11-27T03:54:33-06:00",
+          "episode_title": "On a Calm Day",
+          "description": "Athrun and Nicol are given the day off; Athrun spends the day with Lacus and they talk about Kira. The PLANT Supreme Council debates on whether the attack codenamed \"Operation Spitbreak\" should be executed"
         }
       ],
       "logo": "logos/48.png"
@@ -733,13 +731,6 @@ window.GUIDE_DATA = {
       "number": 64,
       "name": "Sci-Fi",
       "programmes": [
-        {
-          "title": "Farscape",
-          "start": "2026-11-26T20:37:10-06:00",
-          "stop": "2026-11-26T21:24:04-06:00",
-          "episode_title": "Revenging Angel",
-          "description": "D'Argo injures Crichton, as Crichton lies in a coma/near death, he escapes into a highly animated world. It's Farscape, Chuck Jones/Loony Tunes style. Meanwhile D'Argo's actions create a crisis on Moya, which could destroy the Leviathan"
-        },
         {
           "title": "Farscape",
           "start": "2026-11-26T21:24:04-06:00",
@@ -882,12 +873,6 @@ window.GUIDE_DATA = {
       "number": 66,
       "name": "Starfleet",
       "programmes": [
-        {
-          "title": "Star Trek: The Next Generation",
-          "start": "2026-11-26T19:51:41-06:00",
-          "stop": "2026-11-26T21:23:00-06:00",
-          "episode_title": "Episode 26"
-        },
         {
           "title": "Star Trek: The Next Generation",
           "start": "2026-11-26T21:23:00-06:00",
