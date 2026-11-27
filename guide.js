@@ -1,12 +1,12 @@
 window.GUIDE_DATA = {
-  "generated_at": "2026-11-26T23:16:24.781139-06:00",
+  "generated_at": "2026-11-26T23:32:11.157401-06:00",
   "timezone": "America/Chicago",
   "source": "tunarr-xmltv",
   "window_hours": 6,
-  "window_start": "2026-11-26T23:16:24.781139-06:00",
-  "window_end": "2026-11-27T05:16:24.781139-06:00",
+  "window_start": "2026-11-26T23:32:11.157401-06:00",
+  "window_end": "2026-11-27T05:32:11.157401-06:00",
   "channel_count": 15,
-  "programme_count": 126,
+  "programme_count": 123,
   "channels": [
     {
       "id": "C2.50.tunarr.com",
@@ -216,13 +216,6 @@ window.GUIDE_DATA = {
       "programmes": [
         {
           "title": "Shuffle!",
-          "start": "2026-11-26T23:05:23-06:00",
-          "stop": "2026-11-26T23:30:46-06:00",
-          "episode_title": "To A New Tomorrow",
-          "description": "Rin has packed up all his things and has already found a cheap apartment to move into. On the day of the move, several of his friends come over and help him out."
-        },
-        {
-          "title": "Shuffle!",
           "start": "2026-11-26T23:30:46-06:00",
           "stop": "2026-11-26T23:56:10-06:00",
           "episode_title": "Revealed Truth",
@@ -343,13 +336,6 @@ window.GUIDE_DATA = {
       "name": "Mobile Suit Network",
       "programmes": [
         {
-          "title": "Mobile Suit Gundam Wing",
-          "start": "2026-11-26T23:01:46-06:00",
-          "stop": "2026-11-26T23:26:40-06:00",
-          "episode_title": "Five Gundams Confirmed",
-          "description": "Heero is injured and is kept for treatment at the Alliance hospital. At the Corsican base of the Mediterranean, the Gundam Heavyarms, piloted by L3's Trowa Barton, annihilates everything in its path. Then things get even worse for the Alliance when the Gundam Sandrock shows up."
-        },
-        {
           "title": "Mobile Suit Victory Gundam",
           "start": "2026-11-26T23:26:40-06:00",
           "stop": "2026-11-26T23:51:36-06:00",
@@ -446,6 +432,13 @@ window.GUIDE_DATA = {
           "stop": "2026-11-27T05:16:25-06:00",
           "episode_title": "Indelible Past",
           "description": "Setsuna and Tieria are confronted by Ali al-Saachez and his new Arche Gundam. A furious Tieria tries to avenge Lockon, but is overwhelmed by the enemy's fighting strength."
+        },
+        {
+          "title": "Mobile Suit Gundam",
+          "start": "2026-11-27T05:16:25-06:00",
+          "stop": "2026-11-27T05:42:05-06:00",
+          "episode_title": "Winds of War",
+          "description": "A cease fire is declared between Zeon and Federation forces when the refugees aboard White Base decide to jump ship."
         }
       ],
       "logo": "logos/45.png"
@@ -481,13 +474,6 @@ window.GUIDE_DATA = {
       "number": 47,
       "name": "Universal Century",
       "programmes": [
-        {
-          "title": "Mobile Suit Gundam",
-          "start": "2026-11-26T23:03:05-06:00",
-          "stop": "2026-11-26T23:28:45-06:00",
-          "episode_title": "A Cosmic Glow",
-          "description": "Amuro and Lalah fight each other for the second time and communicate telepathically, while Gihren Zabi inspects the construction of the Solar Ray."
-        },
         {
           "title": "Gundam Evolve",
           "start": "2026-11-26T23:28:45-06:00",
@@ -541,6 +527,13 @@ window.GUIDE_DATA = {
           "start": "2026-11-27T03:53:32-06:00",
           "stop": "2026-11-27T05:24:18-06:00",
           "description": "Eight months after the One Year War, the Earth Federation attempts to secure and destroy the Psycho Zaku from the hands of a cult called South Seas Alliance."
+        },
+        {
+          "title": "Mobile Suit Gundam 0083: Stardust Memory",
+          "start": "2026-11-27T05:24:18-06:00",
+          "stop": "2026-11-27T05:52:00-06:00",
+          "episode_title": "Gundamjack",
+          "description": "In the prologue (set during the Battle of A Baoa Qu in December U.C.0079), Zeon ace pilot Anavel Gato returns from combat to find Admiral Aiguille Delaz telling him of the deaths of Gihren Zabi and Kycilia Zabi, as the Zeon forces surrender. Despite the shock defeat, both men retreat and plan the return of Zeon. In October U.C.0083, the Federation space carrier Albion delivers two Gundam Development Project (GDP) prototypes, the RX-78 GP01 Zephyranthes and the GP02A Physalis, to the Torrington Base in Australia for ground testing under the aegis of Anaheim Electronics engineer Nina Purpleton. Because of lax security, a Zeon mole helps Gato infiltrate the base and hijack the GP02 just after its nuclear weapon is loaded in the middle of the night. Having witnessed Gato activate the mobile suit, Ensign Kou Uraki takes over the Zephyranthes and prepares to face him just as Zeon forces assault the base."
         }
       ],
       "logo": "logos/47.png"
@@ -550,13 +543,6 @@ window.GUIDE_DATA = {
       "number": 48,
       "name": "Cosmic Era",
       "programmes": [
-        {
-          "title": "Mobile Suit Gundam SEED",
-          "start": "2026-11-26T22:57:20-06:00",
-          "stop": "2026-11-26T23:22:06-06:00",
-          "episode_title": "Songstress of the Enemy Forces",
-          "description": "Lacus Clyne, the daughter of PLANT Supreme Council Chairman Siegel Clyne, is found within the lifepod. Her presence causes tension within the crew, but when the crew receives a message from the 8th Fleet that they are being searched and rescued, they are overjoyed."
-        },
         {
           "title": "Mobile Suit Gundam SEED",
           "start": "2026-11-26T23:22:06-06:00",
@@ -787,13 +773,6 @@ window.GUIDE_DATA = {
       "number": 65,
       "name": "Stargate Command",
       "programmes": [
-        {
-          "title": "Stargate SG-1",
-          "start": "2026-11-26T22:32:16-06:00",
-          "stop": "2026-11-26T23:17:23-06:00",
-          "episode_title": "Tin Man",
-          "description": "The members of SG-1 arrive on P3X-989 and are knocked unconscious. They wake up and return to Earth only to find that they are not quite themselves."
-        },
         {
           "title": "Stargate Infinity",
           "start": "2026-11-26T23:17:23-06:00",
