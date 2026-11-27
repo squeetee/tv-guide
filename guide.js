@@ -1,10 +1,10 @@
 window.GUIDE_DATA = {
-  "generated_at": "2026-11-26T20:46:24.762056-06:00",
+  "generated_at": "2026-11-26T21:16:24.738441-06:00",
   "timezone": "America/Chicago",
   "source": "tunarr-xmltv",
   "window_hours": 6,
-  "window_start": "2026-11-26T20:46:24.762056-06:00",
-  "window_end": "2026-11-27T02:46:24.762056-06:00",
+  "window_start": "2026-11-26T21:16:24.738441-06:00",
+  "window_end": "2026-11-27T03:16:24.738441-06:00",
   "channel_count": 15,
   "programme_count": 128,
   "channels": [
@@ -92,12 +92,6 @@ window.GUIDE_DATA = {
       "name": "The Movie Channel",
       "programmes": [
         {
-          "title": "The Love Bug",
-          "start": "2026-11-26T19:13:31-06:00",
-          "stop": "2026-11-26T20:57:39-06:00",
-          "description": "Down-on-his-luck race car driver Jim Douglas teams up with a little VW Bug that has a mind of it's own, not realizing Herbie's worth until a sneaky rival plots to steal him."
-        },
-        {
           "title": "Space Jam",
           "start": "2026-11-26T20:57:39-06:00",
           "stop": "2026-11-26T22:25:53-06:00",
@@ -129,25 +123,6 @@ window.GUIDE_DATA = {
       "number": 11,
       "name": "Kidz!",
       "programmes": [
-        {
-          "title": "Swat Kats: The Radical Squadron",
-          "start": "2026-11-26T20:28:02-06:00",
-          "stop": "2026-11-26T20:51:20-06:00",
-          "episode_title": "Katastrophe",
-          "description": "Dr. Viper forms a fiendish alliance with Dark Kat and the Metallikats! The SWAT Kats scramble to expose this slithering, sinister plot. Can they save Megakat City?"
-        },
-        {
-          "title": "Looney Tunes",
-          "start": "2026-11-26T20:51:20-06:00",
-          "stop": "2026-11-26T21:00:00-06:00",
-          "episode_title": "Episode 7"
-        },
-        {
-          "title": "Looney Tunes",
-          "start": "2026-11-26T21:00:00-06:00",
-          "stop": "2026-11-26T21:08:37-06:00",
-          "episode_title": "Episode 8"
-        },
         {
           "title": "Barbie in 'A Christmas Carol'",
           "start": "2026-11-26T21:08:37-06:00",
@@ -185,6 +160,13 @@ window.GUIDE_DATA = {
           "start": "2026-11-27T01:48:37-06:00",
           "stop": "2026-11-27T03:11:38-06:00",
           "description": "Having lost her acting career and her boyfriend, Barbie escapes her chaotic life in California for Paris where she discovers her Aunt Millicent's fashion emporium is on the brink of closure and with new friend Alice they strive to save it."
+        },
+        {
+          "title": "Star Wars: The Clone Wars",
+          "start": "2026-11-27T03:11:38-06:00",
+          "stop": "2026-11-27T03:36:00-06:00",
+          "episode_title": "Lair of Grievous",
+          "description": "Kit Fisto is on the trail of the recently escaped Nute Gunray and joins up with his former Padawan Nahdar Vebb on the remote planet of Vassek. Unknown to them, they are entering the lair of General Grievous, who is being tested in his abilities by Count Dooku after a series of disappointments in battle."
         }
       ],
       "logo": "logos/11.png"
@@ -226,13 +208,6 @@ window.GUIDE_DATA = {
       "number": 32,
       "name": "Japanimation",
       "programmes": [
-        {
-          "title": "Full Metal Panic!",
-          "start": "2026-11-26T20:30:43-06:00",
-          "stop": "2026-11-26T20:54:27-06:00",
-          "episode_title": "I Want to Protect You",
-          "description": "Sousuke is set on his mission to protect Kaname, and attacks anything vaguely resembling a threat to Kaname. This leads to funny situations and Sousuke has to explain Kaname why he is following her, blaming coincidence."
-        },
         {
           "title": "Soul Eater",
           "start": "2026-11-26T20:54:27-06:00",
@@ -308,6 +283,13 @@ window.GUIDE_DATA = {
           "stop": "2026-11-27T02:52:06-06:00",
           "episode_title": "Koenma Appears",
           "description": "Pulled by the sprightly, pink-robed Botan, Yusuke enters a realm that is not quite normal -- the Spirit World. There, Yusuke meets Koenma, a 700 year-old ruler with the body of a toddler, pacifier and all! But there's no rom for laughs as Koenma gives Yusuke an ordeal to restore his life. Hatching a Spirit Beast!"
+        },
+        {
+          "title": "Yu Yu Hakusho",
+          "start": "2026-11-27T02:52:06-06:00",
+          "stop": "2026-11-27T03:16:46-06:00",
+          "episode_title": "Kuwabara: A Promise Between Men",
+          "description": "Kuwabara was tormented by his rival's death. The loser in all 156 of his brawls against Yusuke , he's now lost any chance he ever had of evening the score! But with Yusuke out of the way, Kuwabara is the new kid to beat... which means he's making plenty of enemies. Yusuke isn't fond of this classmate, but if he wants to win back his life, he will need to give him a ghostly hand."
         }
       ],
       "logo": "logos/32.png"
@@ -340,6 +322,12 @@ window.GUIDE_DATA = {
           "start": "2026-11-27T01:30:43-06:00",
           "stop": "2026-11-27T02:51:12-06:00",
           "description": "A retelling of Dragon Ball's origin with a different take on the meeting of Goku, Bulma, and Kame-Sen'nin. It also retells the Red Ribbon Army story; but this time they find Goku rather than Goku finding them."
+        },
+        {
+          "title": "Appleseed: Ex Machina",
+          "start": "2026-11-27T02:51:12-06:00",
+          "stop": "2026-11-27T04:36:20-06:00",
+          "description": "As members of ESWAT, the elite forces serving Olympus, Deunan and Briaereos are deployed anywhere trouble strikes. Olympus finds itself under a stealth attack - cyborg terrorism, deadly nanotech zealots, and rioting citizens are just some of the threats that Deunan must contend with as she fights to save Olympus!"
         }
       ],
       "logo": "logos/33.png"
@@ -453,6 +441,13 @@ window.GUIDE_DATA = {
           "stop": "2026-11-27T03:10:13-06:00",
           "episode_title": "The Nightmare Reborn",
           "description": "Equipped with Neutron Jammer Cancellers, the Earth Alliance forces launch an all-out attack on the PLANTs. The Boaz military asteroid is destroyed by nuclear weapons with Earth Alliance's next target being the PLANTs. The Freedom and Justice arrive at the battlefield in time to destroy all the nuclear warheads. In retaliation, Patrick Zala orders to fire the GENESIS."
+        },
+        {
+          "title": "Mobile Suit Gundam SEED",
+          "start": "2026-11-27T03:10:13-06:00",
+          "stop": "2026-11-27T03:35:00-06:00",
+          "episode_title": "Day of Wrath",
+          "description": "The GENESIS, a huge gamma-ray laser wipes out a large portion of Earth Alliance's forces. The Earth Alliance forces are forced to withdraw temporarily to regroup. During the intermission, each of the couples on board the Archangel, Kusanagi, and Eternal prays of each others safety in the upcoming battle."
         }
       ],
       "logo": "logos/45.png"
@@ -462,12 +457,6 @@ window.GUIDE_DATA = {
       "number": 46,
       "name": "Gundam Theater",
       "programmes": [
-        {
-          "title": "Mobile Suit Gundam GQuuuuuuX -Beginning-",
-          "start": "2026-11-26T19:40:24-06:00",
-          "stop": "2026-11-26T21:02:20-06:00",
-          "description": "In a war between Zeon and Earth Federation, a stolen prototype Gundam vanishes. Years later, a girl with mysterious abilities finds herself piloting a new Gundam in underground mech battles while searching for answers about her powers."
-        },
         {
           "title": "Mobile Suit Gundam SEED FREEDOM",
           "start": "2026-11-26T21:02:20-06:00",
@@ -494,13 +483,6 @@ window.GUIDE_DATA = {
       "number": 47,
       "name": "Universal Century",
       "programmes": [
-        {
-          "title": "Mobile Suit Gundam",
-          "start": "2026-11-26T20:33:43-06:00",
-          "stop": "2026-11-26T20:59:23-06:00",
-          "episode_title": "The Duel in Texas",
-          "description": "Amuro Ray's Gundam duels Colonel M'Quve's Gyan on the abandoned and dilapitated colony of Texas while Char and Lalah watch from afar."
-        },
         {
           "title": "Mobile Suit Gundam",
           "start": "2026-11-26T20:59:23-06:00",
@@ -569,6 +551,13 @@ window.GUIDE_DATA = {
           "start": "2026-11-27T00:26:36-06:00",
           "stop": "2026-11-27T02:48:03-06:00",
           "description": "Amuro Ray and the rest of the White Base crew, now denominated the 13th Autonomous Corps, return to outer space to support the rest of the Earth Federation forces for the decisive battle against the Duchy of Zeon's forces."
+        },
+        {
+          "title": "Mobile Suit Gundam MS IGLOO",
+          "start": "2026-11-27T02:48:03-06:00",
+          "stop": "2026-11-27T03:17:00-06:00",
+          "episode_title": "The Soul Returns to Thunder",
+          "description": "(U.C. 0079.12.31 - 0080.01.01) Just as Gihren Zabi proudly announces to his troops the decimation of the Federation fleet by the Solar Ray, the 603rd received its latest prototype weapon — the massive Big-Rang mobile armor. When the Federation launches a large-scale desperate attack on A Baoa Qu from two directions, the Kuspen Combat Battalion is assigned to defend the E field, and Oliver (to his shock) is ordered to pilot the Big-Rang. When the Jotunheim encounters a vanguard detachment of the Federation fleet, Oliver manages to inflict heavy casualty on the Federation forces with the help of Monique and Kuspen. Although the Big-Rang pushes back the first wave of attack, vengeful Federation soldiers eventually overwhelms and destroys the mobile armor, as well as killing Kuspen. As the retreating Jotunheim mourns the loss of their friends, a small group of survivor mobile suits approaches, among them an alive Oliver held by Monique's heavily damaged Zudah."
         }
       ],
       "logo": "logos/47.png"
@@ -578,13 +567,6 @@ window.GUIDE_DATA = {
       "number": 48,
       "name": "Cosmic Era",
       "programmes": [
-        {
-          "title": "Mobile Suit Gundam SEED",
-          "start": "2026-11-26T20:28:46-06:00",
-          "stop": "2026-11-26T20:53:32-06:00",
-          "episode_title": "Its Name is Gundam",
-          "description": "ZAFT is able to steal four of the five G-Project prototype mobile suits, leaving only the GAT-X105 Strike. With Murrue Ramius unable to pilot it effectively, Kira pilots the Strike and defends Heliopolis against the invading ZAFT forces to protect his friends. Ensign Natarle Badgiruel takes command of the new mobile assault ship Archangel with the surviving crew members."
-        },
         {
           "title": "Mobile Suit Gundam SEED",
           "start": "2026-11-26T20:53:32-06:00",
@@ -689,6 +671,13 @@ window.GUIDE_DATA = {
           "stop": "2026-11-27T03:05:01-06:00",
           "episode_title": "Payback",
           "description": "Though the Desert Tiger has spared the lives of civilians, Desert Dawn members brashly challenge the ZAFT forces, because of the devastation they caused. The attack ends in failure, but most are saved by Kira in the Strike."
+        },
+        {
+          "title": "Mobile Suit Gundam SEED",
+          "start": "2026-11-27T03:05:01-06:00",
+          "stop": "2026-11-27T03:29:47-06:00",
+          "episode_title": "Fangs of the Enemy",
+          "description": "Kira and Cagalli are sent into a nearby ZAFT controlled city to gather supplies with Natarle and the Desert Dawn. The two teenagers get caught in an attack by the Blue Cosmos, and when Kira saves a man who happens to be Andrew Waltfeld, they are invited to the ZAFT base. There, Andrew reveals that he knows Kira is the pilot of the Strike and a Coordinator, but lets them leave safely."
         }
       ],
       "logo": "logos/48.png"
@@ -729,6 +718,12 @@ window.GUIDE_DATA = {
           "start": "2026-11-27T01:25:31-06:00",
           "stop": "2026-11-27T02:52:50-06:00",
           "description": "Anna rushes to help her friend Lucy, who was viciously abused as a young child, clean up the aftermath of the revenge she visited upon her abductors 15 years later. Was Lucy the only victim? Are they alone in this idyllic home? What nightmares lie beneath the tranquil facade of this house of horror? In search of the truth they uncover a sadistic cult organization determined to make a Martyr of each subject rather than a simple victim."
+        },
+        {
+          "title": "Session 9",
+          "start": "2026-11-27T02:52:50-06:00",
+          "stop": "2026-11-27T04:34:03-06:00",
+          "description": "Tensions rise within an asbestos cleaning crew as they work in an abandoned mental hospital with a horrific past that seems to be coming back."
         }
       ],
       "logo": "logos/56.png"
@@ -793,6 +788,13 @@ window.GUIDE_DATA = {
           "stop": "2026-11-27T02:50:12-06:00",
           "episode_title": "Dear Doctor",
           "description": "The crew discovers a new planet with two races, one in desperate need of medical and scientific assistance. In the course of trying to help, Dr. Phlox recalls his own Denobulan past to address the ethical dilemmas that arise in the present."
+        },
+        {
+          "title": "Star Trek: Deep Space Nine",
+          "start": "2026-11-27T02:50:12-06:00",
+          "stop": "2026-11-27T03:36:35-06:00",
+          "episode_title": "The Muse",
+          "description": "Stardate: Unknown. A mysterious woman approaches Jake about his future as a writer. Odo promises to do whatever it takes to help Lwaxana Troi keep her baby over the father's wishes - even if it means marrying her himself."
         }
       ],
       "logo": "logos/64.png"
@@ -802,13 +804,6 @@ window.GUIDE_DATA = {
       "number": 65,
       "name": "Stargate Command",
       "programmes": [
-        {
-          "title": "Stargate Atlantis",
-          "start": "2026-11-26T20:21:44-06:00",
-          "stop": "2026-11-26T21:04:34-06:00",
-          "episode_title": "Poisoning the Well",
-          "description": "The team finds a world whose people are on the brink of a discovery that may make them immune to the Wraith feeding."
-        },
         {
           "title": "Stargate Atlantis",
           "start": "2026-11-26T21:04:34-06:00",
@@ -871,6 +866,13 @@ window.GUIDE_DATA = {
           "stop": "2026-11-27T02:57:30-06:00",
           "episode_title": "Politics (1)",
           "description": "Senator Kinsey arrives at the SGC to investigate the program and determine whether the great drain on the U.S. budget is worthwhile, prompting the team to recall missions from the past year."
+        },
+        {
+          "title": "Stargate Universe",
+          "start": "2026-11-27T02:57:30-06:00",
+          "stop": "2026-11-27T03:41:06-06:00",
+          "episode_title": "Seizure",
+          "description": "Rush slips into a coma in the neural interface chair, and Amanda connects with him in the ship’s matrix, but Ginn informs Eli of a problem with that scenario. Elsewhere, Dr. Rodney McKay’s plan to dial the ninth chevron address hits a snag."
         }
       ],
       "logo": "logos/65.png"
@@ -936,13 +938,6 @@ window.GUIDE_DATA = {
       "name": "Comedy",
       "programmes": [
         {
-          "title": "The Office (US)",
-          "start": "2026-11-26T20:25:30-06:00",
-          "stop": "2026-11-26T20:47:55-06:00",
-          "episode_title": "The Fire",
-          "description": "The Office is forced into the parking lot for the day when a fire starts in the kitchen. To ease everyone's boredom, Jim suggests a game of \"Desert Island\" and \"Who Would You Do?\", where certain staff members reveal a little too much information about themselves. Throughout the day, Michael talks business with Ryan, leaving Dwight feeling left out."
-        },
-        {
           "title": "Mickey's Twice Upon a Christmas",
           "start": "2026-11-26T20:47:55-06:00",
           "stop": "2026-11-26T21:46:27-06:00",
@@ -988,6 +983,13 @@ window.GUIDE_DATA = {
           "stop": "2026-11-27T03:11:03-06:00",
           "episode_title": "Pilot",
           "description": "An accident leads a U.S. Marshal and a teenage girl to a peculiar town populated by scientists and their families where 10-year-old boys are in 11th grade, the local diner doesn't believe in menus, and E=MC² was just the beginning. Just as the Marshal starts to get settled into the swing of things, a local scientist develops a bomb that seems to appear anywhere and eats all the matter around it."
+        },
+        {
+          "title": "Eureka",
+          "start": "2026-11-27T03:11:03-06:00",
+          "stop": "2026-11-27T03:54:38-06:00",
+          "episode_title": "Many Happy Returns",
+          "description": "The citizens of Eureka attend the funeral of Susan Perkins, only to find out that she is in fact alive. Meanwhile the Sheriff moves into an underground bunker that is actually a 'smart house' controlled by a computer dubbed 'S.A.R.A.H., and begins to investigate a 'ghost' that has been appearing in town."
         }
       ],
       "logo": "logos/72.png"
