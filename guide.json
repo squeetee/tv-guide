@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-26T20:16:24.759059-06:00",
+  "generated_at": "2026-11-26T20:31:35.713125-06:00",
   "timezone": "America/Chicago",
   "source": "tunarr-xmltv",
   "window_hours": 6,
-  "window_start": "2026-11-26T20:16:24.759059-06:00",
-  "window_end": "2026-11-27T02:16:24.759059-06:00",
+  "window_start": "2026-11-26T20:31:35.713125-06:00",
+  "window_end": "2026-11-27T02:31:35.713125-06:00",
   "channel_count": 15,
-  "programme_count": 132,
+  "programme_count": 128,
   "channels": [
     {
       "id": "C2.50.tunarr.com",
@@ -114,6 +114,12 @@
           "start": "2026-11-27T00:36:15-06:00",
           "stop": "2026-11-27T02:24:23-06:00",
           "description": "In the post-apocalyptic future, reigning tyrannical supercomputers teleport a cyborg assassin known as the \"Terminator\" back to 1984 to kill Sarah Connor, whose unborn son is destined to lead insurgents against 21st century mechanical hegemony. Meanwhile, the human-resistance movement dispatches a lone warrior to safeguard Sarah. Can he stop the virtually indestructible killing machine?"
+        },
+        {
+          "title": "The Hangover",
+          "start": "2026-11-27T02:24:23-06:00",
+          "stop": "2026-11-27T04:13:11-06:00",
+          "description": "Three buddies wake up from a bachelor party in Las Vegas with no memory of the previous night and the bachelor missing. They must make their way around the city in order to find their friend in time for his wedding."
         }
       ],
       "logo": "logos/3.png"
@@ -123,13 +129,6 @@
       "number": 11,
       "name": "Kidz!",
       "programmes": [
-        {
-          "title": "Swat Kats: The Radical Squadron",
-          "start": "2026-11-26T20:05:05-06:00",
-          "stop": "2026-11-26T20:28:02-06:00",
-          "episode_title": "Enter the Madkat",
-          "description": "Lenny Ringtail, a crazy comedian, escapes his asylum and finds refuge in a magic shop."
-        },
         {
           "title": "Swat Kats: The Radical Squadron",
           "start": "2026-11-26T20:28:02-06:00",
@@ -212,6 +211,12 @@
           "start": "2026-11-26T23:46:52-06:00",
           "stop": "2026-11-27T02:21:19-06:00",
           "description": "Strange phenomena surface around the globe. The skies ignite. Terror races through the world's major cities. As these extraordinary events unfold, it becomes increasingly clear that a force of incredible magnitude has arrived. Its mission: total annihilation over the Fourth of July weekend. The last hope to stop the destruction is an unlikely group of people united by fate and unimaginable circumstances."
+        },
+        {
+          "title": "Speed Racer",
+          "start": "2026-11-27T02:21:19-06:00",
+          "stop": "2026-11-27T04:37:13-06:00",
+          "description": "Speed Racer is a young and brilliant racing driver. When corruption in the racing leagues costs his brother his life, Speed must team up with the police and the mysterious Racer X to bring an end to the corruption and criminal activities."
         }
       ],
       "logo": "logos/28.png"
@@ -221,13 +226,6 @@
       "number": 32,
       "name": "Japanimation",
       "programmes": [
-        {
-          "title": "Full Metal Panic!",
-          "start": "2026-11-26T20:06:59-06:00",
-          "stop": "2026-11-26T20:30:43-06:00",
-          "episode_title": "The Guy I Kinda Like is a Sergeant",
-          "description": "As part of the organization Mithril, Sergeant Souske Sagara, Melissa Mao and Kurz Weber receive a secret mission: guarding Kaname Chidori, a popular student from a Tokyo high school who has hidden military potential."
-        },
         {
           "title": "Full Metal Panic!",
           "start": "2026-11-26T20:30:43-06:00",
@@ -303,6 +301,13 @@
           "start": "2026-11-27T01:39:53-06:00",
           "stop": "2026-11-27T02:27:28-06:00",
           "episode_title": "Episode 1"
+        },
+        {
+          "title": "Yu Yu Hakusho",
+          "start": "2026-11-27T02:27:28-06:00",
+          "stop": "2026-11-27T02:52:06-06:00",
+          "episode_title": "Koenma Appears",
+          "description": "Pulled by the sprightly, pink-robed Botan, Yusuke enters a realm that is not quite normal -- the Spirit World. There, Yusuke meets Koenma, a 700 year-old ruler with the body of a toddler, pacifier and all! But there's no rom for laughs as Koenma gives Yusuke an ordeal to restore his life. Hatching a Spirit Beast!"
         }
       ],
       "logo": "logos/32.png"
@@ -312,12 +317,6 @@
       "number": 33,
       "name": "Anime Cinema",
       "programmes": [
-        {
-          "title": "Attack on Titan: The Roar of Awakening",
-          "start": "2026-11-26T18:21:23-06:00",
-          "stop": "2026-11-26T20:22:53-06:00",
-          "description": "Eren Yeager and others of the 104th Training Corps have just become full members of the Survey Corps. As they ready themselves to face the Titans once again, their preparations are interrupted by the invasion of Wall Rose."
-        },
         {
           "title": "Appleseed Alpha",
           "start": "2026-11-26T20:22:53-06:00",
@@ -350,13 +349,6 @@
       "number": 45,
       "name": "Mobile Suit Network",
       "programmes": [
-        {
-          "title": "Gundam Build Fighters",
-          "start": "2026-11-26T19:56:07-06:00",
-          "stop": "2026-11-26T20:21:13-06:00",
-          "episode_title": "Her Name Is Gyanko",
-          "description": "Having transferred to the Seiho Academy, Sekai discovers that he and Yuuma are in the same class. He challenges Yuuma to a battle but is bluntly rejected. Meanwhile, the school's student council has decided to merge the Gunpla Battle Club with the Plastic Model Club. To survive on its own, the Battle Club must defeat the Plamo Club in battle, and Yuuma is among the latter's players. With the Battle Club facing three-to-two odds, the battle seems like a mere formality, but Fumina's tactics let them put up a good fight. Miyaga loses his temper and deploys the huge mobile armor Agrissa, finally backing Fumina into a corner. But Yuuma, unable to accept that his club president is trying to win by ignoring the previously agreed rules, teams up with Sekai to destroy Miyaga's Agrissa. Thus, with the addition of Yuuma, team Try Fighters is finally formed!"
-        },
         {
           "title": "Mobile Suit Gundam Wing",
           "start": "2026-11-26T20:21:13-06:00",
@@ -447,6 +439,13 @@
           "stop": "2026-11-27T02:20:39-06:00",
           "episode_title": "A New Flag",
           "description": "ZAFT and its allies attack Heaven's Base."
+        },
+        {
+          "title": "Mobile Suit Gundam Seed Destiny",
+          "start": "2026-11-27T02:20:39-06:00",
+          "stop": "2026-11-27T02:45:27-06:00",
+          "episode_title": "Kira of the Skies",
+          "description": "After a trip to the Mendel Colony, Lacus and the Eternal's location is discovered by ZAFT. Just when it looks bleak for the Eternal, Kira comes to the rescue."
         }
       ],
       "logo": "logos/45.png"
@@ -581,13 +580,6 @@
       "programmes": [
         {
           "title": "Mobile Suit Gundam SEED",
-          "start": "2026-11-26T20:04:00-06:00",
-          "stop": "2026-11-26T20:28:46-06:00",
-          "episode_title": "False Peace",
-          "description": "The Orb Union space colony, Heliopolis, is attacked by ZAFT, despite its neutrality since the beginning of the Bloody Valentine War. Kira Yamato accidentally sees the Earth Alliance's new prototype mobile suits, which have been secretly constructed at the Heliopolis Morgenroete factory. He encounters his childhood friend, Athrun Zala, now a ZAFT soldier as one of the attackers."
-        },
-        {
-          "title": "Mobile Suit Gundam SEED",
           "start": "2026-11-26T20:28:46-06:00",
           "stop": "2026-11-26T20:53:32-06:00",
           "episode_title": "Its Name is Gundam",
@@ -700,12 +692,6 @@
       "name": "Fright Night",
       "programmes": [
         {
-          "title": "The Devil's Child",
-          "start": "2026-11-26T19:00:03-06:00",
-          "stop": "2026-11-26T20:29:30-06:00",
-          "description": "Cherry Holly, a vibrant young nurse is hired by the Hallewell family to care for an infirm old man. A path of discovery changes the course of her life, and the lives of everyone around her. Forced to confront her true identity, Cherry makes a decision that will set her upon a collision course with fate, one she won't ever return from."
-        },
-        {
           "title": "Stigmata",
           "start": "2026-11-26T20:29:30-06:00",
           "stop": "2026-11-26T22:12:36-06:00",
@@ -816,13 +802,6 @@
       "number": 65,
       "name": "Stargate Command",
       "programmes": [
-        {
-          "title": "Stargate Universe",
-          "start": "2026-11-26T19:38:30-06:00",
-          "stop": "2026-11-26T20:21:44-06:00",
-          "episode_title": "Hope",
-          "description": "Chloe's body is taken over by another consciousness. Meanwhile, Dr. Volker is stricken with a mysterious illness."
-        },
         {
           "title": "Stargate Atlantis",
           "start": "2026-11-26T20:21:44-06:00",
@@ -956,13 +935,6 @@
       "number": 72,
       "name": "Comedy",
       "programmes": [
-        {
-          "title": "The Office (US)",
-          "start": "2026-11-26T20:03:02-06:00",
-          "stop": "2026-11-26T20:25:30-06:00",
-          "episode_title": "Office Olympics",
-          "description": "While Michael and Dwight are out of the office for the day trying to close a deal on a new condo for Michael, Jim and Pam arrange for the staff to participate in an \"Office Olympics,\" where the workers play strange, invented games (among them, Dunderball, Hate Ball...and Pam Pong) that they usually play while the boss is out. At the end of the day, the festivities cheer up everyone - even the oblivious Michael."
-        },
         {
           "title": "The Office (US)",
           "start": "2026-11-26T20:25:30-06:00",
