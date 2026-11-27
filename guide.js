@@ -1,10 +1,10 @@
 window.GUIDE_DATA = {
-  "generated_at": "2026-11-26T20:31:35.713125-06:00",
+  "generated_at": "2026-11-26T20:46:24.762056-06:00",
   "timezone": "America/Chicago",
   "source": "tunarr-xmltv",
   "window_hours": 6,
-  "window_start": "2026-11-26T20:31:35.713125-06:00",
-  "window_end": "2026-11-27T02:31:35.713125-06:00",
+  "window_start": "2026-11-26T20:46:24.762056-06:00",
+  "window_end": "2026-11-27T02:46:24.762056-06:00",
   "channel_count": 15,
   "programme_count": 128,
   "channels": [
@@ -13,13 +13,6 @@ window.GUIDE_DATA = {
       "number": 2,
       "name": "Syndication",
       "programmes": [
-        {
-          "title": "Star Trek: Deep Space Nine",
-          "start": "2026-11-26T19:46:25-06:00",
-          "stop": "2026-11-26T20:32:48-06:00",
-          "episode_title": "Doctor Bashir, I Presume?",
-          "description": "Stardate: Unknown. Dr. Bashir is selected to be the model for the next-generation of Emergency Medical Hologram (EMH). But he balks when his parents are invited to the station to be interviewed by the EMH programmer, Dr. Zimmerman. There is a dark secret in his family that he's afraid that his parents will reveal."
-        },
         {
           "title": "Star Trek: Deep Space Nine",
           "start": "2026-11-26T20:32:48-06:00",
@@ -82,6 +75,13 @@ window.GUIDE_DATA = {
           "stop": "2026-11-27T02:42:56-06:00",
           "episode_title": "The End",
           "description": "A government assassin is caught trying to kill child chess prodigy Gibson Praise during an international chess tournament. Mulder's old flame Agent Diana Fowley arrives to help on the case but Scully is suspicious of her."
+        },
+        {
+          "title": "Star Trek: Voyager",
+          "start": "2026-11-27T02:42:56-06:00",
+          "stop": "2026-11-27T03:29:46-06:00",
+          "episode_title": "Unforgettable",
+          "description": "An unrecognized alien woman, requesting asylum, states she was aboard Voyager recently where she and Chakotay fell in love. She claims the members of her closed society want to keep themselves concealed from other races and have ways to erase knowledge of them from other species. The woman, once an agent assigned to return fugitives to her homeworld, is now hunted by her former colleagues for revealing her race's secrets."
         }
       ],
       "logo": "logos/2.png"
@@ -446,6 +446,13 @@ window.GUIDE_DATA = {
           "stop": "2026-11-27T02:45:27-06:00",
           "episode_title": "Kira of the Skies",
           "description": "After a trip to the Mendel Colony, Lacus and the Eternal's location is discovered by ZAFT. Just when it looks bleak for the Eternal, Kira comes to the rescue."
+        },
+        {
+          "title": "Mobile Suit Gundam SEED",
+          "start": "2026-11-27T02:45:27-06:00",
+          "stop": "2026-11-27T03:10:13-06:00",
+          "episode_title": "The Nightmare Reborn",
+          "description": "Equipped with Neutron Jammer Cancellers, the Earth Alliance forces launch an all-out attack on the PLANTs. The Boaz military asteroid is destroyed by nuclear weapons with Earth Alliance's next target being the PLANTs. The Freedom and Justice arrive at the battlefield in time to destroy all the nuclear warheads. In retaliation, Patrick Zala orders to fire the GENESIS."
         }
       ],
       "logo": "logos/45.png"
@@ -487,13 +494,6 @@ window.GUIDE_DATA = {
       "number": 47,
       "name": "Universal Century",
       "programmes": [
-        {
-          "title": "Mobile Suit Gundam 0080: War in the Pocket",
-          "start": "2026-11-26T20:05:36-06:00",
-          "stop": "2026-11-26T20:33:43-06:00",
-          "episode_title": "War In the Pocket",
-          "description": "Al and Bernie repair the damaged Zaku to fight the Alex Gundam."
-        },
         {
           "title": "Mobile Suit Gundam",
           "start": "2026-11-26T20:33:43-06:00",
@@ -682,6 +682,13 @@ window.GUIDE_DATA = {
           "stop": "2026-11-27T02:40:14-06:00",
           "episode_title": "Cagalli Returns",
           "description": "Murrue Ramius thanks the resistance group for their help and agrees to be allies. The resistance group introduces themselves as the Desert Dawn who are fighting Andrew and the Lesseps. Kira once again meets with Cagalli Yula Athha, the mysterious young woman he first encountered at Heliopolis' Morgenroete factory, who is now part of Desert Dawn. Meanwhile, Andrew attacks the Desert Dawn's hometown, but evacuates the town first."
+        },
+        {
+          "title": "Mobile Suit Gundam SEED",
+          "start": "2026-11-27T02:40:14-06:00",
+          "stop": "2026-11-27T03:05:01-06:00",
+          "episode_title": "Payback",
+          "description": "Though the Desert Tiger has spared the lives of civilians, Desert Dawn members brashly challenge the ZAFT forces, because of the devastation they caused. The attack ends in failure, but most are saved by Kira in the Strike."
         }
       ],
       "logo": "logos/48.png"
@@ -731,13 +738,6 @@ window.GUIDE_DATA = {
       "number": 64,
       "name": "Sci-Fi",
       "programmes": [
-        {
-          "title": "Eureka",
-          "start": "2026-11-26T19:53:26-06:00",
-          "stop": "2026-11-26T20:37:10-06:00",
-          "episode_title": "Dr. Nobel",
-          "description": "A sleeping weapons system is accidentally awakened by Fargo and Spencer. Henry tries to avert the pending catastrophe with the help of a retired, nonsensical scientist."
-        },
         {
           "title": "Farscape",
           "start": "2026-11-26T20:37:10-06:00",
