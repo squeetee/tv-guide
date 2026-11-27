@@ -1,12 +1,12 @@
 window.GUIDE_DATA = {
-  "generated_at": "2026-11-26T18:31:25.250218-06:00",
+  "generated_at": "2026-11-26T18:46:25.160994-06:00",
   "timezone": "America/Chicago",
   "source": "tunarr-xmltv",
   "window_hours": 6,
-  "window_start": "2026-11-26T18:31:25.250218-06:00",
-  "window_end": "2026-11-27T00:31:25.250218-06:00",
+  "window_start": "2026-11-26T18:46:25.160994-06:00",
+  "window_end": "2026-11-27T00:46:25.160994-06:00",
   "channel_count": 15,
-  "programme_count": 131,
+  "programme_count": 134,
   "channels": [
     {
       "id": "C2.50.tunarr.com",
@@ -114,6 +114,12 @@ window.GUIDE_DATA = {
           "start": "2026-11-26T22:25:53-06:00",
           "stop": "2026-11-27T00:36:15-06:00",
           "description": "Set in the future, the story follows a young soldier named Johnny Rico and his exploits in the Mobile Infantry. Rico's military career progresses from recruit to non-commissioned officer and finally to officer against the backdrop of an interstellar war between mankind and an arachnoid species known as \"the Bugs.\""
+        },
+        {
+          "title": "The Terminator",
+          "start": "2026-11-27T00:36:15-06:00",
+          "stop": "2026-11-27T02:24:23-06:00",
+          "description": "In the post-apocalyptic future, reigning tyrannical supercomputers teleport a cyborg assassin known as the \"Terminator\" back to 1984 to kill Sarah Connor, whose unborn son is destined to lead insurgents against 21st century mechanical hegemony. Meanwhile, the human-resistance movement dispatches a lone warrior to safeguard Sarah. Can he stop the virtually indestructible killing machine?"
         }
       ],
       "logo": "logos/3.png"
@@ -234,13 +240,6 @@ window.GUIDE_DATA = {
       "name": "Japanimation",
       "programmes": [
         {
-          "title": "Dragon Ball GT",
-          "start": "2026-11-26T18:13:17-06:00",
-          "stop": "2026-11-26T18:33:25-06:00",
-          "episode_title": "Goku vs. Ledgic",
-          "description": "While hiding from the authorities, Goku, Pan, and Trunks become moved by the injustices that the Imeckans suffer under the oppressive Don Kee. They decide to confront The Don, and head straight for a showdown at the Royal Palace. It seems like an easy victory until Ledgic appears from the shadows!"
-        },
-        {
           "title": "Psycho-Pass",
           "start": "2026-11-26T18:33:25-06:00",
           "stop": "2026-11-26T19:20:12-06:00",
@@ -334,26 +333,26 @@ window.GUIDE_DATA = {
       "programmes": [
         {
           "title": "Attack on Titan: The Roar of Awakening",
-          "start": "2026-11-26T18:21:53-06:00",
-          "stop": "2026-11-26T20:23:23-06:00",
+          "start": "2026-11-26T18:21:23-06:00",
+          "stop": "2026-11-26T20:22:53-06:00",
           "description": "Eren Yeager and others of the 104th Training Corps have just become full members of the Survey Corps. As they ready themselves to face the Titans once again, their preparations are interrupted by the invasion of Wall Rose."
         },
         {
           "title": "Appleseed Alpha",
-          "start": "2026-11-26T20:23:23-06:00",
-          "stop": "2026-11-26T21:57:38-06:00",
+          "start": "2026-11-26T20:22:53-06:00",
+          "stop": "2026-11-26T21:57:08-06:00",
           "description": "Based on the comic book by the creator of Ghost in the Shell, a young female soldier Deunan and her cyborg partner Briareos survive through the post World War 3 apocalyptic New York in search of human's future hope, the legendary city of Olympus."
         },
         {
           "title": "Scarlet",
-          "start": "2026-11-26T21:57:38-06:00",
-          "stop": "2026-11-26T23:49:50-06:00",
+          "start": "2026-11-26T21:57:08-06:00",
+          "stop": "2026-11-26T23:49:20-06:00",
           "description": "A medieval princess on a quest to avenge her father's death awakens in a realm between life and death, where she encounters an idealistic young man from the present day who shows her the possibility of a future free of bitterness and rage."
         },
         {
           "title": "Neon Genesis Evangelion: Death and Rebirth",
-          "start": "2026-11-26T23:49:50-06:00",
-          "stop": "2026-11-27T01:31:13-06:00",
+          "start": "2026-11-26T23:49:20-06:00",
+          "stop": "2026-11-27T01:30:43-06:00",
           "description": "Originally a collection of clips from the Neon Genesis Evangelion TV series, Death was created as a precursor to the re-worked ending of the series. Rebirth was intended as that re-worked ending, but after production overruns Rebirth became only the first half of the first part of The End of Evangelion, with some minor differences."
         }
       ],
@@ -364,13 +363,6 @@ window.GUIDE_DATA = {
       "number": 45,
       "name": "Mobile Suit Network",
       "programmes": [
-        {
-          "title": "Mobile Suit Gundam AGE",
-          "start": "2026-11-26T18:15:38-06:00",
-          "stop": "2026-11-26T18:40:47-06:00",
-          "episode_title": "Earth is Eden",
-          "description": "The Vagans launch an attack on the Industrial colony of Nortram, planning to seize it and make use of its resources to spearhead their invasion of Earth, but once again the Federation Forces stand in their way, deploying their newest weapon against them. Decil once more disobeys Zehart's orders and leaves by himself seeking to confront Flit, but when he ends up against Asemu and Woolf together instead, tragedy strikes in both sides of the conflict."
-        },
         {
           "title": "Mobile Suit Gundam ZZ",
           "start": "2026-11-26T18:40:47-06:00",
@@ -461,6 +453,13 @@ window.GUIDE_DATA = {
           "stop": "2026-11-27T00:41:27-06:00",
           "episode_title": "Fight, Domon! Earth is the Ring",
           "description": "Domon returns to the Neo Japan space colony. There he undergoes a virtual reality simulation to determine if he is the right choice for Neo Japan's Gundam Fighter."
+        },
+        {
+          "title": "Mobile Fighter G Gundam",
+          "start": "2026-11-27T00:41:27-06:00",
+          "stop": "2026-11-27T01:06:22-06:00",
+          "episode_title": "Prepare to Fight! Desperate Fugitive",
+          "description": "Domon goes to Neo Mexico in order to fight the Gundam Fighter, Chico Rodriguez, but upon arrival he learns that the fighter has run away and is being hunted by the local authorities."
         }
       ],
       "logo": "logos/45.png"
@@ -502,13 +501,6 @@ window.GUIDE_DATA = {
       "number": 47,
       "name": "Universal Century",
       "programmes": [
-        {
-          "title": "Mobile Suit Gundam",
-          "start": "2026-11-26T18:20:20-06:00",
-          "stop": "2026-11-26T18:46:00-06:00",
-          "episode_title": "A Fateful Encounter",
-          "description": "Inside Side Six, Amuro meets a beautiful girl named Lalah Sune and tensions run high when a Zanzibar ship led by Char Aznable docks next to the White Base."
-        },
         {
           "title": "Mobile Suit Gundam 0080: War in the Pocket",
           "start": "2026-11-26T18:46:00-06:00",
@@ -703,6 +695,13 @@ window.GUIDE_DATA = {
           "stop": "2026-11-27T00:36:24-06:00",
           "episode_title": "The Awakening Sword",
           "description": "Le Creuset launches an attack on the Archangel. Kira's desire to protect his friends awakens an unknown almost berserker ability. He single-handedly defeats the attacking GAT-X207 Blitz, GAT-X103 Buster, and GAT-X102 Duel."
+        },
+        {
+          "title": "Mobile Suit Gundam SEED",
+          "start": "2026-11-27T00:36:24-06:00",
+          "stop": "2026-11-27T01:01:10-06:00",
+          "episode_title": "Flay's Decision",
+          "description": "Kira and his friends are given permission to leave the Archangel, but after overcoming the initial shock of her father's death, Flay decides to enlist in the Earth Alliance Forces, prompting Sai Argyle, Kuzzey Buskirk, Miriallia Haw, and Tolle Koenig to do the same. Kira stays on board the as well to continue protecting his friends. The Duel is upgraded with an Assault Shroud."
         }
       ],
       "logo": "logos/48.png"
@@ -742,6 +741,13 @@ window.GUIDE_DATA = {
           "stop": "2026-11-27T00:32:35-06:00",
           "episode_title": "Kill Them, Mommy",
           "description": "Pam refuses to believe her son is dead, even as a massacre at the camp brings state investigators to Crystal Lake. With Grace in danger and a shadow moving through the woods, Pam searches for Jason while buried secrets close in."
+        },
+        {
+          "title": "Crystal Lake",
+          "start": "2026-11-27T00:32:35-06:00",
+          "stop": "2026-11-27T01:25:31-06:00",
+          "episode_title": "Friday…",
+          "description": "Young Pam determined to protect her family, must navigate an experimental pregnancy treatment when doctors offer hope for her unborn son, but a corporate medical program threatens her independence and the future she imagines for her child."
         }
       ],
       "logo": "logos/56.png"
@@ -806,6 +812,13 @@ window.GUIDE_DATA = {
           "stop": "2026-11-27T00:39:10-06:00",
           "episode_title": "Tooth and Claw",
           "description": "Landing in 1879, Scotland, the Tenth Doctor and Rose meet Queen Victoria, travelling with her to spend the night at the Torchwood Estate. However, a group of warrior monks have sinister plans for the monarch, and the full moon is about to summon a creature out of legend."
+        },
+        {
+          "title": "Doctor Who (2005)",
+          "start": "2026-11-27T00:39:10-06:00",
+          "stop": "2026-11-27T01:24:12-06:00",
+          "episode_title": "School Reunion",
+          "description": "There are strange goings-on at a comprehensive school - UFOs, over-intelligent children, and odd-tasting school dinners. This attracts the attention of the Tenth Doctor, Rose and Mickey Smith, as well as a couple of old friends…"
         }
       ],
       "logo": "logos/64.png"
@@ -884,6 +897,13 @@ window.GUIDE_DATA = {
           "stop": "2026-11-27T00:44:34-06:00",
           "episode_title": "Home",
           "description": "McKay's efforts to harness the energy of an alien planet's atmosphere allows for a return trip to Earth -- but the team may not be able to return to Atlantis."
+        },
+        {
+          "title": "Stargate Atlantis",
+          "start": "2026-11-27T00:44:34-06:00",
+          "stop": "2026-11-27T01:27:17-06:00",
+          "episode_title": "The Storm (1)",
+          "description": "When a massive storm threatens the city, Atlantis is evacuated, only to be taken over by the team's newest enemy."
         }
       ],
       "logo": "logos/65.png"
