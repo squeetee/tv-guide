@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-11-26T19:46:29.330767-06:00",
+  "generated_at": "2026-11-26T20:16:24.759059-06:00",
   "timezone": "America/Chicago",
   "source": "tunarr-xmltv",
   "window_hours": 6,
-  "window_start": "2026-11-26T19:46:29.330767-06:00",
-  "window_end": "2026-11-27T01:46:29.330767-06:00",
+  "window_start": "2026-11-26T20:16:24.759059-06:00",
+  "window_end": "2026-11-27T02:16:24.759059-06:00",
   "channel_count": 15,
   "programme_count": 132,
   "channels": [
@@ -75,6 +75,13 @@
           "stop": "2026-11-27T01:55:43-06:00",
           "episode_title": "Folie à Deux",
           "description": "Mulder is held hostage inside an office where a man claims his boss is a monster and has clouded all their minds while he turns them into zombies one by one, which is disbelieved until Mulder opens his mind and allows himself to see it too."
+        },
+        {
+          "title": "The X-Files",
+          "start": "2026-11-27T01:55:43-06:00",
+          "stop": "2026-11-27T02:42:56-06:00",
+          "episode_title": "The End",
+          "description": "A government assassin is caught trying to kill child chess prodigy Gibson Praise during an international chess tournament. Mulder's old flame Agent Diana Fowley arrives to help on the case but Scully is suspicious of her."
         }
       ],
       "logo": "logos/2.png"
@@ -116,12 +123,6 @@
       "number": 11,
       "name": "Kidz!",
       "programmes": [
-        {
-          "title": "Winnie the Pooh: A Very Merry Pooh Year",
-          "start": "2026-11-26T19:03:00-06:00",
-          "stop": "2026-11-26T20:05:05-06:00",
-          "description": "It's Christmastime in the Hundred Acre Wood and all of the gang is getting ready with presents and decorations. The gang makes a list of what they want for Christmas and send it to Santa Claus - except that Pooh forgot to ask for something. So he heads out to retrieve the letter and get it to Santa by Christmas...which happens to be tomorrow!"
-        },
         {
           "title": "Swat Kats: The Radical Squadron",
           "start": "2026-11-26T20:05:05-06:00",
@@ -179,6 +180,12 @@
           "start": "2026-11-27T00:30:23-06:00",
           "stop": "2026-11-27T01:48:37-06:00",
           "description": "A cowboy doll is profoundly jealous when a new spaceman action figure supplants him as the top toy in a boy's bedroom. When circumstances separate them from their owner, the duo have to put aside their differences to return to him."
+        },
+        {
+          "title": "Barbie: A Fashion Fairytale",
+          "start": "2026-11-27T01:48:37-06:00",
+          "stop": "2026-11-27T03:11:38-06:00",
+          "description": "Having lost her acting career and her boyfriend, Barbie escapes her chaotic life in California for Paris where she discovers her Aunt Millicent's fashion emporium is on the brink of closure and with new friend Alice they strive to save it."
         }
       ],
       "logo": "logos/11.png"
@@ -214,13 +221,6 @@
       "number": 32,
       "name": "Japanimation",
       "programmes": [
-        {
-          "title": "Psycho-Pass",
-          "start": "2026-11-26T19:20:12-06:00",
-          "stop": "2026-11-26T20:06:59-06:00",
-          "episode_title": "Return of the Psychotic Prince",
-          "description": "After reading Kogami’s personnel file, Akane attempts to learn more about Kogami’s past and why he ended up as an Enforcer. Meanwhile, the CID detectives attempt to figure out who was helping Kanehara commit murders in the Hachioji Drone incident."
-        },
         {
           "title": "Full Metal Panic!",
           "start": "2026-11-26T20:06:59-06:00",
@@ -352,13 +352,6 @@
       "programmes": [
         {
           "title": "Gundam Build Fighters",
-          "start": "2026-11-26T19:31:01-06:00",
-          "stop": "2026-11-26T19:56:07-06:00",
-          "episode_title": "Team Up, Try Fighters!",
-          "description": "Having transferred to the Seiho Academy, Sekai discovers that he and Yuuma are in the same class. He challenges Yuuma to a battle but is bluntly rejected. Meanwhile, the school's student council has decided to merge the Gunpla Battle Club with the Plastic Model Club. To survive on its own, the Battle Club must defeat the Plamo Club in battle, and Yuuma is among the latter's players. With the Battle Club facing three-to-two odds, the battle seems like a mere formality, but Fumina's tactics let them put up a good fight. Miyaga loses his temper and deploys the huge mobile armor Agrissa, finally backing Fumina into a corner. But Yuuma, unable to accept that his club president is trying to win by ignoring the previously agreed rules, teams up with Sekai to destroy Miyaga's Agrissa. Thus, with the addition of Yuuma, team Try Fighters is finally formed!"
-        },
-        {
-          "title": "Gundam Build Fighters",
           "start": "2026-11-26T19:56:07-06:00",
           "stop": "2026-11-26T20:21:13-06:00",
           "episode_title": "Her Name Is Gyanko",
@@ -447,6 +440,13 @@
           "stop": "2026-11-27T01:55:50-06:00",
           "episode_title": "DIVE",
           "description": "A boy named Rio is enjoying Gunpla Battle in the new Internet service known as the Gundam Metaverse Project. After installing a login set in his room at home, he dives into the Metaverse, together with the Lah Gundam he created with this day in mind."
+        },
+        {
+          "title": "Mobile Suit Gundam Seed Destiny",
+          "start": "2026-11-27T01:55:50-06:00",
+          "stop": "2026-11-27T02:20:39-06:00",
+          "episode_title": "A New Flag",
+          "description": "ZAFT and its allies attack Heaven's Base."
         }
       ],
       "logo": "logos/45.png"
@@ -488,13 +488,6 @@
       "number": 47,
       "name": "Universal Century",
       "programmes": [
-        {
-          "title": "Mobile Suit Gundam",
-          "start": "2026-11-26T19:39:56-06:00",
-          "stop": "2026-11-26T20:05:36-06:00",
-          "episode_title": "Big Zam's Last Stand",
-          "description": "As the battle continues, a hulking mobile armor piloted by Dozle Zabi inflicts heavy losses on the Federation; Amuro and Sleggar come up with a plan to stop its onslaught."
-        },
         {
           "title": "Mobile Suit Gundam 0080: War in the Pocket",
           "start": "2026-11-26T20:05:36-06:00",
@@ -586,12 +579,6 @@
       "number": 48,
       "name": "Cosmic Era",
       "programmes": [
-        {
-          "title": "Mobile Suit Gundam SEED FREEDOM",
-          "start": "2026-11-26T17:57:37-06:00",
-          "stop": "2026-11-26T20:04:00-06:00",
-          "description": "In C.E.75, the fighting still continues. There are independence movements, and aggression by Blue Cosmos... In order to calm the situation, a global peace monitoring agency called COMPASS is established, with Lacus as its first president. As members of COMPASS, Kira and his comrades intervene into various regional battles. Then a newly established nation called Foundation proposes a joint operation against a Blue Cosmos stronghold."
-        },
         {
           "title": "Mobile Suit Gundam SEED",
           "start": "2026-11-26T20:04:00-06:00",
@@ -689,6 +676,20 @@
           "stop": "2026-11-27T01:50:42-06:00",
           "episode_title": "The Respective Solitudes",
           "description": "The Archangel saves Kira as they enter the Earth's atmosphere. As a result, they land in ZAFT-controlled territory in the Sahara in northern Africa, far from their intended target, Alaska. Flay begins to take care of Kira and comforts him when he is tormented by the memories of the spacecraft that was destroyed in the previous battle."
+        },
+        {
+          "title": "Mobile Suit Gundam SEED",
+          "start": "2026-11-27T01:50:42-06:00",
+          "stop": "2026-11-27T02:15:28-06:00",
+          "episode_title": "Burning Clouds of Sand",
+          "description": "The Archangel is attacked by multiple TMF/A-802 BuCUE units. Kira hastily takes off and fights the ZAFT forces, but he is unfamiliar with the desert environment. His ability to adapt amazes ZAFT's commander Andrew Waltfeld. When the Strike is about to run out of power, a resistance group comes to his aid and lures the remaining BuCUE units into an explosive trap."
+        },
+        {
+          "title": "Mobile Suit Gundam SEED",
+          "start": "2026-11-27T02:15:28-06:00",
+          "stop": "2026-11-27T02:40:14-06:00",
+          "episode_title": "Cagalli Returns",
+          "description": "Murrue Ramius thanks the resistance group for their help and agrees to be allies. The resistance group introduces themselves as the Desert Dawn who are fighting Andrew and the Lesseps. Kira once again meets with Cagalli Yula Athha, the mysterious young woman he first encountered at Heliopolis' Morgenroete factory, who is now part of Desert Dawn. Meanwhile, Andrew attacks the Desert Dawn's hometown, but evacuates the town first."
         }
       ],
       "logo": "logos/48.png"
@@ -746,13 +747,6 @@
       "programmes": [
         {
           "title": "Eureka",
-          "start": "2026-11-26T19:08:52-06:00",
-          "stop": "2026-11-26T19:53:26-06:00",
-          "episode_title": "Invincible",
-          "description": "An unpredictable researcher accidentally unleashes a dangerous artifact which was previously hidden by Nathan Stark."
-        },
-        {
-          "title": "Eureka",
           "start": "2026-11-26T19:53:26-06:00",
           "stop": "2026-11-26T20:37:10-06:00",
           "episode_title": "Dr. Nobel",
@@ -806,6 +800,13 @@
           "stop": "2026-11-27T02:07:12-06:00",
           "episode_title": "Silent Enemy",
           "description": "When Enterprise is attacked by an unidentified enemy ship, the crew must work frantically to get their new phase canons to operate. Meanwhile, the captain charges Hoshi with finding out Malcolm's favorite food in time for a surprise birthday dinner."
+        },
+        {
+          "title": "Star Trek: Enterprise",
+          "start": "2026-11-27T02:07:12-06:00",
+          "stop": "2026-11-27T02:50:12-06:00",
+          "episode_title": "Dear Doctor",
+          "description": "The crew discovers a new planet with two races, one in desperate need of medical and scientific assistance. In the course of trying to help, Dr. Phlox recalls his own Denobulan past to address the ethical dilemmas that arise in the present."
         }
       ],
       "logo": "logos/64.png"
@@ -884,6 +885,13 @@
           "stop": "2026-11-27T02:12:23-06:00",
           "episode_title": "There But For the Grace of God",
           "description": "An alien artifact transports Daniel to an alternate reality, where he is not a part of the Stargate program and the Goa'uld -- led by Teal'c -- are invading Earth."
+        },
+        {
+          "title": "Stargate SG-1",
+          "start": "2026-11-27T02:12:23-06:00",
+          "stop": "2026-11-27T02:57:30-06:00",
+          "episode_title": "Politics (1)",
+          "description": "Senator Kinsey arrives at the SGC to investigate the program and determine whether the great drain on the U.S. budget is worthwhile, prompting the team to recall missions from the past year."
         }
       ],
       "logo": "logos/65.png"
@@ -893,13 +901,6 @@
       "number": 66,
       "name": "Starfleet",
       "programmes": [
-        {
-          "title": "Star Trek: Deep Space Nine",
-          "start": "2026-11-26T19:05:41-06:00",
-          "stop": "2026-11-26T19:51:41-06:00",
-          "episode_title": "Image in the Sand",
-          "description": "Having returned to Earth a couple of months ago, Sisko waits for the Prophets to instruct him on what to do next. When he receives one, he begins searching for the woman behind the face in the sand in his vision. Meanwhile, back on DS9, Kira deals with a promotion and handling the decisions surrounding her command, and finding herself wishing for the return of Sisko. And Worf deals with the loss of his wife, Jadzia Dax."
-        },
         {
           "title": "Star Trek: The Next Generation",
           "start": "2026-11-26T19:51:41-06:00",
@@ -940,6 +941,12 @@
           "stop": "2026-11-27T01:59:45-06:00",
           "episode_title": "Afterimage",
           "description": "Sisko tries to convince Ezri to stay in Starfleet and serve aboard DS9, as Ezri tries to get to know Jadzia's friends aboard the station, especially Worf. Meanwhile, Garak tries to deal with a severe bout of claustrophobia."
+        },
+        {
+          "title": "Star Trek IV: The Voyage Home",
+          "start": "2026-11-27T01:59:45-06:00",
+          "stop": "2026-11-27T03:59:30-06:00",
+          "description": "To save Earth from an alien probe, Admiral James T. Kirk and his fugitive crew go back in time to San Francisco in 1986 to retrieve the only beings who can communicate with it: humpback whales."
         }
       ],
       "logo": "logos/66.png"
@@ -949,12 +956,6 @@
       "number": 72,
       "name": "Comedy",
       "programmes": [
-        {
-          "title": "Elf",
-          "start": "2026-11-26T18:25:27-06:00",
-          "stop": "2026-11-26T20:03:02-06:00",
-          "description": "When young Buddy falls into Santa's gift sack on Christmas Eve, he's transported back to the North Pole and raised as a toy-making elf by Santa's helpers. But as he grows into adulthood, he can't shake the nagging feeling that he doesn't belong. Buddy vows to visit Manhattan and find his real dad, a workaholic."
-        },
         {
           "title": "The Office (US)",
           "start": "2026-11-26T20:03:02-06:00",
