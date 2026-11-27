@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-27T00:01:26.465231-06:00",
+  "generated_at": "2026-11-27T00:16:57.163469-06:00",
   "timezone": "America/Chicago",
   "source": "tunarr-xmltv",
   "window_hours": 6,
-  "window_start": "2026-11-27T00:01:26.465231-06:00",
-  "window_end": "2026-11-27T06:01:26.465231-06:00",
+  "window_start": "2026-11-27T00:16:57.163469-06:00",
+  "window_end": "2026-11-27T06:16:57.163469-06:00",
   "channel_count": 15,
-  "programme_count": 122,
+  "programme_count": 121,
   "channels": [
     {
       "id": "C2.50.tunarr.com",
@@ -107,6 +107,12 @@
           "start": "2026-11-27T04:13:11-06:00",
           "stop": "2026-11-27T06:04:06-06:00",
           "description": "Special agent 007 comes face to face with one of the most notorious villains of all time, and now he must outwit and outgun the powerful tycoon to prevent him from cashing in on a devious scheme to raid Fort Knox -- and obliterate the world's economy."
+        },
+        {
+          "title": "Psycho",
+          "start": "2026-11-27T06:04:06-06:00",
+          "stop": "2026-11-27T07:53:51-06:00",
+          "description": "When larcenous real estate clerk Marion Crane goes on the lam with a wad of cash and hopes of starting a new life, she ends up at the notorious Bates Motel, where manager Norman Bates cares for his housebound mother."
         }
       ],
       "logo": "logos/3.png"
@@ -116,13 +122,6 @@
       "number": 11,
       "name": "Kidz!",
       "programmes": [
-        {
-          "title": "Justice League",
-          "start": "2026-11-26T23:42:36-06:00",
-          "stop": "2026-11-27T00:06:48-06:00",
-          "episode_title": "A Better World (2)",
-          "description": "The Justice League must escape from their imprisonment at the hands of the Justice Lords and defeat their counterparts with the help of an unlikely ally."
-        },
         {
           "title": "Justice League",
           "start": "2026-11-27T00:06:48-06:00",
@@ -321,6 +320,12 @@
           "start": "2026-11-27T04:36:20-06:00",
           "stop": "2026-11-27T06:11:41-06:00",
           "description": "One day, Tenchi disappears in the forest near his house. Six months later, Ayeka and Ryoko locate Tenchi living in a city, but with a mysterious woman. What's more, Tenchi appears to have aged several years. Whenever Ayeka and Ryoko catch up to him, he disappears into thin air, apparently existing in a fabricated alternate dimension where he has no knowledge of his past."
+        },
+        {
+          "title": "Code Geass: Akito the Exiled 1: The Wyvern Arrives",
+          "start": "2026-11-27T06:11:41-06:00",
+          "stop": "2026-11-27T07:03:31-06:00",
+          "description": "The story takes place in Europe in the year a.t.b. 2017. A Knightmare unit made of boys and girls from Area Eleven are thrown into a military operation with a 5%chance of survival. They must rescue an allied unit left behind on the European warfront."
         }
       ],
       "logo": "logos/33.png"
@@ -330,13 +335,6 @@
       "number": 45,
       "name": "Mobile Suit Network",
       "programmes": [
-        {
-          "title": "Mobile Suit Victory Gundam",
-          "start": "2026-11-26T23:51:36-06:00",
-          "stop": "2026-11-27T00:16:33-06:00",
-          "episode_title": "Operation: Giant Roller",
-          "description": "Goze escapes from the Reinforce Junior with the crew intentionally letting him go. Goze heads back to the Adrestria with his Zollidia and the V2, with Odelo hiding in the Zollida and Uso in the Gundam."
-        },
         {
           "title": "Mobile Fighter G Gundam",
           "start": "2026-11-27T00:16:33-06:00",
@@ -434,6 +432,12 @@
           "stop": "2026-11-27T06:07:45-06:00",
           "episode_title": "Fly, Gundam!",
           "description": "Amuro feels unwilling to pilot the Gundam anymore, while Garma Zabi is planning to personally lead an attack on White Base."
+        },
+        {
+          "title": "SD Gundam Force",
+          "start": "2026-11-27T06:07:45-06:00",
+          "stop": "2026-11-27T06:32:03-06:00",
+          "episode_title": "Episode 47"
         }
       ],
       "logo": "logos/45.png"
@@ -537,13 +541,6 @@
       "number": 48,
       "name": "Cosmic Era",
       "programmes": [
-        {
-          "title": "Mobile Suit Gundam SEED",
-          "start": "2026-11-26T23:46:52-06:00",
-          "stop": "2026-11-27T00:11:38-06:00",
-          "episode_title": "Separate Ways",
-          "description": "With everything that has happened, Kira becomes depressed. He is comforted by Lacus, who is strolling around the ship without permission. Kira returns Lacus to Athrun against orders, but refuses Athrun's invitation to change sides."
-        },
         {
           "title": "Mobile Suit Gundam SEED",
           "start": "2026-11-27T00:11:38-06:00",
@@ -768,13 +765,6 @@
       "number": 65,
       "name": "Stargate Command",
       "programmes": [
-        {
-          "title": "Stargate Infinity",
-          "start": "2026-11-26T23:39:34-06:00",
-          "stop": "2026-11-27T00:01:45-06:00",
-          "episode_title": "The Look",
-          "description": "The team arrive on a resort-type planet where the locals are obsessed with fashion accessories to the point of endangering themselves. They befriend Rikell and the women and Harrison help her to gather some ferns to make a fashion statement and run afoul of the local wildlife, while a mercenary attacks the team up above and grabs Draga. The others get clear with Harrison's scientific knowledge and catch up to rescue Draga. The team gets enough of the ferns from the merchant that helped out the mercenary to let Rikell make an outfit but she realizes she doesn't need a fancy outfit."
-        },
         {
           "title": "Stargate Atlantis",
           "start": "2026-11-27T00:01:45-06:00",
