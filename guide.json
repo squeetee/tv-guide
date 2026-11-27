@@ -1,25 +1,18 @@
 {
-  "generated_at": "2026-11-26T22:46:24.789892-06:00",
+  "generated_at": "2026-11-26T23:01:24.750427-06:00",
   "timezone": "America/Chicago",
   "source": "tunarr-xmltv",
   "window_hours": 6,
-  "window_start": "2026-11-26T22:46:24.789892-06:00",
-  "window_end": "2026-11-27T04:46:24.789892-06:00",
+  "window_start": "2026-11-26T23:01:24.750427-06:00",
+  "window_end": "2026-11-27T05:01:24.750427-06:00",
   "channel_count": 15,
-  "programme_count": 127,
+  "programme_count": 126,
   "channels": [
     {
       "id": "C2.50.tunarr.com",
       "number": 2,
       "name": "Syndication",
       "programmes": [
-        {
-          "title": "Yellowstone (2018)",
-          "start": "2026-11-26T22:03:31-06:00",
-          "stop": "2026-11-26T22:53:35-06:00",
-          "episode_title": "Blood the Boy",
-          "description": "When a ruthless reporter threatens to dismantle his family's legacy, an unravelling son commits an unpardonable atrocity to bury the truth, while a young cowboy risks his broken body in the rodeo chute for a sliver of redemption."
-        },
         {
           "title": "Yellowstone (2018)",
           "start": "2026-11-26T22:53:35-06:00",
@@ -75,6 +68,13 @@
           "stop": "2026-11-27T05:00:18-06:00",
           "episode_title": "The Quality of Life",
           "description": "When Geordi is assigned to survey a new mining development with Dr. Farallon, who invented an experimental mining technology, she uses a new sophisticated robot called an Exocomp to repair a power grid."
+        },
+        {
+          "title": "Star Trek: The Next Generation",
+          "start": "2026-11-27T05:00:18-06:00",
+          "stop": "2026-11-27T05:43:43-06:00",
+          "episode_title": "Chain of Command (1)",
+          "description": "Picard is replaced as captain of the Enterprise so he, Lt. Worf and Dr. Crusher go on a top-secret mission into Cardassian space. Meanwhile, his replacement, Captain Jellico, meets his new command with some resistance from the crew."
         }
       ],
       "logo": "logos/2.png"
@@ -440,6 +440,13 @@
           "stop": "2026-11-27T04:51:15-06:00",
           "episode_title": "Pure Distortion",
           "description": "Tieria is shocked at the sudden appearance of his lookalike Regene Regetta. He is further disturbed by Regene's revelations about the Innovators."
+        },
+        {
+          "title": "Mobile Suit Gundam 00",
+          "start": "2026-11-27T04:51:15-06:00",
+          "stop": "2026-11-27T05:16:25-06:00",
+          "episode_title": "Indelible Past",
+          "description": "Setsuna and Tieria are confronted by Ali al-Saachez and his new Arche Gundam. A furious Tieria tries to avenge Lockon, but is overwhelmed by the enemy's fighting strength."
         }
       ],
       "logo": "logos/45.png"
@@ -557,13 +564,6 @@
       "number": 48,
       "name": "Cosmic Era",
       "programmes": [
-        {
-          "title": "Mobile Suit Gundam SEED",
-          "start": "2026-11-26T22:32:33-06:00",
-          "stop": "2026-11-26T22:57:20-06:00",
-          "episode_title": "The Scar of Space",
-          "description": "The Archangel forages for water in the Debris Belt. They are shocked to find themselves in the ruins of Junius Seven, so the crew decides to hold a memorial. As they are excavating ice found around the ruin, a ZAFT mobile suit attacks, but Kira dispatches him. Kira finds a floating lifepod and takes it aboard."
-        },
         {
           "title": "Mobile Suit Gundam SEED",
           "start": "2026-11-26T22:57:20-06:00",
@@ -872,13 +872,6 @@
       "number": 66,
       "name": "Starfleet",
       "programmes": [
-        {
-          "title": "Star Trek: The Next Generation",
-          "start": "2026-11-26T21:23:00-06:00",
-          "stop": "2026-11-26T22:54:03-06:00",
-          "episode_title": "Encounter at Farpoint",
-          "description": "Stardate: 41153.7. The new commander of the recently built U.S.S. Enterprise (NCC1701-D), Captain Jean-Luc Picard takes the crew on their first mission to discover the secret of Farpoint Station. During their journey, they encounter an omnipotent being known as Q. Q accuses humanity of barbarism, and places humanity on trial. Jean-Luc must prove otherwise or the human race will be annihilated."
-        },
         {
           "title": "Star Trek: Voyager",
           "start": "2026-11-26T22:54:03-06:00",
