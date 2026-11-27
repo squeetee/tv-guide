@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-26T21:46:24.740632-06:00",
+  "generated_at": "2026-11-26T22:01:24.736961-06:00",
   "timezone": "America/Chicago",
   "source": "tunarr-xmltv",
   "window_hours": 6,
-  "window_start": "2026-11-26T21:46:24.740632-06:00",
-  "window_end": "2026-11-27T03:46:24.740632-06:00",
+  "window_start": "2026-11-26T22:01:24.736961-06:00",
+  "window_end": "2026-11-27T04:01:24.736961-06:00",
   "channel_count": 15,
-  "programme_count": 127,
+  "programme_count": 129,
   "channels": [
     {
       "id": "C2.50.tunarr.com",
@@ -167,6 +167,12 @@
           "stop": "2026-11-27T03:59:33-06:00",
           "episode_title": "Dooku Captured",
           "description": "During their own attempt to kidnap Count Dooku, Anakin and Obi-Wan discover that the Sith Lord has already been captured by pirates. Hondo Ohnaka and his gang of pirates hold Dooku captive in their den on Florrum, and hold him for ransom. It's up to Anakin and Obi-Wan to see if the offer is too good to be true."
+        },
+        {
+          "title": "Barbie & Her Sisters in a Puppy Chase",
+          "start": "2026-11-27T03:59:33-06:00",
+          "stop": "2026-11-27T05:15:45-06:00",
+          "description": "Barbie and her sisters along with their adorable puppies travel to sunny Hawaii for a dance contest; however, when the furry friends go missing, a suspenseful chase begins. Can they find them in time before Chelsea's big dance competition?"
         }
       ],
       "logo": "logos/11.png"
@@ -176,12 +182,6 @@
       "number": 28,
       "name": "Adrenaline",
       "programmes": [
-        {
-          "title": "It's a Mad, Mad, Mad, Mad World",
-          "start": "2026-11-26T19:09:28-06:00",
-          "stop": "2026-11-26T21:53:49-06:00",
-          "description": "Several different motorists witness a single car crash in the California desert and, after the driver's dying words indicate the location of a hidden stash of loot, turn against each other in a mad dash across the state to get to it."
-        },
         {
           "title": "Thor: The Dark World",
           "start": "2026-11-26T21:53:49-06:00",
@@ -282,6 +282,13 @@
           "start": "2026-11-27T03:16:46-06:00",
           "stop": "2026-11-27T03:57:02-06:00",
           "description": "Sasami has been chosen by candidate queen Tsunami as champion of justice \"Magical Girl Pretty Sammy\" with Ryo-Ohki as her guide. Meanwhile Tsunami's jealous sister Ramia has her brother Rumiya turn Sasami's best friend Misao into the chaotic \"Pixy Misa\". Pixy's first attack is to intensify a love triangle between Ryoko and Ayeka for Tenchi's affection by turning the two quarrelling girls into love-love monsters. With Tenchi's help, Pretty Sammy is able to dispel the love-love curse from the girls."
+        },
+        {
+          "title": "Magical Girl Pretty Sammy",
+          "start": "2026-11-27T03:57:02-06:00",
+          "stop": "2026-11-27T04:46:12-06:00",
+          "episode_title": "Revenge of the Imperial Electronic Brain",
+          "description": "Biff Standard the greedy US entrepreneur of SynchroniCity is plotting to incorporate his business into Japan aided by Ramia. Pixy spreads the SynchroniCity program into computers all over Sasami's home town. The Standardisation power attracts the moon towards Earth. With Miss Washu's programming, Pretty Sammy is able to put Biff's software off line, cure Biff of his mania and save the Earth from colliding with the moon."
         }
       ],
       "logo": "logos/32.png"
@@ -291,12 +298,6 @@
       "number": 33,
       "name": "Anime Cinema",
       "programmes": [
-        {
-          "title": "Appleseed Alpha",
-          "start": "2026-11-26T20:22:53-06:00",
-          "stop": "2026-11-26T21:57:08-06:00",
-          "description": "Based on the comic book by the creator of Ghost in the Shell, a young female soldier Deunan and her cyborg partner Briareos survive through the post World War 3 apocalyptic New York in search of human's future hope, the legendary city of Olympus."
-        },
         {
           "title": "Scarlet",
           "start": "2026-11-26T21:57:08-06:00",
@@ -433,6 +434,13 @@
           "stop": "2026-11-27T04:00:26-06:00",
           "episode_title": "Seltsam's Deadline",
           "description": "Muran has entrusted Hiroto, Kazami, and May with the task of rescuing Masaki Shido, and they begin searching for the Seltsam. However, their radar instead detects a huge force of dozens of enemy machines. Meanwhile, in the ruins of Milaag, Parviz and Freddie continue working to repair Cuadorn's injured wings."
+        },
+        {
+          "title": "Gundam Build Divers Re:Rise",
+          "start": "2026-11-27T04:00:26-06:00",
+          "stop": "2026-11-27T04:26:05-06:00",
+          "episode_title": "Moment of Choice",
+          "description": "Thanks to the efforts of Hiroto and the Build Divers, Masaki Shido has been successfully rescued. Hiroto, Kazami, Parviz, and May gather at The Gundam Base to pay a visit to the awakened Masaki. Suddenly, they hear the roar of a motorcycle engine. The rider is someone they never expected."
         }
       ],
       "logo": "logos/45.png"
@@ -474,13 +482,6 @@
       "number": 47,
       "name": "Universal Century",
       "programmes": [
-        {
-          "title": "Mobile Suit Gundam MS IGLOO",
-          "start": "2026-11-26T21:25:03-06:00",
-          "stop": "2026-11-26T21:56:05-06:00",
-          "episode_title": "Go Beyond The Light Beam Peaks",
-          "description": "(U.C. 0079.12.28 - 0079.12.30) Situation for Zeon is getting desperate after the Federation successfully sieges the space fortress Solomon. Upon arriving at A Baoa Qu, Jotunheim is visited by Col. Herbert von Kuspen, a uptight high-rank commander from an elite battalion, who immediately try to assume command of the ship but meets resistance from both Monique and Prochnow. The ship is then reinforced with \"Principality's elite soldiers\" — turns out to be a group of young cadets forcefully mobilized from the homeland. To Monique's shock, the most enthusiastic soldier out of the inexperienced recruits is nobody other than her own younger brother Erwin. The Jotunheim is then dispatched to lunar space and ordered to test and perfect the Oggo mobile pods. At Granada airspace they run into a small Federation forces, and Erwin leads a squad of three Oggos to engage in combat."
-        },
         {
           "title": "Mobile Suit Gundam",
           "start": "2026-11-26T21:56:05-06:00",
@@ -556,6 +557,12 @@
           "stop": "2026-11-27T03:53:32-06:00",
           "episode_title": "RB-79 Ball",
           "description": "Universal Century: A Baoa Qu, the grounds of the final battle of the One Year War. As the scars of war remain fresh in the battlefield, novice Federation pilot Hiden surveys the area in a RB-79 Ball."
+        },
+        {
+          "title": "Mobile Suit Gundam Thunderbolt: Bandit Flower",
+          "start": "2026-11-27T03:53:32-06:00",
+          "stop": "2026-11-27T05:24:18-06:00",
+          "description": "Eight months after the One Year War, the Earth Federation attempts to secure and destroy the Psycho Zaku from the hands of a cult called South Seas Alliance."
         }
       ],
       "logo": "logos/47.png"
@@ -669,6 +676,13 @@
           "stop": "2026-11-27T03:54:33-06:00",
           "episode_title": "On a Calm Day",
           "description": "Athrun and Nicol are given the day off; Athrun spends the day with Lacus and they talk about Kira. The PLANT Supreme Council debates on whether the attack codenamed \"Operation Spitbreak\" should be executed"
+        },
+        {
+          "title": "Mobile Suit Gundam SEED",
+          "start": "2026-11-27T03:54:33-06:00",
+          "stop": "2026-11-27T04:19:19-06:00",
+          "episode_title": "Beyond the Clouds of Sand",
+          "description": "A battle between the Lesseps and the Desert Dawn commences. Kira and the Desert Tiger fight a battle where they realize the pain of having an enemy who is not an abstraction. With the Strike's power almost depleted, Kira has no choice but to destroy Andrew's TMF/A-803 LaGOWE or die himself."
         }
       ],
       "logo": "logos/48.png"
@@ -796,13 +810,6 @@
       "name": "Stargate Command",
       "programmes": [
         {
-          "title": "Stargate Atlantis",
-          "start": "2026-11-26T21:04:34-06:00",
-          "stop": "2026-11-26T21:47:10-06:00",
-          "episode_title": "Underground",
-          "description": "Efforts to open trade relations with a species called the Genii turn sour when the team discovers their new \"allies\" have ulterior motives."
-        },
-        {
           "title": "Stargate SG-1",
           "start": "2026-11-26T21:47:10-06:00",
           "stop": "2026-11-26T22:32:16-06:00",
@@ -920,6 +927,13 @@
           "start": "2026-11-27T01:59:45-06:00",
           "stop": "2026-11-27T03:59:30-06:00",
           "description": "To save Earth from an alien probe, Admiral James T. Kirk and his fugitive crew go back in time to San Francisco in 1986 to retrieve the only beings who can communicate with it: humpback whales."
+        },
+        {
+          "title": "Star Trek: Voyager",
+          "start": "2026-11-27T03:59:30-06:00",
+          "stop": "2026-11-27T04:46:22-06:00",
+          "episode_title": "Basics (2)",
+          "description": "Stardate: 50023.4. Voyager is captured by the Kazon and the crew are dumped on a planet in its early stages of evolution. As only Tom Paris and Lon Suder have evaded capture, it's up to them and the EMH to come up with a plan to retake the ship."
         }
       ],
       "logo": "logos/66.png"
@@ -929,12 +943,6 @@
       "number": 72,
       "name": "Comedy",
       "programmes": [
-        {
-          "title": "Mickey's Twice Upon a Christmas",
-          "start": "2026-11-26T20:47:55-06:00",
-          "stop": "2026-11-26T21:46:27-06:00",
-          "description": "Mickey and all his Disney pals star in an original movie about the importance of opening your heart to the true spirit of Christmas. Stubborn old Donald tries in vain to resist the joys of the season, and Mickey and Pluto learn a great lesson about the power of friendship."
-        },
         {
           "title": "Dirk Gently's Holistic Detective Agency",
           "start": "2026-11-26T21:46:27-06:00",
@@ -982,6 +990,12 @@
           "stop": "2026-11-27T03:54:38-06:00",
           "episode_title": "Many Happy Returns",
           "description": "The citizens of Eureka attend the funeral of Susan Perkins, only to find out that she is in fact alive. Meanwhile the Sheriff moves into an underground bunker that is actually a 'smart house' controlled by a computer dubbed 'S.A.R.A.H., and begins to investigate a 'ghost' that has been appearing in town."
+        },
+        {
+          "title": "Mulan II",
+          "start": "2026-11-27T03:54:38-06:00",
+          "stop": "2026-11-27T05:11:01-06:00",
+          "description": "Fa Mulan gets the surprise of her young life when her love, Captain Li Shang asks for her hand in marriage. Before the two can have their happily ever after, the Emperor assigns them a secret mission, to escort three princesses to Chang'an, China. Mushu is determined to drive a wedge between the couple after he learns that he will lose his guardian job if Mulan marries into the Li family."
         }
       ],
       "logo": "logos/72.png"
