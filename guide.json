@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-11-26T23:01:24.750427-06:00",
+  "generated_at": "2026-11-26T23:16:24.781139-06:00",
   "timezone": "America/Chicago",
   "source": "tunarr-xmltv",
   "window_hours": 6,
-  "window_start": "2026-11-26T23:01:24.750427-06:00",
-  "window_end": "2026-11-27T05:01:24.750427-06:00",
+  "window_start": "2026-11-26T23:16:24.781139-06:00",
+  "window_end": "2026-11-27T05:16:24.781139-06:00",
   "channel_count": 15,
   "programme_count": 126,
   "channels": [
@@ -167,6 +167,12 @@
           "start": "2026-11-27T03:59:33-06:00",
           "stop": "2026-11-27T05:15:45-06:00",
           "description": "Barbie and her sisters along with their adorable puppies travel to sunny Hawaii for a dance contest; however, when the furry friends go missing, a suspenseful chase begins. Can they find them in time before Chelsea's big dance competition?"
+        },
+        {
+          "title": "Barbie and the Magic of Pegasus",
+          "start": "2026-11-27T05:15:45-06:00",
+          "stop": "2026-11-27T06:41:20-06:00",
+          "description": "An unfortunate incident with a powerful warlock sends the teenage Princess Annika on a mission to the magnificent Cloud Kingdom with her new friend: the wonderful flying-horse, Brietta. Will she break the wizard's spell to save her family?"
         }
       ],
       "logo": "logos/11.png"
@@ -208,13 +214,6 @@
       "number": 32,
       "name": "Japanimation",
       "programmes": [
-        {
-          "title": "Crest of the Stars",
-          "start": "2026-11-26T22:39:23-06:00",
-          "stop": "2026-11-26T23:05:23-06:00",
-          "episode_title": "Invasion",
-          "description": "Jinto recalls that day when the alien race, the Abh, invaded his home planet. Now a teen, he must go to Military School where he will finally meet an Abh."
-        },
         {
           "title": "Shuffle!",
           "start": "2026-11-26T23:05:23-06:00",
@@ -289,6 +288,13 @@
           "stop": "2026-11-27T05:10:46-06:00",
           "episode_title": "Together",
           "description": "Casca is still unconscious, so Guts shelters them in a cave while the rain pours down. She comes to and tells Guts about her past and about Griffith's."
+        },
+        {
+          "title": "Berserk",
+          "start": "2026-11-27T05:10:46-06:00",
+          "stop": "2026-11-27T05:35:19-06:00",
+          "episode_title": "Prepared for Death",
+          "description": "Guts and Casca try to fight their way back to the Hawks while the enemy army they were fighting from before try to stop them."
         }
       ],
       "logo": "logos/32.png"
@@ -336,13 +342,6 @@
       "number": 45,
       "name": "Mobile Suit Network",
       "programmes": [
-        {
-          "title": "Mobile Suit Gundam Wing",
-          "start": "2026-11-26T22:36:52-06:00",
-          "stop": "2026-11-26T23:01:46-06:00",
-          "episode_title": "The Gundam Deathscythe",
-          "description": "Heero plans to destroy the Wing Gundam before it is discovered by the Alliance forces. Heero gets his hands on two torpedoes and attempts to destroy his Gundam. Relena, refusing to believe Heero's threat, tries to confront him but is interrupted by the arrival of Duo Maxwell..."
-        },
         {
           "title": "Mobile Suit Gundam Wing",
           "start": "2026-11-26T23:01:46-06:00",
@@ -457,12 +456,6 @@
       "name": "Gundam Theater",
       "programmes": [
         {
-          "title": "Mobile Suit Gundam SEED FREEDOM",
-          "start": "2026-11-26T21:02:20-06:00",
-          "stop": "2026-11-26T23:08:43-06:00",
-          "description": "In C.E.75, the fighting still continues. There are independence movements, and aggression by Blue Cosmos... In order to calm the situation, a global peace monitoring agency called COMPASS is established, with Lacus as its first president. As members of COMPASS, Kira and his comrades intervene into various regional battles. Then a newly established nation called Foundation proposes a joint operation against a Blue Cosmos stronghold."
-        },
-        {
           "title": "Mobile Suit Gundam III: Encounters in Space",
           "start": "2026-11-26T23:08:43-06:00",
           "stop": "2026-11-27T01:30:10-06:00",
@@ -488,13 +481,6 @@
       "number": 47,
       "name": "Universal Century",
       "programmes": [
-        {
-          "title": "Mobile Suit Gundam",
-          "start": "2026-11-26T22:37:25-06:00",
-          "stop": "2026-11-26T23:03:05-06:00",
-          "episode_title": "Lalah's Dilemma",
-          "description": "The Gundam is upgraded and Lalah's Elmeth enters combat for the first time; Amuro and Lalah cross paths again but this time as enemies."
-        },
         {
           "title": "Mobile Suit Gundam",
           "start": "2026-11-26T23:03:05-06:00",
@@ -668,6 +654,13 @@
           "stop": "2026-11-27T05:08:51-06:00",
           "episode_title": "Fateful Encounter",
           "description": "A battle with ZAFT submarine forces led by Commander Marco Morassim prevents Kira from fighting alongside Mu and Cagalli in their FX-550 Skygraspers. Cagalli's Skygrasper sustains damage and is forced to turn back, but she encounters Athrun's transport plane; her Skygrasper is shot down, but not before shooting down his transport plane, forcing Athrun in his Aegis to eject from the transport plane. By chance, they are both stranded on the same deserted island."
+        },
+        {
+          "title": "Mobile Suit Gundam SEED",
+          "start": "2026-11-27T05:08:51-06:00",
+          "stop": "2026-11-27T05:33:37-06:00",
+          "episode_title": "War for Two",
+          "description": "Cagalli is surprised to find Athrun on the same deserted island. She attacks him, but she is overpowered and captured. When everything settles down, the two discuss the war and the reason why they are fighting. At sunrise, they are rescued by their respective comrades."
         }
       ],
       "logo": "logos/48.png"
@@ -725,13 +718,6 @@
       "programmes": [
         {
           "title": "Star Trek",
-          "start": "2026-11-26T22:10:59-06:00",
-          "stop": "2026-11-26T23:02:21-06:00",
-          "episode_title": "The City on the Edge of Forever",
-          "description": "Kirk and Spock must travel into the past in order to correct a change that will alter history."
-        },
-        {
-          "title": "Star Trek",
           "start": "2026-11-26T23:02:21-06:00",
           "stop": "2026-11-26T23:53:45-06:00",
           "episode_title": "Operation: Annihilate!",
@@ -785,6 +771,13 @@
           "stop": "2026-11-27T05:09:50-06:00",
           "episode_title": "Once Upon a Time",
           "description": "Stardate: Unknown. While Voyager searches for the crew of the crashed Delta Flyer carrying Tuvok, Paris and Ensign Wildman, Neelix must keep Naomi occupied. When it is discovered that Samantha is badly injured, he must decide how much he should tell her daughter."
+        },
+        {
+          "title": "Star Trek: Voyager",
+          "start": "2026-11-27T05:09:50-06:00",
+          "stop": "2026-11-27T05:56:44-06:00",
+          "episode_title": "Timeless",
+          "description": "A miscalculation by Ensign Kim causes a fatal crash during Voyager's first test with slipstream travel. Fifteen years in the future, survivors Chakotay, Kim and The Doctor attempt to send a message back in time to prevent the tragedy."
         }
       ],
       "logo": "logos/64.png"
@@ -863,6 +856,13 @@
           "stop": "2026-11-27T05:09:23-06:00",
           "episode_title": "Within the Serpent's Grasp (2)",
           "description": "SG-1 escapes through the Stargate before it is shut down, and learns that Daniel's alternate reality vision is true: Apophis is moving to attack Earth from above. The team must stop Apophis and his son, Klorel, who inhabits the body of their friend Skaara."
+        },
+        {
+          "title": "Stargate SG-1",
+          "start": "2026-11-27T05:09:23-06:00",
+          "stop": "2026-11-27T05:52:43-06:00",
+          "episode_title": "The Serpent's Lair (3)",
+          "description": "With SG-1 trapped on Klorel's ship, it seems that Earth is doomed as the Pyramid Ships prepare to destroy Earth."
         }
       ],
       "logo": "logos/65.png"
@@ -929,13 +929,6 @@
       "name": "Comedy",
       "programmes": [
         {
-          "title": "Dirk Gently's Holistic Detective Agency",
-          "start": "2026-11-26T22:29:08-06:00",
-          "stop": "2026-11-26T23:11:49-06:00",
-          "episode_title": "Watkin",
-          "description": "Dirk and Todd find themselves in a complicated and dangerous situation left behind by Patrick Spring. As the police begin putting together the pieces of their imponderable case, an FBI agent's unlikely return complicates matters for Amanda and Farah."
-        },
-        {
           "title": "The Office (US)",
           "start": "2026-11-26T23:11:49-06:00",
           "stop": "2026-11-26T23:34:43-06:00",
@@ -974,6 +967,13 @@
           "start": "2026-11-27T03:54:38-06:00",
           "stop": "2026-11-27T05:11:01-06:00",
           "description": "Fa Mulan gets the surprise of her young life when her love, Captain Li Shang asks for her hand in marriage. Before the two can have their happily ever after, the Emperor assigns them a secret mission, to escort three princesses to Chang'an, China. Mushu is determined to drive a wedge between the couple after he learns that he will lose his guardian job if Mulan marries into the Li family."
+        },
+        {
+          "title": "The Office (US)",
+          "start": "2026-11-27T05:11:01-06:00",
+          "stop": "2026-11-27T05:33:33-06:00",
+          "episode_title": "The Client",
+          "description": "At a Chili's dinner with a potential client, Michael's antics, Jan's professionalism, and an impromptu \"Baby Back Ribs\" duet unexpectedly close the deal, while Dwight and Kevin read Jim's top-secret document."
         }
       ],
       "logo": "logos/72.png"
