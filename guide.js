@@ -1,10 +1,10 @@
 window.GUIDE_DATA = {
-  "generated_at": "2026-11-26T18:01:25.042097-06:00",
+  "generated_at": "2026-11-26T18:16:24.990060-06:00",
   "timezone": "America/Chicago",
   "source": "tunarr-xmltv",
   "window_hours": 6,
-  "window_start": "2026-11-26T18:01:25.042097-06:00",
-  "window_end": "2026-11-27T00:01:25.042097-06:00",
+  "window_start": "2026-11-26T18:16:24.990060-06:00",
+  "window_end": "2026-11-27T00:16:24.990060-06:00",
   "channel_count": 15,
   "programme_count": 131,
   "channels": [
@@ -179,6 +179,13 @@ window.GUIDE_DATA = {
           "stop": "2026-11-27T00:06:48-06:00",
           "episode_title": "A Better World (2)",
           "description": "The Justice League must escape from their imprisonment at the hands of the Justice Lords and defeat their counterparts with the help of an unlikely ally."
+        },
+        {
+          "title": "Justice League",
+          "start": "2026-11-27T00:06:48-06:00",
+          "stop": "2026-11-27T00:30:23-06:00",
+          "episode_title": "Eclipsed (1)",
+          "description": "A strange gemstone possesses all who touch it, turning them to evil...including Wonder Woman."
         }
       ],
       "logo": "logos/11.png"
@@ -220,13 +227,6 @@ window.GUIDE_DATA = {
       "number": 32,
       "name": "Japanimation",
       "programmes": [
-        {
-          "title": "Dragon Ball GT",
-          "start": "2026-11-26T17:53:04-06:00",
-          "stop": "2026-11-26T18:13:17-06:00",
-          "episode_title": "The Most Wanted List",
-          "description": "After finding themselves as public enemy number one on the merchant planet, Imecka, Goku, Pan, and Trunks attempt a daring rescue mission to salvage their ship. Without it they may be stuck on the planet forever! Casting all fear aside, the Saiyans try a direct approach...and find Don Kee's army locked and loaded!"
-        },
         {
           "title": "Dragon Ball GT",
           "start": "2026-11-26T18:13:17-06:00",
@@ -359,13 +359,6 @@ window.GUIDE_DATA = {
       "programmes": [
         {
           "title": "Mobile Suit Gundam AGE",
-          "start": "2026-11-26T17:50:29-06:00",
-          "stop": "2026-11-26T18:15:38-06:00",
-          "episode_title": "The Dreaded Mucell",
-          "description": "Flit recovers a Vagan intact cockpit from their previous battle and Dique's team finds that its pilot was using a special helmet to artificially stimulate his X-Rounder abilities. Against orders, Asemu steals the helmet believing it would give him the chance to get on par with Zeheart's skills, but the side effects of wearing it in combat puts his life in danger."
-        },
-        {
-          "title": "Mobile Suit Gundam AGE",
           "start": "2026-11-26T18:15:38-06:00",
           "stop": "2026-11-26T18:40:47-06:00",
           "episode_title": "Earth is Eden",
@@ -463,12 +456,6 @@ window.GUIDE_DATA = {
       "number": 46,
       "name": "Gundam Theater",
       "programmes": [
-        {
-          "title": "Mobile Suit Gundam I",
-          "start": "2026-11-26T15:49:05-06:00",
-          "stop": "2026-11-26T18:09:38-06:00",
-          "description": "In the year Universal Century 0079, humans have colonized the area of space lying in between the Earth and the moon. However, the ambitious Zabi family, rulers of the Duchy of Zeon, the grouping of colonies furthest from the earth, has sparked a war."
-        },
         {
           "title": "Mobile Suit Gundam Thunderbolt: Bandit Flower",
           "start": "2026-11-26T18:09:38-06:00",
@@ -605,6 +592,13 @@ window.GUIDE_DATA = {
           "stop": "2026-11-27T00:01:26-06:00",
           "episode_title": "Space Fortress: A Baoa Qu",
           "description": "Federation forces, including White Base, proceed to invade the Fortress of A Baoa Qu despite losing half of their combined fleet caused by Zeon's Solar Ray; Amuro and Char -now piloting the Zeong- engage in battle again."
+        },
+        {
+          "title": "Mobile Suit Gundam",
+          "start": "2026-11-27T00:01:26-06:00",
+          "stop": "2026-11-27T00:26:36-06:00",
+          "episode_title": "Escape",
+          "description": "The Battle of A Baoa Qu reaches a critical point; White Base is deep within enemy territory, Amuro and Char's relentless duel continues, and Kycilia Zabi struggles in command."
         }
       ],
       "logo": "logos/47.png"
@@ -689,6 +683,13 @@ window.GUIDE_DATA = {
           "stop": "2026-11-27T00:11:38-06:00",
           "episode_title": "Separate Ways",
           "description": "With everything that has happened, Kira becomes depressed. He is comforted by Lacus, who is strolling around the ship without permission. Kira returns Lacus to Athrun against orders, but refuses Athrun's invitation to change sides."
+        },
+        {
+          "title": "Mobile Suit Gundam SEED",
+          "start": "2026-11-27T00:11:38-06:00",
+          "stop": "2026-11-27T00:36:24-06:00",
+          "episode_title": "The Awakening Sword",
+          "description": "Le Creuset launches an attack on the Archangel. Kira's desire to protect his friends awakens an unknown almost berserker ability. He single-handedly defeats the attacking GAT-X207 Blitz, GAT-X103 Buster, and GAT-X102 Duel."
         }
       ],
       "logo": "logos/48.png"
@@ -810,13 +811,6 @@ window.GUIDE_DATA = {
       "programmes": [
         {
           "title": "Stargate Atlantis",
-          "start": "2026-11-26T17:29:38-06:00",
-          "stop": "2026-11-26T18:12:27-06:00",
-          "episode_title": "Suspicion",
-          "description": "After a series of run-ins with the Wraith, the team begins to suspect their Athosian allies of having a spy in their midst."
-        },
-        {
-          "title": "Stargate Atlantis",
           "start": "2026-11-26T18:12:27-06:00",
           "stop": "2026-11-26T18:55:14-06:00",
           "episode_title": "Childhood's End",
@@ -877,6 +871,13 @@ window.GUIDE_DATA = {
           "stop": "2026-11-27T00:01:45-06:00",
           "episode_title": "The Look",
           "description": "The team arrive on a resort-type planet where the locals are obsessed with fashion accessories to the point of endangering themselves. They befriend Rikell and the women and Harrison help her to gather some ferns to make a fashion statement and run afoul of the local wildlife, while a mercenary attacks the team up above and grabs Draga. The others get clear with Harrison's scientific knowledge and catch up to rescue Draga. The team gets enough of the ferns from the merchant that helped out the mercenary to let Rikell make an outfit but she realizes she doesn't need a fancy outfit."
+        },
+        {
+          "title": "Stargate Atlantis",
+          "start": "2026-11-27T00:01:45-06:00",
+          "stop": "2026-11-27T00:44:34-06:00",
+          "episode_title": "Home",
+          "description": "McKay's efforts to harness the energy of an alien planet's atmosphere allows for a return trip to Earth -- but the team may not be able to return to Atlantis."
         }
       ],
       "logo": "logos/65.png"
