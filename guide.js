@@ -1,25 +1,18 @@
 window.GUIDE_DATA = {
-  "generated_at": "2026-11-26T21:31:24.793480-06:00",
+  "generated_at": "2026-11-26T21:46:24.740632-06:00",
   "timezone": "America/Chicago",
   "source": "tunarr-xmltv",
   "window_hours": 6,
-  "window_start": "2026-11-26T21:31:24.793480-06:00",
-  "window_end": "2026-11-27T03:31:24.793480-06:00",
+  "window_start": "2026-11-26T21:46:24.740632-06:00",
+  "window_end": "2026-11-27T03:46:24.740632-06:00",
   "channel_count": 15,
-  "programme_count": 126,
+  "programme_count": 127,
   "channels": [
     {
       "id": "C2.50.tunarr.com",
       "number": 2,
       "name": "Syndication",
       "programmes": [
-        {
-          "title": "Stargate Infinity",
-          "start": "2026-11-26T21:19:08-06:00",
-          "stop": "2026-11-26T21:41:19-06:00",
-          "episode_title": "The Face of Evil",
-          "description": "The team arrives on an ice planet and intervenes in a fight between the Tlak'khan and the native Ursons. They win the day for the natives but begin to suspect all isn't as it seems. Seattle follows a young Tlak'khan to a hidden city while Gus interrogates the prisoners who it turns out are farmer/refugees. The team realizes the Ursons are in the wrong and turn against them to help the Tlak'khan farmers."
-        },
         {
           "title": "Stargate Infinity",
           "start": "2026-11-26T21:41:19-06:00",
@@ -167,6 +160,13 @@ window.GUIDE_DATA = {
           "stop": "2026-11-27T03:36:00-06:00",
           "episode_title": "Lair of Grievous",
           "description": "Kit Fisto is on the trail of the recently escaped Nute Gunray and joins up with his former Padawan Nahdar Vebb on the remote planet of Vassek. Unknown to them, they are entering the lair of General Grievous, who is being tested in his abilities by Count Dooku after a series of disappointments in battle."
+        },
+        {
+          "title": "Star Wars: The Clone Wars",
+          "start": "2026-11-27T03:36:00-06:00",
+          "stop": "2026-11-27T03:59:33-06:00",
+          "episode_title": "Dooku Captured",
+          "description": "During their own attempt to kidnap Count Dooku, Anakin and Obi-Wan discover that the Sith Lord has already been captured by pirates. Hondo Ohnaka and his gang of pirates hold Dooku captive in their den on Florrum, and hold him for ransom. It's up to Anakin and Obi-Wan to see if the offer is too good to be true."
         }
       ],
       "logo": "logos/11.png"
@@ -208,13 +208,6 @@ window.GUIDE_DATA = {
       "number": 32,
       "name": "Japanimation",
       "programmes": [
-        {
-          "title": "Soul Eater",
-          "start": "2026-11-26T21:18:58-06:00",
-          "stop": "2026-11-26T21:43:29-06:00",
-          "episode_title": "The Red Hot Runaway Express - A Magic Tool Left Behind by the Great Wizard?",
-          "description": "Under the desert sun, Death the Kid and the Thompsons fight Fisher King for a Magic Tool that’s kept a train running for a century. When Death the Kid learns who made the device, it stops him in his tracks."
-        },
         {
           "title": "Crest of the Stars",
           "start": "2026-11-26T21:43:29-06:00",
@@ -337,13 +330,6 @@ window.GUIDE_DATA = {
       "name": "Mobile Suit Network",
       "programmes": [
         {
-          "title": "Mobile Suit Gundam Wing",
-          "start": "2026-11-26T21:20:39-06:00",
-          "stop": "2026-11-26T21:45:33-06:00",
-          "episode_title": "The Shooting Star She Saw",
-          "description": "In an effort to end many years of tyrannical rule, five pilots and their Gundams are dispatched to Earth to begin Operation Meteor. Four land without incident, but one is intercepted and his mission is compromised."
-        },
-        {
           "title": "Mobile Suit Gundam",
           "start": "2026-11-26T21:45:33-06:00",
           "stop": "2026-11-26T22:11:12-06:00",
@@ -440,6 +426,13 @@ window.GUIDE_DATA = {
           "stop": "2026-11-27T03:35:00-06:00",
           "episode_title": "Day of Wrath",
           "description": "The GENESIS, a huge gamma-ray laser wipes out a large portion of Earth Alliance's forces. The Earth Alliance forces are forced to withdraw temporarily to regroup. During the intermission, each of the couples on board the Archangel, Kusanagi, and Eternal prays of each others safety in the upcoming battle."
+        },
+        {
+          "title": "Gundam Build Divers Re:Rise",
+          "start": "2026-11-27T03:35:00-06:00",
+          "stop": "2026-11-27T04:00:26-06:00",
+          "episode_title": "Seltsam's Deadline",
+          "description": "Muran has entrusted Hiroto, Kazami, and May with the task of rescuing Masaki Shido, and they begin searching for the Seltsam. However, their radar instead detects a huge force of dozens of enemy machines. Meanwhile, in the ruins of Milaag, Parviz and Freddie continue working to repair Cuadorn's injured wings."
         }
       ],
       "logo": "logos/45.png"
@@ -556,6 +549,13 @@ window.GUIDE_DATA = {
           "stop": "2026-11-27T03:44:52-06:00",
           "episode_title": "Last Resort",
           "description": "With the end of the war, Michel has retired from the Federation Forces, and he sets off with Kiki to find out whether Shiro and Aina are alive or dead. In the jungle, they are captured by a group of mysterious children, who give them shocking news."
+        },
+        {
+          "title": "Gundam Evolve",
+          "start": "2026-11-27T03:44:52-06:00",
+          "stop": "2026-11-27T03:53:32-06:00",
+          "episode_title": "RB-79 Ball",
+          "description": "Universal Century: A Baoa Qu, the grounds of the final battle of the One Year War. As the scars of war remain fresh in the battlefield, novice Federation pilot Hiden surveys the area in a RB-79 Ball."
         }
       ],
       "logo": "logos/47.png"
@@ -565,13 +565,6 @@ window.GUIDE_DATA = {
       "number": 48,
       "name": "Cosmic Era",
       "programmes": [
-        {
-          "title": "Mobile Suit Gundam SEED",
-          "start": "2026-11-26T21:18:18-06:00",
-          "stop": "2026-11-26T21:43:01-06:00",
-          "episode_title": "Silent Run",
-          "description": "Kira discovers a malfunctioning lifeboat and brings it aboard the Archangel. Everyone is surprised to find Flay Allster as one of the rescued civilians. The Archangel decides to head for the Eurasian Federation military satellite Artemis to seek help. Rau Le Creuset follows and plans an attack on the Archangel. Kira decides to continue piloting the Strike and his friends volunteer to become members of the Archangel crew as his support."
-        },
         {
           "title": "Mobile Suit Gundam SEED",
           "start": "2026-11-26T21:43:01-06:00",
@@ -786,6 +779,13 @@ window.GUIDE_DATA = {
           "stop": "2026-11-27T03:36:35-06:00",
           "episode_title": "The Muse",
           "description": "Stardate: Unknown. A mysterious woman approaches Jake about his future as a writer. Odo promises to do whatever it takes to help Lwaxana Troi keep her baby over the father's wishes - even if it means marrying her himself."
+        },
+        {
+          "title": "Star Trek: Deep Space Nine",
+          "start": "2026-11-27T03:36:35-06:00",
+          "stop": "2026-11-27T04:23:00-06:00",
+          "episode_title": "For the Cause",
+          "description": "Stardate: Unknown. Sisko must face betrayal when evidence surfaces that Kasidy is smuggling for the Maquis. Meanwhile Garak makes acquaintance with Ziyal."
         }
       ],
       "logo": "logos/64.png"
@@ -864,6 +864,13 @@ window.GUIDE_DATA = {
           "stop": "2026-11-27T03:41:06-06:00",
           "episode_title": "Seizure",
           "description": "Rush slips into a coma in the neural interface chair, and Amanda connects with him in the ship’s matrix, but Ginn informs Eli of a problem with that scenario. Elsewhere, Dr. Rodney McKay’s plan to dial the ninth chevron address hits a snag."
+        },
+        {
+          "title": "Stargate Universe",
+          "start": "2026-11-27T03:41:06-06:00",
+          "stop": "2026-11-27T04:24:17-06:00",
+          "episode_title": "The Hunt",
+          "description": "An alien creature attacks an exploration team from Destiny, taking two crew members captive."
         }
       ],
       "logo": "logos/65.png"
