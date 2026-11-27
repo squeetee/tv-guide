@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-26T22:31:24.822433-06:00",
+  "generated_at": "2026-11-26T22:46:24.789892-06:00",
   "timezone": "America/Chicago",
   "source": "tunarr-xmltv",
   "window_hours": 6,
-  "window_start": "2026-11-26T22:31:24.822433-06:00",
-  "window_end": "2026-11-27T04:31:24.822433-06:00",
+  "window_start": "2026-11-26T22:46:24.789892-06:00",
+  "window_end": "2026-11-27T04:46:24.789892-06:00",
   "channel_count": 15,
-  "programme_count": 126,
+  "programme_count": 127,
   "channels": [
     {
       "id": "C2.50.tunarr.com",
@@ -193,6 +193,12 @@
           "start": "2026-11-27T02:21:19-06:00",
           "stop": "2026-11-27T04:37:13-06:00",
           "description": "Speed Racer is a young and brilliant racing driver. When corruption in the racing leagues costs his brother his life, Speed must team up with the police and the mysterious Racer X to bring an end to the corruption and criminal activities."
+        },
+        {
+          "title": "Kim Possible: The Villain Files",
+          "start": "2026-11-27T04:37:13-06:00",
+          "stop": "2026-11-27T05:46:53-06:00",
+          "description": "The villains of \"Kim Possible\" are on display in this four-episode compilation titled Kim Possible: The Villain Files. The episodes are edited together so that there is only one set of opening credits at the beginning and one at the end. Though the shows play in succession like a film rather than being presented as four standalone episodes."
         }
       ],
       "logo": "logos/28.png"
@@ -202,13 +208,6 @@
       "number": 32,
       "name": "Japanimation",
       "programmes": [
-        {
-          "title": "Crest of the Stars",
-          "start": "2026-11-26T21:43:29-06:00",
-          "stop": "2026-11-26T22:39:23-06:00",
-          "episode_title": "Crest of the Stars: Birth",
-          "description": "This starts off with Dubus and Plakia on their honeymoon. While traveling around in space, they come across an abandoned ship. Ever curious and stubborn, Dubus convinces Plakia to help explore the ship. They soon come to realize that the ship may have been drifting in space for many years as soon as they reach the bridge. Instead of possibly an empty chair, the skeletal remains of an abh of royal descent (having some sort of jewel on it's forhead) is still sitting in the chair. They return to their own ship heading home to inform others of their findings. A few years later, a child is born unto Dubus and Plakia, Abriel Nei Dubrusk Paryunu Lafiel. They both agree not to reveal who Lafiel's mother is so she would wholeheartedly try to make her mother proud. Now is the beginning of Lafiel's adventure. For the beginning, click on Crest of the Stars."
-        },
         {
           "title": "Crest of the Stars",
           "start": "2026-11-26T22:39:23-06:00",
@@ -283,6 +282,13 @@
           "stop": "2026-11-27T04:46:12-06:00",
           "episode_title": "Revenge of the Imperial Electronic Brain",
           "description": "Biff Standard the greedy US entrepreneur of SynchroniCity is plotting to incorporate his business into Japan aided by Ramia. Pixy spreads the SynchroniCity program into computers all over Sasami's home town. The Standardisation power attracts the moon towards Earth. With Miss Washu's programming, Pretty Sammy is able to put Biff's software off line, cure Biff of his mania and save the Earth from colliding with the moon."
+        },
+        {
+          "title": "Berserk",
+          "start": "2026-11-27T04:46:12-06:00",
+          "stop": "2026-11-27T05:10:46-06:00",
+          "episode_title": "Together",
+          "description": "Casca is still unconscious, so Guts shelters them in a cave while the rain pours down. She comes to and tells Guts about her past and about Griffith's."
         }
       ],
       "logo": "logos/32.png"
@@ -315,6 +321,12 @@
           "start": "2026-11-27T02:51:12-06:00",
           "stop": "2026-11-27T04:36:20-06:00",
           "description": "As members of ESWAT, the elite forces serving Olympus, Deunan and Briaereos are deployed anywhere trouble strikes. Olympus finds itself under a stealth attack - cyborg terrorism, deadly nanotech zealots, and rioting citizens are just some of the threats that Deunan must contend with as she fights to save Olympus!"
+        },
+        {
+          "title": "Tenchi Forever!",
+          "start": "2026-11-27T04:36:20-06:00",
+          "stop": "2026-11-27T06:11:41-06:00",
+          "description": "One day, Tenchi disappears in the forest near his house. Six months later, Ayeka and Ryoko locate Tenchi living in a city, but with a mysterious woman. What's more, Tenchi appears to have aged several years. Whenever Ayeka and Ryoko catch up to him, he disappears into thin air, apparently existing in a fabricated alternate dimension where he has no knowledge of his past."
         }
       ],
       "logo": "logos/33.png"
@@ -324,13 +336,6 @@
       "number": 45,
       "name": "Mobile Suit Network",
       "programmes": [
-        {
-          "title": "Mobile Suit Gundam",
-          "start": "2026-11-26T22:11:12-06:00",
-          "stop": "2026-11-26T22:36:52-06:00",
-          "episode_title": "The Core Fighter's Escape",
-          "description": "Amuro attempts to contact Federation forces by flying back into space with the Core Fighter."
-        },
         {
           "title": "Mobile Suit Gundam Wing",
           "start": "2026-11-26T22:36:52-06:00",
@@ -477,13 +482,6 @@
       "name": "Universal Century",
       "programmes": [
         {
-          "title": "Gundam Evolve",
-          "start": "2026-11-26T22:21:45-06:00",
-          "stop": "2026-11-26T22:37:25-06:00",
-          "episode_title": "\"Newtype Challia Bull\"",
-          "description": "Universal Century: \"Challia Bull was found to have the attributes of a Newtype during his activities in the Jupiter Energy Fleet. While doubtful of his own abilities, he is recruited and assigned by commander-in-chief Gihren to serve in Char Aznable's combat unit under Kycilia's command. Even as he senses the girl he met, known as Lalah Sune, to be something of a Newtype, the fierce combat with the Federation ace-piloted Gundam changed his convictions.\""
-        },
-        {
           "title": "Mobile Suit Gundam",
           "start": "2026-11-26T22:37:25-06:00",
           "stop": "2026-11-26T23:03:05-06:00",
@@ -559,13 +557,6 @@
       "number": 48,
       "name": "Cosmic Era",
       "programmes": [
-        {
-          "title": "Mobile Suit Gundam SEED",
-          "start": "2026-11-26T22:07:47-06:00",
-          "stop": "2026-11-26T22:32:33-06:00",
-          "episode_title": "The Vanishing Gundam",
-          "description": "The Archangel and its crew are held captive by the Artemis forces. Nicol Amalfi in his GAT-X207 Blitz attacks Artemis, using its Mirage Colloid armor to remain effectively invisible and destroys the Umbrella of Artemis, which protects the asteroid fortress. During the attack, the Archangel is able to escape."
-        },
         {
           "title": "Mobile Suit Gundam SEED",
           "start": "2026-11-26T22:32:33-06:00",
@@ -670,6 +661,13 @@
           "stop": "2026-11-27T04:44:05-06:00",
           "episode_title": "The Sea Dyed Red",
           "description": "The Archangel crew crosses the Red Sea to head towards the neutral Orb Union with Cagalli and Ledonir Kisaka on board. With the previous battle weighing heavily on him, Kira talks to Cagalli about his reasons for fighting, making Flay jealous. They are attacked by ZAFT air and underwater type mobile suits, but Kira and Mu manage to take them out."
+        },
+        {
+          "title": "Mobile Suit Gundam SEED",
+          "start": "2026-11-27T04:44:05-06:00",
+          "stop": "2026-11-27T05:08:51-06:00",
+          "episode_title": "Fateful Encounter",
+          "description": "A battle with ZAFT submarine forces led by Commander Marco Morassim prevents Kira from fighting alongside Mu and Cagalli in their FX-550 Skygraspers. Cagalli's Skygrasper sustains damage and is forced to turn back, but she encounters Athrun's transport plane; her Skygrasper is shot down, but not before shooting down his transport plane, forcing Athrun in his Aegis to eject from the transport plane. By chance, they are both stranded on the same deserted island."
         }
       ],
       "logo": "logos/48.png"
@@ -710,6 +708,12 @@
           "start": "2026-11-27T02:52:50-06:00",
           "stop": "2026-11-27T04:34:03-06:00",
           "description": "Tensions rise within an asbestos cleaning crew as they work in an abandoned mental hospital with a horrific past that seems to be coming back."
+        },
+        {
+          "title": "The Shining",
+          "start": "2026-11-27T04:34:03-06:00",
+          "stop": "2026-11-27T06:58:44-06:00",
+          "description": "Aspiring author Jack Torrance must survive winter isolation at the Overlook Hotel, but writer's block and supernatural forces threaten his sanity, all while his psychic son Danny sees horrors that predict the family's violent unraveling."
         }
       ],
       "logo": "logos/56.png"
@@ -790,13 +794,6 @@
       "number": 65,
       "name": "Stargate Command",
       "programmes": [
-        {
-          "title": "Stargate SG-1",
-          "start": "2026-11-26T21:47:10-06:00",
-          "stop": "2026-11-26T22:32:16-06:00",
-          "episode_title": "Solitudes",
-          "description": "Colonel O'Neill and Captain Carter are separated from Jackson and Teal'c during a Stargate journey, and are trapped on a desolate ice world with no way of escape."
-        },
         {
           "title": "Stargate SG-1",
           "start": "2026-11-26T22:32:16-06:00",
@@ -922,6 +919,13 @@
           "stop": "2026-11-27T04:46:22-06:00",
           "episode_title": "Basics (2)",
           "description": "Stardate: 50023.4. Voyager is captured by the Kazon and the crew are dumped on a planet in its early stages of evolution. As only Tom Paris and Lon Suder have evaded capture, it's up to them and the EMH to come up with a plan to retake the ship."
+        },
+        {
+          "title": "Star Trek: Voyager",
+          "start": "2026-11-27T04:46:22-06:00",
+          "stop": "2026-11-27T05:33:10-06:00",
+          "episode_title": "Flashback",
+          "description": "Stardate: 50126.4. After falling ill to what appears to be a repressed memory Tuvok must perform a mind-meld with Captain Janeway in order to survive. The meld takes them back to when Tuvok was a junior science officer aboard the U.S.S. Excelsior under the command of Captain Hikaru Sulu."
         }
       ],
       "logo": "logos/66.png"
