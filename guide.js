@@ -1,25 +1,18 @@
 window.GUIDE_DATA = {
-  "generated_at": "2026-11-26T22:01:24.736961-06:00",
+  "generated_at": "2026-11-26T22:16:24.749936-06:00",
   "timezone": "America/Chicago",
   "source": "tunarr-xmltv",
   "window_hours": 6,
-  "window_start": "2026-11-26T22:01:24.736961-06:00",
-  "window_end": "2026-11-27T04:01:24.736961-06:00",
+  "window_start": "2026-11-26T22:16:24.749936-06:00",
+  "window_end": "2026-11-27T04:16:24.749936-06:00",
   "channel_count": 15,
-  "programme_count": 129,
+  "programme_count": 125,
   "channels": [
     {
       "id": "C2.50.tunarr.com",
       "number": 2,
       "name": "Syndication",
       "programmes": [
-        {
-          "title": "Stargate Infinity",
-          "start": "2026-11-26T21:41:19-06:00",
-          "stop": "2026-11-26T22:03:31-06:00",
-          "episode_title": "The Key",
-          "description": "The team arrives on a civilized high-tech planet, Rokari, where they determine a comet is heading for the world they're on with only 60 hours to spare. The local government, the Commonality, don't believe their warning and state they have outgrown written and recorded language. The team break out a member of an underground resistance that distributes writing and leads them to a hidden library with info on how to use the planet's defense system. Harrison manages to figure out the language and the team activates the defense system, the Commonality sees the value of writing and everything turns out well."
-        },
         {
           "title": "Yellowstone (2018)",
           "start": "2026-11-26T22:03:31-06:00",
@@ -107,6 +100,12 @@ window.GUIDE_DATA = {
           "start": "2026-11-27T02:24:23-06:00",
           "stop": "2026-11-27T04:13:11-06:00",
           "description": "Three buddies wake up from a bachelor party in Las Vegas with no memory of the previous night and the bachelor missing. They must make their way around the city in order to find their friend in time for his wedding."
+        },
+        {
+          "title": "Goldfinger",
+          "start": "2026-11-27T04:13:11-06:00",
+          "stop": "2026-11-27T06:04:06-06:00",
+          "description": "Special agent 007 comes face to face with one of the most notorious villains of all time, and now he must outwit and outgun the powerful tycoon to prevent him from cashing in on a devious scheme to raid Fort Knox -- and obliterate the world's economy."
         }
       ],
       "logo": "logos/3.png"
@@ -330,13 +329,6 @@ window.GUIDE_DATA = {
       "number": 45,
       "name": "Mobile Suit Network",
       "programmes": [
-        {
-          "title": "Mobile Suit Gundam",
-          "start": "2026-11-26T21:45:33-06:00",
-          "stop": "2026-11-26T22:11:12-06:00",
-          "episode_title": "Garma Strikes",
-          "description": "White Base arrives on Zeon territory due to Char Aznable's strategy; Garma Zabi, eager to impress his sister Kycilia and his friend Char, decides to attack White Base."
-        },
         {
           "title": "Mobile Suit Gundam",
           "start": "2026-11-26T22:11:12-06:00",
@@ -574,13 +566,6 @@ window.GUIDE_DATA = {
       "programmes": [
         {
           "title": "Mobile Suit Gundam SEED",
-          "start": "2026-11-26T21:43:01-06:00",
-          "stop": "2026-11-26T22:07:47-06:00",
-          "episode_title": "Phase Shift Down",
-          "description": "Mu La Flaga and Kira launch a counteroffensive against the ZAFT ship Vesalius. The Strike's Phase Shift Armor runs out of power in the middle of the battle and Athrun uses this moment to grab the Strike so he can take Kira with him, but Kira frees himself with Mu's help."
-        },
-        {
-          "title": "Mobile Suit Gundam SEED",
           "start": "2026-11-26T22:07:47-06:00",
           "stop": "2026-11-26T22:32:33-06:00",
           "episode_title": "The Vanishing Gundam",
@@ -693,12 +678,6 @@ window.GUIDE_DATA = {
       "name": "Fright Night",
       "programmes": [
         {
-          "title": "Stigmata",
-          "start": "2026-11-26T20:29:30-06:00",
-          "stop": "2026-11-26T22:12:36-06:00",
-          "description": "A young woman with no strong religious beliefs, Frankie Paige begins having strange and violent experiences, showing signs of the wounds that Jesus received when crucified. When the Vatican gets word of Frankie's situation, a high-ranking cardinal requests that the Rev. Andrew Kiernan investigate her case. Soon Kiernan realizes that very sinister forces are at work, and tries to rescue Frankie from the entity that is plaguing her."
-        },
-        {
           "title": "Kill Giggles",
           "start": "2026-11-26T22:12:36-06:00",
           "stop": "2026-11-26T23:46:51-06:00",
@@ -738,13 +717,6 @@ window.GUIDE_DATA = {
       "number": 64,
       "name": "Sci-Fi",
       "programmes": [
-        {
-          "title": "Farscape",
-          "start": "2026-11-26T21:24:04-06:00",
-          "stop": "2026-11-26T22:10:59-06:00",
-          "episode_title": "The Choice",
-          "description": "Aeryn is devastated. She leaves Talyn, and grieves on a planet. Talyn's crew tries to help but she doesn't want their help. She spots someone who might be her father. But not all family reunions are joyous."
-        },
         {
           "title": "Star Trek",
           "start": "2026-11-26T22:10:59-06:00",
