@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-27T23:01:24.783587-06:00",
+  "generated_at": "2026-11-27T23:16:24.866037-06:00",
   "timezone": "America/Chicago",
   "source": "tunarr-xmltv",
   "window_hours": 6,
-  "window_start": "2026-11-27T23:01:24.783587-06:00",
-  "window_end": "2026-11-28T05:01:24.783587-06:00",
+  "window_start": "2026-11-27T23:16:24.866037-06:00",
+  "window_end": "2026-11-28T05:16:24.866037-06:00",
   "channel_count": 16,
-  "programme_count": 1293,
+  "programme_count": 1291,
   "channels": [
     {
       "id": "C2.50.tunarr.com",
@@ -66,6 +66,13 @@
           "start": "2026-11-28T04:16:23-06:00",
           "stop": "2026-11-28T05:02:41-06:00",
           "episode_title": "Episode 22"
+        },
+        {
+          "title": "Warehouse 13",
+          "start": "2026-11-28T05:02:41-06:00",
+          "stop": "2026-11-28T05:46:41-06:00",
+          "episode_title": "Shadows",
+          "description": "While Pete and his mother Jane try to determine the origins of their mysterious opponents, Myka and Claudia travel to Portland to stop a girl who can apparently vaporize anyone she hates with blasts of radiation."
         }
       ],
       "logo": "logos/2.png"
@@ -144,6 +151,12 @@
           "start": "2026-11-28T03:49:21-06:00",
           "stop": "2026-11-28T05:04:37-06:00",
           "description": "Leaving the safety of their nursery behind, Wendy, Michael and John follow Peter Pan to a magical world where childhood lasts forever. But while in Neverland, the kids must face Captain Hook and foil his attempts to get rid of Peter for good."
+        },
+        {
+          "title": "Deck the Halls",
+          "start": "2026-11-28T05:04:37-06:00",
+          "stop": "2026-11-28T06:34:36-06:00",
+          "description": "Determined to unseat Steve Finch's reign as the town's holiday season king, Buddy Hall plasters his house with so many decorative lights that it'll be visible from space! When their wives bond, and their kids follow suit, the two men only escalate their rivalry - and their decorating."
         }
       ],
       "logo": "logos/11.png"
@@ -153,12 +166,6 @@
       "number": 28,
       "name": "Adrenaline",
       "programmes": [
-        {
-          "title": "The Driver",
-          "start": "2026-11-27T21:26:05-06:00",
-          "stop": "2026-11-27T23:04:17-06:00",
-          "description": "After a plague of the undead decimates human life on Earth, a former hit man (Mark Dacascos), his wife, and daughter live quietly in a survivalist compound. But when their base is attacked, a massive explosion summons a swarm of the undead. They escape and must seek out the Haven, a rumored sanctuary up north, while the father teaches his daughter to shoot, drive, and survive before time runs out."
-        },
         {
           "title": "Ant-Man and the Wasp",
           "start": "2026-11-27T23:04:17-06:00",
@@ -185,13 +192,6 @@
       "number": 32,
       "name": "Japanimation",
       "programmes": [
-        {
-          "title": "Soul Eater",
-          "start": "2026-11-27T22:43:02-06:00",
-          "stop": "2026-11-27T23:07:32-06:00",
-          "episode_title": "Medusa's Revival! A Spider and Snake's Fateful Reunion?",
-          "description": "Dr. Stein’s trying to whip the Meisters and Weapons into shape for their eventual fight against Arachne. They’ll definitely need to toughen up - Arachne isn’t the only witch who’s back on the scene."
-        },
         {
           "title": "Soul Eater",
           "start": "2026-11-27T23:07:32-06:00",
@@ -316,12 +316,6 @@
       "name": "Anime Cinema",
       "programmes": [
         {
-          "title": "PSYCHO-PASS: The Movie",
-          "start": "2026-11-27T21:16:11-06:00",
-          "stop": "2026-11-27T23:10:47-06:00",
-          "description": "In this sequel to Psycho-Pass TV show, Inspector Tsunemori is sent to a neighboring war-torn nation, where the Sibyl System is being introduced as an experiment, to find Shinya Kogami, her former enforcer who went rogue three years ago."
-        },
-        {
           "title": "Robotech: The Shadow Chronicles",
           "start": "2026-11-27T23:10:47-06:00",
           "stop": "2026-11-28T00:39:49-06:00",
@@ -353,13 +347,6 @@
       "number": 45,
       "name": "Mobile Suit Network",
       "programmes": [
-        {
-          "title": "Mobile Suit Gundam SEED",
-          "start": "2026-11-27T22:50:03-06:00",
-          "stop": "2026-11-27T23:14:49-06:00",
-          "episode_title": "Payback",
-          "description": "Though the Desert Tiger has spared the lives of civilians, Desert Dawn members brashly challenge the ZAFT forces, because of the devastation they caused. The attack ends in failure, but most are saved by Kira in the Strike."
-        },
         {
           "title": "Gundam Build Fighters",
           "start": "2026-11-27T23:14:49-06:00",
@@ -436,12 +423,6 @@
       "number": 46,
       "name": "Gundam Theater",
       "programmes": [
-        {
-          "title": "Mobile Suit Gundam: Iron-Blooded Orphans 10th Anniversary Short Film - Wedge of Interposition",
-          "start": "2026-11-27T22:56:00-06:00",
-          "stop": "2026-11-27T23:11:46-06:00",
-          "description": "A new animated short celebrating the 10th anniversary of Mobile Suit Gundam: Iron-Blooded Orphans, shown alongside the upcoming Mobile Suit Gundam: Iron-Blooded Orphans Urðr Hunt Path of the Little Challenger"
-        },
         {
           "title": "Mobile Suit Gundam 00 The Movie: -A Wakening of the Trailblazer-",
           "start": "2026-11-27T23:11:46-06:00",
@@ -677,6 +658,13 @@
           "stop": "2026-11-28T05:11:46-06:00",
           "episode_title": "Gathering Darkness",
           "description": "The crew of the Archangel find themselves questioned for their actions regarding their escape from Heliopolis, the fall of the 8th Fleet, and entrusting the Strike to Kira Yamato. Meanwhile, Lacus comforts Kira, who questions his right to live, especially after trying to kill Athrun."
+        },
+        {
+          "title": "Mobile Suit Gundam SEED",
+          "start": "2026-11-28T05:11:46-06:00",
+          "stop": "2026-11-28T05:36:32-06:00",
+          "episode_title": "Seen and Unseen",
+          "description": "Flay, Mu, and Natarle are to be transferred off the Archangel. Mu suspects that something is not quite right as the Alaskan JOSH-A base is evacuated. Flay is captured by Rau Le Creuset. Lacus and her father entrust Kira with the ZGMF-X10A Freedom, equipped with Neutron Jammer Canceller technology."
         }
       ],
       "logo": "logos/48.png"
@@ -834,13 +822,6 @@
       "name": "Starfleet",
       "programmes": [
         {
-          "title": "Star Trek",
-          "start": "2026-11-27T22:19:01-06:00",
-          "stop": "2026-11-27T23:10:27-06:00",
-          "episode_title": "The Doomsday Machine",
-          "description": "The starship Enterprise and its heavily-damaged sister ship, the USS Constellation, must work together to stop an alien planet-killing machine headed for the heart of Federation territory."
-        },
-        {
           "title": "Star Trek: Voyager",
           "start": "2026-11-27T23:10:27-06:00",
           "stop": "2026-11-27T23:57:15-06:00",
@@ -895,6 +876,13 @@
           "stop": "2026-11-28T05:09:31-06:00",
           "episode_title": "Qpid",
           "description": "Picard is visited by his archaeologist acquaintance, Vash, then Q appears, claiming that he owes Picard a debt for helping him back into the Continuum. He decides to repay it by illustrating to Picard the pitfalls of getting involved with someone, placing them all in a fantasy world where Picard is Robin Hood, Vash Maid Marian, and Q the Sheriff of Nottingham."
+        },
+        {
+          "title": "Star Trek",
+          "start": "2026-11-28T05:09:31-06:00",
+          "stop": "2026-11-28T06:00:50-06:00",
+          "episode_title": "Catspaw",
+          "description": "Two powerful aliens threaten the well-being of the Enterprise and her crew."
         }
       ],
       "logo": "logos/66.png"
@@ -942,251 +930,6 @@
       "number": 101,
       "name": "Promos",
       "programmes": [
-        {
-          "title": "Promo - Gundam Browser Shooter 2",
-          "start": "2026-11-27T23:01:22-06:00",
-          "stop": "2026-11-27T23:01:40-06:00"
-        },
-        {
-          "title": "Cross Promo - Japanimation",
-          "start": "2026-11-27T23:01:40-06:00",
-          "stop": "2026-11-27T23:01:58-06:00"
-        },
-        {
-          "title": "Cross Promo - Gundam Theater",
-          "start": "2026-11-27T23:01:58-06:00",
-          "stop": "2026-11-27T23:02:16-06:00"
-        },
-        {
-          "title": "Promo - Haro Herald 2",
-          "start": "2026-11-27T23:02:16-06:00",
-          "stop": "2026-11-27T23:02:34-06:00"
-        },
-        {
-          "title": "Cross Promo - Sci-Fi",
-          "start": "2026-11-27T23:02:34-06:00",
-          "stop": "2026-11-27T23:02:52-06:00"
-        },
-        {
-          "title": "Cross Promo - Comedy",
-          "start": "2026-11-27T23:02:52-06:00",
-          "stop": "2026-11-27T23:03:28-06:00"
-        },
-        {
-          "title": "Promo - Anime Movies",
-          "start": "2026-11-27T23:03:28-06:00",
-          "stop": "2026-11-27T23:03:47-06:00"
-        },
-        {
-          "title": "Promo - TV Shows",
-          "start": "2026-11-27T23:03:47-06:00",
-          "stop": "2026-11-27T23:04:05-06:00"
-        },
-        {
-          "title": "Cross Promo - Japanimation",
-          "start": "2026-11-27T23:04:05-06:00",
-          "stop": "2026-11-27T23:04:23-06:00"
-        },
-        {
-          "title": "Promo - The Movie Channel",
-          "start": "2026-11-27T23:04:23-06:00",
-          "stop": "2026-11-27T23:04:41-06:00"
-        },
-        {
-          "title": "Promo - Squeetee.com 1",
-          "start": "2026-11-27T23:04:41-06:00",
-          "stop": "2026-11-27T23:04:59-06:00"
-        },
-        {
-          "title": "Promo - Gundam Tower Defense 2",
-          "start": "2026-11-27T23:04:59-06:00",
-          "stop": "2026-11-27T23:05:17-06:00"
-        },
-        {
-          "title": "Promo - Gundam Browser Shooter 2",
-          "start": "2026-11-27T23:05:17-06:00",
-          "stop": "2026-11-27T23:05:35-06:00"
-        },
-        {
-          "title": "Cross Promo - Anime Cinema",
-          "start": "2026-11-27T23:05:35-06:00",
-          "stop": "2026-11-27T23:05:53-06:00"
-        },
-        {
-          "title": "Promo - Haro Herald 1",
-          "start": "2026-11-27T23:05:53-06:00",
-          "stop": "2026-11-27T23:06:11-06:00"
-        },
-        {
-          "title": "Promo - Comedy",
-          "start": "2026-11-27T23:06:11-06:00",
-          "stop": "2026-11-27T23:06:29-06:00"
-        },
-        {
-          "title": "Promo - Haro Herald 1",
-          "start": "2026-11-27T23:06:29-06:00",
-          "stop": "2026-11-27T23:06:47-06:00"
-        },
-        {
-          "title": "Cross Promo - Mobile Suit Network",
-          "start": "2026-11-27T23:06:47-06:00",
-          "stop": "2026-11-27T23:07:05-06:00"
-        },
-        {
-          "title": "Cross Promo - Gundam Theater",
-          "start": "2026-11-27T23:07:05-06:00",
-          "stop": "2026-11-27T23:07:23-06:00"
-        },
-        {
-          "title": "Cross Promo - Syndication",
-          "start": "2026-11-27T23:07:23-06:00",
-          "stop": "2026-11-27T23:07:41-06:00"
-        },
-        {
-          "title": "Cross Promo - Stargate Command",
-          "start": "2026-11-27T23:07:41-06:00",
-          "stop": "2026-11-27T23:07:59-06:00"
-        },
-        {
-          "title": "Promo - Gundam Movies",
-          "start": "2026-11-27T23:07:59-06:00",
-          "stop": "2026-11-27T23:08:17-06:00"
-        },
-        {
-          "title": "Cross Promo - Fright Night",
-          "start": "2026-11-27T23:08:17-06:00",
-          "stop": "2026-11-27T23:08:35-06:00"
-        },
-        {
-          "title": "Cross Promo - Universal Century",
-          "start": "2026-11-27T23:08:35-06:00",
-          "stop": "2026-11-27T23:08:53-06:00"
-        },
-        {
-          "title": "Promo - Cosmic Era",
-          "start": "2026-11-27T23:08:53-06:00",
-          "stop": "2026-11-27T23:09:11-06:00"
-        },
-        {
-          "title": "Cross Promo - Mobile Suit Network",
-          "start": "2026-11-27T23:09:11-06:00",
-          "stop": "2026-11-27T23:09:29-06:00"
-        },
-        {
-          "title": "Promo - Gundam RTS 2",
-          "start": "2026-11-27T23:09:29-06:00",
-          "stop": "2026-11-27T23:09:47-06:00"
-        },
-        {
-          "title": "Promo - Kidz!",
-          "start": "2026-11-27T23:09:47-06:00",
-          "stop": "2026-11-27T23:10:05-06:00"
-        },
-        {
-          "title": "Promo - Stargate Command",
-          "start": "2026-11-27T23:10:05-06:00",
-          "stop": "2026-11-27T23:10:23-06:00"
-        },
-        {
-          "title": "Promo - Gundam Table Top Game 2",
-          "start": "2026-11-27T23:10:23-06:00",
-          "stop": "2026-11-27T23:10:41-06:00"
-        },
-        {
-          "title": "Cross Promo - Starfleet",
-          "start": "2026-11-27T23:10:41-06:00",
-          "stop": "2026-11-27T23:10:59-06:00"
-        },
-        {
-          "title": "Promo - Universal Century",
-          "start": "2026-11-27T23:10:59-06:00",
-          "stop": "2026-11-27T23:11:17-06:00"
-        },
-        {
-          "title": "Promo - Gundam RTS 1",
-          "start": "2026-11-27T23:11:17-06:00",
-          "stop": "2026-11-27T23:11:35-06:00"
-        },
-        {
-          "title": "Promo - Gundam Movies",
-          "start": "2026-11-27T23:11:35-06:00",
-          "stop": "2026-11-27T23:11:53-06:00"
-        },
-        {
-          "title": "Promo - Gundam RTS 2",
-          "start": "2026-11-27T23:11:53-06:00",
-          "stop": "2026-11-27T23:12:11-06:00"
-        },
-        {
-          "title": "Cross Promo - Sci-Fi",
-          "start": "2026-11-27T23:12:11-06:00",
-          "stop": "2026-11-27T23:12:29-06:00"
-        },
-        {
-          "title": "Promo - Kidz!",
-          "start": "2026-11-27T23:12:29-06:00",
-          "stop": "2026-11-27T23:12:47-06:00"
-        },
-        {
-          "title": "Cross Promo - Syndication",
-          "start": "2026-11-27T23:12:47-06:00",
-          "stop": "2026-11-27T23:13:05-06:00"
-        },
-        {
-          "title": "Promo - Kidz!",
-          "start": "2026-11-27T23:13:05-06:00",
-          "stop": "2026-11-27T23:13:23-06:00"
-        },
-        {
-          "title": "Promo - Gundam Table Top Game 2",
-          "start": "2026-11-27T23:13:23-06:00",
-          "stop": "2026-11-27T23:13:41-06:00"
-        },
-        {
-          "title": "Cross Promo - Gundam Theater",
-          "start": "2026-11-27T23:13:41-06:00",
-          "stop": "2026-11-27T23:13:59-06:00"
-        },
-        {
-          "title": "Cross Promo - Cosmic Era",
-          "start": "2026-11-27T23:13:59-06:00",
-          "stop": "2026-11-27T23:14:17-06:00"
-        },
-        {
-          "title": "Cross Promo - Starfleet",
-          "start": "2026-11-27T23:14:17-06:00",
-          "stop": "2026-11-27T23:14:35-06:00"
-        },
-        {
-          "title": "Cross Promo - Japanimation",
-          "start": "2026-11-27T23:14:35-06:00",
-          "stop": "2026-11-27T23:14:53-06:00"
-        },
-        {
-          "title": "Promo - Sci-Fi",
-          "start": "2026-11-27T23:14:53-06:00",
-          "stop": "2026-11-27T23:15:11-06:00"
-        },
-        {
-          "title": "Cross Promo - Adrenaline",
-          "start": "2026-11-27T23:15:11-06:00",
-          "stop": "2026-11-27T23:15:29-06:00"
-        },
-        {
-          "title": "Promo - Squeetee.com 1",
-          "start": "2026-11-27T23:15:29-06:00",
-          "stop": "2026-11-27T23:15:47-06:00"
-        },
-        {
-          "title": "Cross Promo - Universal Century",
-          "start": "2026-11-27T23:15:47-06:00",
-          "stop": "2026-11-27T23:16:05-06:00"
-        },
-        {
-          "title": "Cross Promo - Anime Cinema",
-          "start": "2026-11-27T23:16:05-06:00",
-          "stop": "2026-11-27T23:16:23-06:00"
-        },
         {
           "title": "Promo - Gundam Tower Defense 1",
           "start": "2026-11-27T23:16:23-06:00",
@@ -6796,6 +6539,251 @@
           "title": "Promo - Gundam Tower Defense 1",
           "start": "2026-11-28T05:01:11-06:00",
           "stop": "2026-11-28T05:01:30-06:00"
+        },
+        {
+          "title": "Promo - Universal Century",
+          "start": "2026-11-28T05:01:30-06:00",
+          "stop": "2026-11-28T05:01:48-06:00"
+        },
+        {
+          "title": "Promo - Gundam Tower Defense 1",
+          "start": "2026-11-28T05:01:48-06:00",
+          "stop": "2026-11-28T05:02:06-06:00"
+        },
+        {
+          "title": "Cross Promo - Gundam Theater",
+          "start": "2026-11-28T05:02:06-06:00",
+          "stop": "2026-11-28T05:02:24-06:00"
+        },
+        {
+          "title": "Promo - The Movie Channel",
+          "start": "2026-11-28T05:02:24-06:00",
+          "stop": "2026-11-28T05:02:42-06:00"
+        },
+        {
+          "title": "Promo - Gundam Tower Defense 2",
+          "start": "2026-11-28T05:02:42-06:00",
+          "stop": "2026-11-28T05:03:00-06:00"
+        },
+        {
+          "title": "Promo - Comedy",
+          "start": "2026-11-28T05:03:00-06:00",
+          "stop": "2026-11-28T05:03:18-06:00"
+        },
+        {
+          "title": "Promo - Gundam Browser Shooter 2",
+          "start": "2026-11-28T05:03:18-06:00",
+          "stop": "2026-11-28T05:03:36-06:00"
+        },
+        {
+          "title": "Promo - Gundam Browser Shooter 1",
+          "start": "2026-11-28T05:03:36-06:00",
+          "stop": "2026-11-28T05:03:54-06:00"
+        },
+        {
+          "title": "Cross Promo - Comedy",
+          "start": "2026-11-28T05:03:54-06:00",
+          "stop": "2026-11-28T05:04:12-06:00"
+        },
+        {
+          "title": "Promo - Gundam Table Top Game 2",
+          "start": "2026-11-28T05:04:12-06:00",
+          "stop": "2026-11-28T05:04:30-06:00"
+        },
+        {
+          "title": "Promo - Sci-Fi",
+          "start": "2026-11-28T05:04:30-06:00",
+          "stop": "2026-11-28T05:04:48-06:00"
+        },
+        {
+          "title": "Promo - Haro Herald 2",
+          "start": "2026-11-28T05:04:48-06:00",
+          "stop": "2026-11-28T05:05:06-06:00"
+        },
+        {
+          "title": "Promo - Gundam RTS 1",
+          "start": "2026-11-28T05:05:06-06:00",
+          "stop": "2026-11-28T05:05:24-06:00"
+        },
+        {
+          "title": "Promo - The Movie Channel",
+          "start": "2026-11-28T05:05:24-06:00",
+          "stop": "2026-11-28T05:06:00-06:00"
+        },
+        {
+          "title": "Cross Promo - Syndication",
+          "start": "2026-11-28T05:06:00-06:00",
+          "stop": "2026-11-28T05:06:18-06:00"
+        },
+        {
+          "title": "Promo - Gundam Table Top Game 2",
+          "start": "2026-11-28T05:06:18-06:00",
+          "stop": "2026-11-28T05:06:36-06:00"
+        },
+        {
+          "title": "Cross Promo - Kidz!",
+          "start": "2026-11-28T05:06:36-06:00",
+          "stop": "2026-11-28T05:06:54-06:00"
+        },
+        {
+          "title": "Cross Promo - Syndication",
+          "start": "2026-11-28T05:06:54-06:00",
+          "stop": "2026-11-28T05:07:12-06:00"
+        },
+        {
+          "title": "Promo - Cosmic Era",
+          "start": "2026-11-28T05:07:12-06:00",
+          "stop": "2026-11-28T05:07:30-06:00"
+        },
+        {
+          "title": "Cross Promo - Mobile Suit Network",
+          "start": "2026-11-28T05:07:30-06:00",
+          "stop": "2026-11-28T05:07:48-06:00"
+        },
+        {
+          "title": "Promo - Squeetee.com 2",
+          "start": "2026-11-28T05:07:48-06:00",
+          "stop": "2026-11-28T05:08:06-06:00"
+        },
+        {
+          "title": "Cross Promo - Syndication",
+          "start": "2026-11-28T05:08:06-06:00",
+          "stop": "2026-11-28T05:08:24-06:00"
+        },
+        {
+          "title": "Promo - TV Shows",
+          "start": "2026-11-28T05:08:24-06:00",
+          "stop": "2026-11-28T05:08:42-06:00"
+        },
+        {
+          "title": "Cross Promo - Japanimation",
+          "start": "2026-11-28T05:08:42-06:00",
+          "stop": "2026-11-28T05:09:00-06:00"
+        },
+        {
+          "title": "Promo - The Movie Channel",
+          "start": "2026-11-28T05:09:00-06:00",
+          "stop": "2026-11-28T05:09:18-06:00"
+        },
+        {
+          "title": "Cross Promo - Adrenaline",
+          "start": "2026-11-28T05:09:18-06:00",
+          "stop": "2026-11-28T05:09:36-06:00"
+        },
+        {
+          "title": "Promo - Anime Movies",
+          "start": "2026-11-28T05:09:36-06:00",
+          "stop": "2026-11-28T05:09:54-06:00"
+        },
+        {
+          "title": "Promo - Gundam Browser Shooter 1",
+          "start": "2026-11-28T05:09:54-06:00",
+          "stop": "2026-11-28T05:10:12-06:00"
+        },
+        {
+          "title": "Promo - Gundam Table Top Game 1",
+          "start": "2026-11-28T05:10:12-06:00",
+          "stop": "2026-11-28T05:10:30-06:00"
+        },
+        {
+          "title": "Promo - Stargate Command",
+          "start": "2026-11-28T05:10:30-06:00",
+          "stop": "2026-11-28T05:10:48-06:00"
+        },
+        {
+          "title": "Promo - Squeetee.com 1",
+          "start": "2026-11-28T05:10:48-06:00",
+          "stop": "2026-11-28T05:11:06-06:00"
+        },
+        {
+          "title": "Promo - Gundam Table Top Game 1",
+          "start": "2026-11-28T05:11:06-06:00",
+          "stop": "2026-11-28T05:11:24-06:00"
+        },
+        {
+          "title": "Promo - Gundam Tower Defense 2",
+          "start": "2026-11-28T05:11:24-06:00",
+          "stop": "2026-11-28T05:11:42-06:00"
+        },
+        {
+          "title": "Promo - Starfleet",
+          "start": "2026-11-28T05:11:42-06:00",
+          "stop": "2026-11-28T05:12:00-06:00"
+        },
+        {
+          "title": "Promo - Squeetee.com 2",
+          "start": "2026-11-28T05:12:00-06:00",
+          "stop": "2026-11-28T05:12:18-06:00"
+        },
+        {
+          "title": "Cross Promo - Sci-Fi",
+          "start": "2026-11-28T05:12:18-06:00",
+          "stop": "2026-11-28T05:12:36-06:00"
+        },
+        {
+          "title": "Promo - Action",
+          "start": "2026-11-28T05:12:36-06:00",
+          "stop": "2026-11-28T05:12:54-06:00"
+        },
+        {
+          "title": "Promo - Universal Century",
+          "start": "2026-11-28T05:12:54-06:00",
+          "stop": "2026-11-28T05:13:12-06:00"
+        },
+        {
+          "title": "Promo - Cosmic Era",
+          "start": "2026-11-28T05:13:12-06:00",
+          "stop": "2026-11-28T05:13:30-06:00"
+        },
+        {
+          "title": "Promo - Gundam Table Top Game 2",
+          "start": "2026-11-28T05:13:30-06:00",
+          "stop": "2026-11-28T05:13:48-06:00"
+        },
+        {
+          "title": "Promo - Sci-Fi",
+          "start": "2026-11-28T05:13:48-06:00",
+          "stop": "2026-11-28T05:14:06-06:00"
+        },
+        {
+          "title": "Cross Promo - Mobile Suit Network",
+          "start": "2026-11-28T05:14:06-06:00",
+          "stop": "2026-11-28T05:14:24-06:00"
+        },
+        {
+          "title": "Promo - Gundam RTS 2",
+          "start": "2026-11-28T05:14:24-06:00",
+          "stop": "2026-11-28T05:14:42-06:00"
+        },
+        {
+          "title": "Promo - Squeetee.com 2",
+          "start": "2026-11-28T05:14:42-06:00",
+          "stop": "2026-11-28T05:15:00-06:00"
+        },
+        {
+          "title": "Promo - Haro Herald 2",
+          "start": "2026-11-28T05:15:00-06:00",
+          "stop": "2026-11-28T05:15:18-06:00"
+        },
+        {
+          "title": "Promo - The Movie Channel",
+          "start": "2026-11-28T05:15:18-06:00",
+          "stop": "2026-11-28T05:15:37-06:00"
+        },
+        {
+          "title": "Promo - Gundam Tower Defense 2",
+          "start": "2026-11-28T05:15:37-06:00",
+          "stop": "2026-11-28T05:15:55-06:00"
+        },
+        {
+          "title": "Promo - Gundam Table Top Game 2",
+          "start": "2026-11-28T05:15:55-06:00",
+          "stop": "2026-11-28T05:16:13-06:00"
+        },
+        {
+          "title": "Promo - Comedy",
+          "start": "2026-11-28T05:16:13-06:00",
+          "stop": "2026-11-28T05:16:31-06:00"
         }
       ],
       "logo": "logos/101.png"
